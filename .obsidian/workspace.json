@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Silver Company.md",
+                "file": "Factions/Eastern City States/City of Parch.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Coprun.md",
+                "file": "Factions/Eastern City States/City of Parch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Coprun.md",
+                "file": "Factions/Eastern City States/City of Parch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Coprun.md"
+                "file": "Factions/Eastern City States/City of Parch.md"
               }
             }
           },
@@ -263,15 +263,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "f6d3e8921d05157d",
   "lastOpenFiles": [
+    "Factions/Eastern City States/Eastern City States.md",
+    "Sessions/2023 04 23 - Session 0.5.md",
+    "Factions/Eastern City States/City of Parch.md",
+    "Factions/Silver Company.md",
+    "Locations/Coprun/Coprun.md",
     "Assets/Pasted image 20230423171627.png",
     "Assets/Pasted image 20230423171427.png",
     "Locations/Kathkach/Kathkach.md",
     "Calamxis.md",
-    "Factions/Silver Company.md",
     "Locations/Coprun/Copper Mines.md",
-    "Locations/Coprun/Coprun.md",
     "Locations/Coprun/Market.md",
     "Locations/Coprun/Miners Pick.md",
     "Locations/Jungles.md",
@@ -286,9 +289,6 @@
     "Character Lore/Party/Amaranth.md",
     "Character Lore/Party/Cainus.md",
     "Character Lore/Party/Aru.md",
-    "Factions/Eastern City States/Eastern City States.md",
-    "Factions/Eastern City States/City of Parch.md",
-    "Sessions/2023 04 23 - Session 0.5.md",
     "Factions/Sea Blooded Organisation.md",
     "Assets/Pasted image 20230423144735.png",
     "Factions/Eastern City States",
