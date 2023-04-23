@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "1dbc72e96b2cd125",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb692d50d3f1c358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "121c081832ded33e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Coprun/Coprun.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "994e430b5f312235",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "81d962378cdd7ede",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9c8766ea0654bda9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "648c22459641b02e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "08d0e3bfe9f0708a",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "33d35b4bd80b31ce",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e08630b7d9c68b1a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Locations/Coprun/Coprun.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "355a3120444f8a8d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Locations/Coprun/Coprun.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b7a802b793b98540",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Locations/Coprun/Coprun.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "121c081832ded33e",
+  "lastOpenFiles": [
+    "/Sessions/2023 04 23 - Session 0.5.md",
+    "/Factions/Eastern City States/City of Parch.md",
+    "Locations/Coprun/Copper Mines.md",
+    "Factions/Aegan Empire.md",
+    "desktop.ini",
+    "Sessions",
+    "Character Lore",
+    "Setting Rules/Ration Rules.md",
+    "Setting Rules",
+    "NPCs/Nefros.md",
+    "Sessions/desktop.ini",
+    "NPCs/Calamxis.md",
+    "Sessions/2023 04 23 - Session 0.5.md",
+    "Setting Rules/desktop.ini",
+    "Locations/Kathkach",
+    "Locations/Coprun",
+    "Locations/desktop.ini",
+    "Locations/Jungles.md",
+    "Locations",
+    "Setting Rules/Weapon Rules.md",
+    "Locations/Coprun/Miners Pick.md",
+    "Locations/Kathkach/Kathkach.md",
+    "Assets/Pasted image 20230423144311.png",
+    "Assets/Pasted image 20230423171427.png",
+    "Assets/Pasted image 20230423171627.png",
+    "Assets/Pasted image 20230423144735.png",
+    "Locations/Coprun/Coprun.md",
+    "Locations/Coprun/Market.md",
+    "Assets/Pasted image 20230423131449.png",
+    "Factions/Eastern City States/City of Parch.md",
+    "Factions/Sea Blooded Organisation.md",
+    "Factions/Silver Company.md",
+    "Factions/Lady Eyelaine.md",
+    "Character Lore/Party/The Party.md",
+    "Character Lore/Party/Cainus.md",
+    "Character Lore/Party/Kaulinan Badag.md",
+    "Character Lore/Party/Amaranth.md",
+    "Factions/Eastern City States/Eastern City States.md",
+    "Assets/Characters/KaulinanTokenLarge.png",
+    "NPCs/Epo.md",
+    "Character Lore/Party/Aru.md"
+  ]
+}
