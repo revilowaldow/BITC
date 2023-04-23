@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Eastern City States/City of Parch.md",
+                "file": "Nefros.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Eastern City States/City of Parch.md",
+                "file": "Nefros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Eastern City States/City of Parch.md",
+                "file": "Nefros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Eastern City States/City of Parch.md"
+                "file": "Nefros.md"
               }
             }
           },
@@ -265,9 +265,12 @@
   },
   "active": "f6d3e8921d05157d",
   "lastOpenFiles": [
+    "NPCs/Nefros.md",
+    "Nefros.md",
+    "Factions/Eastern City States/City of Parch.md",
+    "NPCs/Calamxis.md",
     "Factions/Eastern City States/Eastern City States.md",
     "Sessions/2023 04 23 - Session 0.5.md",
-    "Factions/Eastern City States/City of Parch.md",
     "Factions/Silver Company.md",
     "Locations/Coprun/Coprun.md",
     "Assets/Pasted image 20230423171627.png",
@@ -279,7 +282,6 @@
     "Locations/Coprun/Miners Pick.md",
     "Locations/Jungles.md",
     "NPCs/Epo.md",
-    "Nefros.md",
     "Setting Rules/Weapon Rules.md",
     "Setting Rules/Ration Rules.md",
     "Assets/Pasted image 20230423144311.png",
