@@ -69,4 +69,6 @@ Single Chimera Comanda
 [[Leader Jovil]]
 - Of the chimera
 
+[[Arwa Wen]] Comanda at the mine, does sparring
+
 
