@@ -2,3 +2,6 @@
 
 ![[Pasted image 20230423171627.png]]
 
+### Locations
+
+- [[C]]

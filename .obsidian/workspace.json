@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting Rules/Rules Index.md",
+                "file": "Locations/Coprun/Coprun.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,6 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Coprun/Coprun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,6 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/Coprun/Coprun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +245,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/Coprun/Coprun.md"
+              }
             }
           },
           {
@@ -287,7 +292,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "678050a2d7fa6328",
+  "active": "315668e95dff76dd",
   "lastOpenFiles": [
     "Setting Rules/Rules Index.md",
     "Character Lore/Party/The Party.md",
