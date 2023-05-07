@@ -4,4 +4,6 @@
 
 ### Locations
 
-- [[C]]
+- [[Copper Mines]]
+- [[Market]]
+- [[Miners Pick]]

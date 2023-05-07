@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Coprun.md",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Coprun.md",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Coprun.md"
+                "file": "Sessions/2023/05 07 - Session 1.md"
               }
             }
           },
@@ -292,8 +292,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "315668e95dff76dd",
+  "active": "7a76580376b29191",
   "lastOpenFiles": [
+    "Locations/Coprun/Coprun.md",
     "Setting Rules/Rules Index.md",
     "Character Lore/Party/The Party.md",
     "Character Lore/Party/Amaranth.md",
@@ -304,7 +305,6 @@
     "NPCs/Nefros.md",
     "NPCs/Calamxis.md",
     "Locations/Coprun/Market.md",
-    "Locations/Coprun/Coprun.md",
     "Locations/Coprun/Copper Mines.md",
     "Factions/Silver Company.md",
     "Factions/Sea Blooded Organisation.md",
