@@ -37,4 +37,6 @@ The current year is 261 of the New Age
 
 Daryl doing recap
 
-[[Cainus]] exchanged one ration for 2 treats
+[[Cainus]] exchanged one ration for 2 treats that must be consumed within 8 hours, add PB temp HP
+
+
