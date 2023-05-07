@@ -1,6 +1,6 @@
 Members:
-- [[Kaulinan Badag]]
-- [[Aru]]
-- [[Amaranth]]
-- [[Cainus]]
+- [[Kaulinan Badag]] (Loxodon)
+- [[Aru]] ()
+- [[Amaranth]] ()
+- [[Cainus]] ()
 	- [[Eugene]] (Mule)

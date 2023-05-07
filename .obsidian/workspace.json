@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "315668e95dff76dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Rules/Rules Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4602d974394d3007",
             "type": "leaf",
             "state": {
@@ -127,8 +139,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +205,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Lore/Party/The Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +221,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Lore/Party/The Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,9 +242,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Character Lore/Party/The Party.md"
-              }
+              "state": {}
             }
           },
           {
@@ -280,8 +287,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4602d974394d3007",
+  "active": "678050a2d7fa6328",
   "lastOpenFiles": [
+    "Setting Rules/Rules Index.md",
+    "Character Lore/Party/The Party.md",
     "Character Lore/Party/Amaranth.md",
     "Character Lore/Party/Aru.md",
     "Character Lore/Party/Cainus.md",
@@ -298,7 +307,6 @@
     "Factions/Aegan Empire.md",
     "Factions/Eastern City States/Eastern City States.md",
     "Factions/Eastern City States/City of Parch.md",
-    "Character Lore/Party/The Party.md",
     "Character Lore/Party/Kaulinan Badag.md",
     "Assets/Pasted image 20230423171627.png",
     "Assets/Pasted image 20230423171427.png",
@@ -313,7 +321,6 @@
     "Nefros.md",
     "Calamxis.md",
     "Locations/Coprun/Miners Pick.md",
-    "Setting Rules/Weapon Rules.md",
     "Factions/Eastern City States",
     "Locations/Kathkach",
     "Character Lore/Party",
