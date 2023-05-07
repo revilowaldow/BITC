@@ -24,7 +24,11 @@ There was some discussion of backstories;
 
 
 The Party investigated the lights first, heading north and finding an earthscar
-[[Terina]] had already foudn a
+[[Terina]] had already found a longsword which Kaulinan identified as having Celestial script on it and a heavy level of transmutation magic. The scar itself had a naura of conjuration magic
+
+The current year is 261 of the New Age
+
+
 
 
 
