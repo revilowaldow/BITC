@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Coprun/Market.md",
+                "file": "NPCs/Nefros.md",
                 "mode": "source",
                 "source": false
               }
@@ -288,11 +288,13 @@
   },
   "active": "7a76580376b29191",
   "lastOpenFiles": [
+    "NPCs/Nefros.md",
+    "NPCs/Calamxis.md",
+    "Sessions/2023/05 07 - Session 1.md",
     "Locations/Coprun/Market.md",
     "Locations/Coprun/Coprun.md",
     "Locations/Coprun/Copper Mines.md",
     "Factions/Silver Company.md",
-    "Sessions/2023/05 07 - Session 1.md",
     "Factions/Sea Blooded Organisation.md",
     "Factions/Lady Eyelaine.md",
     "Factions/Aegan Empire.md",
@@ -312,9 +314,7 @@
     "Sessions/2023/04 23 - Session 0.5.md",
     "Locations/Kathkach/Kathkach.md",
     "Locations/Jungles.md",
-    "NPCs/Calamxis.md",
     "NPCs/Epo.md",
-    "NPCs/Nefros.md",
     "Sessions/2023",
     "Nefros.md",
     "Calamxis.md",

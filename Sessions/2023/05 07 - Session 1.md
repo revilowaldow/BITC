@@ -23,13 +23,12 @@ The Coprun [[Market]] is run by an orc named [[Leilis]] who is flamboyantly dres
 
 The party rested overnight in the tavern with one minorly damaged bed
 There was some discussion of backstories;
-- [[Amaranth]] and [[Aru]] know each other and seem to have a suspect past.
+- [[Amaranth]] and [[Aru]] know each other and seem to have a suspect past involving someone called [[Nefros]]
 - [[Kaulinan Badag|Kaulinan]] said he was from the Jungles and revealed his age
 - [[Cainus]] revealed the Mule is named [[Eugene]]
 
-
 The Party investigated the lights first, heading north and finding an earthscar
-[[Terina]] had already found a longsword which Kaulinan identified as having Celestial script on it and a heavy level of transmutation magic. The scar itself had a naura of conjuration magic
+[[Terina]] had already found a longsword which Kaulinan identified as having Celestial script on it and a heavy level of transmutation magic. The scar itself had an aura of conjuration magic
 
 The current year is 261 of the New Age
 
