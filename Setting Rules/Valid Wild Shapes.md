@@ -129,18 +129,124 @@ Oxen
 
 Warhorse
 
+Crab
+
+Fish
+
+Frog
+
+Knucklehead Trout
+
+Quipper
+
+Seal
+
+0.13
+
+Dolphin
+
+Giant Crab
+
+Poisonous Snake
+
+0.25
+
+Constrictor Snake
+
+Giant Frog
+
+Giant Poisonous Snake
+
+0.50
+
+Crocodile
+
+
+
+## 8th Level
+
+Giant Rocktopus
+Brown Bear
+
+Deinonychus
+
+Dire Wolf
+
+Giant Hyena
+
+Giant Spider
+
+Giant Toad
+
+Lion
+
+Tiger
+Flying Snake
+
+(blank)
+
+0.00
+
+Bat
+
+Crow
+
+Eagle
+
+Falcon
+
+Flying Monkey
+
+Hawk
+
+Macaw
+
+Parrot
+
+Peacock
+
+Raven
+
+Vulture
+
+0.13
+
+Blood Hawk
+
+Stirge
+
+0.25
+
+Giant Bat
+
+Giant Owl
+
+Pteranodon
+
+0.50
+
+Giant Canary
+
+Giant Dragonfly
+
+Giant Wasp
+
+1.00
+
+Giant Eagle
+
+Giant Flying Spider
+
+Giant Raven
+
+Giant Vulture
 
 
 
 
 
 
-
-
-
-
-
-
+## Full
 
 
 
