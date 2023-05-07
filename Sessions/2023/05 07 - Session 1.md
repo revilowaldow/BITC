@@ -37,4 +37,4 @@ The current year is 261 of the New Age
 
 Daryl doing recap
 
-
+[[Cainus]] exchanged one ration for 2 treats
