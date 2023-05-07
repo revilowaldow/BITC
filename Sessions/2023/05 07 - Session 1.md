@@ -85,11 +85,4 @@ Half Orc Comanda - disillusiooned with leadership
 
 Aru given Falx by Jovil
 
-
-Map:
-
-Entry Chamber Mine
-Three Shafts, 
-	Shaft 2 has running water
-
-
+Enter into the [[Mine Layout.canvas]]
