@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Nefros.md",
+                "file": "Character Lore/Party/The Party.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,6 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Character Lore/Party/The Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,6 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Character Lore/Party/The Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +233,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Character Lore/Party/The Party.md"
+              }
             }
           },
           {
@@ -275,8 +280,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "678050a2d7fa6328",
+  "active": "4602d974394d3007",
   "lastOpenFiles": [
+    "Character Lore/Party/Amaranth.md",
+    "Character Lore/Party/Aru.md",
+    "Character Lore/Party/Cainus.md",
+    "Character Lore/Party/Eugene.md",
     "Sessions/2023/05 07 - Session 1.md",
     "NPCs/Nefros.md",
     "NPCs/Calamxis.md",
@@ -289,12 +298,8 @@
     "Factions/Aegan Empire.md",
     "Factions/Eastern City States/Eastern City States.md",
     "Factions/Eastern City States/City of Parch.md",
-    "Character Lore/Party/Eugene.md",
-    "Character Lore/Party/Cainus.md",
     "Character Lore/Party/The Party.md",
     "Character Lore/Party/Kaulinan Badag.md",
-    "Character Lore/Party/Aru.md",
-    "Character Lore/Party/Amaranth.md",
     "Assets/Pasted image 20230423171627.png",
     "Assets/Pasted image 20230423171427.png",
     "Assets/Pasted image 20230423131449.png",

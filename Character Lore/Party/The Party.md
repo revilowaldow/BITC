@@ -3,3 +3,4 @@ Members:
 - [[Aru]]
 - [[Amaranth]]
 - [[Cainus]]
+	- [[Eugene]] (Mule)
