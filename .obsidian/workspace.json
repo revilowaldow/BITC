@@ -33,14 +33,9 @@
             "id": "a79e7357ee5ad44d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
-                "viewState": {
-                  "x": 25,
-                  "y": 160,
-                  "zoom": 0
-                }
+                "file": "Assets/Pasted image 20230423144311.png"
               }
             }
           },
@@ -221,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Assets/Pasted image 20230423144311.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Assets/Pasted image 20230423144311.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas"
+                "file": "Assets/Pasted image 20230423144311.png"
               }
             }
           },
@@ -310,10 +305,16 @@
   },
   "active": "a79e7357ee5ad44d",
   "lastOpenFiles": [
+    "Assets/Pasted image 20230423131449.png",
+    "Assets/Pasted image 20230423144311.png",
+    "Assets/Pasted image 20230423144735.png",
+    "Assets/Pasted image 20230423171427.png",
+    "Assets/Pasted image 20230423171627.png",
+    "Assets/Pasted image 20230507132142.png",
+    "Locations/Coprun/Miners Pick.md",
     "Locations/Coprun/Copper Mines.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/05 07 - Session 1.md",
-    "Locations/Coprun/Miners Pick.md",
     "Character Lore/Party/Cainus.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Character Lore/Party/The Party.md",
@@ -322,7 +323,6 @@
     "Setting Rules/Weapon Rules.md",
     "Leader Jovil.md",
     "NPCs/Teryna.md",
-    "Assets/Pasted image 20230507132142.png",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Locations/Coprun/Coprun.md",
     "Setting Rules/Rules Index.md",
@@ -337,11 +337,6 @@
     "Factions/Eastern City States/Eastern City States.md",
     "Factions/Eastern City States/City of Parch.md",
     "Character Lore/Party/Kaulinan Badag.md",
-    "Assets/Pasted image 20230423171627.png",
-    "Assets/Pasted image 20230423171427.png",
-    "Assets/Pasted image 20230423131449.png",
-    "Assets/Pasted image 20230423144311.png",
-    "Assets/Pasted image 20230423144735.png",
     "Sessions/2023",
     "Factions/Eastern City States",
     "Locations/Kathkach",
