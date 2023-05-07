@@ -1,34 +1,11 @@
 
 
-| Level | Max. CR | Limitations |
-| ----- | ------- | ----------- |
-| 2nd   |         |             |
-| 4th   |         |             |
-| 8th   |         |             |
+| Level | Max. CR | Limitations           |
+| ----- | ------- | --------------------- |
+| 2nd   | 1/4     | No flying or swimming |
+| 4th   | 1/2     | No Flying             |
+| 8th   | 1       | None                  | 
 
-2nd
-
-[1/4](https://5e.warlow.engineer/bestiary.html#blankhash,flstchallenge%20rating:min=&0~max=&1/4,flsttype:beast=1,flstspeed%20type:fly=2~swim=2,flstmiscellaneous:swarm=2)
-
-No flying or swimming speed
-
-Wolf
-
-4th
-
-[1/2](https://5e.warlow.engineer/bestiary.html#blankhash,flstchallenge%20rating:min=&0~max=&1/2,flsttype:beast=1,flstspeed%20type:fly=2,flstmiscellaneous:swarm=2)
-
-No flying speed
-
-Crocodile
-
-8th
-
-[1](https://5e.warlow.engineer/bestiary.html#blankhash,flstchallenge%20rating:min=&0~max=&1,flsttype:beast=1,flstmiscellaneous:swarm=2)
-
-—
-
-Giant eagle
 
 
 
