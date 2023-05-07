@@ -33,11 +33,14 @@
             "id": "a79e7357ee5ad44d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Locations/Coprun/Mine Layout.canvas",
+                "viewState": {
+                  "x": 25,
+                  "y": 140,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -218,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md"
+                "file": "Locations/Coprun/Mine Layout.canvas"
               }
             }
           },
@@ -307,9 +310,10 @@
   },
   "active": "a79e7357ee5ad44d",
   "lastOpenFiles": [
+    "Sessions/2023/05 07 - Session 1.md",
+    "Locations/Coprun/Miners Pick.md",
     "Character Lore/Party/Cainus.md",
     "Locations/Coprun/Mine Layout.canvas",
-    "Sessions/2023/05 07 - Session 1.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Character Lore/Party/The Party.md",
     "Character Lore/Party/Amaranth.md",
