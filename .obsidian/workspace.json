@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2023/04 23 - Session 0.5.md",
+                "file": "Character Lore/Party/Kaulinan Badag.md",
                 "mode": "source",
                 "source": false
               }
@@ -270,11 +270,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "7a76580376b29191",
   "lastOpenFiles": [
+    "Character Lore/Party/Kaulinan Badag.md",
+    "Character Lore/Party/Cainus.md",
+    "Sessions/2023/05 07 - Session 1.md",
+    "Character Lore/Party/Aru.md",
+    "Character Lore/Party/Amaranth.md",
     "Sessions/2023",
     "Sessions/2023/04 23 - Session 0.5.md",
-    "Sessions/2023/05 07 - Session 1.md",
     "Locations/Coprun/Copper Mines.md",
     "NPCs/Nefros.md",
     "Nefros.md",
@@ -296,10 +300,6 @@
     "Assets/Pasted image 20230423144311.png",
     "Assets/Pasted image 20230423131449.png",
     "Character Lore/Party/The Party.md",
-    "Character Lore/Party/Kaulinan Badag.md",
-    "Character Lore/Party/Amaranth.md",
-    "Character Lore/Party/Cainus.md",
-    "Character Lore/Party/Aru.md",
     "Factions/Sea Blooded Organisation.md",
     "Assets/Pasted image 20230423144735.png",
     "Factions/Eastern City States",
@@ -312,7 +312,6 @@
     "Locations",
     "Assets/Characters",
     "Sessions",
-    "Assets/Characters/KaulinanTokenLarge.png",
-    "Assets"
+    "Assets/Characters/KaulinanTokenLarge.png"
   ]
 }
