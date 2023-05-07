@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Lore/Party/Cainus.md",
+                "file": "Character Lore/Party/The Party.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Lore/Party/Cainus.md",
+                "file": "Character Lore/Party/The Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Lore/Party/Cainus.md",
+                "file": "Character Lore/Party/The Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Lore/Party/Cainus.md"
+                "file": "Character Lore/Party/The Party.md"
               }
             }
           },
@@ -307,6 +307,7 @@
   },
   "active": "a79e7357ee5ad44d",
   "lastOpenFiles": [
+    "Character Lore/Party/Cainus.md",
     "Character Lore/Party/Amaranth.md",
     "Character Lore/Party/Aru.md",
     "Sessions/2023/05 07 - Session 1.md",
@@ -320,7 +321,6 @@
     "Locations/Coprun/Coprun.md",
     "Setting Rules/Rules Index.md",
     "Character Lore/Party/The Party.md",
-    "Character Lore/Party/Cainus.md",
     "Character Lore/Party/Eugene.md",
     "NPCs/Nefros.md",
     "NPCs/Calamxis.md",

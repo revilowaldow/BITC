@@ -1,6 +1,7 @@
 Members:
 - [[Kaulinan Badag]] (Loxodon)
-- [[Aru]] ()
+- [[Aru]] (Half Orc)
 - [[Amaranth]] ()
-- [[Cainus]] ()
+- [[Cainus]] (Variant Human)
 	- [[Eugene]] (Mule)
+
