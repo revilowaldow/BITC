@@ -58,4 +58,5 @@ Combat
 
 Deep Crawlers, similar to creature in Helviti Wastes
 
-City of 700
+City of 7000 stairs - Helviti
+

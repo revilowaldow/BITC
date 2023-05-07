@@ -1,5 +1,3 @@
-
-
 | Level | Max. CR | Limitations           |
 | ----- | ------- | --------------------- |
 | 2nd   | 1/4     | No flying or swimming |
