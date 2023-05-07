@@ -13,8 +13,9 @@ The party were tasked to:
 
 Lights had been seen on the north side of town recently
 [[Terina]] (armed civilian) went to investigate
+[[Yukil]] the goblin blacksmith supposedly saw [[Calamxis]] the gladiator passing by on the night of the lights hidde
+There are three Chimera Comanda in town, two male, one female
 
-[[Yukil]] the goblin blacksmith Saw [[Calamxis]] the gladiator passing by
 
 
 
