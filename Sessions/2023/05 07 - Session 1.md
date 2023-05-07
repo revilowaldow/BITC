@@ -52,4 +52,8 @@ Combat
 [[Lionblood]], able to resist Chimera, bandit faction
 
 [[Lars Anders]] - Miner with a whistle
-	
+	Whitler
+	Cabe tosser
+	Miner
+
+
