@@ -33,9 +33,11 @@
             "id": "a79e7357ee5ad44d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Pasted image 20230423144311.png"
+                "file": "Locations/Coprun/Miners Pick.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -216,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Pasted image 20230423144311.png",
+                "file": "Locations/Coprun/Miners Pick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Pasted image 20230423144311.png",
+                "file": "Locations/Coprun/Miners Pick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Pasted image 20230423144311.png"
+                "file": "Locations/Coprun/Miners Pick.md"
               }
             }
           },
@@ -305,8 +307,8 @@
   },
   "active": "a79e7357ee5ad44d",
   "lastOpenFiles": [
-    "Assets/Pasted image 20230423131449.png",
     "Assets/Pasted image 20230423144311.png",
+    "Assets/Pasted image 20230423131449.png",
     "Assets/Pasted image 20230423144735.png",
     "Assets/Pasted image 20230423171427.png",
     "Assets/Pasted image 20230423171627.png",
