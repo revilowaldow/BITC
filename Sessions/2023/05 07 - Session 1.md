@@ -39,4 +39,6 @@ Daryl doing recap
 
 [[Cainus]] exchanged one ration for 2 treats that must be consumed within 8 hours, add PB temp HP
 
+Bought stuff in the market, sling, sacks, etc
+
 
