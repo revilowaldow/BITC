@@ -78,6 +78,20 @@
             }
           },
           {
+            "id": "7a76580376b29191",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "b4fc365dfe67c2e1",
             "type": "leaf",
             "state": {
@@ -111,27 +125,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f986e5924d0f1c29",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7a76580376b29191",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
             }
           }
         ]
@@ -200,7 +193,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +209,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,9 +230,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -286,11 +275,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a76580376b29191",
+  "active": "678050a2d7fa6328",
   "lastOpenFiles": [
+    "Sessions/2023/05 07 - Session 1.md",
     "NPCs/Nefros.md",
     "NPCs/Calamxis.md",
-    "Sessions/2023/05 07 - Session 1.md",
     "Locations/Coprun/Market.md",
     "Locations/Coprun/Coprun.md",
     "Locations/Coprun/Copper Mines.md",

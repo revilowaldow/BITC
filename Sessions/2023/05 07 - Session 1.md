@@ -32,9 +32,6 @@ The Party investigated the lights first, heading north and finding an earthscar
 
 The current year is 261 of the New Age
 
-
-
-
-
-
 <hr>
+
+
