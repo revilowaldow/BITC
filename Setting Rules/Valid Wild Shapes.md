@@ -113,7 +113,21 @@ Zebra
 
 
 
+## 4th Level
 
+Ape
+
+Black Bear
+
+Frilled Deathspitter
+
+Giant Goat
+
+Jaculi
+
+Oxen
+
+Warhorse
 
 
 
