@@ -33,11 +33,14 @@
             "id": "a79e7357ee5ad44d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Locations/Coprun/Miners Pick.md",
-                "mode": "source",
-                "source": false
+                "file": "Locations/Coprun/Mine Layout.canvas",
+                "viewState": {
+                  "x": 25,
+                  "y": 160,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -218,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Miners Pick.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Miners Pick.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Miners Pick.md"
+                "file": "Locations/Coprun/Mine Layout.canvas"
               }
             }
           },
@@ -307,6 +310,7 @@
   },
   "active": "a79e7357ee5ad44d",
   "lastOpenFiles": [
+    "Locations/Coprun/Miners Pick.md",
     "Pasted image 20230507171917.png",
     "Assets/Pasted image 20230423144311.png",
     "Assets/Pasted image 20230423131449.png",
@@ -314,7 +318,6 @@
     "Assets/Pasted image 20230423171427.png",
     "Assets/Pasted image 20230423171627.png",
     "Assets/Pasted image 20230507132142.png",
-    "Locations/Coprun/Miners Pick.md",
     "Locations/Coprun/Copper Mines.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/05 07 - Session 1.md",
