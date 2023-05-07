@@ -2,3 +2,5 @@
 
 Has damaged magic weapon
 
+Outside [[Coprun]]
+
