@@ -20,8 +20,11 @@ The party rested overnight in the tavern with one minorly damaged bed
 There was some discussion of backstories;
 - [[Amaranth]] and [[Aru]] know each other and seem to have a suspect past.
 - [[Kaulinan Badag|Kaulinan]] said he was from the Jungles and revealed his age
-- 
+- [[Cainus]] revealed the Mule is named [[Muriel]]
 
+
+The Party investigated the lights first, heading north and finding an earthscar
+[[Terina]] had already foudn a
 
 
 
