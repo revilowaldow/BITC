@@ -21,9 +21,11 @@
             "id": "4602d974394d3007",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Pasted image 20230423171627.png"
+                "file": "Character Lore/Party/Eugene.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -198,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
+                "file": "Character Lore/Party/Eugene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
+                "file": "Character Lore/Party/Eugene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md"
+                "file": "Character Lore/Party/Eugene.md"
               }
             }
           },
@@ -268,14 +270,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a76580376b29191",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
+    "Character Lore/Party/Cainus.md",
+    "Character Lore/Party/Eugene.md",
+    "Sessions/2023/05 07 - Session 1.md",
+    "Character Lore/Party/The Party.md",
+    "Character Lore/Party/Kaulinan Badag.md",
+    "Character Lore/Party/Aru.md",
+    "Character Lore/Party/Amaranth.md",
     "Assets/Pasted image 20230423171627.png",
     "Assets/Pasted image 20230423171427.png",
-    "Assets/Pasted image 20230423144735.png",
-    "Assets/Pasted image 20230423144311.png",
     "Assets/Pasted image 20230423131449.png",
-    "Sessions/2023/05 07 - Session 1.md",
+    "Assets/Pasted image 20230423144311.png",
+    "Assets/Pasted image 20230423144735.png",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Locations/Coprun/Copper Mines.md",
     "Locations/Kathkach/Kathkach.md",
@@ -283,10 +291,6 @@
     "NPCs/Calamxis.md",
     "NPCs/Epo.md",
     "NPCs/Nefros.md",
-    "Character Lore/Party/Kaulinan Badag.md",
-    "Character Lore/Party/Cainus.md",
-    "Character Lore/Party/Aru.md",
-    "Character Lore/Party/Amaranth.md",
     "Sessions/2023",
     "Nefros.md",
     "Factions/Eastern City States/City of Parch.md",
@@ -298,7 +302,6 @@
     "Locations/Coprun/Miners Pick.md",
     "Setting Rules/Weapon Rules.md",
     "Setting Rules/Ration Rules.md",
-    "Character Lore/Party/The Party.md",
     "Factions/Sea Blooded Organisation.md",
     "Factions/Eastern City States",
     "Factions/Lady Eyelaine.md",

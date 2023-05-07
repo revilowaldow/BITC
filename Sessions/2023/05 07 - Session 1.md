@@ -17,13 +17,13 @@ Lights had been seen on the north side of town recently
 There are three Chimera Comanda in town, two male, one female
 
 The party met a refugee called [[Niko]] who was fleeing Chineria city
-He let the party know that the mine had been closed due to scratching noises 
+He let the party know that the mine had been closed due to scratching noises after 2 tunnels had been opened. Apparently the miners have been having bad dreams
 
 The party rested overnight in the tavern with one minorly damaged bed
 There was some discussion of backstories;
 - [[Amaranth]] and [[Aru]] know each other and seem to have a suspect past.
 - [[Kaulinan Badag|Kaulinan]] said he was from the Jungles and revealed his age
-- [[Cainus]] revealed the Mule is named [[Muriel]]
+- [[Cainus]] revealed the Mule is named [[Eugene]]
 
 
 The Party investigated the lights first, heading north and finding an earthscar
