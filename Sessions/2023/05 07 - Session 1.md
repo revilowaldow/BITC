@@ -4,7 +4,7 @@ The party were tasked to:
 - [ ] Contain or retrive whatever is halting the mine from working
 - [ ] Retrieve a deed from inside the Coprun [[Copper Mines]]
 	- The mine is owned by a group of people
-		-  [[Silver Company]]
+		- [[Silver Company]] (Current Administrator is called [[Kevin Aldragosh|Kevin]])
 		- [[Lady Eyelaine]] (Majority Owner)
 		- [[Sea Blooded Organisation]] (Poor relatiosn with Silver Company)
 	- There will be rival agents
