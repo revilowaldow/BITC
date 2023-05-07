@@ -72,3 +72,4 @@ Single Chimera Comanda
 [[Arwa Wen]] Comanda at the mine, does sparring
 
 
+Officer Vero
