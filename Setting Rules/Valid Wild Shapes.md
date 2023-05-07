@@ -83,39 +83,39 @@
 
 ## 8th Level
 
-- Giant Rocktopus
+- Bat
+- Blood Hawk
 - Brown Bear
+- Crow
 - Deinonychus
 - Dire Wolf
-- Giant Hyena
-- Giant Spider
-- Giant Toad
-- Lion
-- Tiger
-- Flying Snake
-- Bat
-- Crow
 - Eagle
 - Falcon
 - Flying Monkey
+- Flying Snake
+- Giant Bat
+- Giant Canary
+- Giant Dragonfly
+- Giant Eagle
+- Giant Flying Spider
+- Giant Hyena
+- Giant Owl
+- Giant Raven
+- Giant Rocktopus
+- Giant Spider
+- Giant Toad
+- Giant Vulture
+- Giant Wasp
 - Hawk
+- Lion
 - Macaw
 - Parrot
 - Peacock
-- Raven
-- Vulture
-- Blood Hawk
-- Stirge
-- Giant Bat
-- Giant Owl
 - Pteranodon
-- Giant Canary
-- Giant Dragonfly
-- Giant Wasp
-- Giant Eagle
-- Giant Flying Spider
-- Giant Raven
-- Giant Vulture
+- Raven
+- Stirge
+- Tiger
+- Vulture
 
 ## Full
 
