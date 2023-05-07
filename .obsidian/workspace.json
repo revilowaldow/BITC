@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
+                "file": "Leader Jovil.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
+                "file": "Leader Jovil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
+                "file": "Leader Jovil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md"
+                "file": "Leader Jovil.md"
               }
             }
           },
@@ -307,8 +307,9 @@
   },
   "active": "a79e7357ee5ad44d",
   "lastOpenFiles": [
-    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/05 07 - Session 1.md",
+    "Leader Jovil.md",
+    "Setting Rules/Valid Wild Shapes.md",
     "NPCs/Teryna.md",
     "Assets/Pasted image 20230507132142.png",
     "Character Lore/Party/Amaranth.md",
@@ -339,7 +340,6 @@
     "Locations/Jungles.md",
     "NPCs/Epo.md",
     "Sessions/2023",
-    "Nefros.md",
     "Factions/Eastern City States",
     "Locations/Kathkach",
     "Character Lore/Party",
