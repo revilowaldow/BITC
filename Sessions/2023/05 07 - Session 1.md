@@ -60,4 +60,9 @@ Deep Crawlers, similar to creature in Helviti Wastes
 
 City of 7000 stairs - Helviti
 
-Seablooded Organisation
+Seablooded Organisation passed by two days earlier
+
+Single Chimera Comanda 
+
+[[Overseer Hama]]
+
