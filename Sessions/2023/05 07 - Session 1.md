@@ -83,6 +83,7 @@ Key held by Jovil
 Half Orc Comanda - disillusiooned with leadership
 
 
+Aru given Falx by Jovil
 
 
 Map:
@@ -90,3 +91,5 @@ Map:
 Entry Chamber Mine
 Three Shafts, 
 	Shaft 2 has running water
+
+
