@@ -8,52 +8,52 @@
 ## 2nd Level
 
 - Almiraj
+- Axe Beak
 - Baboon
 - Badger
+- Boar
+- Camel
 - Cat
+- Cave Badger
+- Cow
+- Deep Rothé
 - Deer
+- Dimetrodon
+- Draft Horse
+- Elk
 - Fox
+- Giant Badger
+- Giant Centipede
+- Giant Lizard
+- Giant Rat
+- Giant Riding Lizard
+- Giant Snail
+- Giant Weasel
+- Giant Wolf Spider
 - Goat
+- Hadrosaurus
 - Hare
 - Hyena
 - Jackal
 - Lizard
-- Owl
-- Pig
-- Rat
-- Scorpion
-- Sheep
-- Spider
-- Weasel
-- Wild Dog
-- Camel
-- Giant Rat
-- Giant Weasel
 - Mastiff
 - Mountain Goat
 - Mule
-- Pony
-- Axe Beak
-- Boar
-- Cave Badger
-- Cow
-- Deep Rothé
-- Dimetrodon
-- Draft Horse
-- Elk
-- Giant Badger
-- Giant Centipede
-- Giant Lizard
-- Giant Riding Lizard
-- Giant Snail
-- Giant Wolf Spider
-- Hadrosaurus
+- Owl
 - Ox
 - Panther
+- Pig
+- Pony
+- Rat
 - Riding Horse
 - Rothé
+- Scorpion
+- Sheep
 - Sled Dog
+- Spider
 - Velociraptor
+- Weasel
+- Wild Dog
 - Wolf
 - Zebra
 
@@ -61,24 +61,24 @@
 
 - Ape
 - Black Bear
-- Frilled Deathspitter
-- Giant Goat
-- Jaculi
-- Oxen
-- Warhorse
+- Constrictor Snake
 - Crab
+- Crocodile
+- Dolphin
 - Fish
+- Frilled Deathspitter
 - Frog
+- Giant Crab
+- Giant Frog
+- Giant Goat
+- Giant Poisonous Snake
+- Jaculi
 - Knucklehead Trout
+- Oxen
+- Poisonous Snake
 - Quipper
 - Seal
-- Dolphin
-- Giant Crab
-- Poisonous Snake
-- Constrictor Snake
-- Giant Frog
-- Giant Poisonous Snake
-- Crocodile
+- Warhorse
 
 
 ## 8th Level
