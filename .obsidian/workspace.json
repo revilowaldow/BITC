@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Coprun/Copper Mines.md",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Copper Mines.md",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Copper Mines.md",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Copper Mines.md"
+                "file": "Sessions/2023/05 07 - Session 1.md"
               }
             }
           },
@@ -307,6 +307,7 @@
   },
   "active": "a79e7357ee5ad44d",
   "lastOpenFiles": [
+    "Locations/Coprun/Copper Mines.md",
     "Leader Jovil.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Setting Rules/Valid Wild Shapes.md",
@@ -323,7 +324,6 @@
     "NPCs/Nefros.md",
     "NPCs/Calamxis.md",
     "Locations/Coprun/Market.md",
-    "Locations/Coprun/Copper Mines.md",
     "Factions/Silver Company.md",
     "Factions/Sea Blooded Organisation.md",
     "Factions/Lady Eyelaine.md",

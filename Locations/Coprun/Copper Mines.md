@@ -21,5 +21,9 @@ Blacksmith
 Small oval shaped pool outside
 
 Base of [[Chimera Comanda]] in Coprun
+Led by [[Leader Jovil]]
+
+
+Mine Overseer is [[Overseer Hama]]
 
 
