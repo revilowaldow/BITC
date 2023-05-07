@@ -77,5 +77,7 @@ Single Chimera Comanda
 1st Floor
 Key Needed OR freezing water bypass
 
+Key held by Jovil
+
 
 
