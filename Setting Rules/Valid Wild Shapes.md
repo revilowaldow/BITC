@@ -10,157 +10,82 @@
 ## 2nd Level
 
 Almiraj
-
 Baboon
-
 Badger
-
 Cat
-
 Deer
-
 Fox
-
 Goat
-
 Hare
-
 Hyena
-
 Jackal
-
 Lizard
-
 Owl
-
 Pig
-
 Rat
-
 Scorpion
-
 Sheep
-
 Spider
-
 Weasel
-
 Wild Dog
-
 0.13
-
 Camel
-
 Giant Rat
-
 Giant Weasel
-
 Mastiff
-
 Mountain Goat
-
 Mule
-
 Pony
-
 0.25
-
 Axe Beak
-
 Boar
-
 Cave Badger
-
 Cow
-
 Deep Rothé
-
 Dimetrodon
-
 Draft Horse
-
 Elk
-
 Giant Badger
-
 Giant Centipede
-
 Giant Lizard
-
 Giant Riding Lizard
-
 Giant Snail
-
 Giant Wolf Spider
-
 Hadrosaurus
-
 Ox
-
 Panther
-
 Riding Horse
-
 Rothé
-
 Sled Dog
-
 Velociraptor
-
 Wolf
-
 Zebra
-
-
 
 ## 4th Level
 
 Ape
-
 Black Bear
-
 Frilled Deathspitter
-
 Giant Goat
-
 Jaculi
-
 Oxen
-
 Warhorse
-
 Crab
-
 Fish
-
 Frog
-
 Knucklehead Trout
-
 Quipper
-
 Seal
-
 0.13
-
 Dolphin
-
 Giant Crab
-
 Poisonous Snake
-
 0.25
-
 Constrictor Snake
-
 Giant Frog
-
 Giant Poisonous Snake
-
 0.50
-
 Crocodile
-
 
 
 ## 8th Level
