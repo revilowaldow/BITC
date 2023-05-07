@@ -66,4 +66,6 @@ Single Chimera Comanda
 
 [[Overseer Hama]]
 
-
+[[Leader Jovil]]
+- Of the chimera
+- 
