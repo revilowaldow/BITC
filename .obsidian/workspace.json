@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Lore/Party/Eugene.md",
+                "file": "Factions/Eastern City States/City of Parch.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Lore/Party/Eugene.md",
+                "file": "Factions/Eastern City States/City of Parch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Lore/Party/Eugene.md",
+                "file": "Factions/Eastern City States/City of Parch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Lore/Party/Eugene.md"
+                "file": "Factions/Eastern City States/City of Parch.md"
               }
             }
           },
@@ -286,10 +286,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d1736792db3e4413",
+  "active": "4602d974394d3007",
   "lastOpenFiles": [
-    "Character Lore/Party/Cainus.md",
     "Character Lore/Party/Eugene.md",
+    "Character Lore/Party/Cainus.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Character Lore/Party/The Party.md",
     "Character Lore/Party/Kaulinan Badag.md",
