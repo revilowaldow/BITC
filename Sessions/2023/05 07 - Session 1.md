@@ -27,7 +27,7 @@ There was some discussion of backstories;
 - [[Kaulinan Badag|Kaulinan]] said he was from the Jungles and revealed his age
 - [[Cainus]] revealed the Mule is named [[Eugene]]
 
-The Party investigated the lights first, heading north and finding an earthscar
+The Party investigated the lights first, heading north and finding an earthscar 1 hour outside town
 [[Teryna]] had already found a longsword which Kaulinan identified as having Celestial script on it and a heavy level of transmutation magic. The scar itself had an aura of conjuration magic
 
 
