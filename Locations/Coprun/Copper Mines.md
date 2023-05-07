@@ -18,4 +18,8 @@ Blacksmith
 
 
 
+Small oval shaped pool outside
+
+Base of [[Chimera Comanda]] in Coprun
+
 
