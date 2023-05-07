@@ -9,57 +9,55 @@
 
 ## 2nd Level
 
-Almiraj
-Baboon
-Badger
-Cat
-Deer
-Fox
-Goat
-Hare
-Hyena
-Jackal
-Lizard
-Owl
-Pig
-Rat
-Scorpion
-Sheep
-Spider
-Weasel
-Wild Dog
-0.13
-Camel
-Giant Rat
-Giant Weasel
-Mastiff
-Mountain Goat
-Mule
-Pony
-0.25
-Axe Beak
-Boar
-Cave Badger
-Cow
-Deep Rothé
-Dimetrodon
-Draft Horse
-Elk
-Giant Badger
-Giant Centipede
-Giant Lizard
-Giant Riding Lizard
-Giant Snail
-Giant Wolf Spider
-Hadrosaurus
-Ox
-Panther
-Riding Horse
-Rothé
-Sled Dog
-Velociraptor
-Wolf
-Zebra
+- Almiraj
+- Baboon
+- Badger
+- Cat
+- Deer
+- Fox
+- Goat
+- Hare
+- Hyena
+- Jackal
+- Lizard
+- Owl
+- Pig
+- Rat
+- Scorpion
+- Sheep
+- Spider
+- Weasel
+- Wild Dog
+- Camel
+- Giant Rat
+- Giant Weasel
+- Mastiff
+- Mountain Goat
+- Mule
+- Pony
+- Axe Beak
+- Boar
+- Cave Badger
+- Cow
+- Deep Rothé
+- Dimetrodon
+- Draft Horse
+- Elk
+- Giant Badger
+- Giant Centipede
+- Giant Lizard
+- Giant Riding Lizard
+- Giant Snail
+- Giant Wolf Spider
+- Hadrosaurus
+- Ox
+- Panther
+- Riding Horse
+- Rothé
+- Sled Dog
+- Velociraptor
+- Wolf
+- Zebra
 
 ## 4th Level
 
@@ -76,15 +74,12 @@ Frog
 Knucklehead Trout
 Quipper
 Seal
-0.13
 Dolphin
 Giant Crab
 Poisonous Snake
-0.25
 Constrictor Snake
 Giant Frog
 Giant Poisonous Snake
-0.50
 Crocodile
 
 
@@ -92,98 +87,39 @@ Crocodile
 
 Giant Rocktopus
 Brown Bear
-
 Deinonychus
-
 Dire Wolf
-
 Giant Hyena
-
 Giant Spider
-
 Giant Toad
-
 Lion
-
 Tiger
 Flying Snake
-
-(blank)
-
-0.00
-
 Bat
-
 Crow
-
 Eagle
-
 Falcon
-
 Flying Monkey
-
 Hawk
-
 Macaw
-
 Parrot
-
 Peacock
-
 Raven
-
 Vulture
-
-0.13
-
 Blood Hawk
-
 Stirge
-
-0.25
-
 Giant Bat
-
 Giant Owl
-
 Pteranodon
-
-0.50
-
 Giant Canary
-
 Giant Dragonfly
-
 Giant Wasp
-
-1.00
-
 Giant Eagle
-
 Giant Flying Spider
-
 Giant Raven
-
 Giant Vulture
 
-
-
-
-
-
 ## Full
-
-
-
-
-
-
-
-
-
-
-
-
 
 Almiraj
 Ape
