@@ -79,5 +79,7 @@ Key Needed OR freezing water bypass
 
 Key held by Jovil
 
+[[Utu Otaka]]
+Half Orc Comanda - disillusiooned with leadership
 
 
