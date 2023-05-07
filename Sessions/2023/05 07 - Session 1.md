@@ -86,3 +86,5 @@ Half Orc Comanda - disillusiooned with leadership
 Aru given Falx by Jovil
 
 Enter into the [[Mine Layout.canvas]]
+
+
