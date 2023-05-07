@@ -123,13 +123,15 @@
           {
             "id": "7a76580376b29191",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Sessions/2023 05 07 - Session 1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -271,8 +273,9 @@
   },
   "active": "7a76580376b29191",
   "lastOpenFiles": [
-    "Sessions/2023 04 23 - Session 0.5.md",
+    "Locations/Coprun/Copper Mines.md",
     "Sessions/2023 05 07 - Session 1.md",
+    "Sessions/2023 04 23 - Session 0.5.md",
     "NPCs/Nefros.md",
     "Nefros.md",
     "Factions/Eastern City States/City of Parch.md",
@@ -284,7 +287,6 @@
     "Assets/Pasted image 20230423171427.png",
     "Locations/Kathkach/Kathkach.md",
     "Calamxis.md",
-    "Locations/Coprun/Copper Mines.md",
     "Locations/Coprun/Market.md",
     "Locations/Coprun/Miners Pick.md",
     "Locations/Jungles.md",
