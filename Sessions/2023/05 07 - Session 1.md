@@ -16,7 +16,8 @@ Lights had been seen on the north side of town recently
 [[Yukil]] the goblin blacksmith supposedly saw [[Calamxis]] (the dripping knight) the gladiator passing by on the night of the lights hidden under a scruffy cloak but could tell by his movements
 There are three Chimera Comanda in town, two male, one female
 
-The party met a refugee called 
+The party met a refugee called [[Niko]] who was fleeing Chineria city
+He let the party know that the mine had been closed due to scratching noises 
 
 The party rested overnight in the tavern with one minorly damaged bed
 There was some discussion of backstories;

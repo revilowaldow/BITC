@@ -21,11 +21,9 @@
             "id": "4602d974394d3007",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Locations/Coprun/Copper Mines.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Pasted image 20230423171627.png"
               }
             }
           },
@@ -113,7 +111,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f986e5924d0f1c29",
@@ -199,6 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,6 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +237,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md"
+              }
             }
           },
           {
@@ -265,16 +268,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "678050a2d7fa6328",
+  "active": "7a76580376b29191",
   "lastOpenFiles": [
+    "Assets/Pasted image 20230423171627.png",
+    "Assets/Pasted image 20230423171427.png",
+    "Assets/Pasted image 20230423144735.png",
+    "Assets/Pasted image 20230423144311.png",
+    "Assets/Pasted image 20230423131449.png",
     "Sessions/2023/05 07 - Session 1.md",
+    "Sessions/2023/04 23 - Session 0.5.md",
     "Locations/Coprun/Copper Mines.md",
     "Locations/Kathkach/Kathkach.md",
     "Locations/Jungles.md",
     "NPCs/Calamxis.md",
     "NPCs/Epo.md",
     "NPCs/Nefros.md",
-    "Sessions/2023/04 23 - Session 0.5.md",
     "Character Lore/Party/Kaulinan Badag.md",
     "Character Lore/Party/Cainus.md",
     "Character Lore/Party/Aru.md",
@@ -285,18 +293,13 @@
     "Factions/Eastern City States/Eastern City States.md",
     "Factions/Silver Company.md",
     "Locations/Coprun/Coprun.md",
-    "Assets/Pasted image 20230423171627.png",
-    "Assets/Pasted image 20230423171427.png",
     "Calamxis.md",
     "Locations/Coprun/Market.md",
     "Locations/Coprun/Miners Pick.md",
     "Setting Rules/Weapon Rules.md",
     "Setting Rules/Ration Rules.md",
-    "Assets/Pasted image 20230423144311.png",
-    "Assets/Pasted image 20230423131449.png",
     "Character Lore/Party/The Party.md",
     "Factions/Sea Blooded Organisation.md",
-    "Assets/Pasted image 20230423144735.png",
     "Factions/Eastern City States",
     "Factions/Lady Eyelaine.md",
     "Locations/Kathkach",
