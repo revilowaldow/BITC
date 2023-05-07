@@ -56,4 +56,6 @@ Combat
 	Cabe tosser
 	Miner
 
+Deep Crawlers, similar to creature in Helviti Wastes
 
+City of 700
