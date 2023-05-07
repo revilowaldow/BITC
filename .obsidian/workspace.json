@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Coprun/Coprun.md",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -293,8 +293,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a76580376b29191",
+  "active": "315668e95dff76dd",
   "lastOpenFiles": [
+    "Sessions/2023/04 23 - Session 0.5.md",
+    "Sessions/2023/05 07 - Session 1.md",
     "Locations/Coprun/Coprun.md",
     "Setting Rules/Rules Index.md",
     "Character Lore/Party/The Party.md",
@@ -302,7 +304,6 @@
     "Character Lore/Party/Aru.md",
     "Character Lore/Party/Cainus.md",
     "Character Lore/Party/Eugene.md",
-    "Sessions/2023/05 07 - Session 1.md",
     "NPCs/Nefros.md",
     "NPCs/Calamxis.md",
     "Locations/Coprun/Market.md",
@@ -319,7 +320,6 @@
     "Assets/Pasted image 20230423131449.png",
     "Assets/Pasted image 20230423144311.png",
     "Assets/Pasted image 20230423144735.png",
-    "Sessions/2023/04 23 - Session 0.5.md",
     "Locations/Kathkach/Kathkach.md",
     "Locations/Jungles.md",
     "NPCs/Epo.md",

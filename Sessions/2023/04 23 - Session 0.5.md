@@ -44,3 +44,6 @@ Dead tree
 Multiple earth scars, one north, one to east, big one here
 
 Current Year is 261 New Age
+
+Sword is damaged and unusable, steel
+
