@@ -19,6 +19,8 @@ There are three Chimera Comanda in town, two male, one female
 The party met a refugee called [[Niko]] who was fleeing Chineria city
 He let the party know that the mine had been closed due to scratching noises after 2 tunnels had been opened. Apparently the miners have been having bad dreams
 
+The Coprun [[Market]] is run by an orc named [[Leilis]]
+
 The party rested overnight in the tavern with one minorly damaged bed
 There was some discussion of backstories;
 - [[Amaranth]] and [[Aru]] know each other and seem to have a suspect past.

@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Silver Company.md",
+                "file": "Locations/Coprun/Market.md",
                 "mode": "source",
                 "source": false
               }
@@ -288,7 +288,11 @@
   },
   "active": "7a76580376b29191",
   "lastOpenFiles": [
+    "Locations/Coprun/Market.md",
+    "Locations/Coprun/Coprun.md",
+    "Locations/Coprun/Copper Mines.md",
     "Factions/Silver Company.md",
+    "Sessions/2023/05 07 - Session 1.md",
     "Factions/Sea Blooded Organisation.md",
     "Factions/Lady Eyelaine.md",
     "Factions/Aegan Empire.md",
@@ -296,7 +300,6 @@
     "Factions/Eastern City States/City of Parch.md",
     "Character Lore/Party/Eugene.md",
     "Character Lore/Party/Cainus.md",
-    "Sessions/2023/05 07 - Session 1.md",
     "Character Lore/Party/The Party.md",
     "Character Lore/Party/Kaulinan Badag.md",
     "Character Lore/Party/Aru.md",
@@ -307,7 +310,6 @@
     "Assets/Pasted image 20230423144311.png",
     "Assets/Pasted image 20230423144735.png",
     "Sessions/2023/04 23 - Session 0.5.md",
-    "Locations/Coprun/Copper Mines.md",
     "Locations/Kathkach/Kathkach.md",
     "Locations/Jungles.md",
     "NPCs/Calamxis.md",
@@ -315,9 +317,7 @@
     "NPCs/Nefros.md",
     "Sessions/2023",
     "Nefros.md",
-    "Locations/Coprun/Coprun.md",
     "Calamxis.md",
-    "Locations/Coprun/Market.md",
     "Locations/Coprun/Miners Pick.md",
     "Setting Rules/Weapon Rules.md",
     "Factions/Eastern City States",
