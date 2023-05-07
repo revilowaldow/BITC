@@ -42,3 +42,6 @@ Daryl doing recap
 Bought stuff in the market, sling, sacks, etc
 
 Combat
+- Acquired clubs, sling, bullets, 2cp
+- Killed 3
+- 
