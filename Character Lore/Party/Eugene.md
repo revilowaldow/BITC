@@ -1,4 +1,5 @@
 A mule
 
-```sta
+```statblock
+monster: Mule
 ```
