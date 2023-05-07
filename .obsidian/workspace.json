@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2023/04 23 - Session 0.5.md",
+                "file": "Locations/Coprun/Copper Mines.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,8 +113,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f986e5924d0f1c29",
@@ -200,7 +199,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +215,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,9 +236,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -270,31 +265,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a76580376b29191",
+  "active": "678050a2d7fa6328",
   "lastOpenFiles": [
-    "Sessions/2023/04 23 - Session 0.5.md",
     "Sessions/2023/05 07 - Session 1.md",
+    "Locations/Coprun/Copper Mines.md",
+    "Locations/Kathkach/Kathkach.md",
+    "Locations/Jungles.md",
+    "NPCs/Calamxis.md",
+    "NPCs/Epo.md",
+    "NPCs/Nefros.md",
+    "Sessions/2023/04 23 - Session 0.5.md",
     "Character Lore/Party/Kaulinan Badag.md",
     "Character Lore/Party/Cainus.md",
     "Character Lore/Party/Aru.md",
     "Character Lore/Party/Amaranth.md",
     "Sessions/2023",
-    "Locations/Coprun/Copper Mines.md",
-    "NPCs/Nefros.md",
     "Nefros.md",
     "Factions/Eastern City States/City of Parch.md",
-    "NPCs/Calamxis.md",
     "Factions/Eastern City States/Eastern City States.md",
     "Factions/Silver Company.md",
     "Locations/Coprun/Coprun.md",
     "Assets/Pasted image 20230423171627.png",
     "Assets/Pasted image 20230423171427.png",
-    "Locations/Kathkach/Kathkach.md",
     "Calamxis.md",
     "Locations/Coprun/Market.md",
     "Locations/Coprun/Miners Pick.md",
-    "Locations/Jungles.md",
-    "NPCs/Epo.md",
     "Setting Rules/Weapon Rules.md",
     "Setting Rules/Ration Rules.md",
     "Assets/Pasted image 20230423144311.png",
