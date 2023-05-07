@@ -83,3 +83,10 @@ Key held by Jovil
 Half Orc Comanda - disillusiooned with leadership
 
 
+
+
+Map:
+
+Entry Chamber Mine
+Three Sh, 
+	Shaft 2 has running water
