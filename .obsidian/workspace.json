@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2023 04 23 - Session 0.5.md",
+                "file": "Sessions/2023/04 23 - Session 0.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2023 05 07 - Session 1.md",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023 05 07 - Session 1.md",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023 05 07 - Session 1.md",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023 05 07 - Session 1.md"
+                "file": "Sessions/2023/05 07 - Session 1.md"
               }
             }
           },
@@ -253,12 +253,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,10 +270,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a76580376b29191",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
-    "Sessions/2023 04 23 - Session 0.5.md",
-    "Sessions/2023 05 07 - Session 1.md",
+    "Sessions/2023",
+    "Sessions/2023/04 23 - Session 0.5.md",
+    "Sessions/2023/05 07 - Session 1.md",
     "Locations/Coprun/Copper Mines.md",
     "NPCs/Nefros.md",
     "Nefros.md",
@@ -305,7 +305,6 @@
     "Factions/Eastern City States",
     "Factions/Lady Eyelaine.md",
     "Locations/Kathkach",
-    "Locations/Kathkat.md",
     "Character Lore/Party",
     "NPCs",
     "Factions",
