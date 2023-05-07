@@ -1,4 +1,4 @@
-Part owned between [[Silver Company]]
+art owned between [[Silver Company]]
 Majority ownership is [[Lady Eyelaine]]
 
 Poor relationship with [[Sea Blooded Organisation]]
@@ -27,3 +27,4 @@ Led by [[Leader Jovil]]
 Mine Overseer is [[Overseer Hama]]
 
 
+![[Mine Layout.canvas]]
