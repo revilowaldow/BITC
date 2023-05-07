@@ -88,5 +88,5 @@ Half Orc Comanda - disillusiooned with leadership
 Map:
 
 Entry Chamber Mine
-Three Sh, 
+Three Shafts, 
 	Shaft 2 has running water

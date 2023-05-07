@@ -33,11 +33,14 @@
             "id": "a79e7357ee5ad44d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -218,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -307,12 +310,13 @@
   },
   "active": "a79e7357ee5ad44d",
   "lastOpenFiles": [
+    "Sessions/2023/05 07 - Session 1.md",
+    "Untitled.canvas",
     "Setting Rules/Valid Wild Shapes.md",
     "Character Lore/Party/The Party.md",
     "Character Lore/Party/Cainus.md",
     "Character Lore/Party/Amaranth.md",
     "Character Lore/Party/Aru.md",
-    "Sessions/2023/05 07 - Session 1.md",
     "Setting Rules/Weapon Rules.md",
     "Locations/Coprun/Copper Mines.md",
     "Leader Jovil.md",
@@ -338,7 +342,6 @@
     "Assets/Pasted image 20230423144311.png",
     "Assets/Pasted image 20230423144735.png",
     "Locations/Kathkach/Kathkach.md",
-    "Locations/Jungles.md",
     "Sessions/2023",
     "Factions/Eastern City States",
     "Locations/Kathkach",
