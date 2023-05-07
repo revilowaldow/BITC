@@ -61,163 +61,163 @@
 
 ## 4th Level
 
-Ape
-Black Bear
-Frilled Deathspitter
-Giant Goat
-Jaculi
-Oxen
-Warhorse
-Crab
-Fish
-Frog
-Knucklehead Trout
-Quipper
-Seal
-Dolphin
-Giant Crab
-Poisonous Snake
-Constrictor Snake
-Giant Frog
-Giant Poisonous Snake
-Crocodile
+- Ape
+- Black Bear
+- Frilled Deathspitter
+- Giant Goat
+- Jaculi
+- Oxen
+- Warhorse
+- Crab
+- Fish
+- Frog
+- Knucklehead Trout
+- Quipper
+- Seal
+- Dolphin
+- Giant Crab
+- Poisonous Snake
+- Constrictor Snake
+- Giant Frog
+- Giant Poisonous Snake
+- Crocodile
 
 
 ## 8th Level
 
-Giant Rocktopus
-Brown Bear
-Deinonychus
-Dire Wolf
-Giant Hyena
-Giant Spider
-Giant Toad
-Lion
-Tiger
-Flying Snake
-Bat
-Crow
-Eagle
-Falcon
-Flying Monkey
-Hawk
-Macaw
-Parrot
-Peacock
-Raven
-Vulture
-Blood Hawk
-Stirge
-Giant Bat
-Giant Owl
-Pteranodon
-Giant Canary
-Giant Dragonfly
-Giant Wasp
-Giant Eagle
-Giant Flying Spider
-Giant Raven
-Giant Vulture
+- Giant Rocktopus
+- Brown Bear
+- Deinonychus
+- Dire Wolf
+- Giant Hyena
+- Giant Spider
+- Giant Toad
+- Lion
+- Tiger
+- Flying Snake
+- Bat
+- Crow
+- Eagle
+- Falcon
+- Flying Monkey
+- Hawk
+- Macaw
+- Parrot
+- Peacock
+- Raven
+- Vulture
+- Blood Hawk
+- Stirge
+- Giant Bat
+- Giant Owl
+- Pteranodon
+- Giant Canary
+- Giant Dragonfly
+- Giant Wasp
+- Giant Eagle
+- Giant Flying Spider
+- Giant Raven
+- Giant Vulture
 
 ## Full
 
-Almiraj
-Ape
-Axe Beak
-Baboon
-Badger
-Bat
-Black Bear
-Blood Hawk
-Boar
-Brown Bear
-Camel
-Cat
-Cave Badger
-Constrictor Snake
-Cow
-Crab
-Crocodile
-Crow
-Deep Rothé
-Deer
-Deinonychus
-Dimetrodon
-Dire Wolf
-Dolphin
-Draft Horse
-Eagle
-Elk
-Falcon
-Fish
-Flying Monkey
-Flying Snake
-Fox
-Frilled Deathspitter
-Frog
-Giant Badger
-Giant Bat
-Giant Canary
-Giant Centipede
-Giant Crab
-Giant Dragonfly
-Giant Eagle
-Giant Flying Spider
-Giant Frog
-Giant Goat
-Giant Hyena
-Giant Lizard
-Giant Owl
-Giant Poisonous Snake
-Giant Rat
-Giant Raven
-Giant Riding Lizard
-Giant Rocktopus
-Giant Snail
-Giant Spider
-Giant Toad
-Giant Vulture
-Giant Wasp
-Giant Weasel
-Giant Wolf Spider
-Goat
-Hadrosaurus
-Hare
-Hawk
-Hyena
-Jackal
-Jaculi
-Knucklehead Trout
-Lion
-Lizard
-Mastiff
-Mountain Goat
-Mule
-Owl
-Ox
-Oxen
-Panther
-Peacock
-Pig
-Poisonous Snake
-Pony
-Pteranodon
-Quipper
-Rat
-Raven
-Riding Horse
-Rothé
-Scorpion
-Seal
-Sheep
-Sled Dog
-Spider
-Stirge
-Tiger
-Velociraptor
-Vulture
-Warhorse
-Weasel
-Wild Dog
-Wolf
-Zebra
+- Almiraj
+- Ape
+- Axe Beak
+- Baboon
+- Badger
+- Bat
+- Black Bear
+- Blood Hawk
+- Boar
+- Brown Bear
+- Camel
+- Cat
+- Cave Badger
+- Constrictor Snake
+- Cow
+- Crab
+- Crocodile
+- Crow
+- Deep Rothé
+- Deer
+- Deinonychus
+- Dimetrodon
+- Dire Wolf
+- Dolphin
+- Draft Horse
+- Eagle
+- Elk
+- Falcon
+- Fish
+- Flying Monkey
+- Flying Snake
+- Fox
+- Frilled Deathspitter
+- Frog
+- Giant Badger
+- Giant Bat
+- Giant Canary
+- Giant Centipede
+- Giant Crab
+- Giant Dragonfly
+- Giant Eagle
+- Giant Flying Spider
+- Giant Frog
+- Giant Goat
+- Giant Hyena
+- Giant Lizard
+- Giant Owl
+- Giant Poisonous Snake
+- Giant Rat
+- Giant Raven
+- Giant Riding Lizard
+- Giant Rocktopus
+- Giant Snail
+- Giant Spider
+- Giant Toad
+- Giant Vulture
+- Giant Wasp
+- Giant Weasel
+- Giant Wolf Spider
+- Goat
+- Hadrosaurus
+- Hare
+- Hawk
+- Hyena
+- Jackal
+- Jaculi
+- Knucklehead Trout
+- Lion
+- Lizard
+- Mastiff
+- Mountain Goat
+- Mule
+- Owl
+- Ox
+- Oxen
+- Panther
+- Peacock
+- Pig
+- Poisonous Snake
+- Pony
+- Pteranodon
+- Quipper
+- Rat
+- Raven
+- Riding Horse
+- Rothé
+- Scorpion
+- Seal
+- Sheep
+- Sled Dog
+- Spider
+- Stirge
+- Tiger
+- Velociraptor
+- Vulture
+- Warhorse
+- Weasel
+- Wild Dog
+- Wolf
+- Zebra
