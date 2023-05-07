@@ -46,5 +46,9 @@ Combat
 - Killed 2
 
 
-Dog Prince lurks near Lachaka
+[[Dog Prince]] lurks near Lachaka - bandit
+	Doesn't leave survivors, only gnawed bones
+
+[[Lionblood]], able to resist Chimera, bandit faction
+
 
