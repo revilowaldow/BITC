@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "678050a2d7fa6328",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "315668e95dff76dd",
             "type": "leaf",
             "state": {
@@ -30,28 +20,11 @@
             }
           },
           {
-            "id": "a79e7357ee5ad44d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
-                "viewState": {
-                  "x": 304,
-                  "y": 160,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "d9480bd51493f32d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -164,8 +137,53 @@
               }
             }
           }
+        ]
+      },
+      {
+        "id": "a14edb137da9652c",
+        "type": "split",
+        "children": [
+          {
+            "id": "fcce9d794d5ce945",
+            "type": "tabs",
+            "dimension": 42.12765957446808,
+            "children": [
+              {
+                "id": "a79e7357ee5ad44d",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Locations/Coprun/Mine Layout.canvas",
+                    "viewState": {
+                      "x": 91.16780230726874,
+                      "y": 80.22132955031411,
+                      "zoom": -0.3333333333333333
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "0b2918496c00092a",
+            "type": "tabs",
+            "dimension": 57.87234042553191,
+            "children": [
+              {
+                "id": "678050a2d7fa6328",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          }
         ],
-        "currentTab": 3
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -223,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 423.5
   },
   "right": {
     "id": "ef72d1b6d53eecf3",
@@ -326,8 +344,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9480bd51493f32d",
+  "active": "a79e7357ee5ad44d",
   "lastOpenFiles": [
+    "Setting Rules/Weapon Rules.md",
+    "Locations/Coprun/Copper Mines.md",
     "Locations/Coprun/Miners Pick.md",
     "Pasted image 20230507171917.png",
     "Assets/Pasted image 20230423144311.png",
@@ -336,7 +356,6 @@
     "Assets/Pasted image 20230423171427.png",
     "Assets/Pasted image 20230423171627.png",
     "Assets/Pasted image 20230507132142.png",
-    "Locations/Coprun/Copper Mines.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/05 07 - Session 1.md",
     "Character Lore/Party/Cainus.md",
@@ -344,7 +363,6 @@
     "Character Lore/Party/The Party.md",
     "Character Lore/Party/Amaranth.md",
     "Character Lore/Party/Aru.md",
-    "Setting Rules/Weapon Rules.md",
     "Leader Jovil.md",
     "NPCs/Teryna.md",
     "Sessions/2023/04 23 - Session 0.5.md",
