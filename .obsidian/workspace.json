@@ -45,6 +45,16 @@
             }
           },
           {
+            "id": "d9480bd51493f32d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
+          },
+          {
             "id": "4602d974394d3007",
             "type": "leaf",
             "state": {
@@ -155,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,6 +208,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ab1ba8618b399f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -308,7 +326,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a79e7357ee5ad44d",
+  "active": "d9480bd51493f32d",
   "lastOpenFiles": [
     "Locations/Coprun/Miners Pick.md",
     "Pasted image 20230507171917.png",
