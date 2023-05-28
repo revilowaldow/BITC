@@ -116,8 +116,8 @@
                   "state": {
                     "file": "Locations/Coprun/Mine Layout.canvas",
                     "viewState": {
-                      "x": 1392.3994128324282,
-                      "y": 230.78693517148352,
+                      "x": 1486.056074898552,
+                      "y": 133.95547100142335,
                       "zoom": -0.6666666666666667
                     }
                   },
@@ -136,8 +136,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -214,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Locations/Coprun/Mine Layout.canvas"
               }
             }
           },
@@ -309,10 +308,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1868310b04197b39",
+  "active": "9ab8107d85fd2715",
   "lastOpenFiles": [
-    "Locations/Coprun/Mine Layout.canvas",
+    "MineCombat2.png",
     "Setting Rules/Valid Wild Shapes.md",
+    "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/05 28 - Session 2.md",
     "MineCombat1.png",
     "Sessions/2023/05 07 - Session 1.md",
