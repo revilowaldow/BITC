@@ -104,8 +104,8 @@
               "state": {
                 "file": "Locations/Coprun/Mine Layout.canvas",
                 "viewState": {
-                  "x": 1032.1657727690895,
-                  "y": -102.35526074217313,
+                  "x": 926.3324045779201,
+                  "y": -70.15450037430793,
                   "zoom": -0.3333333333333334
                 }
               },
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "right": {
     "id": "ef72d1b6d53eecf3",
