@@ -7,7 +7,7 @@
 		{"type":"text","text":"Mine Entrance\nProtective Gear","id":"88cc56b40b519667","x":-200,"y":-155,"width":250,"height":90,"color":"4"},
 		{"type":"text","text":"Shaft 1\nReed Squeeze\n2 Pots, dead end","id":"1ce09725c78b59bc","x":-520,"y":-160,"width":250,"height":100,"color":"1"},
 		{"type":"file","file":"MineCombat1.png","id":"0dee76f893ae4972","x":246,"y":140,"width":328,"height":400,"color":"6"},
-		{"id":"9c64b9fe536425cb","x":780,"y":-283,"width":250,"height":346,"type":"text","text":"Layer 2\n\nDoor inclines down\n"}
+		{"id":"9c64b9fe536425cb","x":780,"y":-283,"width":250,"height":346,"type":"text","text":"Layer 2\n\nDoor inclines down\n\n20x20ft chamber filled with wheel barrows\n\n"}
 	],
 	"edges":[
 		{"id":"8a1483f3d5eaea03","fromNode":"88cc56b40b519667","fromSide":"top","toNode":"970956ae872f1300","toSide":"bottom"},
