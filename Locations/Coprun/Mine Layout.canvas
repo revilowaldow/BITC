@@ -8,7 +8,7 @@
 		{"type":"text","text":"Shaft 1\nReed Squeeze\n2 Pots, dead end","id":"1ce09725c78b59bc","x":-520,"y":-160,"width":250,"height":100,"color":"1"},
 		{"type":"file","file":"MineCombat1.png","id":"0dee76f893ae4972","x":246,"y":140,"width":328,"height":400,"color":"6"},
 		{"id":"9c64b9fe536425cb","x":780,"y":-303,"width":320,"height":443,"type":"text","text":"### **Layer 2**\n\nDoor inclines down\n\n20x20ft chamber filled with 2 wheel barrows and clutter\nSigns of combat, up to two weeks old, probably newer\nWeapons used, greatsword/axe\n\n\n\n\n"},
-		{"id":"71f64baeeb1e9beb","x":1203,"y":-740,"width":337,"height":476,"type":"text","text":"Door\nUnlocked by Ara\n\nStorage room\n\nChimera Splint Mail set\n\nSmall jars - sealed\n\n4 shovels\n4 picks\n\n5 rations bread & cheese\n"},
+		{"id":"71f64baeeb1e9beb","x":1203,"y":-740,"width":337,"height":476,"type":"text","text":"Door\nUnlocked by Ara\n\nStorage room\n\nChimera Splint Mail set\n\nSmall jars - sealed\n- Healing salve x2\n\n4 shovels\n4 picks\n\n5 rations bread & cheese\n"},
 		{"id":"db8a518f2a8ef92f","x":1218,"y":-151,"width":220,"height":140,"type":"text","text":"Passage 1\n30ft to door\nfurther 30ft\n"}
 	],
 	"edges":[
