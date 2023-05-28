@@ -25,7 +25,7 @@ The party rested overnight in the tavern with one minorly damaged bed
 There was some discussion of backstories;
 - [[Amaranth]] and [[Aru]] know each other and seem to have a suspect past involving someone called [[Nefros]]
 - [[Kaulinan Badag|Kaulinan]] said he was from the Jungles and revealed his age
-- [[Cainus]] revealed the Mule is named [[Eugene]]
+- [[Caenis]] revealed the Mule is named [[Eugene]]
 
 The Party investigated the lights first, heading north and finding an earthscar 1 hour outside town
 [[Teryna]] had already found a longsword which Kaulinan identified as having Celestial script on it and a heavy level of transmutation magic. The scar itself had an aura of conjuration magic
@@ -37,7 +37,7 @@ The current year is 261 of the New Age
 
 Daryl doing recap
 
-[[Cainus]] exchanged one ration for 2 treats that must be consumed within 8 hours, add PB temp HP
+[[Caenis]] exchanged one ration for 2 treats that must be consumed within 8 hours, add PB temp HP
 
 Bought stuff in the market, sling, sacks, etc
 
