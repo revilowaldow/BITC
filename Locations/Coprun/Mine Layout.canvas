@@ -10,9 +10,9 @@
 		{"type":"text","text":"### Combat Room\n\nDepression centre of chamber (-10ft)\n\nCopper green veins\n\n3 Ghouls (ex miners)\n\nGlint, pouch containing\n15cp\nBronze dagger\n\nWooden Ring (engraved with \"Np\")","id":"a759a2851a5efe59","x":1487,"y":-320,"width":334,"height":420},
 		{"type":"file","file":"Assets/Maps/MineCombat2.png","id":"2c67ffc5c97ea512","x":1454,"y":140,"width":400,"height":309,"color":"6"},
 		{"type":"text","text":"Downstream\n30ft to wall","id":"51c46f6c4fe45521","x":122,"y":-560,"width":196,"height":60,"color":"5"},
-		{"type":"text","text":"Door 2","id":"be15639f1f5bcf84","x":2000,"y":-200,"width":250,"height":60},
 		{"type":"text","text":"Mine Entrance\nProtective Gear","id":"88cc56b40b519667","x":-200,"y":-155,"width":250,"height":95,"color":"4"},
-		{"type":"text","text":"Shaft 1\nReed Squeeze\n2 Pots, dead end","id":"1ce09725c78b59bc","x":-200,"y":30,"width":250,"height":100,"color":"1"}
+		{"type":"text","text":"Shaft 1\nReed Squeeze\n2 Pots, dead end","id":"1ce09725c78b59bc","x":-200,"y":30,"width":250,"height":100,"color":"1"},
+		{"type":"text","text":"Mineshaft\n\n30ft ends at fork","id":"be15639f1f5bcf84","x":2020,"y":-160,"width":250,"height":101}
 	],
 	"edges":[
 		{"id":"8a1483f3d5eaea03","fromNode":"88cc56b40b519667","fromSide":"top","toNode":"970956ae872f1300","toSide":"bottom"},
