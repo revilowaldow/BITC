@@ -4,3 +4,5 @@ Alex is recapping next session
 
 3 planks wood (5lb each)
 
+
+
