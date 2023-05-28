@@ -44,7 +44,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sessions/2023/04 23 - Session 0.5.md",
+                    "file": "Sessions/2023/05 28 - Session 2.md",
                     "mode": "source",
                     "source": false
                   }
@@ -100,7 +100,8 @@
                   "pinned": true
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "b9ed39ad506369d3",
@@ -303,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,7 +321,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,7 +344,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas"
+                "file": "Sessions/2023/05 07 - Session 1.md"
               }
             }
           },
@@ -398,11 +399,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ab8107d85fd2715",
+  "active": "775f724b97622098",
   "lastOpenFiles": [
     "Sessions/2023/05 28 - Session 2.md",
-    "Setting Rules/Valid Wild Shapes.md",
+    "Sessions/2023/04 23 - Session 0.5.md",
     "Locations/Coprun/Mine Layout.canvas",
+    "Setting Rules/Valid Wild Shapes.md",
     "Assets/Characters/KaulinanRolls.png",
     "Assets/Table/Pasted image 20230423144311.png",
     "Assets/Table/Pasted image 20230423131449.png",
@@ -417,7 +419,6 @@
     "Sessions/2023/05 07 - Session 1.md",
     "Locations/Coprun/Copper Mines.md",
     "Character Lore/Party/The Party.md",
-    "Sessions/2023/04 23 - Session 0.5.md",
     "Setting Rules/Weapon Rules.md",
     "Character Lore/Party/Kaulinan Badag.md",
     "Character Lore/Party/Aru of the Sands.md",
