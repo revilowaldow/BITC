@@ -25,8 +25,12 @@
             "id": "775f724b97622098",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -150,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 270.5
   },
   "right": {
     "id": "ef72d1b6d53eecf3",
@@ -166,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md"
+              }
             }
           },
           {
@@ -243,7 +251,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
