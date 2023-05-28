@@ -115,9 +115,9 @@
                   "state": {
                     "file": "Locations/Coprun/Mine Layout.canvas",
                     "viewState": {
-                      "x": 25,
-                      "y": 67,
-                      "zoom": -1
+                      "x": 109.88945282295457,
+                      "y": 130.35868840989482,
+                      "zoom": -0.3333333333333334
                     }
                   },
                   "pinned": true
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md"
+                "file": "Locations/Coprun/Mine Layout.canvas"
               }
             }
           },
@@ -295,11 +295,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "775f724b97622098",
+  "active": "9ab8107d85fd2715",
   "lastOpenFiles": [
+    "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Locations/Coprun/Mine Layout.canvas",
-    "Sessions/2023/05 07 - Session 1.md",
     "Locations/Coprun/Copper Mines.md",
     "Character Lore/Party/The Party.md",
     "Assets/Pasted image 20230507171917.png",
