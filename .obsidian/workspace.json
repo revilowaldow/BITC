@@ -257,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas"
+                "file": "Sessions/2023/05 07 - Session 1.md"
               }
             }
           },
@@ -344,8 +344,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a79e7357ee5ad44d",
+  "active": "315668e95dff76dd",
   "lastOpenFiles": [
+    "Locations/Coprun/Mine Layout.canvas",
+    "clean.bat",
     "Setting Rules/Weapon Rules.md",
     "Locations/Coprun/Copper Mines.md",
     "Locations/Coprun/Miners Pick.md",
@@ -356,7 +358,6 @@
     "Assets/Pasted image 20230423171427.png",
     "Assets/Pasted image 20230423171627.png",
     "Assets/Pasted image 20230507132142.png",
-    "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/05 07 - Session 1.md",
     "Character Lore/Party/Cainus.md",
     "Setting Rules/Valid Wild Shapes.md",
@@ -388,7 +389,6 @@
     "Locations/Coprun",
     "Locations",
     "Assets/Characters",
-    "Sessions",
     "Assets/Characters/KaulinanTokenLarge.png"
   ]
 }
