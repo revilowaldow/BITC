@@ -1,14 +1,14 @@
 #### Recap
 The party met [[Epo]] an agent of the [[Silver Company]] who hosted them at the [[Miners Pick]].
 The party were tasked to:
-- [ ] Contain or retrive whatever is halting the mine from working
+- [ ] Contain or retrieve whatever is halting the mine from working
 - [ ] Retrieve a deed from inside the Coprun [[Copper Mines]]
 	- The mine is owned by a group of people
 		- [[Silver Company]] (Current Administrator is called [[Kevin Aldragosh|Kevin]])
 		- [[Lady Eyelaine]] (Majority Owner)
-		- [[Sea Blooded Organisation]] (Poor relatiosn with Silver Company)
+		- [[Sea Blooded Organisation]] (Poor relations with Silver Company)
 	- There will be rival agents
-	- Payment is 5gp immediately, Longe term access to the Silver Company + undisclosed gp sum
+	- Payment is 5gp immediately, Longer term access to the Silver Company + undisclosed gp sum
 	- Perks are Training Accommodation and networking
 
 Lights had been seen on the north side of town recently
