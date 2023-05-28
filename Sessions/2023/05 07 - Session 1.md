@@ -9,7 +9,7 @@ The party were tasked to:
 		- [[Sea Blooded Organisation]] (Poor relatiosn with Silver Company)
 	- There will be rival agents
 	- Payment is 5gp immediately, Longe term access to the Silver Company + undisclosed gp sum
-	- Perks are Training Accomoddation and networking
+	- Perks are Training Accommodation and networking
 
 Lights had been seen on the north side of town recently
 [[Teryna]] (armed civilian) went to investigate
@@ -52,8 +52,8 @@ Combat
 [[Lionblood]], able to resist Chimera, bandit faction
 
 [[Lars Anders]] - Miner with a whistle
-	Whitler
-	Cabe tosser
+	Whittler
+	Caber toss-er
 	Miner
 
 Deep Crawlers, similar to creature in Helviti Wastes
@@ -80,7 +80,7 @@ Key Needed OR freezing water bypass
 Key held by Jovil
 
 [[Utu Otaka]]
-Half Orc Comanda - disillusiooned with leadership
+Half Orc Comanda - disillusioned with leadership
 
 
 Aru given Falx by Jovil
