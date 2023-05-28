@@ -16,7 +16,8 @@
 		{"id":"c8e2290c936d9807","x":2023,"y":141,"width":250,"height":154,"type":"text","text":"Smells of smoke\nHear murmur of voices\n60ft to room with two ghouls"},
 		{"id":"204741ae600d01d6","x":2076,"y":470,"width":250,"height":60,"type":"text","text":"Voices further away"},
 		{"id":"496b6e3bea275410","x":2020,"y":-380,"width":250,"height":120,"type":"text","text":"Smells of nothing\nAir circulation\nHear skittering\n20 ft path"},
-		{"id":"e6f0671c295f7f5a","x":2020,"y":-680,"width":250,"height":220,"type":"text","text":"Mined Cavern, rough\n7cp\nCeiling unstable in this area"}
+		{"id":"e6f0671c295f7f5a","x":2020,"y":-680,"width":250,"height":220,"type":"text","text":"Mined Cavern, rough\n7cp\nCeiling unstable in this area\nDeep crawler tracks\n\n\n"},
+		{"id":"b91a804d0b7b4d82","x":2020,"y":-880,"width":250,"height":140,"type":"text","text":"30ft to opening\nCold Draft"}
 	],
 	"edges":[
 		{"id":"8a1483f3d5eaea03","fromNode":"88cc56b40b519667","fromSide":"top","toNode":"970956ae872f1300","toSide":"bottom"},
@@ -35,6 +36,7 @@
 		{"id":"eb24f280526c3309","fromNode":"be15639f1f5bcf84","fromSide":"bottom","toNode":"c8e2290c936d9807","toSide":"top"},
 		{"id":"273d6ffb76115efc","fromNode":"be15639f1f5bcf84","fromSide":"top","toNode":"496b6e3bea275410","toSide":"bottom"},
 		{"id":"1dff517fbe25266b","fromNode":"c8e2290c936d9807","fromSide":"bottom","toNode":"204741ae600d01d6","toSide":"top"},
-		{"id":"16fc46ce55178d29","fromNode":"496b6e3bea275410","fromSide":"top","toNode":"e6f0671c295f7f5a","toSide":"bottom"}
+		{"id":"16fc46ce55178d29","fromNode":"496b6e3bea275410","fromSide":"top","toNode":"e6f0671c295f7f5a","toSide":"bottom"},
+		{"id":"8ecfafe59ad8dca5","fromNode":"e6f0671c295f7f5a","fromSide":"top","toNode":"b91a804d0b7b4d82","toSide":"bottom"}
 	]
 }
