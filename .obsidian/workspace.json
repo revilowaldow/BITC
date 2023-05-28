@@ -304,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2023/05 28 - Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +321,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2023/05 28 - Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +344,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Sessions/2023/05 28 - Session 2.md"
               }
             }
           },
@@ -399,8 +399,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1868310b04197b39",
+  "active": "f2ba89f6f0873a07",
   "lastOpenFiles": [
+    "Setting Rules/Valid Wild Shapes.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/05 28 - Session 2.md",
     "Assets/Characters/KaulinanRolls.png",
@@ -414,7 +415,6 @@
     "Assets/Maps/MineCombat1.png",
     "Assets/Maps",
     "Assets/Maps/MineCombat2.png",
-    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Locations/Coprun/Copper Mines.md",
     "Character Lore/Party/The Party.md",
