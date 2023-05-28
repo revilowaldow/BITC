@@ -13,5 +13,6 @@ Ghouls weren't true undead, are they diseased or
 Comanda ran from mad max thugs who had overtaken Kathkach
 
 
-Ma
-Dyvare
+Helviti (Mad max thugs) pissed off a Dyvare and fled to wastes
+
+
