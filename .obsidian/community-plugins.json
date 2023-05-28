@@ -4,5 +4,7 @@
   "obsidian-checklist-plugin",
   "obsidian-dice-roller",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-5e-statblocks"
+  "obsidian-5e-statblocks",
+  "no-dupe-leaves",
+  "open-in-new-tab"
 ]
