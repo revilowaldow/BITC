@@ -14,7 +14,7 @@
 		{"type":"text","text":"Shaft 1\nReed Squeeze\n2 Pots, dead end","id":"1ce09725c78b59bc","x":-200,"y":30,"width":250,"height":100,"color":"1"},
 		{"type":"text","text":"Mineshaft\n\n30ft ends at fork","id":"be15639f1f5bcf84","x":2020,"y":-160,"width":250,"height":101},
 		{"id":"c8e2290c936d9807","x":2023,"y":141,"width":250,"height":60,"type":"text","text":"Smells of smoke"},
-		{"id":"496b6e3bea275410","x":2020,"y":-420,"width":250,"height":60,"type":"text","text":"Smells of nothing"}
+		{"id":"496b6e3bea275410","x":2020,"y":-420,"width":250,"height":100,"type":"text","text":"Smells of nothing\nAir circulation"}
 	],
 	"edges":[
 		{"id":"8a1483f3d5eaea03","fromNode":"88cc56b40b519667","fromSide":"top","toNode":"970956ae872f1300","toSide":"bottom"},
