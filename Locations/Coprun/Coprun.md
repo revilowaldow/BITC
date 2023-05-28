@@ -1,6 +1,6 @@
-![[Pasted image 20230423171427.png]]
+![[PevicContinent.png]]
 
-![[Pasted image 20230423171627.png]]
+![[Topographic Map.png]]
 
 ### Locations
 

@@ -1,4 +1,4 @@
-![[Pasted image 20230507132142.png]]
+![[NPC.png]]
 
 Has damaged magic weapon
 

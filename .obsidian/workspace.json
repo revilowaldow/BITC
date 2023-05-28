@@ -125,6 +125,96 @@
                 }
               },
               {
+                "id": "3c376a0738f2a752",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Assets/Maps/MineCombat1.png"
+                  }
+                }
+              },
+              {
+                "id": "c140722af1c62dc8",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Assets/Pasted image 20230423131449.png"
+                  }
+                }
+              },
+              {
+                "id": "ab02adc306c481e6",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Assets/Pasted image 20230423144311.png"
+                  }
+                }
+              },
+              {
+                "id": "bf0df3092184e597",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Assets/Pasted image 20230423144735.png"
+                  }
+                }
+              },
+              {
+                "id": "f4c35b2dc0420711",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Assets/PevicContinent.png"
+                  }
+                }
+              },
+              {
+                "id": "cc62302a264f649d",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Assets/Pasted image 20230507171917.png"
+                  }
+                }
+              },
+              {
+                "id": "72c02070b84f27fa",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Assets/NPC.png"
+                  }
+                }
+              },
+              {
+                "id": "79fcb8ecfaa06a9f",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Assets/Topographic Map.png"
+                  }
+                }
+              },
+              {
+                "id": "3ca75d1c52faeea9",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Assets/Topographic Map.png"
+                  }
+                }
+              },
+              {
                 "id": "1868310b04197b39",
                 "type": "leaf",
                 "state": {
@@ -136,7 +226,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -213,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Assets/Pasted image 20230423144735.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +321,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Assets/Pasted image 20230423144735.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +344,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas"
+                "file": "Assets/Pasted image 20230423144735.png"
               }
             }
           },
@@ -290,7 +381,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -308,17 +399,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ab8107d85fd2715",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
-    "MineCombat2.png",
-    "Setting Rules/Valid Wild Shapes.md",
+    "Assets/Pasted image 20230507171917.png",
+    "Assets/Topographic Map.png",
+    "Assets/NPC.png",
+    "Assets/PevicContinent.png",
+    "Assets/Pasted image 20230423144735.png",
+    "Assets/Pasted image 20230423144311.png",
+    "Assets/Pasted image 20230423131449.png",
+    "Assets/Maps/MineCombat1.png",
     "Locations/Coprun/Mine Layout.canvas",
+    "Assets/Maps",
+    "Assets/Maps/MineCombat2.png",
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/05 28 - Session 2.md",
-    "MineCombat1.png",
     "Sessions/2023/05 07 - Session 1.md",
     "Locations/Coprun/Copper Mines.md",
     "Character Lore/Party/The Party.md",
-    "Assets/Pasted image 20230507171917.png",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Setting Rules/Weapon Rules.md",
     "Character Lore/Party/Kaulinan Badag.md",
@@ -328,12 +426,6 @@
     "Character Lore/NPCs/Leader Jovil.md",
     "clean.bat",
     "Locations/Coprun/Miners Pick.md",
-    "Assets/Pasted image 20230423144311.png",
-    "Assets/Pasted image 20230423131449.png",
-    "Assets/Pasted image 20230423144735.png",
-    "Assets/Pasted image 20230423171427.png",
-    "Assets/Pasted image 20230423171627.png",
-    "Assets/Pasted image 20230507132142.png",
     "Character Lore/Party/Caenis.md",
     "Character Lore/Party/Amaranth.md",
     "Character Lore/NPCs/Teryna.md",
@@ -354,7 +446,6 @@
     "Factions",
     "Locations/Coprun",
     "Locations",
-    "Assets/Characters",
     "Assets/Characters/KaulinanTokenLarge.png"
   ]
 }
