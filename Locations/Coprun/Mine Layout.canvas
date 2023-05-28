@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"6544d8c12a93f578","x":-580,"y":-460,"width":250,"height":60,"color":"5","type":"text","text":"Upstream\nOpens after 60 ft"},
-		{"type":"text","text":"Shaft 2\nRunning Water 10 ft deep, clear\nGradual incline down\n50ft corridor\nPlanks of wood barrier\nbroken stone and running water beyond\n3 Wooden Buckets, sealed with wax\nFreezing cold\n","id":"970956ae872f1300","x":-240,"y":-610,"width":250,"height":360},
 		{"type":"text","text":"Shaft 1\nReed Squeeze\n2 Pots, dead end","id":"1ce09725c78b59bc","x":-520,"y":-70,"width":250,"height":100,"color":"1"},
-		{"id":"51c46f6c4fe45521","x":80,"y":-460,"width":250,"height":60,"color":"5","type":"text","text":"Downstream\n30ft to wall"},
 		{"type":"text","text":"Mine Entrance\nProtective Gear","id":"88cc56b40b519667","x":-200,"y":-65,"width":250,"height":90,"color":"4"},
-		{"type":"text","text":"Shaft 3\nFootprints, Blood\nSmeared dragged back into mine\n\n","id":"27680c2b8cb89296","x":220,"y":-242,"width":380,"height":445}
+		{"type":"text","text":"Shaft 3\nFootprints, Blood\nSmeared dragged back into mine\n\n","id":"27680c2b8cb89296","x":220,"y":-242,"width":380,"height":445},
+		{"type":"text","text":"Shaft 2\nRunning Water 10 ft deep, clear\nGradual incline down\n50ft corridor\nPlanks of wood barrier\nbroken stone and running water beyond\n3 Wooden Buckets, sealed with wax\nFreezing cold\n","id":"970956ae872f1300","x":-200,"y":-610,"width":250,"height":360},
+		{"id":"6544d8c12a93f578","x":-520,"y":-460,"width":250,"height":60,"color":"5","type":"text","text":"Upstream\nOpens after 60 ft"},
+		{"id":"51c46f6c4fe45521","x":95,"y":-460,"width":250,"height":60,"color":"5","type":"text","text":"Downstream\n30ft to wall"}
 	],
 	"edges":[
 		{"id":"8a1483f3d5eaea03","fromNode":"88cc56b40b519667","fromSide":"top","toNode":"970956ae872f1300","toSide":"bottom"},
