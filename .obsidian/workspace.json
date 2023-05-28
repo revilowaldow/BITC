@@ -116,7 +116,7 @@
                   "state": {
                     "file": "Locations/Coprun/Mine Layout.canvas",
                     "viewState": {
-                      "x": 1039.1491152755211,
+                      "x": 1273.4944305559675,
                       "y": 40.587380332392485,
                       "zoom": -0.3333333333333334
                     }
@@ -136,8 +136,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -214,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Locations/Coprun/Mine Layout.canvas"
               }
             }
           },
@@ -309,8 +308,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1868310b04197b39",
+  "active": "9ab8107d85fd2715",
   "lastOpenFiles": [
+    "Setting Rules/Valid Wild Shapes.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/05 28 - Session 2.md",
     "MineCombat1.png",
@@ -334,7 +334,6 @@
     "Assets/Pasted image 20230423171627.png",
     "Assets/Pasted image 20230507132142.png",
     "Character Lore/Party/Caenis.md",
-    "Setting Rules/Valid Wild Shapes.md",
     "Character Lore/Party/Amaranth.md",
     "Character Lore/NPCs/Teryna.md",
     "Locations/Coprun/Coprun.md",
