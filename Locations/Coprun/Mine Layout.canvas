@@ -15,7 +15,7 @@
 		{"type":"text","text":"Upstream\nOpens after 60 ft","id":"6544d8c12a93f578","x":-580,"y":-460,"width":250,"height":60,"color":"5"},
 		{"id":"c8e2290c936d9807","x":2020,"y":63,"width":250,"height":154,"type":"text","text":"Smells of smoke\nHear murmur of voices\nRoom with two ghouls"},
 		{"id":"e6f0671c295f7f5a","x":1985,"y":-564,"width":320,"height":300,"type":"text","text":"Mined Cavern, rough\n7cp\nCeiling unstable in this area\nDeep crawler tracks\n\nSmells of nothing\nAir circulation\nHear skittering\n"},
-		{"id":"b91a804d0b7b4d82","x":1985,"y":-880,"width":320,"height":230,"type":"text","text":"30ft to opening\nIcy Cold Draft\nBack area collapsed dug by deep crawlers\nFuzzy nauseous feeling"},
+		{"id":"b91a804d0b7b4d82","x":1985,"y":-880,"width":320,"height":230,"type":"text","text":"30ft to opening\nIcy Cold Draft\nBack area collapsed dug by deep crawlers\nFuzzy nauseous feeling\nHeavily armoured dead body"},
 		{"id":"204741ae600d01d6","x":2020,"y":295,"width":250,"height":60,"type":"text","text":"Voices further away"}
 	],
 	"edges":[

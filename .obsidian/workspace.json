@@ -117,9 +117,9 @@
                   "state": {
                     "file": "Locations/Coprun/Mine Layout.canvas",
                     "viewState": {
-                      "x": 1968.0939555600316,
-                      "y": -225.44890357445752,
-                      "zoom": -0.6666666666666667
+                      "x": 2128.7710660166927,
+                      "y": -146.78432566578965,
+                      "zoom": -1
                     }
                   },
                   "pinned": true
@@ -304,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +321,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +344,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md"
+                "file": "Locations/Coprun/Mine Layout.canvas"
               }
             }
           },
@@ -399,8 +399,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "775f724b97622098",
+  "active": "9ab8107d85fd2715",
   "lastOpenFiles": [
+    "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Locations/Coprun/Mine Layout.canvas",
@@ -416,7 +417,6 @@
     "Assets/Maps/MineCombat1.png",
     "Assets/Maps",
     "Assets/Maps/MineCombat2.png",
-    "Sessions/2023/05 07 - Session 1.md",
     "Locations/Coprun/Copper Mines.md",
     "Character Lore/Party/The Party.md",
     "Setting Rules/Weapon Rules.md",
