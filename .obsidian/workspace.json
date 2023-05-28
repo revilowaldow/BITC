@@ -99,7 +99,8 @@
                   "pinned": true
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "b9ed39ad506369d3",
@@ -199,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas"
+                "file": "Sessions/2023/05 07 - Session 1.md"
               }
             }
           },
@@ -294,7 +295,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ab8107d85fd2715",
+  "active": "775f724b97622098",
   "lastOpenFiles": [
     "Sessions/2023/05 28 - Session 2.md",
     "Locations/Coprun/Mine Layout.canvas",
