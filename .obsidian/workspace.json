@@ -35,7 +35,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2023/Untitled.md",
+                "file": "Sessions/2023/05 07 - Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2ba89f6f0873a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 28 - Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb8de6380366dcd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/04 23 - Session 0.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "fcce9d794d5ce945",
@@ -235,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/Untitled.md",
+                "file": "Sessions/2023/05 28 - Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/Untitled.md",
+                "file": "Sessions/2023/05 28 - Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/Untitled.md"
+                "file": "Sessions/2023/05 28 - Session 2.md"
               }
             }
           },
@@ -321,13 +345,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "775f724b97622098",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
-    "NPCs/Leader Jovil.md",
-    "Sessions/2023/Untitled.md",
+    "Sessions/2023/05 07 - Session 1.md",
+    "Sessions/2023/05 28 - Session 2.md",
+    "Sessions/2023/04 23 - Session 0.5.md",
+    "Character Lore/NPCs/Leader Jovil.md",
     "Assets/Pasted image 20230507171917.png",
     "Character Lore/Party/The Party.md",
-    "Sessions/2023/05 07 - Session 1.md",
     "Locations/Coprun/Mine Layout.canvas",
     "clean.bat",
     "Setting Rules/Weapon Rules.md",
@@ -343,13 +368,12 @@
     "Setting Rules/Valid Wild Shapes.md",
     "Character Lore/Party/Amaranth.md",
     "Character Lore/Party/Aru.md",
-    "NPCs/Teryna.md",
-    "Sessions/2023/04 23 - Session 0.5.md",
+    "Character Lore/NPCs/Teryna.md",
     "Locations/Coprun/Coprun.md",
     "Setting Rules/Rules Index.md",
     "Character Lore/Party/Eugene.md",
-    "NPCs/Nefros.md",
-    "NPCs/Calamxis.md",
+    "Character Lore/NPCs/Nefros.md",
+    "Character Lore/NPCs/Calamxis.md",
     "Locations/Coprun/Market.md",
     "Factions/Silver Company.md",
     "Factions/Sea Blooded Organisation.md",
@@ -362,7 +386,7 @@
     "Factions/Eastern City States",
     "Locations/Kathkach",
     "Character Lore/Party",
-    "NPCs",
+    "Character Lore/NPCs",
     "Factions",
     "Locations/Coprun",
     "Locations",
