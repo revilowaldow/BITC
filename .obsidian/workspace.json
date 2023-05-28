@@ -95,28 +95,6 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "fcce9d794d5ce945",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a79e7357ee5ad44d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
-                "viewState": {
-                  "x": 325.5131175877151,
-                  "y": 80.22132955031411,
-                  "zoom": -0.3333333333333333
-                }
-              }
-            }
-          }
         ]
       }
     ],
@@ -191,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Sessions/2023/05 28 - Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Sessions/2023/05 28 - Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas"
+                "file": "Sessions/2023/05 28 - Session 2.md"
               }
             }
           },
@@ -285,13 +263,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a79e7357ee5ad44d",
+  "active": "f2ba89f6f0873a07",
   "lastOpenFiles": [
+    "Sessions/2023/05 07 - Session 1.md",
+    "Locations/Coprun/Mine Layout.canvas",
     "Locations/Coprun/Copper Mines.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Character Lore/Party/The Party.md",
     "Assets/Pasted image 20230507171917.png",
-    "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Setting Rules/Weapon Rules.md",
     "Character Lore/Party/Kaulinan Badag.md",
@@ -299,7 +278,6 @@
     "Factions/Silver Company.md",
     "Locations/Kathkach/Kathkach.md",
     "Character Lore/NPCs/Leader Jovil.md",
-    "Locations/Coprun/Mine Layout.canvas",
     "clean.bat",
     "Locations/Coprun/Miners Pick.md",
     "Assets/Pasted image 20230423144311.png",
