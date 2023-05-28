@@ -1,4 +1,4 @@
-Knows [[Aru]]
+Knows [[Aru of the Sands]]
 Speaks Thieves cant
 
 Potentially criminal muscle
