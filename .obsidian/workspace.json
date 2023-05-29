@@ -179,6 +179,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a7f194ffcd3c042",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 13
@@ -350,7 +358,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa591f66739d45c9",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
