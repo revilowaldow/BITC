@@ -138,8 +138,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "5dc77186d4a1133e",
@@ -155,9 +154,9 @@
                   "state": {
                     "file": "Locations/Coprun/Mine Layout.canvas",
                     "viewState": {
-                      "x": 1991.2316386203756,
-                      "y": -127.4195739765961,
-                      "zoom": -1
+                      "x": 2307.5348674114207,
+                      "y": 243.36920118203352,
+                      "zoom": -1.1102230246251565e-16
                     }
                   },
                   "pinned": true
@@ -240,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/05 28 - Session 2.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/05 28 - Session 2.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/05 28 - Session 2.md"
+                "file": "Locations/Coprun/Mine Layout.canvas"
               }
             }
           },
@@ -335,11 +334,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "274b73124f714b42",
+  "active": "9ab8107d85fd2715",
   "lastOpenFiles": [
-    "Locations/Coprun/Mine Layout.canvas",
-    "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/06 04 - Session 3.md",
+    "Sessions/2023/05 28 - Session 2.md",
+    "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/05 07 - Session 1.md",
     "Character Lore/NPCs/Leader Jovil.md",
     "Assets/Maps/Topographic Map.png",
