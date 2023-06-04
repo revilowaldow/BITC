@@ -16,9 +16,9 @@
               "state": {
                 "file": "Locations/Coprun/Mine Layout.canvas",
                 "viewState": {
-                  "x": 1373.2493640088646,
-                  "y": 610.9513513102875,
-                  "zoom": -2.26058986560891
+                  "x": 1708.6601405146712,
+                  "y": 819.560519381929,
+                  "zoom": -1.26058986560891
                 }
               },
               "pinned": true
@@ -161,16 +161,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cb58690dc9c20fb4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -244,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Sessions/2023/05 28 - Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Sessions/2023/05 28 - Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas"
+                "file": "Sessions/2023/05 28 - Session 2.md"
               }
             }
           },
@@ -339,10 +332,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ab8107d85fd2715",
+  "active": "2a7f194ffcd3c042",
   "lastOpenFiles": [
-    "Sessions/2023/06 04 - Session 3.md",
     "Locations/Coprun/Mine Layout.canvas",
+    "Sessions/2023/06 04 - Session 3.md",
     "Assets/Maps/MineCombat3.png",
     "Pasted image 20230604141319.png",
     "Setting Rules/Valid Wild Shapes.md",
