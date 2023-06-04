@@ -16,11 +16,12 @@
 		{"type":"text","text":"Mined Cavern, rough\n7cp\nCeiling unstable in this area\nDeep crawler tracks\n\nSmells of nothing\nAir circulation\nHear skittering\n","id":"e6f0671c295f7f5a","x":1985,"y":-564,"width":320,"height":300},
 		{"type":"text","text":"30ft to opening\nIcy Cold Draft\nBack area collapsed dug by deep crawlers\nFuzzy nauseous feeling\nHeavily armoured dead body","id":"b91a804d0b7b4d82","x":1985,"y":-880,"width":320,"height":230},
 		{"type":"text","text":"Large pillar of rock in centre\nSmells of smoke\nHear murmur of voices\nRoom with three ghouls\nWheelbarrows and crates\n\nGhouls distracted towards noise\n\nWhat a fucking mess","id":"c8e2290c936d9807","x":1965,"y":63,"width":360,"height":386},
-		{"id":"108605920bf92174","x":2360,"y":77,"width":400,"height":358,"type":"file","file":"Assets/Maps/MineCombat3.png"},
-		{"id":"ae4e144c362100ce","x":2020,"y":621,"width":250,"height":60,"type":"text","text":"Door to side\n"},
-		{"id":"5dca166e4803a9a9","x":2020,"y":1040,"width":250,"height":60,"type":"text","text":"Exit barricaded with crates\n"},
+		{"type":"file","file":"Assets/Maps/MineCombat3.png","id":"108605920bf92174","x":2360,"y":77,"width":400,"height":358},
+		{"type":"text","text":"Door to side\n","id":"ae4e144c362100ce","x":2020,"y":621,"width":250,"height":60},
+		{"type":"text","text":"Exit barricaded with crates\n","id":"5dca166e4803a9a9","x":2020,"y":1040,"width":250,"height":60},
 		{"type":"text","text":"Voices further away\nBarricade of crates and boxes\nSea blooded organisation bottleneck","id":"e57b36bd8354ec5d","x":1975,"y":760,"width":340,"height":200},
-		{"id":"f843de891798db18","x":2415,"y":480,"width":345,"height":508,"type":"text","text":"Dead end supply room\n15x15ft\nCrates and chests\nDesk with shelves\n- Many documents missing\n- Broken tally sticks\n- 4 iron picks\n- ~~4 torches~~\n- ~~lizardstick 7~~\n- ~~bronze battle axe~~\n- ~~longbow~~\n- ~~6 arrows~~\n- ~~5 woollen blankets~~\n\nCrates could be used to blockade door\n\nBarricaded in room"}
+		{"type":"text","text":"Dead end supply room\n15x15ft\nCrates and chests\nDesk with shelves\n- Many documents missing\n- Broken tally sticks\n- 4 iron picks\n- ~~4 torches~~\n- ~~lizardstick 7~~\n- ~~bronze battle axe~~\n- ~~longbow~~\n- ~~6 arrows~~\n- ~~5 woollen blankets~~\n\nCrates could be used to blockade door\n\nBarricaded in room","id":"f843de891798db18","x":2415,"y":480,"width":345,"height":508},
+		{"id":"d770ca462912e8f2","x":2014,"y":1450,"width":250,"height":60,"type":"text","text":"Newer rought"}
 	],
 	"edges":[
 		{"id":"8a1483f3d5eaea03","fromNode":"88cc56b40b519667","fromSide":"top","toNode":"970956ae872f1300","toSide":"bottom","label":"50ft"},
@@ -43,6 +44,7 @@
 		{"id":"2316843b93e45bab","fromNode":"c8e2290c936d9807","fromSide":"bottom","toNode":"ae4e144c362100ce","toSide":"top","label":"60ft"},
 		{"id":"707404cd5cf81f20","fromNode":"ae4e144c362100ce","fromSide":"right","toNode":"f843de891798db18","toSide":"left"},
 		{"id":"2a1dfa73ed23d9d3","fromNode":"ae4e144c362100ce","fromSide":"bottom","toNode":"e57b36bd8354ec5d","toSide":"top"},
-		{"id":"7dc7d04f0aa05b10","fromNode":"e57b36bd8354ec5d","fromSide":"bottom","toNode":"5dca166e4803a9a9","toSide":"top"}
+		{"id":"7dc7d04f0aa05b10","fromNode":"e57b36bd8354ec5d","fromSide":"bottom","toNode":"5dca166e4803a9a9","toSide":"top"},
+		{"id":"52b5f33f4cd93ff7","fromNode":"5dca166e4803a9a9","fromSide":"bottom","toNode":"d770ca462912e8f2","toSide":"top"}
 	]
 }
