@@ -161,6 +161,18 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "d773f6340406bc25",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Setting Rules/Valid Wild Shapes.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ]
           }
@@ -336,9 +348,10 @@
   },
   "active": "9ab8107d85fd2715",
   "lastOpenFiles": [
+    "Setting Rules/Valid Wild Shapes.md",
+    "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
-    "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/05 07 - Session 1.md",
     "Character Lore/NPCs/Leader Jovil.md",
     "Assets/Maps/Topographic Map.png",
@@ -346,7 +359,6 @@
     "Locations/Kathkach/Kathkach.md",
     "Locations/Jungles.md",
     "Sessions/2023/04 23 - Session 0.5.md",
-    "Setting Rules/Valid Wild Shapes.md",
     "Assets/Characters/KaulinanRolls.png",
     "Assets/Table/Pasted image 20230423144311.png",
     "Assets/Table/Pasted image 20230423131449.png",
