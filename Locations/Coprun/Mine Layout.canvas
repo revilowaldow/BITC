@@ -16,7 +16,7 @@
 		{"type":"text","text":"Mined Cavern, rough\n7cp\nCeiling unstable in this area\nDeep crawler tracks\n\nSmells of nothing\nAir circulation\nHear skittering\n","id":"e6f0671c295f7f5a","x":1985,"y":-564,"width":320,"height":300},
 		{"type":"text","text":"30ft to opening\nIcy Cold Draft\nBack area collapsed dug by deep crawlers\nFuzzy nauseous feeling\nHeavily armoured dead body","id":"b91a804d0b7b4d82","x":1985,"y":-880,"width":320,"height":230},
 		{"type":"text","text":"Voices further away","id":"204741ae600d01d6","x":2020,"y":540,"width":250,"height":60},
-		{"type":"text","text":"Large pillar of rock in center\nSmells of smoke\nHear murmur of voices\nRoom with three ghouls\nWheelbarrows and crates\n\nGhouls distracted t\n\n","id":"c8e2290c936d9807","x":1965,"y":63,"width":360,"height":386}
+		{"type":"text","text":"Large pillar of rock in center\nSmells of smoke\nHear murmur of voices\nRoom with three ghouls\nWheelbarrows and crates\n\nGhouls distracted towards noise\n\n","id":"c8e2290c936d9807","x":1965,"y":63,"width":360,"height":386}
 	],
 	"edges":[
 		{"id":"8a1483f3d5eaea03","fromNode":"88cc56b40b519667","fromSide":"top","toNode":"970956ae872f1300","toSide":"bottom","label":"50ft"},
