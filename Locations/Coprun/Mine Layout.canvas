@@ -17,8 +17,9 @@
 		{"type":"text","text":"30ft to opening\nIcy Cold Draft\nBack area collapsed dug by deep crawlers\nFuzzy nauseous feeling\nHeavily armoured dead body","id":"b91a804d0b7b4d82","x":1985,"y":-880,"width":320,"height":230},
 		{"type":"text","text":"Large pillar of rock in centre\nSmells of smoke\nHear murmur of voices\nRoom with three ghouls\nWheelbarrows and crates\n\nGhouls distracted towards noise\n\nWhat a fucking mess","id":"c8e2290c936d9807","x":1965,"y":63,"width":360,"height":386},
 		{"id":"108605920bf92174","x":2360,"y":77,"width":400,"height":358,"type":"file","file":"Pasted image 20230604141323.png"},
-		{"type":"text","text":"Voices further away\nBarricade of crates and boxes","id":"e57b36bd8354ec5d","x":1965,"y":840,"width":250,"height":100},
-		{"id":"ae4e144c362100ce","x":2070,"y":640,"width":250,"height":60,"type":"text","text":"Door\n"}
+		{"id":"ae4e144c362100ce","x":2020,"y":621,"width":250,"height":60,"type":"text","text":"Door to side\n"},
+		{"type":"text","text":"Voices further away\nBarricade of crates and boxes","id":"e57b36bd8354ec5d","x":2020,"y":760,"width":250,"height":100},
+		{"id":"f843de891798db18","x":2435,"y":621,"width":250,"height":60,"type":"text","text":"Unknown"}
 	],
 	"edges":[
 		{"id":"8a1483f3d5eaea03","fromNode":"88cc56b40b519667","fromSide":"top","toNode":"970956ae872f1300","toSide":"bottom","label":"50ft"},
@@ -38,6 +39,8 @@
 		{"id":"8ecfafe59ad8dca5","fromNode":"e6f0671c295f7f5a","fromSide":"top","toNode":"b91a804d0b7b4d82","toSide":"bottom","label":"30ft"},
 		{"id":"893e70946911c5ba","fromNode":"be15639f1f5bcf84","fromSide":"top","toNode":"e6f0671c295f7f5a","toSide":"bottom","label":"20ft"},
 		{"id":"fdaee2d355784ffe","fromNode":"c8e2290c936d9807","fromSide":"right","toNode":"108605920bf92174","toSide":"left"},
-		{"id":"2316843b93e45bab","fromNode":"c8e2290c936d9807","fromSide":"bottom","toNode":"ae4e144c362100ce","toSide":"top","label":"60ft"}
+		{"id":"2316843b93e45bab","fromNode":"c8e2290c936d9807","fromSide":"bottom","toNode":"ae4e144c362100ce","toSide":"top","label":"60ft"},
+		{"id":"707404cd5cf81f20","fromNode":"ae4e144c362100ce","fromSide":"right","toNode":"f843de891798db18","toSide":"left"},
+		{"id":"2a1dfa73ed23d9d3","fromNode":"ae4e144c362100ce","fromSide":"bottom","toNode":"e57b36bd8354ec5d","toSide":"top"}
 	]
 }
