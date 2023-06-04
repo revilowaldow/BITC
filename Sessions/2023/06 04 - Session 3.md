@@ -48,7 +48,7 @@ Resting:
 	- Collapsed in dream
 	- Man with no face but large hammer smashing everything 
 	- Elvish:
-		- ""
+		- "...will be reborn..."
 
 
 
