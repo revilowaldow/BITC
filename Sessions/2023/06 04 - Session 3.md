@@ -44,6 +44,9 @@ Resting:
 - [[Caenis]]
 	- Shop brickwork
 	- Oven beautiful
+	- Between 6 and 16 on Kathkach map
+	- Collapsed in dream
+	- Man with no face but large hammer smashing everything 
 	- 
 
 
