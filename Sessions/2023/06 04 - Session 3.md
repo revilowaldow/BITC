@@ -23,7 +23,9 @@ Someone else:
 Temporary truce 
 half a dozen down to three
 
-Deep 
+Deep crawlers do not attack if you keep your distance
+
+
 
 
 
