@@ -34,6 +34,10 @@ Deep crawlers do not attack if you keep your distance
 - [ ] make a bug report about popout windows
 
 
+Resting:
+- Ar8u has a nicenight
+
+
 
 
 
