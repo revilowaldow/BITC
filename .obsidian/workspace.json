@@ -154,8 +154,8 @@
                   "state": {
                     "file": "Locations/Coprun/Mine Layout.canvas",
                     "viewState": {
-                      "x": 2121.5348674114207,
-                      "y": 336.3692011820335,
+                      "x": 2391.5348674114207,
+                      "y": 370.3692011820335,
                       "zoom": -1.1102230246251565e-16
                     }
                   },
@@ -348,6 +348,8 @@
   },
   "active": "9ab8107d85fd2715",
   "lastOpenFiles": [
+    "Pasted image 20230604141323.png",
+    "Pasted image 20230604141319.png",
     "Setting Rules/Valid Wild Shapes.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/06 04 - Session 3.md",
@@ -392,7 +394,6 @@
     "Character Lore/Party",
     "Character Lore/NPCs",
     "Factions",
-    "Locations/Coprun",
-    "Assets/Characters/KaulinanTokenLarge.png"
+    "Locations/Coprun"
   ]
 }
