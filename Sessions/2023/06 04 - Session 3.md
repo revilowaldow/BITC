@@ -35,7 +35,9 @@ Deep crawlers do not attack if you keep your distance
 
 
 Resting:
-- Ar8u has a nicenight
+- Aru has a nice night
+- Kaulinan bad night dreams
+	- Grove leaves are black and 
 
 
 
