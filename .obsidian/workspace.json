@@ -13,6 +13,20 @@
             "dimension": 39.21985815602837,
             "children": [
               {
+                "id": "15a34dfeb5d7c84a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sessions/2023/06 04 - Session 3.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
                 "id": "f2ba89f6f0873a07",
                 "type": "leaf",
                 "pinned": true,
@@ -123,21 +137,9 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "15a34dfeb5d7c84a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sessions/2023/06 04 - Session 3.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 9
+            "currentTab": 1
           },
           {
             "id": "5dc77186d4a1133e",
@@ -153,8 +155,8 @@
                   "state": {
                     "file": "Locations/Coprun/Mine Layout.canvas",
                     "viewState": {
-                      "x": 1843.2316386203756,
-                      "y": 46.67532036860371,
+                      "x": 917.2316386203756,
+                      "y": 124.5804260234039,
                       "zoom": -1
                     }
                   },
@@ -238,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md"
+                "file": "Locations/Coprun/Mine Layout.canvas"
               }
             }
           },
@@ -333,11 +335,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15a34dfeb5d7c84a",
+  "active": "9ab8107d85fd2715",
   "lastOpenFiles": [
     "Sessions/2023/05 28 - Session 2.md",
-    "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/06 04 - Session 3.md",
+    "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/05 07 - Session 1.md",
     "Character Lore/NPCs/Leader Jovil.md",
     "Assets/Maps/Topographic Map.png",
