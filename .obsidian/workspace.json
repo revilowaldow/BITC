@@ -293,7 +293,15 @@
             }
           },
           {
-            "id": "d1736792db3e4413",
+            "id": "b1c0b9b6efd09be3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "274b73124f714b42",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -301,23 +309,15 @@
             }
           },
           {
-            "id": "05911282b6bceede",
+            "id": "21c0e989a8ccb76b",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
-          },
-          {
-            "id": "b1c0b9b6efd09be3",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -335,7 +335,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2ba89f6f0873a07",
+  "active": "274b73124f714b42",
   "lastOpenFiles": [
     "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/05 28 - Session 2.md",
