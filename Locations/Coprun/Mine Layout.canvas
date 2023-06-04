@@ -18,8 +18,9 @@
 		{"type":"text","text":"Large pillar of rock in centre\nSmells of smoke\nHear murmur of voices\nRoom with three ghouls\nWheelbarrows and crates\n\nGhouls distracted towards noise\n\nWhat a fucking mess","id":"c8e2290c936d9807","x":1965,"y":63,"width":360,"height":386},
 		{"id":"108605920bf92174","x":2360,"y":77,"width":400,"height":358,"type":"file","file":"Pasted image 20230604141323.png"},
 		{"id":"ae4e144c362100ce","x":2020,"y":621,"width":250,"height":60,"type":"text","text":"Door to side\n"},
-		{"type":"text","text":"Voices further away\nBarricade of crates and boxes","id":"e57b36bd8354ec5d","x":2020,"y":760,"width":250,"height":100},
-		{"id":"f843de891798db18","x":2435,"y":621,"width":250,"height":60,"type":"text","text":"Unknown"}
+		{"id":"f843de891798db18","x":2435,"y":621,"width":250,"height":60,"type":"text","text":"Unknown"},
+		{"id":"5dca166e4803a9a9","x":2020,"y":1040,"width":250,"height":60,"type":"text","text":"Exit barricaded with crates\n"},
+		{"type":"text","text":"Voices further away\nBarricade of crates and boxes","id":"e57b36bd8354ec5d","x":1975,"y":760,"width":340,"height":200}
 	],
 	"edges":[
 		{"id":"8a1483f3d5eaea03","fromNode":"88cc56b40b519667","fromSide":"top","toNode":"970956ae872f1300","toSide":"bottom","label":"50ft"},
@@ -41,6 +42,7 @@
 		{"id":"fdaee2d355784ffe","fromNode":"c8e2290c936d9807","fromSide":"right","toNode":"108605920bf92174","toSide":"left"},
 		{"id":"2316843b93e45bab","fromNode":"c8e2290c936d9807","fromSide":"bottom","toNode":"ae4e144c362100ce","toSide":"top","label":"60ft"},
 		{"id":"707404cd5cf81f20","fromNode":"ae4e144c362100ce","fromSide":"right","toNode":"f843de891798db18","toSide":"left"},
-		{"id":"2a1dfa73ed23d9d3","fromNode":"ae4e144c362100ce","fromSide":"bottom","toNode":"e57b36bd8354ec5d","toSide":"top"}
+		{"id":"2a1dfa73ed23d9d3","fromNode":"ae4e144c362100ce","fromSide":"bottom","toNode":"e57b36bd8354ec5d","toSide":"top"},
+		{"id":"7dc7d04f0aa05b10","fromNode":"e57b36bd8354ec5d","fromSide":"bottom","toNode":"5dca166e4803a9a9","toSide":"top"}
 	]
 }
