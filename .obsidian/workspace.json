@@ -4,188 +4,173 @@
     "type": "split",
     "children": [
       {
-        "id": "1660abd9fd1c071f",
-        "type": "split",
+        "id": "0338fbdf76762d60",
+        "type": "tabs",
         "children": [
           {
-            "id": "0338fbdf76762d60",
-            "type": "tabs",
-            "dimension": 42.4822695035461,
-            "children": [
-              {
-                "id": "15a34dfeb5d7c84a",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sessions/2023/06 04 - Session 3.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
+            "id": "9ab8107d85fd2715",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Coprun/Mine Layout.canvas",
+                "viewState": {
+                  "x": 1449.9193422666497,
+                  "y": 1387.2348811703598,
+                  "zoom": -2.26058986560891
                 }
               },
-              {
-                "id": "f2ba89f6f0873a07",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sessions/2023/05 28 - Session 2.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "775f724b97622098",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sessions/2023/05 07 - Session 1.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "cb8de6380366dcd7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sessions/2023/05 28 - Session 2.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "895a84035e4e7633",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Setting Rules/Weapon Rules.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "12d40666be4e30af",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Character Lore/Party/Kaulinan Badag.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7a76580376b29191",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sessions/2023/05 07 - Session 1.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "ebec14137f83ac00",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Locations/Kathkach/Kathkach.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "fa591f66739d45c9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sessions/2023/05 07 - Session 1.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "2a7f194ffcd3c042",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sessions/2023/05 28 - Session 2.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "cb58690dc9c20fb4",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
+              "pinned": true
+            }
           },
           {
-            "id": "5dc77186d4a1133e",
-            "type": "tabs",
-            "dimension": 57.5177304964539,
-            "children": [
-              {
-                "id": "9ab8107d85fd2715",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Locations/Coprun/Mine Layout.canvas",
-                    "viewState": {
-                      "x": 2350.7915867956226,
-                      "y": 1909.3952539333368,
-                      "zoom": -0.9272565322755766
-                    }
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "d773f6340406bc25",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Setting Rules/Valid Wild Shapes.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "d773f6340406bc25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Rules/Valid Wild Shapes.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "15a34dfeb5d7c84a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/06 04 - Session 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f2ba89f6f0873a07",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 28 - Session 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "775f724b97622098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb8de6380366dcd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 28 - Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "895a84035e4e7633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Rules/Weapon Rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12d40666be4e30af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Lore/Party/Kaulinan Badag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a76580376b29191",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ebec14137f83ac00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Kathkach/Kathkach.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa591f66739d45c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a7f194ffcd3c042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 28 - Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb58690dc9c20fb4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md"
+                "file": "Locations/Coprun/Mine Layout.canvas"
               }
             }
           },
@@ -354,10 +339,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15a34dfeb5d7c84a",
+  "active": "9ab8107d85fd2715",
   "lastOpenFiles": [
-    "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/06 04 - Session 3.md",
+    "Locations/Coprun/Mine Layout.canvas",
     "Assets/Maps/MineCombat3.png",
     "Pasted image 20230604141319.png",
     "Setting Rules/Valid Wild Shapes.md",
