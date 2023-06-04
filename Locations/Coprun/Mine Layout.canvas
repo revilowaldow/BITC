@@ -20,7 +20,7 @@
 		{"id":"ae4e144c362100ce","x":2020,"y":621,"width":250,"height":60,"type":"text","text":"Door to side\n"},
 		{"id":"5dca166e4803a9a9","x":2020,"y":1040,"width":250,"height":60,"type":"text","text":"Exit barricaded with crates\n"},
 		{"type":"text","text":"Voices further away\nBarricade of crates and boxes\nSea blooded organisation bottleneck","id":"e57b36bd8354ec5d","x":1975,"y":760,"width":340,"height":200},
-		{"id":"f843de891798db18","x":2415,"y":506,"width":345,"height":508,"type":"text","text":"Dead end supply room\n15x15ft\nCrates and chests\nDesk with shelves\n- Many documents missing\n- Broken tally sticks\n- 4 iron picks\n- ~~4 torches~~\n- ~~lizardstick 7~~\n- bronze battle axe\n- ~~longbow~~\n- ~~6 arrows~~\n- ~~5 woollen blankets~~\n\nCrates could be used to blockade door\n\n"}
+		{"id":"f843de891798db18","x":2415,"y":480,"width":345,"height":508,"type":"text","text":"Dead end supply room\n15x15ft\nCrates and chests\nDesk with shelves\n- Many documents missing\n- Broken tally sticks\n- 4 iron picks\n- ~~4 torches~~\n- ~~lizardstick 7~~\n- ~~bronze battle axe~~\n- ~~longbow~~\n- ~~6 arrows~~\n- ~~5 woollen blankets~~\n\nCrates could be used to blockade door\n\n"}
 	],
 	"edges":[
 		{"id":"8a1483f3d5eaea03","fromNode":"88cc56b40b519667","fromSide":"top","toNode":"970956ae872f1300","toSide":"bottom","label":"50ft"},

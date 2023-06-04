@@ -155,7 +155,7 @@
                     "file": "Locations/Coprun/Mine Layout.canvas",
                     "viewState": {
                       "x": 2389.9474663594538,
-                      "y": 807.8309122517746,
+                      "y": -77.93887474648068,
                       "zoom": -0.6666666666666667
                     }
                   },
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md"
+                "file": "Locations/Coprun/Mine Layout.canvas"
               }
             }
           },
@@ -346,10 +346,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15a34dfeb5d7c84a",
+  "active": "9ab8107d85fd2715",
   "lastOpenFiles": [
-    "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/06 04 - Session 3.md",
+    "Locations/Coprun/Mine Layout.canvas",
     "Pasted image 20230604141323.png",
     "Pasted image 20230604141319.png",
     "Setting Rules/Valid Wild Shapes.md",
