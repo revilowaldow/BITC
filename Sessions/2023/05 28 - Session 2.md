@@ -7,7 +7,7 @@ Alex is recapping next session
 Deep Crawler Worker
 Stunning venom
 
-Ghouls weren't true undead, are they diseased or 
+Ghouls weren't true undead, are they diseased or mutated
 
 
 3 Raiders took region
