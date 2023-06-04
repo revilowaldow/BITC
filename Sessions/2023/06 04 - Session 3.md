@@ -8,7 +8,7 @@ Tunnel
 Sleep
 Rescued by three fighters
 
-Agent Veronica
+[[Agent Veronica]]
 	Sea blooded organisation
 	Scimitar and dagger
 	Studded Leather
@@ -27,6 +27,8 @@ half a dozen down to three
 
 Deep crawlers do not attack if you keep your distance
 
+
+[[Caenis]] made a pemmican out of lizardstick
 
 
 
