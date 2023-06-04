@@ -41,6 +41,10 @@ Resting:
 	- Trees shrivel and shrink
 	- Coprun disc of light with figure emerging
 	- Two shapes - proud, and shadowy but violent
+- Caenis
+	- Shop brickwork
+	- Oven beautiful
+	- 
 
 
 
