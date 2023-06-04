@@ -137,6 +137,14 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "cb58690dc9c20fb4",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
               }
             ]
           },
@@ -251,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Sessions/2023/06 04 - Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Sessions/2023/06 04 - Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas"
+                "file": "Sessions/2023/06 04 - Session 3.md"
               }
             }
           },
@@ -346,10 +354,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ab8107d85fd2715",
+  "active": "15a34dfeb5d7c84a",
   "lastOpenFiles": [
-    "Sessions/2023/06 04 - Session 3.md",
     "Locations/Coprun/Mine Layout.canvas",
+    "Sessions/2023/06 04 - Session 3.md",
     "Assets/Maps/MineCombat3.png",
     "Pasted image 20230604141319.png",
     "Setting Rules/Valid Wild Shapes.md",
