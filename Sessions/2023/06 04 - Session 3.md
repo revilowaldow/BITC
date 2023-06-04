@@ -29,7 +29,10 @@ Deep crawlers do not attack if you keep your distance
 
 
 [[Caenis]] made a pemmican out of lizardstick
-	Also made a reedsqueeze/fired bread
+	Also made a reedsqueeze/fired bread paste mix thing
+
+
+
 
 
 
