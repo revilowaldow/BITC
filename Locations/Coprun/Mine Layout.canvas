@@ -16,7 +16,7 @@
 		{"type":"text","text":"Mined Cavern, rough\n7cp\nCeiling unstable in this area\nDeep crawler tracks\n\nSmells of nothing\nAir circulation\nHear skittering\n","id":"e6f0671c295f7f5a","x":1985,"y":-564,"width":320,"height":300},
 		{"type":"text","text":"30ft to opening\nIcy Cold Draft\nBack area collapsed dug by deep crawlers\nFuzzy nauseous feeling\nHeavily armoured dead body","id":"b91a804d0b7b4d82","x":1985,"y":-880,"width":320,"height":230},
 		{"type":"text","text":"Large pillar of rock in centre\nSmells of smoke\nHear murmur of voices\nRoom with three ghouls\nWheelbarrows and crates\n\nGhouls distracted towards noise\n\nWhat a fucking mess","id":"c8e2290c936d9807","x":1965,"y":63,"width":360,"height":386},
-		{"id":"108605920bf92174","x":2360,"y":77,"width":400,"height":358,"type":"file","file":"Pasted image 20230604141323.png"},
+		{"id":"108605920bf92174","x":2360,"y":77,"width":400,"height":358,"type":"file","file":"Assets/Maps/MineCombat3.png"},
 		{"id":"ae4e144c362100ce","x":2020,"y":621,"width":250,"height":60,"type":"text","text":"Door to side\n"},
 		{"id":"5dca166e4803a9a9","x":2020,"y":1040,"width":250,"height":60,"type":"text","text":"Exit barricaded with crates\n"},
 		{"type":"text","text":"Voices further away\nBarricade of crates and boxes\nSea blooded organisation bottleneck","id":"e57b36bd8354ec5d","x":1975,"y":760,"width":340,"height":200},

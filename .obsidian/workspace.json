@@ -27,26 +27,6 @@
                 }
               },
               {
-                "id": "6650d940dedddc2d",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Pasted image 20230604141319.png"
-                  }
-                }
-              },
-              {
-                "id": "2dfe4824e67e96cf",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Pasted image 20230604141323.png"
-                  }
-                }
-              },
-              {
                 "id": "f2ba89f6f0873a07",
                 "type": "leaf",
                 "pinned": true,
@@ -158,8 +138,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "5dc77186d4a1133e",
@@ -176,7 +155,7 @@
                     "file": "Locations/Coprun/Mine Layout.canvas",
                     "viewState": {
                       "x": 2364.5490495279623,
-                      "y": 661.7900154707003,
+                      "y": 514.1617176376577,
                       "zoom": -0.6666666666666667
                     }
                   },
@@ -272,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230604141319.png",
+                "file": "Sessions/2023/06 04 - Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230604141319.png",
+                "file": "Sessions/2023/06 04 - Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230604141319.png"
+                "file": "Sessions/2023/06 04 - Session 3.md"
               }
             }
           },
@@ -367,12 +346,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6650d940dedddc2d",
+  "active": "15a34dfeb5d7c84a",
   "lastOpenFiles": [
-    "Pasted image 20230604141323.png",
+    "Locations/Coprun/Mine Layout.canvas",
+    "Assets/Maps/MineCombat3.png",
     "Pasted image 20230604141319.png",
     "Sessions/2023/06 04 - Session 3.md",
-    "Locations/Coprun/Mine Layout.canvas",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
