@@ -50,7 +50,7 @@
 		{"id":"7dc7d04f0aa05b10","fromNode":"e57b36bd8354ec5d","fromSide":"bottom","toNode":"5dca166e4803a9a9","toSide":"top"},
 		{"id":"52b5f33f4cd93ff7","fromNode":"5dca166e4803a9a9","fromSide":"bottom","toNode":"d770ca462912e8f2","toSide":"top","label":"100ft"},
 		{"id":"c28d83ad52e3f0ed","fromNode":"d770ca462912e8f2","fromSide":"bottom","toNode":"e0e7b04ba79d7cb5","toSide":"top","color":"#460f99","label":"50ft shaft"},
-		{"id":"9ab5bb70258490bc","fromNode":"e0e7b04ba79d7cb5","fromSide":"right","toNode":"2d06bbb386fddecd","toSide":"left"},
+		{"id":"9ab5bb70258490bc","fromNode":"e0e7b04ba79d7cb5","fromSide":"right","toNode":"2d06bbb386fddecd","toSide":"left","label":"50 ft"},
 		{"id":"62dcf6ab0fc1b677","fromNode":"e0e7b04ba79d7cb5","fromSide":"left","toNode":"644a1ee874bdf3e7","toSide":"right"}
 	]
 }
