@@ -35,13 +35,13 @@ Deep crawlers do not attack if you keep your distance
 
 
 Resting:
-- Aru has a nice night
-- Kaulinan bad night dreams
+- [[Aru]] has a nice night
+- [[Kaulinan]] bad night dreams
 	- Grove leaves are black and dried up
 	- Trees shrivel and shrink
 	- Coprun disc of light with figure emerging
 	- Two shapes - proud, and shadowy but violent
-- Caenis
+- [[Caenis]]
 	- Shop brickwork
 	- Oven beautiful
 	- 
