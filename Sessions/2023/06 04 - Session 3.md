@@ -16,12 +16,12 @@ Rescued by three fighters
 	Short brown hair
 	Aegan hairstyle
 
-Person 1:
+[[Elana]]:
 	Archer 
 	Longbow
 	Human
 
-Person 2:
+[[Tom]]:
 	Muscled
 	Fighter 
 	Half-orc
