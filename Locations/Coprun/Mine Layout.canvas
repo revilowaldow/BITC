@@ -21,7 +21,7 @@
 		{"type":"text","text":"Exit barricaded with crates\n","id":"5dca166e4803a9a9","x":2020,"y":1040,"width":250,"height":60},
 		{"type":"text","text":"Voices further away\nBarricade of crates and boxes\nSea blooded organisation bottleneck","id":"e57b36bd8354ec5d","x":1975,"y":760,"width":340,"height":200},
 		{"type":"text","text":"Dead end supply room\n15x15ft\nCrates and chests\nDesk with shelves\n- Many documents missing\n- Broken tally sticks\n- 4 iron picks\n- ~~4 torches~~\n- ~~lizardstick 7~~\n- ~~bronze battle axe~~\n- ~~longbow~~\n- ~~6 arrows~~\n- ~~5 woollen blankets~~\n\nCrates could be used to blockade door\n\nBarricaded in room","id":"f843de891798db18","x":2415,"y":480,"width":345,"height":508},
-		{"id":"d770ca462912e8f2","x":2014,"y":1300,"width":486,"height":210,"type":"text","text":"Newer rougher deeper mine\n\n2 dead ghoul bodies\n\n"}
+		{"id":"d770ca462912e8f2","x":2014,"y":1300,"width":486,"height":380,"type":"text","text":"Newer rougher deeper mine\n\n2 dead ghoul bodies\n\nDied of blood loss from arrows\n\n"}
 	],
 	"edges":[
 		{"id":"8a1483f3d5eaea03","fromNode":"88cc56b40b519667","fromSide":"top","toNode":"970956ae872f1300","toSide":"bottom","label":"50ft"},
