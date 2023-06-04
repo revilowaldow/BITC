@@ -8,7 +8,8 @@ Tunnel
 Sleep
 Rescued by three fighters
 
-Woman:
+Agent Veronica
+	Sea blooded organisation
 	Scimitar and dagger
 	Studded Leather
 	Sling
@@ -17,5 +18,6 @@ Woman:
 
 Someone else:
 	Longbow
+
 
 
