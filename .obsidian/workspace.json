@@ -4,192 +4,166 @@
     "type": "split",
     "children": [
       {
-        "id": "0338fbdf76762d60",
-        "type": "tabs",
+        "id": "1660abd9fd1c071f",
+        "type": "split",
         "children": [
           {
-            "id": "f2ba89f6f0873a07",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 28 - Session 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "775f724b97622098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb8de6380366dcd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 28 - Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdcda0ad4f8ed8e5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/PevicContinent.png"
-              }
-            }
-          },
-          {
-            "id": "38fb0a5779ef2c70",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Topographic Map.png"
-              }
-            }
-          },
-          {
-            "id": "e6d3597708cb7ff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Lore/NPCs/Leader Jovil.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "892e3c6ca6124b1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a9b420a77fd31f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Coprun/Copper Mines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "895a84035e4e7633",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Weapon Rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12d40666be4e30af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Lore/Party/Kaulinan Badag.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a76580376b29191",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "9ab8107d85fd2715",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
-                "viewState": {
-                  "x": 926.3324045779201,
-                  "y": -70.15450037430793,
-                  "zoom": -0.3333333333333334
+            "id": "0338fbdf76762d60",
+            "type": "tabs",
+            "dimension": 39.21985815602837,
+            "children": [
+              {
+                "id": "f2ba89f6f0873a07",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sessions/2023/05 28 - Session 2.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
                 }
               },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ebec14137f83ac00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/Kathkach.md",
-                "mode": "source",
-                "source": false
+              {
+                "id": "775f724b97622098",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sessions/2023/05 07 - Session 1.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "cb8de6380366dcd7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sessions/2023/05 28 - Session 2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "895a84035e4e7633",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Setting Rules/Weapon Rules.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "12d40666be4e30af",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Character Lore/Party/Kaulinan Badag.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7a76580376b29191",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sessions/2023/05 07 - Session 1.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "ebec14137f83ac00",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Kathkach/Kathkach.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "fa591f66739d45c9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sessions/2023/05 07 - Session 1.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2a7f194ffcd3c042",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sessions/2023/05 28 - Session 2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "15a34dfeb5d7c84a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sessions/2023/06 04 - Session 3.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "fa591f66739d45c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
+            "id": "5dc77186d4a1133e",
+            "type": "tabs",
+            "dimension": 60.780141843971634,
+            "children": [
+              {
+                "id": "9ab8107d85fd2715",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Locations/Coprun/Mine Layout.canvas",
+                    "viewState": {
+                      "x": 2215.2316386203756,
+                      "y": -139.32467963139635,
+                      "zoom": -1
+                    }
+                  },
+                  "pinned": true
+                }
               }
-            }
-          },
-          {
-            "id": "2a7f194ffcd3c042",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+            ]
           }
         ],
-        "currentTab": 13
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -358,16 +332,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "f2ba89f6f0873a07",
   "lastOpenFiles": [
+    "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/05 28 - Session 2.md",
+    "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Character Lore/NPCs/Leader Jovil.md",
     "Assets/Maps/Topographic Map.png",
     "Assets/Maps/PevicContinent.png",
     "Locations/Kathkach/Kathkach.md",
     "Locations/Jungles.md",
-    "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Assets/Characters/KaulinanRolls.png",
@@ -397,7 +372,6 @@
     "Character Lore/NPCs/Calamxis.md",
     "Locations/Coprun/Market.md",
     "Factions/Sea Blooded Organisation.md",
-    "Factions/Lady Eyelaine.md",
     "Sessions/2023",
     "Factions/Eastern City States",
     "Locations/Kathkach",
