@@ -16,9 +16,15 @@ Rescued by three fighters
 	Short brown hair
 	Aegan hairstyle
 
-Someone else:
+Person 1:
+	Archer 
 	Longbow
+	Human
 
+Person 2:
+	Muscled
+	Fighter 
+	Half-orc
 
 
 
