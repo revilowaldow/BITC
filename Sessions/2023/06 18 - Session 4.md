@@ -15,5 +15,9 @@ Gods:
 Location:
 - [[Abdos]] village to the north East of Kathkach, to the west of Coprun
 
+Caenis making a fish stew
+
+Box of assorted fine tools
+
 
 
