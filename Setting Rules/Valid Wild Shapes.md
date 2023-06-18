@@ -39,7 +39,6 @@
 - Mastiff
 - Mountain Goat
 - Mule
-- Owl
 - Ox
 - Panther
 - Pig
@@ -109,6 +108,7 @@
 - Hawk
 - Lion
 - Macaw
+- Owl
 - Parrot
 - Peacock
 - Pteranodon
