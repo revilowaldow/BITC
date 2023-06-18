@@ -13,7 +13,13 @@ Current administrator
 In partnership with the organisation [[Tower of Eyes]]
 Founded a long time ago to investigate magic
 Help control new ways
-Formed after the Helviti inqus
+Formed after the Helviti inquisition were found to be unable to handle supernatural affaris
+
+Silver company pursues economic goals
+
+
+
+
 
 
 Has a facility called [[The Pit]] for item research
