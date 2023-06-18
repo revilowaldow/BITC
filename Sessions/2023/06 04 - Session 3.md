@@ -47,7 +47,7 @@ Resting:
 	- Grove leaves are black and dried up
 	- Trees shrivel and shrink
 	- Coprun disc of light with figure emerging
-	- Two shapes - proud, and shadowy but violent
+	- Two shapes - proud, other was shadowy but violent
 - [[Caenis]]
 	- Shop brickwork
 	- Oven beautiful
