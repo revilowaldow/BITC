@@ -25,7 +25,8 @@ Perks
 - accomodation
 - extensive network
 
-[[Niko]] engineer, fleeing chneria city
+[[Niko]] engineer, fleeing [[Chineria]] city
+Works at the [[Copper Mines]]
 
 Apparently lights seen at the north side of town
 [[Teryna]] was an armed civillian 
