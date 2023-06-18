@@ -19,7 +19,9 @@ Caenis making a fish stew
 
 Box of assorted fine tools
 
-Sucessfully leave the mine,
+Successfully leave the mine,
 
-Leave potion of healing with note of thanks
+Leave potion of healing with note of thanks in exit chamber
+
+
 
