@@ -34,5 +34,9 @@ City of 7000 stairs Helviti stronghold
 
 Meet Tiefling on road
 
-[[Horso]] - 
+[[Horso]] - chained up due to killing someone but generally ok.
+Apparently an alright guy.
+Now owes us a favour
+
+
 
