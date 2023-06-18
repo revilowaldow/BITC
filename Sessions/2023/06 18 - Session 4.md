@@ -8,7 +8,11 @@ Orb is humming in Elvish:
 >"Run"
 
 Gods:
-	[[Gotha]]
-	[[Apotosis]]
+- [[Aepoptosis]]
+- [[Gotha]]  
+- [[Dyvarre]]  
+
+Location:
+- [[Abdos]] village to the north East of Kathkac
 
 
