@@ -56,6 +56,7 @@
 		{"id":"de11200233ba0187","fromNode":"2d06bbb386fddecd","fromSide":"right","toNode":"cd63b7241bd48620","toSide":"left"},
 		{"id":"a5c0cb01c6f73b84","fromNode":"28d10705bc8971dc","fromSide":"top","toNode":"27680c2b8cb89296","toSide":"bottom","color":"5"},
 		{"id":"fcc4e09371d302fe","fromNode":"27680c2b8cb89296","fromSide":"top","toNode":"0dee76f893ae4972","toSide":"bottom"},
-		{"id":"9732e29b792c2e4e","fromNode":"2d06bbb386fddecd","fromSide":"top","toNode":"f6f63a88f4307495","toSide":"bottom","color":"5"}
+		{"id":"9732e29b792c2e4e","fromNode":"2d06bbb386fddecd","fromSide":"top","toNode":"f6f63a88f4307495","toSide":"bottom","color":"5"},
+		{"id":"cd8850b7ee71521a","fromNode":"2d06bbb386fddecd","fromSide":"bottom","toNode":"28d10705bc8971dc","toSide":"bottom","color":"5"}
 	]
 }
