@@ -17,11 +17,6 @@ Formed after the Helviti inquisition were found to be unable to handle supernatu
 
 Silver company pursues economic goals
 
-
-
-
-
-
 Has a facility called [[The Pit]] for item research
 
 
