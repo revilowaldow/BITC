@@ -230,7 +230,7 @@
                 }
               }
             ],
-            "currentTab": 13
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -307,7 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/06 18 - Session 4.md",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +324,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/06 18 - Session 4.md",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -347,7 +347,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/06 18 - Session 4.md"
+                "file": "Setting Rules/Valid Wild Shapes.md"
               }
             }
           },
@@ -402,10 +402,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "740cd7af26266aa6",
+  "active": "d773f6340406bc25",
   "lastOpenFiles": [
-    "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/06 18 - Session 4.md",
+    "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/06 04 - Session 3.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/05 28 - Session 2.md",
