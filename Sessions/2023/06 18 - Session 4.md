@@ -23,5 +23,10 @@ Successfully leave the mine,
 
 Leave potion of healing with note of thanks in exit chamber
 
+Helviti Armor is a sign of adult hood
+
+Helviti - adults and children
+	Fight to survive, protected
+
 
 
