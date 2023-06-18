@@ -10,7 +10,7 @@
           {
             "id": "b1b3a8155423522f",
             "type": "tabs",
-            "dimension": 54.82269503546099,
+            "dimension": 45.1063829787234,
             "children": [
               {
                 "id": "e0e318a8fb85a387",
@@ -21,9 +21,9 @@
                   "state": {
                     "file": "Locations/Coprun/Mine Layout.canvas",
                     "viewState": {
-                      "x": 1470,
-                      "y": 710,
-                      "zoom": -2.3314454063107832
+                      "x": 1661.9939643742512,
+                      "y": -493.82144159832495,
+                      "zoom": -1.99811207297745
                     }
                   },
                   "pinned": true
@@ -34,7 +34,7 @@
           {
             "id": "0338fbdf76762d60",
             "type": "tabs",
-            "dimension": 45.177304964539005,
+            "dimension": 54.8936170212766,
             "children": [
               {
                 "id": "9ab8107d85fd2715",
@@ -204,8 +204,33 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "740cd7af26266aa6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sessions/2023/06 18 - Session 4.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5888884f16428496",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sessions/2023/06 04 - Session 3.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -282,7 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +324,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +347,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas"
+                "file": "Setting Rules/Valid Wild Shapes.md"
               }
             }
           },
@@ -377,16 +402,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "d773f6340406bc25",
   "lastOpenFiles": [
     "Sessions/2023/06 04 - Session 3.md",
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/06 18 - Session 4.md",
+    "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/05 28 - Session 2.md",
     "Assets/Maps/MineCombat4.png",
-    "Locations/Coprun/Mine Layout.canvas",
     "Assets/Maps/MineCombat3.png",
     "Pasted image 20230604141319.png",
-    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Character Lore/NPCs/Leader Jovil.md",
     "Assets/Maps/Topographic Map.png",
