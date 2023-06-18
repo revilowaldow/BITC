@@ -47,4 +47,5 @@ Dwarf
 
 "The Pit"? research items
 
-Signal bounced chambers of the Arcanist Vixis?
+Signal bounced chambers of the Arcanist Vixil?
+
