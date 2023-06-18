@@ -21,12 +21,12 @@
 		{"type":"text","text":"Exit barricaded with crates\n","id":"5dca166e4803a9a9","x":2020,"y":1040,"width":250,"height":60},
 		{"type":"text","text":"Voices further away\nBarricade of crates and boxes\nSea blooded organisation bottleneck","id":"e57b36bd8354ec5d","x":1975,"y":760,"width":340,"height":200},
 		{"type":"text","text":"Dead end supply room\n15x15ft\nCrates and chests\nDesk with shelves\n- Many documents missing\n- Broken tally sticks\n- 4 iron picks\n- ~~4 torches~~\n- ~~lizardstick 7~~\n- ~~bronze battle axe~~\n- ~~longbow~~\n- ~~6 arrows~~\n- ~~5 woollen blankets~~\n\nCrates could be used to blockade door\n\nBarricaded in room","id":"f843de891798db18","x":2415,"y":480,"width":345,"height":508},
-		{"id":"d770ca462912e8f2","x":1902,"y":1240,"width":486,"height":320,"type":"text","text":"Newer rougher deeper mine\n\n2 dead ghoul bodies\n\nDied of blood loss from arrows\n\n6 arrows recovered\n\n50ft shaft with cut ropes from beams overhead\nlittle bit cooler underground\n\n\n\n"},
-		{"id":"e0e7b04ba79d7cb5","x":1975,"y":1692,"width":340,"height":308,"type":"text","text":"### Layer 3\nNatural cavern\n~~2 ropes at foot of shaft~~\n\nMuch less scent of death\n\n\n"},
-		{"id":"644a1ee874bdf3e7","x":1560,"y":1764,"width":250,"height":165,"type":"text","text":"Deep Crawlers\n\n40x40ft Chamber\n30ft high ceiling\n"},
-		{"id":"28d10705bc8971dc","x":2655,"y":1400,"width":250,"height":60,"color":"5","type":"text","text":"Waterfall"},
-		{"id":"2d06bbb386fddecd","x":2520,"y":1545,"width":520,"height":602,"color":"5","type":"text","text":"Voices of Miners\nDroning Hum Noise\nRunning Water\nSmells of damp\nOzone\n\n50x50ft chamber\nWaterfall from cieling\n30ft high ceiling\nTrench of water\nLarge stone ring gently rotating\nLarge 10ft long altar\n\tDepression containing detachable marble orb\n\nHole with waterfall could be climbed into\nSmall chest near ring\n\n"},
-		{"id":"f6f63a88f4307495","x":2655,"y":2240,"width":250,"height":60,"color":"5","type":"text","text":"Water exit"}
+		{"type":"text","text":"Newer rougher deeper mine\n\n2 dead ghoul bodies\n\nDied of blood loss from arrows\n\n6 arrows recovered\n\n50ft shaft with cut ropes from beams overhead\nlittle bit cooler underground\n\n\n\n","id":"d770ca462912e8f2","x":1902,"y":1240,"width":486,"height":320},
+		{"type":"text","text":"### Layer 3\nNatural cavern\n~~2 ropes at foot of shaft~~\n\nMuch less scent of death\n\n\n","id":"e0e7b04ba79d7cb5","x":1975,"y":1692,"width":340,"height":308},
+		{"type":"text","text":"Deep Crawlers\n\n40x40ft Chamber\n30ft high ceiling\n","id":"644a1ee874bdf3e7","x":1560,"y":1764,"width":250,"height":165},
+		{"type":"text","text":"Waterfall","id":"28d10705bc8971dc","x":2655,"y":1400,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"Voices of Miners\nDroning Hum Noise\nRunning Water\nSmells of damp\nOzone\n\n50x50ft chamber\nWaterfall from cieling\n30ft high ceiling\nTrench of water\nLarge stone ring gently rotating\nLarge 10ft long altar\n\tDepression containing detachable marble orb\n\nHole with waterfall could be climbed into\nSmall chest near ring\n\n","id":"2d06bbb386fddecd","x":2520,"y":1545,"width":520,"height":602,"color":"5"},
+		{"type":"text","text":"Water exit","id":"f6f63a88f4307495","x":2655,"y":2240,"width":250,"height":60,"color":"5"}
 	],
 	"edges":[
 		{"id":"8a1483f3d5eaea03","fromNode":"88cc56b40b519667","fromSide":"top","toNode":"970956ae872f1300","toSide":"bottom","label":"50ft"},
