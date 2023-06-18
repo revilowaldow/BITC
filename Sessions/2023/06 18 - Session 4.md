@@ -28,5 +28,7 @@ Helviti Armor is a sign of adult hood
 Helviti - adults and children
 	Fight to survive, protected
 
+City of 7000 stairs helviti stronghold
+
 
 
