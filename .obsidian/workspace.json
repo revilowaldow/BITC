@@ -165,13 +165,15 @@
           {
             "id": "7e6aebc638fbb385",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2023/Untitled.md",
+                "file": "Sessions/2023/06 18 - Session 4.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -249,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/Untitled.md",
+                "file": "Sessions/2023/06 18 - Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/Untitled.md",
+                "file": "Sessions/2023/06 18 - Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/Untitled.md"
+                "file": "Sessions/2023/06 18 - Session 4.md"
               }
             }
           },
@@ -346,8 +348,9 @@
   },
   "active": "7e6aebc638fbb385",
   "lastOpenFiles": [
+    "Pasted image 20230618124655.png",
     "Sessions/2023/06 04 - Session 3.md",
-    "Sessions/2023/Untitled.md",
+    "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Assets/Maps/MineCombat3.png",
@@ -385,7 +388,6 @@
     "Character Lore/NPCs/Nefros.md",
     "Character Lore/NPCs/Calamxis.md",
     "Locations/Coprun/Market.md",
-    "Factions/Sea Blooded Organisation.md",
     "Sessions/2023",
     "Factions/Eastern City States",
     "Locations/Kathkach",
