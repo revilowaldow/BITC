@@ -11,5 +11,13 @@ Current administrator
 
 
 In partnership with the organisation [[Tower of Eyes]]
+Founded a long time ago to investigate magic
+Help control new ways
+Formed after the Helviti inqus
 
-Has a facility called 
+
+Has a facility called [[The Pit]] for item research
+
+
+
+
