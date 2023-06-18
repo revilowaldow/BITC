@@ -43,4 +43,4 @@ Now owes us a favour
 
 Dwarf
 
-Yarik
+[[Yarek]] Golden Skinned Dwarf with short black hair and a cap
