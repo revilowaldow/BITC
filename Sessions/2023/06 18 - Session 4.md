@@ -44,3 +44,7 @@ Now owes us a favour
 Dwarf
 
 [[Yarek]] Golden Skinned Dwarf with short black hair and a cap
+
+"The Pit"? research items
+
+Signal bounced chambers of the Arcanist Vixis?
