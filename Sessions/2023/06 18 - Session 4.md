@@ -8,6 +8,7 @@ Orb is humming in Elvish:
 >"Run"
 
 Gods:
-	
+	[[Gotha]]
+	[[Apotosis]]
 
 
