@@ -21,8 +21,8 @@
                   "state": {
                     "file": "Locations/Coprun/Mine Layout.canvas",
                     "viewState": {
-                      "x": 2738.2161811469423,
-                      "y": 1937.2522599486354,
+                      "x": 2180.181739042137,
+                      "y": 76.08056951954046,
                       "zoom": -0.6647787396441169
                     }
                   },
@@ -230,7 +230,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 14
           }
         ],
         "direction": "horizontal"
@@ -307,7 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2023/06 04 - Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +324,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2023/06 04 - Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -347,7 +347,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Sessions/2023/06 04 - Session 3.md"
               }
             }
           },
@@ -402,12 +402,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d773f6340406bc25",
+  "active": "5888884f16428496",
   "lastOpenFiles": [
-    "Sessions/2023/06 04 - Session 3.md",
-    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/06 18 - Session 4.md",
+    "Sessions/2023/06 04 - Session 3.md",
     "Locations/Coprun/Mine Layout.canvas",
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Assets/Maps/MineCombat4.png",
     "Assets/Maps/MineCombat3.png",
