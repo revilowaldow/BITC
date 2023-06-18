@@ -10,3 +10,6 @@ Current administrator
 	[[Kevin Aldragosh]] - may be moving to [[Aegan Empire]]
 
 
+In partnership with the organisation [[Tower of Eyes]]
+
+Has a facility called 
