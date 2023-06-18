@@ -13,6 +13,7 @@ Gods:
 - [[Dyvarre]]  
 
 Location:
-- [[Abdos]] village to the north East of Kathkac
+- [[Abdos]] village to the north East of Kathkach, to the west of Coprun
+
 
 
