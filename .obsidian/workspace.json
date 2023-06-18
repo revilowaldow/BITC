@@ -225,7 +225,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Miners Pick.md",
+                "file": "Sessions/2023/06 18 - Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Miners Pick.md",
+                "file": "Sessions/2023/06 18 - Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Miners Pick.md"
+                "file": "Sessions/2023/06 18 - Session 4.md"
               }
             }
           },
@@ -394,8 +394,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a770985808d13174",
+  "active": "740cd7af26266aa6",
   "lastOpenFiles": [
+    "Locations/Coprun/Miners Pick.md",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/05 07 - Session 1.md",
@@ -425,7 +426,6 @@
     "Character Lore/Party/Aru of the Sands.md",
     "Factions/Silver Company.md",
     "clean.bat",
-    "Locations/Coprun/Miners Pick.md",
     "Character Lore/Party/Caenis.md",
     "Character Lore/Party/Amaranth.md",
     "Character Lore/NPCs/Teryna.md",
