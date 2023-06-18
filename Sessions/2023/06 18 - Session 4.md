@@ -53,4 +53,7 @@ Half-elf
 
 
 
-Pay upkeep in 
+Pay upkeep in katkkach on property, cheaper than rent
+
+"Interested in the Old ways"
+
