@@ -237,7 +237,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -311,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Silver Company.md",
+                "file": "Character Lore/Party/Kaulinan Badag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Silver Company.md",
+                "file": "Character Lore/Party/Kaulinan Badag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Silver Company.md"
+                "file": "Character Lore/Party/Kaulinan Badag.md"
               }
             }
           },
@@ -406,8 +406,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a403461935b2b153",
+  "active": "12d40666be4e30af",
   "lastOpenFiles": [
+    "Factions/Silver Company.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Locations/Coprun/Miners Pick.md",
@@ -436,7 +437,6 @@
     "Setting Rules/Weapon Rules.md",
     "Character Lore/Party/Kaulinan Badag.md",
     "Character Lore/Party/Aru of the Sands.md",
-    "Factions/Silver Company.md",
     "clean.bat",
     "Character Lore/Party/Caenis.md",
     "Character Lore/Party/Amaranth.md",

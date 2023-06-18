@@ -10,3 +10,5 @@ Have mentioned from the [[Jungles]]
 
 8'3" 415lb
 
+Has seasickness
+
