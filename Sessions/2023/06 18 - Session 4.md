@@ -19,5 +19,7 @@ Caenis making a fish stew
 
 Box of assorted fine tools
 
+Sucessfully leave the mine,
 
+Leave potion of healing with note of thanks
 
