@@ -21,9 +21,9 @@
                   "state": {
                     "file": "Locations/Coprun/Mine Layout.canvas",
                     "viewState": {
-                      "x": 1924.575645571333,
-                      "y": -164.60764767785372,
-                      "zoom": -1.6647787396441167
+                      "x": 241.1038325567149,
+                      "y": -135.7179639104681,
+                      "zoom": -0.3314454063107836
                     }
                   },
                   "pinned": true
@@ -307,7 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +324,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -347,7 +347,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Locations/Coprun/Mine Layout.canvas"
               }
             }
           },
@@ -402,12 +402,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d773f6340406bc25",
+  "active": "e0e318a8fb85a387",
   "lastOpenFiles": [
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/06 04 - Session 3.md",
-    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Assets/Maps/MineCombat4.png",
     "Assets/Maps/MineCombat3.png",
