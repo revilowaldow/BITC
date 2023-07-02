@@ -261,6 +261,18 @@
             }
           },
           {
+            "id": "5ea71f1150fb734c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Lore/Party/The Party.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5bab6c87f48ceabe",
             "type": "leaf",
             "state": {
@@ -456,8 +468,14 @@
   },
   "active": "b600dbd935fd6f2f",
   "lastOpenFiles": [
+    "Character Lore/Party/The Party.md",
     "Character Lore/Party/Vrindrilliax.md",
-    "Character Lore/Party/Vrindrilliax.md",
+    "compendium/bestiary/dragon/token/drake-companion.png.md",
+    "compendium/bestiary/dragon/token/drake-companion.png",
+    "compendium/bestiary/dragon/token",
+    "compendium/bestiary/dragon",
+    "compendium/bestiary",
+    "compendium",
     "Character Lore/Party/Caenis.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Locations/Coprun/Miners Pick.md",
@@ -483,10 +501,8 @@
     "Assets/Table/Pasted image 20230423131449.png",
     "Assets/Table",
     "Assets/Table/Pasted image 20230507171917.png",
-    "Assets/Characters/NPC.png",
     "Assets/Maps",
     "Locations/Coprun/Copper Mines.md",
-    "Character Lore/Party/The Party.md",
     "Setting Rules/Weapon Rules.md",
     "Character Lore/Party/Aru of the Sands.md",
     "clean.bat",
@@ -495,13 +511,8 @@
     "Locations/Coprun/Coprun.md",
     "Setting Rules/Rules Index.md",
     "Character Lore/Party/Eugene.md",
-    "Character Lore/NPCs/Nefros.md",
     "Sessions/2023",
     "Factions/Eastern City States",
-    "Locations/Kathkach",
-    "Character Lore/Party",
-    "Character Lore/NPCs",
-    "Factions",
-    "Locations/Coprun"
+    "Locations/Kathkach"
   ]
 }
