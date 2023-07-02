@@ -2,4 +2,8 @@ Barge time
 
 Seasickness
 
-Half Orc, missing eye
+Wisdom Save, 
+Half Orc, missing eye, Kathkachan militia, cuts on neck
+
+Amaranth Collapses
+
