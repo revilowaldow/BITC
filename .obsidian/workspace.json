@@ -194,7 +194,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yarek.md",
+                "file": "Character Lore/NPCs/Yarek.md",
                 "mode": "source",
                 "source": false
               }
@@ -383,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yarek.md",
+                "file": "Character Lore/NPCs/Yarek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yarek.md",
+                "file": "Character Lore/NPCs/Yarek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yarek.md"
+                "file": "Character Lore/NPCs/Yarek.md"
               }
             }
           },
@@ -481,8 +481,8 @@
   "active": "2b6fe4a48397c417",
   "lastOpenFiles": [
     "Sessions/2023/06 18 - Session 4.md",
-    "Yarek.md",
     "Sessions/2023/07 02 - Session 5.md",
+    "Character Lore/NPCs/Yarek.md",
     "Character Lore/Party/Aru of the Sands.md",
     "Character Lore/Party/Vrindrilliax.md",
     "Assets/Characters/NPC.png",
