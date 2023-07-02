@@ -20,5 +20,7 @@ Silver company pursues economic goals
 Has a facility called [[The Pit]] for item research
 
 
+Accommodation is 5gp for the whole party per week
 
+1 job per week
 

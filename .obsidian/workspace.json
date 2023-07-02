@@ -333,7 +333,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -407,7 +407,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Lore/NPCs/Larkin.md",
+                "file": "Factions/Silver Company.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -424,7 +424,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Lore/NPCs/Larkin.md",
+                "file": "Factions/Silver Company.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -447,7 +447,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Lore/NPCs/Larkin.md"
+                "file": "Factions/Silver Company.md"
               }
             }
           },
@@ -502,10 +502,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a37cf9155f01018",
+  "active": "a403461935b2b153",
   "lastOpenFiles": [
-    "Locations/Kathkach/Silver Company Headquarters.md",
     "Character Lore/NPCs/Larkin.md",
+    "Locations/Kathkach/Silver Company Headquarters.md",
     "Locations/Coprun/Miners Pick.md",
     "Factions/Silver Company.md",
     "Character Lore/NPCs/Kevin Aldradosh.md",
