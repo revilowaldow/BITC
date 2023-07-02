@@ -132,7 +132,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Kathkach/Dyvare Bridge.md",
+                "file": "Locations/Kathkach/Silver Company Headquarters.md",
                 "mode": "source",
                 "source": false
               }
@@ -383,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/Dyvare Bridge.md",
+                "file": "Locations/Kathkach/Silver Company Headquarters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Kathkach/Dyvare Bridge.md",
+                "file": "Locations/Kathkach/Silver Company Headquarters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/Dyvare Bridge.md"
+                "file": "Locations/Kathkach/Silver Company Headquarters.md"
               }
             }
           },
@@ -480,8 +480,9 @@
   },
   "active": "ebec14137f83ac00",
   "lastOpenFiles": [
-    "Locations/Kathkach/Kathkach.md",
     "Locations/Kathkach/Dyvare Bridge.md",
+    "Locations/Kathkach/Silver Company Headquarters.md",
+    "Locations/Kathkach/Kathkach.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Locations/Kathkach/Brass Palace.md",
@@ -523,7 +524,6 @@
     "Setting Rules/Weapon Rules.md",
     "clean.bat",
     "Character Lore/Party/Amaranth.md",
-    "Character Lore/NPCs/Teryna.md",
     "Sessions/2023",
     "Factions/Eastern City States",
     "Locations/Kathkach"
