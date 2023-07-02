@@ -383,6 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Character Lore/Party/Vrindrilliax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -399,6 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Character Lore/Party/Vrindrilliax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -420,7 +422,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Character Lore/Party/Vrindrilliax.md"
+              }
             }
           },
           {
@@ -474,14 +478,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "b600dbd935fd6f2f",
   "lastOpenFiles": [
+    "compendium/bestiary/dragon/token/drake-companion.png",
     "Character Lore/Party/Vrindrilliax.md",
     "Character Lore/Party/The Party.md",
     "Assets/Characters/Vrindrilliax.png",
     "Character Lore/Party/Aru of the Sands.md",
     "compendium/bestiary/dragon/token/drake-companion.png.md",
-    "compendium/bestiary/dragon/token/drake-companion.png",
     "compendium/bestiary/dragon/token",
     "compendium/bestiary/dragon",
     "compendium/bestiary",
