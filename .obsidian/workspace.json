@@ -189,6 +189,18 @@
             }
           },
           {
+            "id": "2b6fe4a48397c417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yarek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a403461935b2b153",
             "type": "leaf",
             "state": {
@@ -297,7 +309,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -371,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
+                "file": "Yarek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -388,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
+                "file": "Yarek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -411,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md"
+                "file": "Yarek.md"
               }
             }
           },
@@ -466,8 +478,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5888884f16428496",
+  "active": "2b6fe4a48397c417",
   "lastOpenFiles": [
+    "Sessions/2023/06 18 - Session 4.md",
+    "Yarek.md",
+    "Sessions/2023/07 02 - Session 5.md",
     "Character Lore/Party/Aru of the Sands.md",
     "Character Lore/Party/Vrindrilliax.md",
     "Assets/Characters/NPC.png",
@@ -480,11 +495,9 @@
     "compendium/bestiary",
     "compendium",
     "Character Lore/Party/Caenis.md",
-    "Sessions/2023/07 02 - Session 5.md",
     "Locations/Coprun/Miners Pick.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/06 04 - Session 3.md",
-    "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/04 23 - Session 0.5.md",
