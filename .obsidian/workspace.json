@@ -261,6 +261,18 @@
             }
           },
           {
+            "id": "887a47d365533963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Lore/Party/Aru of the Sands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5ea71f1150fb734c",
             "type": "leaf",
             "state": {
@@ -297,7 +309,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -371,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Lore/Party/Vrindrilliax.md",
+                "file": "Character Lore/Party/Aru of the Sands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -388,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Lore/Party/Vrindrilliax.md",
+                "file": "Character Lore/Party/Aru of the Sands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -411,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Lore/Party/Vrindrilliax.md"
+                "file": "Character Lore/Party/Aru of the Sands.md"
               }
             }
           },
@@ -466,10 +478,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b600dbd935fd6f2f",
+  "active": "887a47d365533963",
   "lastOpenFiles": [
-    "Character Lore/Party/The Party.md",
     "Character Lore/Party/Vrindrilliax.md",
+    "Character Lore/Party/The Party.md",
     "compendium/bestiary/dragon/token/drake-companion.png.md",
     "compendium/bestiary/dragon/token/drake-companion.png",
     "compendium/bestiary/dragon/token",
