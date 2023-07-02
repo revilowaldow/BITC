@@ -21,7 +21,7 @@ Reinforced animal cart
   - Suggestions: Helviti, Aru/Ara prior contact, grover hermit, envoys steelmongers, alchemists, inquisitors
 - Missing crab
 	- Devil vampire crab
-	- Unkillable, undeadm
+	- Unkillable, undead, no sunlight or steaking ()
 	- 
 - Town warlocks
-- Murders in Lowtown
+- Murders
