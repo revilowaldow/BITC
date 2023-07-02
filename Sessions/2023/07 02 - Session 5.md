@@ -19,4 +19,5 @@ Reinforced animal cart
 4 tasks:
 - Form and maintain a contact with someone in the city
   - Suggestions: Helviti, Aru/Ara prior contact, grover hermit, envoys steelmongers, alchemists, inquisitors
+- Missing crab
 - 
