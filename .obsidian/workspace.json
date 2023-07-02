@@ -309,7 +309,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -383,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Lore/Party/Aru of the Sands.md",
+                "file": "Character Lore/Party/Vrindrilliax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Lore/Party/Aru of the Sands.md",
+                "file": "Character Lore/Party/Vrindrilliax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Lore/Party/Aru of the Sands.md"
+                "file": "Character Lore/Party/Vrindrilliax.md"
               }
             }
           },
@@ -478,8 +478,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "887a47d365533963",
+  "active": "b600dbd935fd6f2f",
   "lastOpenFiles": [
+    "Character Lore/Party/Aru of the Sands.md",
     "Character Lore/Party/Vrindrilliax.md",
     "Character Lore/Party/The Party.md",
     "compendium/bestiary/dragon/token/drake-companion.png.md",
@@ -516,7 +517,6 @@
     "Assets/Maps",
     "Locations/Coprun/Copper Mines.md",
     "Setting Rules/Weapon Rules.md",
-    "Character Lore/Party/Aru of the Sands.md",
     "clean.bat",
     "Character Lore/Party/Amaranth.md",
     "Character Lore/NPCs/Teryna.md",
