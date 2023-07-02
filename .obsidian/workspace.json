@@ -309,7 +309,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -383,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/Kathkach.md",
+                "file": "Sessions/2023/06 18 - Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Kathkach/Kathkach.md",
+                "file": "Sessions/2023/06 18 - Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/Kathkach.md"
+                "file": "Sessions/2023/06 18 - Session 4.md"
               }
             }
           },
@@ -478,8 +478,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebec14137f83ac00",
+  "active": "740cd7af26266aa6",
   "lastOpenFiles": [
+    "Locations/Kathkach/Kathkach.md",
     "Locations/Kathkach/Brass Palace.md",
     "Character Lore/Party/Aru of the Sands.md",
     "Character Lore/Party/Vrindrilliax.md",
@@ -512,7 +513,6 @@
     "Character Lore/NPCs/Leader Jovil.md",
     "Assets/Maps/Topographic Map.png",
     "Assets/Maps/PevicContinent.png",
-    "Locations/Kathkach/Kathkach.md",
     "Locations/Jungles.md",
     "Assets/Characters/KaulinanRolls.png",
     "Assets/Table/Pasted image 20230423144311.png",
