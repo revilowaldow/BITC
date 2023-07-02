@@ -365,7 +365,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Sessions/2023/07 02 - Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -382,7 +382,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Sessions/2023/07 02 - Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -405,7 +405,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas"
+                "file": "Sessions/2023/07 02 - Session 5.md"
               }
             }
           },
@@ -460,11 +460,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac39550b78104941",
+  "active": "5888884f16428496",
   "lastOpenFiles": [
+    "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/06 04 - Session 3.md",
-    "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
@@ -501,7 +501,6 @@
     "Character Lore/Party/Eugene.md",
     "Character Lore/NPCs/Nefros.md",
     "Character Lore/NPCs/Calamxis.md",
-    "Locations/Coprun/Market.md",
     "Sessions/2023",
     "Factions/Eastern City States",
     "Locations/Kathkach",
