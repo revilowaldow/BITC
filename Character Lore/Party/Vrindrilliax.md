@@ -36,4 +36,4 @@ title: Drake Companion
 ```
 ^statblock
 
-"The Sands call not the strong nor the wise, but those who understand the bond that ties true commarades. One never braves the sands alone. Only when you understand the true strength of such a bond will you be worthy of the Bounties of the Sands."
+> "The Sands call not the strong nor the wise, but those who understand the bond that ties true commarades. One never braves the sands alone. Only when you understand the true strength of such a bond will you be worthy of the Bounties of the Sands."
