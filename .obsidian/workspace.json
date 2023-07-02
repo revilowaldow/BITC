@@ -309,7 +309,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -383,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/06 18 - Session 4.md",
+                "file": "Sessions/2023/07 02 - Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/06 18 - Session 4.md",
+                "file": "Sessions/2023/07 02 - Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/06 18 - Session 4.md"
+                "file": "Sessions/2023/07 02 - Session 5.md"
               }
             }
           },
@@ -478,8 +478,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "740cd7af26266aa6",
+  "active": "5888884f16428496",
   "lastOpenFiles": [
+    "Sessions/2023/06 18 - Session 4.md",
     "Locations/Kathkach/Kathkach.md",
     "Locations/Kathkach/Brass Palace.md",
     "Character Lore/Party/Aru of the Sands.md",
@@ -487,7 +488,6 @@
     "Sessions/2023/07 02 - Session 5.md",
     "Character Lore/NPCs/'Stealth'.md",
     "Character Lore/NPCs/Yarek.md",
-    "Sessions/2023/06 18 - Session 4.md",
     "Assets/Characters/NPC.png",
     "compendium/bestiary/dragon/token/drake-companion.png",
     "Character Lore/Party/The Party.md",
