@@ -35,3 +35,5 @@ Reinforced animal cart
 	- What is their source of power and can it be contained?
 - Murders in Lowtown
 	- Politically motivated? 
+	- Ritualistic kills
+	- 
