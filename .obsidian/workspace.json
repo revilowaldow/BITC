@@ -309,7 +309,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -383,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Lore/NPCs/'Stealth'.md",
+                "file": "Sessions/2023/07 02 - Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Lore/NPCs/'Stealth'.md",
+                "file": "Sessions/2023/07 02 - Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Lore/NPCs/'Stealth'.md"
+                "file": "Sessions/2023/07 02 - Session 5.md"
               }
             }
           },
@@ -478,10 +478,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b6fe4a48397c417",
+  "active": "5888884f16428496",
   "lastOpenFiles": [
-    "Character Lore/NPCs/Yarek.md",
     "Character Lore/NPCs/'Stealth'.md",
+    "Character Lore/NPCs/Yarek.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Character Lore/Party/Aru of the Sands.md",
