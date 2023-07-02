@@ -10,6 +10,7 @@
           {
             "id": "0338fbdf76762d60",
             "type": "tabs",
+            "dimension": 48.156028368794324,
             "children": [
               {
                 "id": "9ab8107d85fd2715",
@@ -270,6 +271,7 @@
           {
             "id": "065c319b1b0d3282",
             "type": "tabs",
+            "dimension": 51.843971631205676,
             "children": [
               {
                 "id": "ac39550b78104941",
@@ -279,9 +281,9 @@
                   "state": {
                     "file": "Locations/Coprun/Mine Layout.canvas",
                     "viewState": {
-                      "x": 3007.0732236070708,
-                      "y": 1876.3711922864975,
-                      "zoom": -0.5563656726403037
+                      "x": 2560.4638290465105,
+                      "y": 1727.5046232222348,
+                      "zoom": -1.2230323393069702
                     }
                   }
                 }
@@ -363,7 +365,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,7 +382,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -403,7 +405,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md"
+                "file": "Locations/Coprun/Mine Layout.canvas"
               }
             }
           },
@@ -458,10 +460,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5888884f16428496",
+  "active": "ac39550b78104941",
   "lastOpenFiles": [
-    "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/07 02 - Session 5.md",
+    "Sessions/2023/06 04 - Session 3.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/05 28 - Session 2.md",
