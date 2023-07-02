@@ -1,14 +1,6 @@
----
-obsidianUIMode: preview
-cssclass: json5e-monster
-tags:
-- compendium/src/5e/ftd
-- monster/size/small
-- monster/type/dragon
-aliases: ["Drake Companion"]
----
-# Drake Companion
-*Source: Fizban's Treasury of Dragons p. 15*  
+*Source: Fizban's Treasury of Dragons p. 15* 
+
+![[Vrindrilliax.png]]
 
 ```ad-statblock
 title: Drake Companion

@@ -7,5 +7,7 @@ Half Orc, missing eye, Kathkachan militia, cuts on neck
 
 Amaranth Collapses
 
-[[Vrindrilliax]]
+[[Vrindrilliax]] hatches,
+
+
 

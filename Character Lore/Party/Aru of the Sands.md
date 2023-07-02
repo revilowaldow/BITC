@@ -7,4 +7,4 @@ Half-Orc
 
 Left in Kathkach by parents at age 8
 
-
+Bonded to [[Vrindrilliax]]
