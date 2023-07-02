@@ -18,7 +18,13 @@ Reinforced animal cart
 
 4 tasks:
 - Form and maintain a contact with someone in the city
-  - Suggestions: Helviti, Aru/Ara prior contact, grover hermit, envoys steelmongers, alchemists, inquisitors
+	- Suggestions: 
+		- Helviti Comandas
+		- Aru/Ara prior contact
+		- Grover hermit
+		- Envoys from West steelmongers
+		- Envoys from East alchemists
+		- Helviti inquisitors
 - Missing crab
 	- Devil vampire crab
 	- Unkillable, undead, no sunlight or steaking (no heart)
@@ -28,3 +34,4 @@ Reinforced animal cart
 	- Three in merchant district
 	- What is their source of power and can it be contained?
 - Murders in Lowtown
+	- 
