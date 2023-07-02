@@ -249,6 +249,18 @@
             }
           },
           {
+            "id": "70c52c9fb8c55b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Lore/Party/Vrindrilliax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a1965e404acabb9e",
             "type": "leaf",
             "state": {
@@ -261,7 +273,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -335,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
+                "file": "Character Lore/Party/Vrindrilliax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +364,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
+                "file": "Character Lore/Party/Vrindrilliax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,7 +387,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md"
+                "file": "Character Lore/Party/Vrindrilliax.md"
               }
             }
           },
@@ -430,10 +442,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5888884f16428496",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
-    "Locations/Coprun/Miners Pick.md",
     "Sessions/2023/07 02 - Session 5.md",
+    "Character Lore/Party/Vrindrilliax.md",
+    "Locations/Coprun/Miners Pick.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/06 18 - Session 4.md",
