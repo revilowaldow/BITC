@@ -7,5 +7,5 @@ Half Orc, missing eye, Kathkachan militia, cuts on neck
 
 Amaranth Collapses
 
-Vrindrillax
+[[Vrindrillax]]
 
