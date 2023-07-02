@@ -35,3 +35,5 @@ title: Drake Companion
 ***Infused Strikes.*** When another creature within 30 feet of the drake that it can see hits a target with a weapon attack, the drake infuses the strike with its essence, causing the target to take an extra `1d6` damage of the type determined by its Draconic Essence.
 ```
 ^statblock
+
+"The Sands call not the strong nor the wise, but those who understand the bond that ties true commarades. One never braves the sands alone. Only when you understand the true strength of such a bond will you be worthy of the Bounties of the Sands."
