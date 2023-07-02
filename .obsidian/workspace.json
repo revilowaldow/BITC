@@ -132,7 +132,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Kathkach/Kathkach.md",
+                "file": "Locations/Kathkach/Dyvare Bridge.md",
                 "mode": "source",
                 "source": false
               }
@@ -309,7 +309,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -383,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
+                "file": "Locations/Kathkach/Dyvare Bridge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
+                "file": "Locations/Kathkach/Dyvare Bridge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md"
+                "file": "Locations/Kathkach/Dyvare Bridge.md"
               }
             }
           },
@@ -478,14 +478,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5888884f16428496",
+  "active": "ebec14137f83ac00",
   "lastOpenFiles": [
-    "Sessions/2023/06 18 - Session 4.md",
     "Locations/Kathkach/Kathkach.md",
+    "Locations/Kathkach/Dyvare Bridge.md",
+    "Sessions/2023/07 02 - Session 5.md",
+    "Sessions/2023/06 18 - Session 4.md",
     "Locations/Kathkach/Brass Palace.md",
     "Character Lore/Party/Aru of the Sands.md",
     "Character Lore/Party/Vrindrilliax.md",
-    "Sessions/2023/07 02 - Session 5.md",
     "Character Lore/NPCs/'Stealth'.md",
     "Character Lore/NPCs/Yarek.md",
     "Assets/Characters/NPC.png",
@@ -523,7 +524,6 @@
     "clean.bat",
     "Character Lore/Party/Amaranth.md",
     "Character Lore/NPCs/Teryna.md",
-    "Locations/Coprun/Coprun.md",
     "Sessions/2023",
     "Factions/Eastern City States",
     "Locations/Kathkach"

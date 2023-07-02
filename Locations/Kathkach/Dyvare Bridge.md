@@ -1,0 +1,1 @@
+Lined by 100 statues representing the 100 legendary warriors
