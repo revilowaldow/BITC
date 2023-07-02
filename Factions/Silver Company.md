@@ -24,3 +24,5 @@ Accommodation is 5gp for the whole party per week
 
 1 job per week
 
+50gp each per job
+
