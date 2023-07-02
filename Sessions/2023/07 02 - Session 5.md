@@ -16,3 +16,6 @@ Rule 1. Be aware of your surroundings because you are small.
 
 Reinforced animal cart
 
+4 tasks:
+- Form a contact with someone in the city
+- 
