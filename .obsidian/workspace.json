@@ -132,7 +132,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Kathkach/Silver Company Headquarters.md",
+                "file": "Character Lore/NPCs/Kevin Aldradosh.md",
                 "mode": "source",
                 "source": false
               }
@@ -383,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/Silver Company Headquarters.md",
+                "file": "Character Lore/NPCs/Kevin Aldradosh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Kathkach/Silver Company Headquarters.md",
+                "file": "Character Lore/NPCs/Kevin Aldradosh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/Silver Company Headquarters.md"
+                "file": "Character Lore/NPCs/Kevin Aldradosh.md"
               }
             }
           },
@@ -480,8 +480,9 @@
   },
   "active": "ebec14137f83ac00",
   "lastOpenFiles": [
-    "Locations/Kathkach/Dyvare Bridge.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
+    "Character Lore/NPCs/Kevin Aldradosh.md",
+    "Locations/Kathkach/Dyvare Bridge.md",
     "Locations/Kathkach/Kathkach.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/06 18 - Session 4.md",
@@ -523,7 +524,6 @@
     "Locations/Coprun/Copper Mines.md",
     "Setting Rules/Weapon Rules.md",
     "clean.bat",
-    "Character Lore/Party/Amaranth.md",
     "Sessions/2023",
     "Factions/Eastern City States",
     "Locations/Kathkach"
