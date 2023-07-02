@@ -18,4 +18,4 @@ Reinforced animal cart
 
 4 tasks:
 - Form and maintain a contact with someone in the city
-- 
+  - Suggestions: Helviti, Aru/Ara prior contact, 
