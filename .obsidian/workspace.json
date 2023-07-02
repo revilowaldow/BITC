@@ -383,7 +383,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Lore/Party/Vrindrilliax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +399,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Lore/Party/Vrindrilliax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -422,9 +420,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Character Lore/Party/Vrindrilliax.md"
-              }
+              "state": {}
             }
           },
           {
@@ -478,11 +474,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b600dbd935fd6f2f",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
-    "Character Lore/Party/Aru of the Sands.md",
     "Character Lore/Party/Vrindrilliax.md",
     "Character Lore/Party/The Party.md",
+    "Assets/Characters/Vrindrilliax.png",
+    "Character Lore/Party/Aru of the Sands.md",
     "compendium/bestiary/dragon/token/drake-companion.png.md",
     "compendium/bestiary/dragon/token/drake-companion.png",
     "compendium/bestiary/dragon/token",
@@ -513,7 +510,6 @@
     "Assets/Table/Pasted image 20230423144311.png",
     "Assets/Table/Pasted image 20230423131449.png",
     "Assets/Table",
-    "Assets/Table/Pasted image 20230507171917.png",
     "Assets/Maps",
     "Locations/Coprun/Copper Mines.md",
     "Setting Rules/Weapon Rules.md",
