@@ -11,4 +11,6 @@ Half Orc, missing eye, Kathkachan militia, cuts on neck
 
 [[Yindaloo]] barge
 
-Rule 1. Be aware of your surroundings
+Rule 1. Be aware of your surroundings because you are small.
+
+
