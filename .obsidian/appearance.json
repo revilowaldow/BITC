@@ -1,6 +1,6 @@
 {
   "accentColor": "#ff6400",
-  "baseFontSize": 17,
+  "baseFontSize": 20,
   "translucency": true,
   "enabledCssSnippets": [
     "justify"
