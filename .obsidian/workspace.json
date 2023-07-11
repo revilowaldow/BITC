@@ -162,15 +162,8 @@
             "id": "595a5f532816fb79",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
-                "viewState": {
-                  "x": 2163.731957856158,
-                  "y": 2.297397737735622,
-                  "zoom": 0.010451705667776534
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -430,7 +423,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -447,7 +439,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -469,9 +460,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -527,6 +516,7 @@
   },
   "active": "595a5f532816fb79",
   "lastOpenFiles": [
+    "Locations/Coprun/Mine Layout.canvas",
     "Locations/Coprun/Copper Mines.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
@@ -555,7 +545,6 @@
     "compendium/bestiary",
     "compendium",
     "Character Lore/Party/Caenis.md",
-    "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/06 04 - Session 3.md",
     "Character Lore/Party/Kaulinan Badag.md",
     "Setting Rules/Valid Wild Shapes.md",
@@ -565,7 +554,6 @@
     "Character Lore/NPCs/Leader Jovil.md",
     "Assets/Maps/Topographic Map.png",
     "Assets/Maps/PevicContinent.png",
-    "Locations/Jungles.md",
     "Assets/Characters/KaulinanRolls.png",
     "Assets/Table/Pasted image 20230423144311.png",
     "Assets/Table",
