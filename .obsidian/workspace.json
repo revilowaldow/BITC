@@ -154,11 +154,22 @@
             "id": "2a7f194ffcd3c042",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "595a5f532816fb79",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
               "state": {
-                "file": "Sessions/2023/05 28 - Session 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Locations/Coprun/Mine Layout.canvas",
+                "viewState": {
+                  "x": 2163.731957856158,
+                  "y": 2.297397737735622,
+                  "zoom": 0.010451705667776534
+                }
               }
             }
           },
@@ -285,6 +296,18 @@
             }
           },
           {
+            "id": "e7df9347c110fc46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/04 23 - Session 0.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b600dbd935fd6f2f",
             "type": "leaf",
             "state": {
@@ -333,7 +356,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -407,7 +430,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -424,7 +447,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -447,7 +470,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md"
+                "file": "Locations/Coprun/Mine Layout.canvas"
               }
             }
           },
@@ -502,8 +525,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5888884f16428496",
+  "active": "595a5f532816fb79",
   "lastOpenFiles": [
+    "Locations/Coprun/Copper Mines.md",
+    "Sessions/2023/05 28 - Session 2.md",
+    "Sessions/2023/05 07 - Session 1.md",
+    "Sessions/2023/04 23 - Session 0.5.md",
+    "Sessions/2023/07 02 - Session 5.md",
     "Factions/Silver Company.md",
     "Character Lore/NPCs/Larkin.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
@@ -511,7 +539,6 @@
     "Character Lore/NPCs/Kevin Aldradosh.md",
     "Locations/Kathkach/Dyvare Bridge.md",
     "Locations/Kathkach/Kathkach.md",
-    "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Locations/Kathkach/Brass Palace.md",
     "Character Lore/Party/Aru of the Sands.md",
@@ -530,9 +557,6 @@
     "Character Lore/Party/Caenis.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2023/06 04 - Session 3.md",
-    "Sessions/2023/05 28 - Session 2.md",
-    "Sessions/2023/05 07 - Session 1.md",
-    "Sessions/2023/04 23 - Session 0.5.md",
     "Character Lore/Party/Kaulinan Badag.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Assets/Maps/MineCombat4.png",
@@ -546,7 +570,6 @@
     "Assets/Table/Pasted image 20230423144311.png",
     "Assets/Table",
     "Assets/Maps",
-    "Locations/Coprun/Copper Mines.md",
     "clean.bat",
     "Sessions/2023",
     "Factions/Eastern City States",
