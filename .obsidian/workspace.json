@@ -167,6 +167,36 @@
             }
           },
           {
+            "id": "65b6d1dc2a8f2311",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Table/Pasted image 20230423131449.png"
+              }
+            }
+          },
+          {
+            "id": "e14edf69ac55ad26",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Table/Pasted image 20230423144311.png"
+              }
+            }
+          },
+          {
+            "id": "73301ec8d5b9691f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Table/Pasted image 20230507171917.png"
+              }
+            }
+          },
+          {
             "id": "7e6aebc638fbb385",
             "type": "leaf",
             "pinned": true,
@@ -349,7 +379,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -423,6 +453,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Assets/Table/Pasted image 20230507171917.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -439,6 +470,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Assets/Table/Pasted image 20230507171917.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -460,7 +492,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Assets/Table/Pasted image 20230507171917.png"
+              }
             }
           },
           {
@@ -514,8 +548,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "595a5f532816fb79",
+  "active": "73301ec8d5b9691f",
   "lastOpenFiles": [
+    "Assets/Table/Pasted image 20230423144311.png",
+    "Assets/Table/Pasted image 20230423131449.png",
+    "Assets/Table/Pasted image 20230507171917.png",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Coprun/Copper Mines.md",
     "Sessions/2023/05 28 - Session 2.md",
@@ -554,8 +591,6 @@
     "Character Lore/NPCs/Leader Jovil.md",
     "Assets/Maps/Topographic Map.png",
     "Assets/Maps/PevicContinent.png",
-    "Assets/Characters/KaulinanRolls.png",
-    "Assets/Table/Pasted image 20230423144311.png",
     "Assets/Table",
     "Assets/Maps",
     "clean.bat",
