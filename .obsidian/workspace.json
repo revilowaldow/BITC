@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Comanda.md",
+                "file": "Factions/Cobalt Comanda.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/07 16 - Session 6.md",
+                "file": "Factions/Cobalt Comanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/07 16 - Session 6.md",
+                "file": "Factions/Cobalt Comanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/07 16 - Session 6.md"
+                "file": "Factions/Cobalt Comanda.md"
               }
             }
           },
@@ -249,15 +248,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1fc235418c7cada",
+  "active": "c4dbbcda87b69900",
   "lastOpenFiles": [
-    "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/07 16 - Session 6.md",
+    "Sessions/2023/07 02 - Session 5.md",
     "Factions/Silver Company/'Stealth'.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Town warlocks.md",
-    "Factions/Comanda.md",
+    "Factions/Cobalt Comanda.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
     "Character Lore/NPCs/Leader Jovil.md",
     "Locations/Kathkach/Dyvare Bridge.md",
