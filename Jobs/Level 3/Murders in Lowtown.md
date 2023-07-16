@@ -18,3 +18,5 @@ Warehouse, large empty warehouse
 Human male, flies
 On back, visible cuts and injuries
 
+[[Amaranth]]'s guide suggests familiarity, look at the cuts
+
