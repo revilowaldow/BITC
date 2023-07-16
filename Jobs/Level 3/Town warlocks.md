@@ -6,5 +6,6 @@ Some warlocks currently being held in the [[Barracks]] pending further action
 Three Warlocks over 2 evenings
 
 First night
-- Two warlocks near platinum pot
-- Agressive towa
+- Two warlocks near [[Platinum Pot]]
+- Aggressive towards patron outside
+- 
