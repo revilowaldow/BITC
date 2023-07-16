@@ -10,6 +10,7 @@ Bodies are found later cut up in religious ways
 [[Town Militia]] have a preserved killing near the [[Low Harbour]] which we can visit
 	Just outside [[Sea Blooded Organisation]]'s headquarters
 
+Guard - How's [[Nefros]]
 
 
 
