@@ -248,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -322,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/07 16 - Session 6.md",
+                "file": "Jobs/Level 3/Murders in Lowtown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/07 16 - Session 6.md",
+                "file": "Jobs/Level 3/Murders in Lowtown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,7 +362,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/07 16 - Session 6.md"
+                "file": "Jobs/Level 3/Murders in Lowtown.md"
               }
             }
           },
@@ -417,8 +417,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1fc235418c7cada",
+  "active": "2535dd85dbc1ac20",
   "lastOpenFiles": [
+    "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Factions/Silver Company/Karta.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
@@ -437,7 +438,6 @@
     "Factions/Cobalt Comanda.md",
     "Factions/Sea Blooded Org/Evangeline Stifka.md",
     "Factions/Sea Blooded Org",
-    "Sessions/2023/07 16 - Session 6.md",
     "Factions/Silver Company/'Stealth'.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Jobs/Level 3/Murders in Lowtown.md",
