@@ -24,5 +24,6 @@ Body laid out in a religious way, tendons cut to let limb be placed unnaturally
 
 Looks like a Kathkachan Rune in terms of shape
 
+Need to talk to a religious leader maybe 
 
-Need to talk to a regious leader maybe 
+Body was moved to current location 
