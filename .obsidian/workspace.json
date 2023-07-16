@@ -152,6 +152,18 @@
             }
           },
           {
+            "id": "7966bca3d7af9933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Lore/NPCs/Kevin Aldradosh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "86209ba5395eea25",
             "type": "leaf",
             "state": {
@@ -238,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Lore/Party/Vrindrilliax.md",
+                "file": "Character Lore/NPCs/Kevin Aldradosh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Lore/Party/Vrindrilliax.md",
+                "file": "Character Lore/NPCs/Kevin Aldradosh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Lore/Party/Vrindrilliax.md"
+                "file": "Character Lore/NPCs/Kevin Aldradosh.md"
               }
             }
           },
@@ -333,15 +345,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86209ba5395eea25",
+  "active": "7966bca3d7af9933",
   "lastOpenFiles": [
-    "compendium/bestiary/dragon/token/drake-companion.png.md",
+    "Sessions/2023/07 16 - Session 6.md",
     "Character Lore/Party/Vrindrilliax.md",
+    "compendium/bestiary/dragon/token/drake-companion.png.md",
     "compendium/bestiary/dragon/token",
     "compendium/bestiary/dragon",
     "compendium/bestiary",
     "compendium",
-    "Sessions/2023/07 16 - Session 6.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
     "Character Lore/NPCs/Larkin.md",
     "Locations/Jungles.md",

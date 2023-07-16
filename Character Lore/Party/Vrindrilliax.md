@@ -1,6 +1,6 @@
 *Source: Fizban's Treasury of Dragons p. 15* 
 ```ad-statblock
-title: Drake Companion
+title: Vrindrilliax
 ![](Vrindrilliax.png)
 *Small dragon, Unaligned*
 
