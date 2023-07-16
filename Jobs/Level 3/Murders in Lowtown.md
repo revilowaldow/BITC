@@ -13,4 +13,6 @@ Bodies are found later cut up in religious ways
 Guard - How's [[Nefros]]
 
 
+Warehouse, large empty warehouse
+
 
