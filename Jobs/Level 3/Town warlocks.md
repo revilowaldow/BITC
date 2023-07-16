@@ -8,10 +8,12 @@ Three Warlocks over 2 evenings
 First night
 - Two warlocks near [[Platinum Pot]]
 - Aggressive towards patron outside
+- - 5cp fine for armor
+- 2cp reimbursement for extended detainment
 
 Second Night
-- Snooping near a building near bridge to gold
+- Snooping near a building near bridge to gold quarter
 
-- 5cp fine for armor
-- 2cp reimbursement for extended detainment
+
+Extended to be detained
 
