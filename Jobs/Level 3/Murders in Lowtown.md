@@ -16,4 +16,5 @@ Guard - How's [[Nefros]]
 Warehouse, large empty warehouse
 
 Human male, flies
+On back, visible cuts and injuries
 
