@@ -28,18 +28,7 @@ Base salary is provided even if no tasks are provided
 10% discount at Kathkach
 
 4 tasks:
-- Form and maintain a contact with someone in the city
-	- Suggestions: 
-		- Helviti Comandas
-		- Aru/Ara prior contact
-		- Grover hermit
-		- Envoys from West steelmongers
-		- Envoys from East alchemists
-		- Helviti inquisitors
-
-- Town warlocks
-	- Three in merchant district
-	- What is their source of power and can it be contained?
-- Murders in Lowtown
-	- Politically motivated? 
-	- Ritualistic kills
+- [[Forge Allies]]
+- [[Missing Devil Crab]]
+- [[Town warlocks]]
+- [[Murders in Lowtown]]
