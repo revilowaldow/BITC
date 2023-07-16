@@ -16,8 +16,12 @@ Rule 1. Be aware of your surroundings because you are small.
 
 [[Epo]] had a reinforced animal cart for transferring a valuable item
 
-[[Larkin]] silver company 
- 
+[[Larkin]] silver company intern, getting started, general dogsbody
+
+Visited [[Silver Company Headquarters]]
+
+
+
 4 tasks:
 - Form and maintain a contact with someone in the city
 	- Suggestions: 
@@ -27,7 +31,7 @@ Rule 1. Be aware of your surroundings because you are small.
 		- Envoys from West steelmongers
 		- Envoys from East alchemists
 		- Helviti inquisitors
-- Missing crab
+- Missing crab corpse
 	- Devil vampire crab
 	- Unkillable, undead, no sunlight or steaking (no heart)
 	- One is dead, brought here for research
