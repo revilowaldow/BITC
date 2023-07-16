@@ -22,6 +22,11 @@ Visited [[Silver Company Headquarters]]
 
 5gp per week for the whole group for lodgings
 
+Base salary is provided even if no tasks are provided
+	40gp each
+
+10% discount at Kathkach
+
 4 tasks:
 - Form and maintain a contact with someone in the city
 	- Suggestions: 
