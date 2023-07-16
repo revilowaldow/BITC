@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deity/Lifegiver.md",
+                "file": "Deity/New/Lifegiver.md",
                 "mode": "source",
                 "source": false
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deity/The Protector.md",
+                "file": "Deity/New/The Protector.md",
                 "mode": "source",
                 "source": false
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deity/Gotha.md",
+                "file": "Deity/Old/Gotha.md",
                 "mode": "source",
                 "source": false
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deity/Aepoptosis.md",
+                "file": "Deity/Old/Aepoptosis.md",
                 "mode": "source",
                 "source": false
               }
@@ -380,7 +380,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -454,7 +454,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deity/Gotha.md",
+                "file": "Sessions/2023/07 16 - Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -471,7 +471,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deity/Gotha.md",
+                "file": "Sessions/2023/07 16 - Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -494,7 +494,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deity/Gotha.md"
+                "file": "Sessions/2023/07 16 - Session 6.md"
               }
             }
           },
@@ -549,18 +549,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1cdbb6e9562ffbb5",
+  "active": "e1fc235418c7cada",
   "lastOpenFiles": [
-    "Deity/Aepoptosis.md",
+    "Sessions/2023/07 02 - Session 5.md",
+    "Sessions/2023/07 16 - Session 6.md",
+    "Deity/Old/Aepoptosis.md",
+    "Deity/New",
+    "Deity/Old",
+    "Deity/Old/Gotha.md",
     "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Town warlocks.md",
     "Locations/Kathkach/Lowtown.md",
-    "Sessions/2023/07 16 - Session 6.md",
-    "Sessions/2023/07 02 - Session 5.md",
-    "Deity/Gotha.md",
-    "Deity/The Protector.md",
-    "Deity/Lifegiver.md",
-    "Deity/Dyvare.md",
+    "Deity/New/The Protector.md",
+    "Deity/New/Lifegiver.md",
+    "Deity/Old/Dyvare.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Deity",
     "Sessions/2023/04 23 - Session 0.5.md",
@@ -577,7 +579,6 @@
     "Factions/Party/Kaulinan Badag.md",
     "Factions/Party/The Party.md",
     "Factions/Party/Vrindrilliax.md",
-    "Factions/Party/Eugene.md",
     "Factions/Sea Blooded Org",
     "Locations/Coprun/Mine Layout.canvas",
     "Factions/Silver Company",
@@ -586,7 +587,6 @@
     "compendium/bestiary/dragon/token",
     "compendium/bestiary/dragon",
     "compendium/bestiary",
-    "compendium",
     "Assets/Table/Pasted image 20230507171917.png",
     "Assets/Table/Pasted image 20230423144311.png",
     "Assets/Table/Pasted image 20230423131449.png",
@@ -596,7 +596,6 @@
     "Assets/Maps/MineCombat4.png",
     "Assets/Maps/MineCombat3.png",
     "Pasted image 20230604141319.png",
-    "Assets/Maps/Topographic Map.png",
-    "Assets/Table"
+    "Assets/Maps/Topographic Map.png"
   ]
 }
