@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Lachaka.md",
+                "file": "Locations/Kathkach/Embassies and Garrisons.md",
                 "mode": "source",
                 "source": false
               }
@@ -466,7 +466,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lachaka.md",
+                "file": "Locations/Kathkach/Embassies and Garrisons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -483,7 +483,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lachaka.md",
+                "file": "Locations/Kathkach/Embassies and Garrisons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -506,7 +506,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Lachaka.md"
+                "file": "Locations/Kathkach/Embassies and Garrisons.md"
               }
             }
           },
@@ -561,10 +561,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "85ee4c1e0ff5a11c",
   "lastOpenFiles": [
-    "Sessions/2023/07 16 - Session 6.md",
     "Locations/Lachaka.md",
+    "Locations/Kathkach/Embassies and Garrisons.md",
+    "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Deity/Old/Aepoptosis.md",
     "Deity/New",
@@ -591,7 +592,6 @@
     "Factions/Silver Company/Kevin Aldragosh.md",
     "Factions/Party/Kaulinan Badag.md",
     "Factions/Party/The Party.md",
-    "Factions/Party/Vrindrilliax.md",
     "Factions/Sea Blooded Org",
     "Locations/Coprun/Mine Layout.canvas",
     "Factions/Silver Company",

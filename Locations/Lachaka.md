@@ -1,4 +1,4 @@
 Derelict Town down river of [[Kathkach]]
 
-Supposedly destroyed by a [[Comanda]]
+Supposedly destroyed by [[Cobalt Comanda]]
 
