@@ -14,102 +14,6 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "f272febab1498f50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/Silver Company Headquarters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3e2fe8986deaa3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Larkin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1b55d214e0624f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Lore/NPCs/Leader Jovil.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9eb4aed1287e407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Lore/NPCs/Nefros.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddf14180607f331e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Gori.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ec9b28be6941d38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Lore/NPCs/Calamxis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7966bca3d7af9933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Kevin Aldradosh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86209ba5395eea25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Party/Vrindrilliax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -278,12 +182,12 @@
   },
   "active": "a74efd5bf57f6c76",
   "lastOpenFiles": [
+    "Character Lore/NPCs/Leader Jovil.md",
     "Locations/Kathkach/Dyvare Bridge.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Character Lore/NPCs/Nefros.md",
     "Character Lore/NPCs/Teryna.md",
     "Factions/Silver Company/Yarek.md",
-    "Character Lore/NPCs/Leader Jovil.md",
     "Factions/Silver Company/Larkin.md",
     "Character Lore/NPCs/Calamxis.md",
     "Factions/Silver Company/Gori.md",
