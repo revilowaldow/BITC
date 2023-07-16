@@ -10,6 +10,8 @@ First night
 - Aggressive towards patron outside
 
 Second Night
+- Snooping near a building near bridge to gold
+
 - 5cp fine for armor
 - 2cp reimbursement for extended detainment
 
