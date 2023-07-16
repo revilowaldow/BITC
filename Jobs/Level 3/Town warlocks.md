@@ -15,5 +15,7 @@ Second Night
 - Snooping near a building near bridge to gold quarter
 
 
-Extended to be detained
+Extended to be detained until end of week
+
+
 
