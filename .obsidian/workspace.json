@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Cobalt Comanda.md",
+                "file": "Factions/Sea Blooded Org/Evangeline Stifka.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Cobalt Comanda.md",
+                "file": "Factions/Sea Blooded Org/Evangeline Stifka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Cobalt Comanda.md",
+                "file": "Factions/Sea Blooded Org/Evangeline Stifka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Cobalt Comanda.md"
+                "file": "Factions/Sea Blooded Org/Evangeline Stifka.md"
               }
             }
           },
@@ -248,8 +248,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "c4dbbcda87b69900",
   "lastOpenFiles": [
+    "Factions/Cobalt Comanda.md",
+    "Factions/Sea Blooded Org/Evangeline Stifka.md",
     "Factions/Sea Blooded Org",
     "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/07 02 - Session 5.md",
@@ -257,7 +259,6 @@
     "Locations/Coprun/Mine Layout.canvas",
     "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Town warlocks.md",
-    "Factions/Cobalt Comanda.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
     "Character Lore/NPCs/Leader Jovil.md",
     "Locations/Kathkach/Dyvare Bridge.md",
@@ -295,7 +296,6 @@
     "Pasted image 20230604141319.png",
     "Assets/Maps/Topographic Map.png",
     "Assets/Table",
-    "Assets/Maps",
-    "clean.bat"
+    "Assets/Maps"
   ]
 }
