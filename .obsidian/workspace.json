@@ -421,7 +421,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "majesty",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -446,7 +446,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -561,7 +562,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "131036aee6ef278a",
+  "active": "d64d57bbfa4524a3",
   "lastOpenFiles": [
     "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Town warlocks.md",
