@@ -27,3 +27,4 @@ Looks like a Kathkachan Rune in terms of shape
 Need to talk to a religious leader maybe 
 
 Body was moved to current location 
+
