@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md",
+                "file": "Deity/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -394,7 +394,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md",
+                "file": "Deity/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -411,7 +411,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md",
+                "file": "Deity/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -434,7 +434,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md"
+                "file": "Deity/Untitled.md"
               }
             }
           },
@@ -491,14 +491,17 @@
   },
   "active": "aa19c50c7c68a967",
   "lastOpenFiles": [
+    "Deity/Aepoptosis.md",
+    "Deity/Untitled.md",
+    "Sessions/2023/06 18 - Session 4.md",
+    "Deity",
+    "Jobs/Level 3/Murders in Lowtown.md",
     "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/06 04 - Session 3.md",
-    "Sessions/2023/06 18 - Session 4.md",
-    "Jobs/Level 3/Murders in Lowtown.md",
     "Locations/Kathkach/Middle Zigg.md",
     "Factions/Silver Company/Karta.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
@@ -515,9 +518,7 @@
     "Character Lore/NPCs/Leader Jovil.md",
     "Character Lore/NPCs/Nefros.md",
     "Factions/Cobalt Comanda.md",
-    "Factions/Sea Blooded Org/Evangeline Stifka.md",
     "Factions/Sea Blooded Org",
-    "Factions/Silver Company/'Stealth'.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Factions/Silver Company",
     "Jobs/Level 3",
@@ -536,7 +537,6 @@
     "Assets/Maps/MineCombat3.png",
     "Pasted image 20230604141319.png",
     "Assets/Maps/Topographic Map.png",
-    "Assets/Table",
-    "Assets/Maps"
+    "Assets/Table"
   ]
 }
