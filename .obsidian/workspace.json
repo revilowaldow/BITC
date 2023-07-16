@@ -258,6 +258,66 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9eac55efad1b40a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/06 04 - Session 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6956679a34f97d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 28 - Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a777902f8112a53e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b145b029563e9fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/04 23 - Session 0.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83232ac5c6cce3c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/06 18 - Session 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 17
@@ -431,10 +491,15 @@
   },
   "active": "aa19c50c7c68a967",
   "lastOpenFiles": [
-    "Locations/Kathkach/Middle Zigg.md",
-    "Jobs/Level 3/Murders in Lowtown.md",
     "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/07 02 - Session 5.md",
+    "Sessions/2023/04 23 - Session 0.5.md",
+    "Sessions/2023/05 07 - Session 1.md",
+    "Sessions/2023/05 28 - Session 2.md",
+    "Sessions/2023/06 04 - Session 3.md",
+    "Sessions/2023/06 18 - Session 4.md",
+    "Jobs/Level 3/Murders in Lowtown.md",
+    "Locations/Kathkach/Middle Zigg.md",
     "Factions/Silver Company/Karta.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
     "Factions/Silver Company/Larkin.md",
@@ -454,12 +519,7 @@
     "Factions/Sea Blooded Org",
     "Factions/Silver Company/'Stealth'.md",
     "Locations/Coprun/Mine Layout.canvas",
-    "Jobs/Level 3/Town warlocks.md",
-    "Locations/Kathkach/Dyvare Bridge.md",
-    "Factions/Silver Company/Yarek.md",
-    "Factions/Silver Company/Gori.md",
     "Factions/Silver Company",
-    "Locations/Kathkach/Lowtown.md",
     "Jobs/Level 3",
     "Jobs",
     "compendium/bestiary/dragon/token",
