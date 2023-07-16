@@ -1,0 +1,7 @@
+The Protector is the noble and heavy-handed patron of law, guards, city walls and the preservation of society and life. He is also the terrible and dark vengeful tyrant of war and fighters.
+
+Commonly represented in cities as a knight in ancient resplendent silver armour, he is typically worshipped by those who devote themselves to the maintenance of public order. It is no surprise that within cities he is widely regarded as the favoured patron of many; it is his influence that guards a city and society against the influence of chaos and corruption.
+
+His dim aspect emerges in times of strife. When the preservation of society fails, its destruction must happen swiftly and mercilessly in order for it to blossom anew. His anger is felt through the fiery might of siege engines and the tips of swords. His wrath is the cutting edge of a [falx](https://5e.warlow.engineer/items.html#falx_bloodinthecompany), the bite of arrows, and the relentless swing of an executioner's axe.
+
+To worship the Protector means to link oneself to society. Even the worshippers of his dimmer aspects tend to ponder the darker sides of society; the nature and merit of punishment, and the place of war and destruction in the continuation of civilisation. Though the Protector has very overt and clear dim aspects, his brighter followers are known to be some of the most noble individuals in the world. Paladins and knights, defenders and champions offer prayers and worship to the Protector.

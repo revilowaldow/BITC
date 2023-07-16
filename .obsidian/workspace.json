@@ -200,6 +200,18 @@
             }
           },
           {
+            "id": "dc71612c6baec613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jobs/Level 3/Murders in Lowtown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2535dd85dbc1ac20",
             "type": "leaf",
             "state": {
@@ -236,6 +248,30 @@
             }
           },
           {
+            "id": "1cdbb6e9562ffbb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deity/Gothga.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88410a6eda8a3c62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deity/Aepoptosis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d6947b9fcccf3262",
             "type": "leaf",
             "state": {
@@ -254,6 +290,18 @@
               "type": "markdown",
               "state": {
                 "file": "Sessions/2023/07 16 - Session 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8585aeb398ff13f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Kathkach/Lowtown.md",
                 "mode": "source",
                 "source": false
               }
@@ -332,7 +380,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -406,7 +454,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deity/The Protector.md",
+                "file": "Deity/Aepoptosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -423,7 +471,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deity/The Protector.md",
+                "file": "Deity/Aepoptosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -446,7 +494,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deity/The Protector.md"
+                "file": "Deity/Aepoptosis.md"
               }
             }
           },
@@ -501,18 +549,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f42c620898a92f65",
+  "active": "88410a6eda8a3c62",
   "lastOpenFiles": [
-    "Deity/Lifegiver.md",
-    "Deity/The Protector.md",
-    "Deity/Dyvare.md",
-    "Deity/Gothga.md",
-    "Deity/Aepoptosis.md",
-    "Sessions/2023/06 18 - Session 4.md",
-    "Deity",
     "Jobs/Level 3/Murders in Lowtown.md",
+    "Jobs/Level 3/Town warlocks.md",
+    "Locations/Kathkach/Lowtown.md",
     "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/07 02 - Session 5.md",
+    "Deity/Aepoptosis.md",
+    "Deity/Gothga.md",
+    "Deity/The Protector.md",
+    "Deity/Lifegiver.md",
+    "Deity/Dyvare.md",
+    "Sessions/2023/06 18 - Session 4.md",
+    "Deity",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/05 28 - Session 2.md",
@@ -528,8 +578,6 @@
     "Factions/Party/The Party.md",
     "Factions/Party/Vrindrilliax.md",
     "Factions/Party/Eugene.md",
-    "Character Lore/NPCs/Teryna.md",
-    "Character Lore/NPCs/Calamxis.md",
     "Factions/Sea Blooded Org",
     "Locations/Coprun/Mine Layout.canvas",
     "Factions/Silver Company",
