@@ -1,0 +1,7 @@
+Lifegiver is the patron god of mothers, agriculture, plants and animals. She is also the bitter and callous brewer of diseases and poisons, decomposition, and death.
+
+She is often represented as anywhere between an old caring matron and a youthful, beautiful maiden, depending on the interpretation. Dressed simply in white or gold, palms outstretched, she is especially favoured in the countrysides, where life grows free. Farmers offer prayers to her, as do midwifes, cultivators, and parents.
+
+Her dim aspects take the form of plagues and infantile deaths. She can sometimes seem to be the cruellest of all the gods of Gol considering how easily she can take the lives of innocents. It is possibly no surprise that many of her followers, both good aligned and evil, have a greater tendency than most to be chaotic. Her cruelty comes often without warning. Failing crops leading to starvation, disease running rampant through the streets of a city, and death arriving in the dead of night, silently and without warning.
+
+Her worshippers often comprise of healers and caretakers who seek to appease her callous dimmer aspects by appealing to her brighter side. Poisoners do the opposite. To ponder the nature of life, its meaning, and how it can be nurtured or ended is what it means to be a devout follower of the Lifegiver. She gives, and she also takes away.
