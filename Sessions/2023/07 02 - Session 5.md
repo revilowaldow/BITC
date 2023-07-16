@@ -42,4 +42,3 @@ Visited [[Silver Company Headquarters]]
 - Murders in Lowtown
 	- Politically motivated? 
 	- Ritualistic kills
-	- 
