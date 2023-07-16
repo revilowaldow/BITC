@@ -8,196 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ab8107d85fd2715",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
-                "viewState": {
-                  "x": 1708.6601405146712,
-                  "y": 819.560519381929,
-                  "zoom": -1.26058986560891
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "d773f6340406bc25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15a34dfeb5d7c84a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f2ba89f6f0873a07",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 28 - Session 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "775f724b97622098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb8de6380366dcd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 28 - Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "895a84035e4e7633",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Weapon Rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12d40666be4e30af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Lore/Party/Kaulinan Badag.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a76580376b29191",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ebec14137f83ac00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Lore/NPCs/Kevin Aldradosh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa591f66739d45c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a7f194ffcd3c042",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "595a5f532816fb79",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "65b6d1dc2a8f2311",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Table/Pasted image 20230423131449.png"
-              }
-            }
-          },
-          {
-            "id": "e14edf69ac55ad26",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Table/Pasted image 20230423144311.png"
-              }
-            }
-          },
-          {
-            "id": "73301ec8d5b9691f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Table/Pasted image 20230507171917.png"
-              }
-            }
-          },
-          {
-            "id": "ebdc6927bbbfa70f",
+            "id": "a74efd5bf57f6c76",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -209,117 +20,7 @@
             }
           },
           {
-            "id": "7e6aebc638fbb385",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/06 18 - Session 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "740cd7af26266aa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/06 18 - Session 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b6fe4a48397c417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Lore/NPCs/'Stealth'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a403461935b2b153",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63f0b64a565eda09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/04 23 - Session 0.5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "317d7351af9c4bef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a770985808d13174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Coprun/Miners Pick.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c9503a0c1b5028a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/Silver Company Headquarters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a37cf9155f01018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Lore/NPCs/Larkin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5888884f16428496",
+            "id": "9c13f3a780b14984",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -329,81 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e7df9347c110fc46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/04 23 - Session 0.5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b600dbd935fd6f2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Lore/Party/Vrindrilliax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "887a47d365533963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/Brass Palace.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bab6c87f48ceabe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Lore/Party/Caenis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1965e404acabb9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "406983d819614095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 26
+        ]
       }
     ],
     "direction": "vertical"
@@ -477,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/07 16 - Session 6.md",
+                "file": "Sessions/2023/07 02 - Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -494,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/07 16 - Session 6.md",
+                "file": "Sessions/2023/07 02 - Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -517,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/07 16 - Session 6.md"
+                "file": "Sessions/2023/07 02 - Session 5.md"
               }
             }
           },
@@ -572,14 +200,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5888884f16428496",
+  "active": "a74efd5bf57f6c76",
   "lastOpenFiles": [
-    "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/07 16 - Session 6.md",
-    "Sessions/2023/05 07 - Session 1.md",
-    "Sessions/2023/04 23 - Session 0.5.md",
-    "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/06 04 - Session 3.md",
+    "Sessions/2023/05 07 - Session 1.md",
+    "Character Lore/Party/Caenis.md",
+    "Locations/Kathkach/Brass Palace.md",
+    "Character Lore/Party/Vrindrilliax.md",
+    "Sessions/2023/04 23 - Session 0.5.md",
+    "Character Lore/NPCs/Larkin.md",
+    "Locations/Kathkach/Silver Company Headquarters.md",
+    "Locations/Coprun/Miners Pick.md",
+    "Sessions/2023/05 28 - Session 2.md",
+    "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Assets/Table/Pasted image 20230507171917.png",
     "Assets/Table/Pasted image 20230423144311.png",
@@ -587,15 +221,10 @@
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Coprun/Copper Mines.md",
     "Factions/Silver Company.md",
-    "Character Lore/NPCs/Larkin.md",
-    "Locations/Kathkach/Silver Company Headquarters.md",
-    "Locations/Coprun/Miners Pick.md",
     "Character Lore/NPCs/Kevin Aldradosh.md",
     "Locations/Kathkach/Dyvare Bridge.md",
     "Locations/Kathkach/Kathkach.md",
-    "Locations/Kathkach/Brass Palace.md",
     "Character Lore/Party/Aru of the Sands.md",
-    "Character Lore/Party/Vrindrilliax.md",
     "Character Lore/NPCs/'Stealth'.md",
     "Character Lore/NPCs/Yarek.md",
     "Assets/Characters/NPC.png",
@@ -607,7 +236,6 @@
     "compendium/bestiary/dragon",
     "compendium/bestiary",
     "compendium",
-    "Character Lore/Party/Caenis.md",
     "Character Lore/Party/Kaulinan Badag.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Assets/Maps/MineCombat4.png",
