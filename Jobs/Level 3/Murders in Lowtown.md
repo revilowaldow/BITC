@@ -32,4 +32,5 @@ Symbol of a banned cult
 
 Old gods - [[Aepoptosis]] - god of death violence destruction
 
-[[Cobalt Comanda]] can become involved if murders spread to the merchant d
+[[Cobalt Comanda]] can become involved if murders spread to the merchant district
+

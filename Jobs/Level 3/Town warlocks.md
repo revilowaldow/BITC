@@ -18,5 +18,8 @@ Second Night
 Extended to be detained until end of week
 
 [[Grigorkan]] 
-- 
+
+All frequently attended the [[Platinum Pot]]
+
+
 

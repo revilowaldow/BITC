@@ -392,7 +392,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -466,7 +466,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md",
+                "file": "Jobs/Level 3/Town warlocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -483,7 +483,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md",
+                "file": "Jobs/Level 3/Town warlocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -506,7 +506,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md"
+                "file": "Jobs/Level 3/Town warlocks.md"
               }
             }
           },
@@ -561,8 +561,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc71612c6baec613",
+  "active": "131036aee6ef278a",
   "lastOpenFiles": [
+    "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Town warlocks.md",
     "Locations/Kathkach/Embassies and Garrisons.md",
     "Locations/Lachaka.md",
@@ -572,7 +573,6 @@
     "Deity/New",
     "Deity/Old",
     "Deity/Old/Gotha.md",
-    "Jobs/Level 3/Murders in Lowtown.md",
     "Locations/Kathkach/Lowtown.md",
     "Deity/New/The Protector.md",
     "Deity/New/Lifegiver.md",
