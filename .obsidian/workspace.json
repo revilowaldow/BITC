@@ -11,68 +11,8 @@
             "id": "a74efd5bf57f6c76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef072d9b9414630c",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "57ee81a32ae8ef97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/Dyvare Bridge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb18924da2d6c8d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/Kathkach.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d25ac443030fe69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/Brass Palace.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee21ca514dd8e3a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Jungles.md",
-                "mode": "source",
-                "source": false
-              }
             }
           },
           {
@@ -93,67 +33,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Lore/NPCs/Larkin.md",
+                "file": "Factions/Silver Company/Larkin.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "99e0e04cd8a0274e",
+            "id": "c1b55d214e0624f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2023/06 18 - Session 4.md",
+                "file": "Character Lore/NPCs/Leader Jovil.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d47177c88c9207cd",
+            "id": "f9eb4aed1287e407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80ed9d58b294aa47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 28 - Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1a29edb1646ceda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99b9a6c01c59fbbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/07 16 - Session 6.md",
+                "file": "Character Lore/NPCs/Nefros.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,6 +70,18 @@
               "type": "markdown",
               "state": {
                 "file": "Factions/Silver Company/Gori.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ec9b28be6941d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Lore/NPCs/Calamxis.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,14 +105,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Lore/Party/Vrindrilliax.md",
+                "file": "Factions/Silver Company/Party/Vrindrilliax.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,7 +185,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Silver Company/Gori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +201,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Silver Company/Gori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,9 +222,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Factions/Silver Company/Gori.md"
-              }
+              "state": {}
             }
           },
           {
@@ -365,13 +276,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ddf14180607f331e",
+  "active": "a74efd5bf57f6c76",
   "lastOpenFiles": [
-    "Factions/Silver Company/Silver Company.md",
+    "Locations/Kathkach/Dyvare Bridge.md",
+    "Sessions/2023/07 02 - Session 5.md",
+    "Character Lore/NPCs/Nefros.md",
+    "Character Lore/NPCs/Teryna.md",
+    "Factions/Silver Company/Yarek.md",
+    "Character Lore/NPCs/Leader Jovil.md",
+    "Factions/Silver Company/Larkin.md",
+    "Character Lore/NPCs/Calamxis.md",
     "Factions/Silver Company/Gori.md",
+    "Factions/Silver Company/Silver Company.md",
     "Factions/Silver Company",
     "Sessions/2023/07 16 - Session 6.md",
-    "Sessions/2023/07 02 - Session 5.md",
     "Jobs/Level 3/Murders in Lowtown.md",
     "Locations/Kathkach/Lowtown.md",
     "Jobs/Level 3/Missing Devil Crab.md",
@@ -382,28 +300,21 @@
     "Jobs/Level 3",
     "Jobs",
     "Factions/Silver Company/Kevin Aldradosh.md",
-    "Character Lore/Party/Vrindrilliax.md",
+    "Factions/Silver Company/Party/Vrindrilliax.md",
     "compendium/bestiary/dragon/token/drake-companion.png.md",
     "compendium/bestiary/dragon/token",
     "compendium/bestiary/dragon",
     "compendium/bestiary",
     "compendium",
-    "Character Lore/NPCs/Larkin.md",
     "Locations/Jungles.md",
     "Locations/Kathkach/Brass Palace.md",
     "Locations/Kathkach/Kathkach.md",
-    "Locations/Kathkach/Dyvare Bridge.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/06 04 - Session 3.md",
-    "Sessions/2023/06 18 - Session 4.md",
-    "Character Lore/Party/Caenis.md",
-    "Sessions/2023/04 23 - Session 0.5.md",
-    "Locations/Coprun/Miners Pick.md",
     "Assets/Table/Pasted image 20230507171917.png",
     "Assets/Table/Pasted image 20230423144311.png",
     "Assets/Table/Pasted image 20230423131449.png",
     "Locations/Coprun/Mine Layout.canvas",
-    "Locations/Coprun/Copper Mines.md",
     "Assets/Characters/NPC.png",
     "compendium/bestiary/dragon/token/drake-companion.png",
     "Assets/Characters/Vrindrilliax.png",
