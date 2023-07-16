@@ -1,4 +1,4 @@
-Corpse was delivered correctly to the gate in the lowlands
+Corpse was delivered correctly to the gate in the [[Lowtown]]
 
 [[Gori]] delivered crab, gone missing
 large red tarp covering crab

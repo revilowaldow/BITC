@@ -1,3 +1,3 @@
-- Murders in Lowtown
+- Murders in [[Lowtown]]
 	- Politically motivated? 
 	- Ritualistic kills

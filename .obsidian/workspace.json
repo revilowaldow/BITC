@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "ef072d9b9414630c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "57ee81a32ae8ef97",
             "type": "leaf",
             "state": {
@@ -175,25 +183,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "978c5832546c87c1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9c13f3a780b14984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/Level 3/Forge Allies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,7 +258,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +274,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,9 +295,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md"
-              }
+              "state": {}
             }
           },
           {
@@ -362,13 +349,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a74efd5bf57f6c76",
+  "active": "ef072d9b9414630c",
   "lastOpenFiles": [
+    "Jobs/Level 3/Murders in Lowtown.md",
+    "Locations/Kathkach/Lowtown.md",
+    "Jobs/Level 3/Missing Devil Crab.md",
     "Jobs/Level 3/Forge Allies.md",
     "Sessions/2023/07 02 - Session 5.md",
-    "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Town warlocks.md",
-    "Jobs/Level 3/Missing Devil Crab.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
     "Sessions/2023/07 16 - Session 6.md",
@@ -399,7 +387,6 @@
     "Locations/Coprun/Copper Mines.md",
     "Factions/Silver Company.md",
     "Character Lore/Party/Aru of the Sands.md",
-    "Character Lore/NPCs/'Stealth'.md",
     "Assets/Characters/NPC.png",
     "compendium/bestiary/dragon/token/drake-companion.png",
     "Assets/Characters/Vrindrilliax.png",
