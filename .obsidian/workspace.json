@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Lore/NPCs/Kevin Aldradosh.md",
+                "file": "Sessions/2023/07 16 - Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Lore/NPCs/Kevin Aldradosh.md",
+                "file": "Sessions/2023/07 16 - Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Lore/NPCs/Kevin Aldradosh.md"
+                "file": "Sessions/2023/07 16 - Session 6.md"
               }
             }
           },
@@ -345,8 +345,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7966bca3d7af9933",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
+    "Jobs",
+    "Character Lore/NPCs/Kevin Aldradosh.md",
     "Sessions/2023/07 16 - Session 6.md",
     "Character Lore/Party/Vrindrilliax.md",
     "compendium/bestiary/dragon/token/drake-companion.png.md",
@@ -374,7 +376,6 @@
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Coprun/Copper Mines.md",
     "Factions/Silver Company.md",
-    "Character Lore/NPCs/Kevin Aldradosh.md",
     "Character Lore/Party/Aru of the Sands.md",
     "Character Lore/NPCs/'Stealth'.md",
     "Character Lore/NPCs/Yarek.md",
