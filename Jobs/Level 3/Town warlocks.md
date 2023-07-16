@@ -11,4 +11,5 @@ First night
 
 Second Night
 - 5cp fine for armor
-- 2cp reimbusement for extended 
+- 2cp reimbursement for extended detainment
+
