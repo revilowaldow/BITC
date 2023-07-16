@@ -20,6 +20,54 @@
             }
           },
           {
+            "id": "99e0e04cd8a0274e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/06 18 - Session 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d47177c88c9207cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/06 04 - Session 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80ed9d58b294aa47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 28 - Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1a29edb1646ceda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9c13f3a780b14984",
             "type": "leaf",
             "state": {
@@ -203,8 +251,11 @@
   "active": "a74efd5bf57f6c76",
   "lastOpenFiles": [
     "Sessions/2023/07 16 - Session 6.md",
-    "Sessions/2023/06 04 - Session 3.md",
+    "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/05 07 - Session 1.md",
+    "Sessions/2023/05 28 - Session 2.md",
+    "Sessions/2023/06 04 - Session 3.md",
+    "Sessions/2023/06 18 - Session 4.md",
     "Character Lore/Party/Caenis.md",
     "Locations/Kathkach/Brass Palace.md",
     "Character Lore/Party/Vrindrilliax.md",
@@ -212,9 +263,6 @@
     "Character Lore/NPCs/Larkin.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
     "Locations/Coprun/Miners Pick.md",
-    "Sessions/2023/05 28 - Session 2.md",
-    "Sessions/2023/07 02 - Session 5.md",
-    "Sessions/2023/06 18 - Session 4.md",
     "Assets/Table/Pasted image 20230507171917.png",
     "Assets/Table/Pasted image 20230423144311.png",
     "Assets/Table/Pasted image 20230423131449.png",
