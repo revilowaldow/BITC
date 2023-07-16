@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Kathkach/Silver Company Headquarters.md",
+                "file": "Factions/Silver Company/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -322,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/Silver Company Headquarters.md",
+                "file": "Factions/Silver Company/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Kathkach/Silver Company Headquarters.md",
+                "file": "Factions/Silver Company/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,7 +362,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/Silver Company Headquarters.md"
+                "file": "Factions/Silver Company/Untitled.md"
               }
             }
           },
@@ -419,6 +419,8 @@
   },
   "active": "56e217da93a85582",
   "lastOpenFiles": [
+    "Locations/Kathkach/Silver Company Headquarters.md",
+    "Factions/Silver Company/Untitled.md",
     "Factions/Silver Company/Larkin.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Factions/Silver Company/Silver Company.md",
@@ -440,14 +442,12 @@
     "Locations/Coprun/Mine Layout.canvas",
     "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Town warlocks.md",
-    "Locations/Kathkach/Silver Company Headquarters.md",
     "Locations/Kathkach/Dyvare Bridge.md",
     "Factions/Silver Company/Yarek.md",
     "Factions/Silver Company/Gori.md",
     "Factions/Silver Company",
     "Locations/Kathkach/Lowtown.md",
     "Jobs/Level 3/Missing Devil Crab.md",
-    "Jobs/Level 3/Forge Allies.md",
     "Jobs/Level 3",
     "Jobs",
     "compendium/bestiary/dragon/token",
