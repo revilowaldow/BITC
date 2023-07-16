@@ -28,6 +28,7 @@ All adults 25 - late 30s
 [[Her Majesty]]
 
 The Queen and her Entourage??
-	Band 
+	Band that plays in Kathkach
+	[[Platinum Pot]]
 
 
