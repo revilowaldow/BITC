@@ -160,12 +160,24 @@
             }
           },
           {
+            "id": "ddf14180607f331e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Silver Company/Gori.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7966bca3d7af9933",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Lore/NPCs/Kevin Aldradosh.md",
+                "file": "Factions/Silver Company/Kevin Aldradosh.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -258,6 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Factions/Silver Company/Gori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,6 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Factions/Silver Company/Gori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,7 +309,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Factions/Silver Company/Gori.md"
+              }
             }
           },
           {
@@ -349,20 +365,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef072d9b9414630c",
+  "active": "ddf14180607f331e",
   "lastOpenFiles": [
+    "Factions/Silver Company/Silver Company.md",
+    "Factions/Silver Company/Gori.md",
+    "Factions/Silver Company",
+    "Sessions/2023/07 16 - Session 6.md",
+    "Sessions/2023/07 02 - Session 5.md",
     "Jobs/Level 3/Murders in Lowtown.md",
     "Locations/Kathkach/Lowtown.md",
     "Jobs/Level 3/Missing Devil Crab.md",
     "Jobs/Level 3/Forge Allies.md",
-    "Sessions/2023/07 02 - Session 5.md",
     "Jobs/Level 3/Town warlocks.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
-    "Sessions/2023/07 16 - Session 6.md",
     "Jobs/Level 3",
     "Jobs",
-    "Character Lore/NPCs/Kevin Aldradosh.md",
+    "Factions/Silver Company/Kevin Aldradosh.md",
     "Character Lore/Party/Vrindrilliax.md",
     "compendium/bestiary/dragon/token/drake-companion.png.md",
     "compendium/bestiary/dragon/token",
@@ -385,8 +404,6 @@
     "Assets/Table/Pasted image 20230423131449.png",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Coprun/Copper Mines.md",
-    "Factions/Silver Company.md",
-    "Character Lore/Party/Aru of the Sands.md",
     "Assets/Characters/NPC.png",
     "compendium/bestiary/dragon/token/drake-companion.png",
     "Assets/Characters/Vrindrilliax.png",
@@ -396,7 +413,6 @@
     "Assets/Maps/Topographic Map.png",
     "Assets/Table",
     "Assets/Maps",
-    "clean.bat",
-    "Sessions/2023"
+    "clean.bat"
   ]
 }
