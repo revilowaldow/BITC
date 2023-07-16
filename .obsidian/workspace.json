@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0338fbdf76762d60",
+        "id": "578838ca74241e69",
         "type": "tabs",
         "children": [
           {
-            "id": "a74efd5bf57f6c76",
+            "id": "c4dbbcda87b69900",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -180,8 +180,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a74efd5bf57f6c76",
+  "active": "c4dbbcda87b69900",
   "lastOpenFiles": [
+    "Locations/Kathkach/Silver Company Headquarters.md",
     "Character Lore/NPCs/Leader Jovil.md",
     "Locations/Kathkach/Dyvare Bridge.md",
     "Sessions/2023/07 02 - Session 5.md",
@@ -200,7 +201,6 @@
     "Jobs/Level 3/Forge Allies.md",
     "Jobs/Level 3/Town warlocks.md",
     "Sessions/2023/05 07 - Session 1.md",
-    "Locations/Kathkach/Silver Company Headquarters.md",
     "Jobs/Level 3",
     "Jobs",
     "Factions/Silver Company/Kevin Aldradosh.md",
