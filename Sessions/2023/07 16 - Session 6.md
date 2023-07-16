@@ -4,7 +4,7 @@ Ask [[Larkin]] about accommodation
 
 Each room has two beds
 
-[[Lacaka]]
+[[Lachaka]]
 
 
 
