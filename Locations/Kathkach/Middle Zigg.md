@@ -2,9 +2,11 @@ Three large stepped towers
 
 Complexes
 
-THree Pilalrs of Pantheon
+Three Pillars of Pantheon
 
-Life Giver
-Azure Artist
-Protector
+Life Giver - Plants vines flowers
+Azure Artist - Statues, colourful paints
+Protector - Statues, dour pragmatic
+
+
 
