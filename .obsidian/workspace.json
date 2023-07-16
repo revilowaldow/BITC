@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md",
+                "file": "Locations/Kathkach/Middle Zigg.md",
                 "mode": "source",
                 "source": false
               }
@@ -322,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md",
+                "file": "Locations/Kathkach/Middle Zigg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md",
+                "file": "Locations/Kathkach/Middle Zigg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,7 +362,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md"
+                "file": "Locations/Kathkach/Middle Zigg.md"
               }
             }
           },
@@ -419,8 +419,9 @@
   },
   "active": "2535dd85dbc1ac20",
   "lastOpenFiles": [
-    "Sessions/2023/07 16 - Session 6.md",
     "Jobs/Level 3/Murders in Lowtown.md",
+    "Locations/Kathkach/Middle Zigg.md",
+    "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Factions/Silver Company/Karta.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
@@ -447,7 +448,6 @@
     "Factions/Silver Company/Gori.md",
     "Factions/Silver Company",
     "Locations/Kathkach/Lowtown.md",
-    "Jobs/Level 3/Missing Devil Crab.md",
     "Jobs/Level 3",
     "Jobs",
     "compendium/bestiary/dragon/token",
