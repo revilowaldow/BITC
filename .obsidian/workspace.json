@@ -197,6 +197,18 @@
             }
           },
           {
+            "id": "ebdc6927bbbfa70f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/07 02 - Session 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7e6aebc638fbb385",
             "type": "leaf",
             "pinned": true,
@@ -379,7 +391,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -453,7 +465,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Table/Pasted image 20230507171917.png",
+                "file": "Sessions/2023/07 02 - Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -470,7 +482,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Table/Pasted image 20230507171917.png",
+                "file": "Sessions/2023/07 02 - Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -493,7 +505,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Table/Pasted image 20230507171917.png"
+                "file": "Sessions/2023/07 02 - Session 5.md"
               }
             }
           },
@@ -548,17 +560,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73301ec8d5b9691f",
+  "active": "5888884f16428496",
   "lastOpenFiles": [
+    "Sessions/2023/06 18 - Session 4.md",
+    "Sessions/2023/07 02 - Session 5.md",
+    "Assets/Table/Pasted image 20230507171917.png",
     "Assets/Table/Pasted image 20230423144311.png",
     "Assets/Table/Pasted image 20230423131449.png",
-    "Assets/Table/Pasted image 20230507171917.png",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Coprun/Copper Mines.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/04 23 - Session 0.5.md",
-    "Sessions/2023/07 02 - Session 5.md",
     "Factions/Silver Company.md",
     "Character Lore/NPCs/Larkin.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
@@ -566,7 +579,6 @@
     "Character Lore/NPCs/Kevin Aldradosh.md",
     "Locations/Kathkach/Dyvare Bridge.md",
     "Locations/Kathkach/Kathkach.md",
-    "Sessions/2023/06 18 - Session 4.md",
     "Locations/Kathkach/Brass Palace.md",
     "Character Lore/Party/Aru of the Sands.md",
     "Character Lore/Party/Vrindrilliax.md",
@@ -590,7 +602,6 @@
     "Pasted image 20230604141319.png",
     "Character Lore/NPCs/Leader Jovil.md",
     "Assets/Maps/Topographic Map.png",
-    "Assets/Maps/PevicContinent.png",
     "Assets/Table",
     "Assets/Maps",
     "clean.bat",
