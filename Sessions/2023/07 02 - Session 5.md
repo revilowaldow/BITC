@@ -36,11 +36,7 @@ Base salary is provided even if no tasks are provided
 		- Envoys from West steelmongers
 		- Envoys from East alchemists
 		- Helviti inquisitors
-- Missing crab corpse
-	- Devil vampire crab
-	- Unkillable, undead, no sunlight or steaking (no heart)
-	- One is dead, brought here for research
-	- But it's disappeared
+
 - Town warlocks
 	- Three in merchant district
 	- What is their source of power and can it be contained?

@@ -140,7 +140,7 @@
             }
           },
           {
-            "id": "9c13f3a780b14984",
+            "id": "99b9a6c01c59fbbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,8 +175,25 @@
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
+      },
+      {
+        "id": "978c5832546c87c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c13f3a780b14984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jobs/Level 3/Missing Devil Crab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/07 16 - Session 6.md",
+                "file": "Sessions/2023/07 02 - Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/07 16 - Session 6.md",
+                "file": "Sessions/2023/07 02 - Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/07 16 - Session 6.md"
+                "file": "Sessions/2023/07 02 - Session 5.md"
               }
             }
           },
@@ -345,25 +362,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "a74efd5bf57f6c76",
   "lastOpenFiles": [
+    "Sessions/2023/05 07 - Session 1.md",
+    "Jobs/Level 3/Missing Devil Crab.md",
+    "Sessions/2023/07 02 - Session 5.md",
+    "Locations/Kathkach/Silver Company Headquarters.md",
+    "Sessions/2023/07 16 - Session 6.md",
+    "Jobs/Level 3",
     "Jobs",
     "Character Lore/NPCs/Kevin Aldradosh.md",
-    "Sessions/2023/07 16 - Session 6.md",
     "Character Lore/Party/Vrindrilliax.md",
     "compendium/bestiary/dragon/token/drake-companion.png.md",
     "compendium/bestiary/dragon/token",
     "compendium/bestiary/dragon",
     "compendium/bestiary",
     "compendium",
-    "Locations/Kathkach/Silver Company Headquarters.md",
     "Character Lore/NPCs/Larkin.md",
     "Locations/Jungles.md",
     "Locations/Kathkach/Brass Palace.md",
     "Locations/Kathkach/Kathkach.md",
     "Locations/Kathkach/Dyvare Bridge.md",
-    "Sessions/2023/07 02 - Session 5.md",
-    "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/06 18 - Session 4.md",
@@ -383,7 +402,6 @@
     "compendium/bestiary/dragon/token/drake-companion.png",
     "Character Lore/Party/The Party.md",
     "Assets/Characters/Vrindrilliax.png",
-    "Character Lore/Party/Kaulinan Badag.md",
     "Assets/Maps/MineCombat4.png",
     "Assets/Maps/MineCombat3.png",
     "Pasted image 20230604141319.png",
@@ -391,8 +409,6 @@
     "Assets/Table",
     "Assets/Maps",
     "clean.bat",
-    "Sessions/2023",
-    "Factions/Eastern City States",
-    "Locations/Kathkach"
+    "Sessions/2023"
   ]
 }
