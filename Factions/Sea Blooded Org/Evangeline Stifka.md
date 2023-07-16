@@ -1,1 +1,2 @@
-Leader of [[Sea Blooded Organisation]] 
+Administrator of [[Sea Blooded Organisation]] in [[Kathkach]]
+

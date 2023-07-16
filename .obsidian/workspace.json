@@ -20,6 +20,66 @@
             }
           },
           {
+            "id": "ed2affd50ab0e279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Cobalt Comanda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4e6ce8405e84cf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Lore/NPCs/Nefros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5a0ee87f1c2ba91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Lore/NPCs/Leader Jovil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c862f9cd587340b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Lore/NPCs/Calamxis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ad86ca6fd0a4824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Lore/NPCs/Teryna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "131036aee6ef278a",
             "type": "leaf",
             "state": {
@@ -79,7 +139,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -153,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Sea Blooded Org/Evangeline Stifka.md",
+                "file": "Character Lore/NPCs/Teryna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Sea Blooded Org/Evangeline Stifka.md",
+                "file": "Character Lore/NPCs/Teryna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Sea Blooded Org/Evangeline Stifka.md"
+                "file": "Character Lore/NPCs/Teryna.md"
               }
             }
           },
@@ -248,8 +309,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4dbbcda87b69900",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
+    "Character Lore/NPCs/Calamxis.md",
+    "Character Lore/NPCs/Leader Jovil.md",
+    "Character Lore/NPCs/Nefros.md",
     "Factions/Cobalt Comanda.md",
     "Factions/Sea Blooded Org/Evangeline Stifka.md",
     "Factions/Sea Blooded Org",
@@ -260,13 +324,10 @@
     "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Town warlocks.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
-    "Character Lore/NPCs/Leader Jovil.md",
     "Locations/Kathkach/Dyvare Bridge.md",
-    "Character Lore/NPCs/Nefros.md",
     "Character Lore/NPCs/Teryna.md",
     "Factions/Silver Company/Yarek.md",
     "Factions/Silver Company/Larkin.md",
-    "Character Lore/NPCs/Calamxis.md",
     "Factions/Silver Company/Gori.md",
     "Factions/Silver Company/Silver Company.md",
     "Factions/Silver Company",
@@ -277,7 +338,7 @@
     "Jobs/Level 3",
     "Jobs",
     "Factions/Silver Company/Kevin Aldradosh.md",
-    "Factions/Silver Company/Party/Vrindrilliax.md",
+    "Factions/Party/Vrindrilliax.md",
     "compendium/bestiary/dragon/token/drake-companion.png.md",
     "compendium/bestiary/dragon/token",
     "compendium/bestiary/dragon",

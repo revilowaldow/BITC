@@ -1,2 +1,3 @@
-[[Shiendo Kadan]] - Leader in [[Kathkach]]
+[[Shiendo Kadan]] - Overall Leader, based in [[Kathkach]]
+
 
