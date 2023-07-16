@@ -14,8 +14,10 @@ Half Orc, missing eye, Kathkachan militia, cuts on neck
 Rule 1. Be aware of your surroundings because you are small.
 
 
-Reinforced animal cart
+[[Epo]] had a reinforced animal cart for transferring a valuable item
 
+[[Larkin]] silver company 
+ 
 4 tasks:
 - Form and maintain a contact with someone in the city
 	- Suggestions: 
