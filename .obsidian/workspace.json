@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deity/Gothga.md",
+                "file": "Deity/Gotha.md",
                 "mode": "source",
                 "source": false
               }
@@ -380,7 +380,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -454,7 +454,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deity/Aepoptosis.md",
+                "file": "Deity/Gotha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -471,7 +471,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deity/Aepoptosis.md",
+                "file": "Deity/Gotha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -494,7 +494,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deity/Aepoptosis.md"
+                "file": "Deity/Gotha.md"
               }
             }
           },
@@ -549,15 +549,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88410a6eda8a3c62",
+  "active": "1cdbb6e9562ffbb5",
   "lastOpenFiles": [
+    "Deity/Aepoptosis.md",
     "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Town warlocks.md",
     "Locations/Kathkach/Lowtown.md",
     "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/07 02 - Session 5.md",
-    "Deity/Aepoptosis.md",
-    "Deity/Gothga.md",
+    "Deity/Gotha.md",
     "Deity/The Protector.md",
     "Deity/Lifegiver.md",
     "Deity/Dyvare.md",
