@@ -19,4 +19,4 @@ Human male, flies
 On back, visible cuts and injuries
 
 [[Amaranth]]'s guide suggests familiarity, look at the cuts
-
+Cuts made with a unique blade
