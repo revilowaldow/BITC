@@ -14,6 +14,14 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "131036aee6ef278a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -180,7 +188,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4dbbcda87b69900",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Locations/Kathkach/Silver Company Headquarters.md",
     "Character Lore/NPCs/Leader Jovil.md",
