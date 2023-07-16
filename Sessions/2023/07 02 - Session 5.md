@@ -20,7 +20,7 @@ Rule 1. Be aware of your surroundings because you are small.
 
 Visited [[Silver Company Headquarters]]
 
-
+5gp per week for the whole group for lodgings
 
 4 tasks:
 - Form and maintain a contact with someone in the city
