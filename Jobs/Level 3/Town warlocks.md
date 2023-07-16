@@ -21,5 +21,8 @@ Extended to be detained until end of week
 
 All frequently attended the [[Platinum Pot]]
 
+Two male humans
+One female half-elf
+
 
 
