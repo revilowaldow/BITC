@@ -128,12 +128,24 @@
             }
           },
           {
+            "id": "5be7c4605c1c72c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Rules/Valid Wild Shapes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5cb7ac3446bfde82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Silver Company/Kevin Aldradosh.md",
+                "file": "Factions/Silver Company/Kevin Aldragosh.md",
                 "mode": "source",
                 "source": false
               }
@@ -298,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Silver Company/Kevin Aldradosh.md",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Silver Company/Kevin Aldradosh.md",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Silver Company/Kevin Aldradosh.md"
+                "file": "Setting Rules/Valid Wild Shapes.md"
               }
             }
           },
@@ -393,9 +405,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5cb7ac3446bfde82",
+  "active": "5be7c4605c1c72c5",
   "lastOpenFiles": [
     "Factions/Silver Company/Silver Company.md",
+    "Factions/Silver Company/Kevin Aldragosh.md",
     "Factions/Silver Company/Larkin.md",
     "Factions/Party/Kaulinan Badag.md",
     "Factions/Party/The Party.md",
@@ -425,7 +438,6 @@
     "Sessions/2023/05 07 - Session 1.md",
     "Jobs/Level 3",
     "Jobs",
-    "Factions/Silver Company/Kevin Aldradosh.md",
     "compendium/bestiary/dragon/token",
     "compendium/bestiary/dragon",
     "compendium/bestiary",
