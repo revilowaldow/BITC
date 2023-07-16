@@ -1,10 +1,7 @@
 *Source: Fizban's Treasury of Dragons p. 15* 
-
-![[Vrindrilliax.png]]
-![[Vrindrilliax.png]]
 ```ad-statblock
 title: Drake Companion
-![](compendium/bestiary/dragon/token/drake-companion.png#token)
+![](Vrindrilliax.png)
 *Small dragon, Unaligned*
 
 - **Armor Class** (14 + PB (natural armor))
