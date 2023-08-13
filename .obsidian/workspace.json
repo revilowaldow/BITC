@@ -320,6 +320,18 @@
             }
           },
           {
+            "id": "9274618d7d4f8058",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Rules/Weapon Rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7533c4e85c51f50c",
             "type": "leaf",
             "state": {
@@ -440,7 +452,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -522,7 +534,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/08 13 - Session 7.md",
+                "file": "Setting Rules/Weapon Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -539,7 +551,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/08 13 - Session 7.md",
+                "file": "Setting Rules/Weapon Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -562,7 +574,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/08 13 - Session 7.md"
+                "file": "Setting Rules/Weapon Rules.md"
               }
             }
           },
@@ -607,10 +619,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1fc235418c7cada",
+  "active": "9274618d7d4f8058",
   "lastOpenFiles": [
-    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/08 13 - Session 7.md",
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/07 16 - Session 6.md",
     "Factions/Silver Company/Karta.md",
     "Jobs/Level 3/Town warlocks.md",
