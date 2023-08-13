@@ -481,7 +481,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "steelmo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
