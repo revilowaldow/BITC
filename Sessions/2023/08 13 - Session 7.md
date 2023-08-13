@@ -62,5 +62,8 @@ Returned an hour ago with a two burly men
 Fight:
 ![[Pasted image 20230813165337.png]]
 
-Let [[Gori]] go in exchange for 
+Let [[Gori]] go in exchange for crab
+[[Sea Blooded Organisation]] approached Gori, make crab deviate, 
+
+
 
