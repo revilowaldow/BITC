@@ -308,6 +308,18 @@
             }
           },
           {
+            "id": "73487dcfbe3eeae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Lachaka.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "85ee4c1e0ff5a11c",
             "type": "leaf",
             "state": {
@@ -404,7 +416,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -573,14 +585,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "e1fc235418c7cada",
   "lastOpenFiles": [
-    "Jobs/Level 3/Town warlocks.md",
-    "Jobs/Level 3/Murders in Lowtown.md",
-    "Locations/Kathkach/Embassies and Garrisons.md",
-    "Locations/Lachaka.md",
-    "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/07 02 - Session 5.md",
+    "Sessions/2023/06 18 - Session 4.md",
+    "Sessions/2023/06 04 - Session 3.md",
+    "Sessions/2023/05 28 - Session 2.md",
+    "Sessions/2023/05 07 - Session 1.md",
+    "Sessions/2023/04 23 - Session 0.5.md",
+    "Sessions/2023/07 16 - Session 6.md",
+    "Jobs/Level 3/Murders in Lowtown.md",
+    "Locations/Lachaka.md",
+    "Jobs/Level 3/Town warlocks.md",
+    "Locations/Kathkach/Embassies and Garrisons.md",
     "Deity/Old/Aepoptosis.md",
     "Deity/New",
     "Deity/Old",
@@ -589,12 +606,7 @@
     "Deity/New/The Protector.md",
     "Deity/New/Lifegiver.md",
     "Deity/Old/Dyvare.md",
-    "Sessions/2023/06 18 - Session 4.md",
     "Deity",
-    "Sessions/2023/04 23 - Session 0.5.md",
-    "Sessions/2023/05 07 - Session 1.md",
-    "Sessions/2023/05 28 - Session 2.md",
-    "Sessions/2023/06 04 - Session 3.md",
     "Locations/Kathkach/Middle Zigg.md",
     "Factions/Silver Company/Karta.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
