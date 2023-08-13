@@ -35,4 +35,5 @@ Picked up scent from body with Mastiff
 	[[Marka]] 
 	Used to work at the docks moving crates
 	Sometimes worked at harvest
+	May have had an old partner
 	
