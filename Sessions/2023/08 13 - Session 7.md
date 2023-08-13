@@ -26,3 +26,4 @@ Dark beard 2-3 fingers below chin
 - Image of lizards dancing
 	[[Kobold Performers of Percussion]] aka. KPOP
 
+Picked up scent from body with Mastiff
