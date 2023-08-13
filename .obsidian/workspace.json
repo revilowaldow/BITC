@@ -320,6 +320,14 @@
             }
           },
           {
+            "id": "7533c4e85c51f50c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "73487dcfbe3eeae9",
             "type": "leaf",
             "state": {
@@ -597,7 +605,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1fc235418c7cada",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Jobs/Level 3/Town warlocks.md",
     "Jobs/Level 3/Murders in Lowtown.md",
