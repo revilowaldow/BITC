@@ -38,3 +38,4 @@ Picked up scent from body with Mastiff
 	May have had an old partner
 	Silver Shadow
 
+Had another job further upriver, was later in the evening
