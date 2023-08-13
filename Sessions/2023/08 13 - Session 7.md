@@ -63,7 +63,8 @@ Fight:
 ![[Pasted image 20230813165337.png]]
 
 Let [[Gori]] go in exchange for crab
-[[Sea Blooded Organisation]] approached Gori, make crab deviate, 
+[[Sea Blooded Organisation]] approached Gori, make crab deviate, he can disappear
+
 
 
 
