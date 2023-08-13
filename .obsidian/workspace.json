@@ -505,6 +505,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b1c0b9b6efd09be3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "2f0a23ccafd7788a",
             "type": "leaf",
             "state": {
@@ -563,14 +571,6 @@
             }
           },
           {
-            "id": "b1c0b9b6efd09be3",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "274b73124f714b42",
             "type": "leaf",
             "state": {
@@ -586,13 +586,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -605,7 +603,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "b1c0b9b6efd09be3",
   "lastOpenFiles": [
     "Jobs/Level 3/Town warlocks.md",
     "Jobs/Level 3/Murders in Lowtown.md",
