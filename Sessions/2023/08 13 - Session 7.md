@@ -11,7 +11,8 @@ Crab intended to go to warehouse near to [[Dyvarran Bridge]]
 [[Karta]] - Head Scribe
 	Ask where [[Gori]] lived
 
-Gori:
+[[Gori]]:
 Above average nose, beard
 low brow
 Dark beard 2-3 fingers below chin
+
