@@ -8,3 +8,6 @@ Silver Company has a dozen warehouses
 
 Crab intended to go to warehouse near to [[Dyvarran Bridge]] 
 
+[[Karta]] - Head Scribe
+	Ask where [[Gori]] lived
+
