@@ -6,3 +6,5 @@ Intend to use mastiff to scent blood from body
 
 Silver Company has a dozen warehouses
 
+Crab intended to go to warehouse near to [[Dyvarran Bridge]] 
+
