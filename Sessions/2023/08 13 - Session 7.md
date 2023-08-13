@@ -32,4 +32,7 @@ Picked up scent from body with Mastiff
 	Dead man
 	Weapon (handaxe)
 	Got while not at home
+	[[Marka]] 
+	Used to work at the docks moving crates
+	Sometimes worked at harvest
 	
