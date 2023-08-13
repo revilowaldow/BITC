@@ -66,7 +66,9 @@ Let [[Gori]] go in exchange for crab
 [[Sea Blooded Organisation]] approached Gori, make crab deviate, he can disappear
 Cart moved to ship in dock
 Ship is currently embargoed
-[[The Wisteria]] due to sail in couple days.
+[[The Wisteria]] due to sail in couple days after paperwork cleared.
+One guy on ship to watch out for, steelmonger, Envoy from the West
+
 
 
 
