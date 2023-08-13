@@ -21,7 +21,8 @@ Dark beard 2-3 fingers below chin
 [[Platinum Pot]] Setlist:
 - [[The Entourage]]
 - [[Gale Comanda]]:
-		Musicians
-		Helviti
+	Musicians
+	Helviti
 - Image of lizards dancing
+	[[Kobold Performers of Percussion]] aka. KPOP
 
