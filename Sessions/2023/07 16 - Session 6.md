@@ -1,4 +1,4 @@
-Start at Silver company HQ, Alex recapping?
+Start at Silver company HQ, Alex recapping
 
 Ask [[Larkin]] about accommodation
 
