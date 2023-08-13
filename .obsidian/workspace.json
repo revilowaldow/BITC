@@ -452,7 +452,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -534,7 +534,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Weapon Rules.md",
+                "file": "Sessions/2023/08 13 - Session 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -551,7 +551,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Weapon Rules.md",
+                "file": "Sessions/2023/08 13 - Session 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -574,7 +574,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Weapon Rules.md"
+                "file": "Sessions/2023/08 13 - Session 7.md"
               }
             }
           },
@@ -619,8 +619,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9274618d7d4f8058",
+  "active": "e1fc235418c7cada",
   "lastOpenFiles": [
+    "Pasted image 20230813165337.png",
+    "Setting Rules/Weapon Rules.md",
     "Sessions/2023/08 13 - Session 7.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/07 16 - Session 6.md",
@@ -648,8 +650,6 @@
     "Locations/Kathkach/Middle Zigg.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
     "Factions/Silver Company/Larkin.md",
-    "Factions/Silver Company/Silver Company.md",
-    "Factions/Silver Company/Kevin Aldragosh.md",
     "Factions/Sea Blooded Org",
     "Locations/Coprun/Mine Layout.canvas",
     "Factions/Silver Company",

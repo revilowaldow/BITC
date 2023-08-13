@@ -59,3 +59,8 @@ Maybe a bouncer
 
 Visit [[Gori]]'s house 
 Returned an hour ago with a two burly men
+Fight:
+![[Pasted image 20230813165337.png]]
+
+Let [[Gori]] go in exchange for 
+
