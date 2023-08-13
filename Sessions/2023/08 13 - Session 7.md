@@ -4,3 +4,5 @@ Head to [[Silver Company Headquarters]] to check if the crab was heading to a sp
 
 Intend to use mastiff to scent blood from body
 
+Silver Company has a dozen warehouses
+
