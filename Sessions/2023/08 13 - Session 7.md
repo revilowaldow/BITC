@@ -58,4 +58,4 @@ Maybe a bouncer
 > The gold must flow
 
 Visit [[Gori]]'s house 
-Returned an hour ago surrounded b
+Returned an hour ago with a two burly men
