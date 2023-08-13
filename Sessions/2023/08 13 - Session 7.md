@@ -42,7 +42,9 @@ Had another job further upriver, was later in the evening
 Warehouses, maybe elven or other darkvision races
 Maybe a bouncer 
 
-[[]]
+[[Klas Gasken]]
+	Foreman at docks
+	
 
 [[Silver Blade]]
 	Female? or maybe elf
