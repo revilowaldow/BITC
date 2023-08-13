@@ -8,7 +8,7 @@ Three Warlocks over 2 evenings
 First night
 - Two warlocks near [[Platinum Pot]]
 - Aggressive towards patron outside
-- - 5cp fine for armor
+- 5cp fine for armour
 - 2cp reimbursement for extended detainment
 
 Second Night
