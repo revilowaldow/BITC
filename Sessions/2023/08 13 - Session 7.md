@@ -44,7 +44,7 @@ Maybe a bouncer
 
 [[Klas Gasken]]
 	Foreman at docks
-	
+	[[Jagar]]
 
 [[Silver Blade]]
 	Female? or maybe elf
