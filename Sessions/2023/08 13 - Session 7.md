@@ -41,3 +41,10 @@ Picked up scent from body with Mastiff
 Had another job further upriver, was later in the evening
 Warehouses, maybe elven or other darkvision races
 Maybe a bouncer 
+
+[[Silver Blade]]
+	Female? or maybe elf
+	Fighting gangs
+	Slender and Lithe
+	
+	
