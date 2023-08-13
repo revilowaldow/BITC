@@ -1,4 +1,6 @@
 Inky fingers
 Female Dwarf
-Scribe
+Head Scribe
+
+Can't drink in scribe area due to humidity control papyrus
 
