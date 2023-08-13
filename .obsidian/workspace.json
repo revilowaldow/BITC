@@ -323,8 +323,12 @@
             "id": "7533c4e85c51f50c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/07 16 - Session 6.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -603,13 +607,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b1c0b9b6efd09be3",
+  "active": "e1fc235418c7cada",
   "lastOpenFiles": [
+    "Sessions/2023/07 16 - Session 6.md",
+    "Sessions/2023/08 13 - Session 7.md",
     "Jobs/Level 3/Town warlocks.md",
     "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Missing Devil Crab.md",
-    "Sessions/2023/07 16 - Session 6.md",
-    "Sessions/2023/08 13 - Session 7.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
