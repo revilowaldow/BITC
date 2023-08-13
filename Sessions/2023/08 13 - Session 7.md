@@ -30,4 +30,6 @@ Picked up scent from body with Mastiff
 
 [[Larpen]]
 	Dead man
+	Weapon (handaxe)
+	Got while not at home
 	
