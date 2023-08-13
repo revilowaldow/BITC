@@ -16,9 +16,12 @@ Above average nose, beard
 low brow
 Dark beard 2-3 fingers below chin
 
-Gale Comanda:
-Musicians
-Helviti
+
 
 [[Platinum Pot]] Setlist:
-The Entourage
+- [[The Entourage]]
+- [[Gale Comanda]]:
+		Musicians
+		Helviti
+- Image of lizards dancing
+
