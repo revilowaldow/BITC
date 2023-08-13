@@ -27,3 +27,7 @@ Dark beard 2-3 fingers below chin
 	[[Kobold Performers of Percussion]] aka. KPOP
 
 Picked up scent from body with Mastiff
+
+[[Larpen]]
+	Dead man
+	
