@@ -28,7 +28,7 @@ Dark beard 2-3 fingers below chin
 
 Picked up scent from body with Mastiff
 
-[[Larpen]]
+[[Lopen]]
 	Dead man
 	Weapon (handaxe)
 	Got while not at home
