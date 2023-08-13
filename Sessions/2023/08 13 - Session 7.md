@@ -30,7 +30,7 @@ Picked up scent from body with Mastiff
 
 [[Lopen]]
 	Dead man
-	Weapon (handaxe)
+	Weapon (hand axe)
 	Got while not at home
 	[[Marka]] 
 	Used to work at the docks moving crates
@@ -42,14 +42,16 @@ Had another job further upriver, was later in the evening
 Warehouses, maybe elven or other darkvision races
 Maybe a bouncer 
 
+[[]]
+
 [[Silver Blade]]
 	Female? or maybe elf
 	Fighting gangs
 	Slender and Lithe
-	
 
 > Hydrate or Diedrate
-Hydro or diebro
-Water or slaughter
+> Hydro or die bro
+> Water or slaughter
 
-The gold must flow
+> The gold must flow
+
