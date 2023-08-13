@@ -16,3 +16,6 @@ Above average nose, beard
 low brow
 Dark beard 2-3 fingers below chin
 
+Gale Comanda:
+Musicians
+Helviti
