@@ -70,6 +70,9 @@ Ship is currently embargoed
 One guy on ship to watch out for, steelmonger, Envoy from the West
 Crab still under big red tarp
 
+[[Nefros]] for information, or for more specific contacts
+
+
 
 
 
