@@ -19,3 +19,6 @@ Dark beard 2-3 fingers below chin
 Gale Comanda:
 Musicians
 Helviti
+
+[[Platinum Pot]] Setlist:
+The Entourage
