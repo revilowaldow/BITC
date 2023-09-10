@@ -53,4 +53,4 @@ Generally encouraging
 	There are a number of Grovers present
 	Elves, community circle
 	Goblin runs the bar
-	
+	[[Vrindrilliax]] smells something familiar
