@@ -41,7 +41,7 @@ Aru visited the Bazaar
 [[Miran]] - lingust, sells books
 Sold basic book on common to vrindrilliax (1gp)
 
-Signs in the heaven
+Kaulinan feels in touch with signs in the heaven
 - I am in the right place
 - Centre of something big
 	- Death and rebirth
