@@ -6,4 +6,8 @@ I'm playing [[Caenis]]
 
 Aid has 40 mins left
 
+Tarp 20ft x 20ft
+	Red
+	Weight
 
+Two planks
