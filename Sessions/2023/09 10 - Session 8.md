@@ -39,5 +39,5 @@ Plan b is violence
 
 Aru visited the Bazaar
 [[Miran]] - lingust, sells books
-Sold basic book on common to vrindrilliax
+Sold basic book on common to vrindrilliax (1gp)
 
