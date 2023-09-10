@@ -54,3 +54,7 @@ Generally encouraging
 	Elves, community circle
 	Goblin runs the bar
 	[[Vrindrilliax]] smells something familiar
+
+Orange
+Honeycomb
+Sea Salt
