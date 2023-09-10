@@ -8,6 +8,7 @@ Aid has 40 mins left
 
 Tarp 20ft x 20ft
 	Red
-	Weight
+	Weighed down
 
-Two planks
+Two planks prow and aft
+Barge has crenellations
