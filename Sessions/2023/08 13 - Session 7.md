@@ -72,6 +72,7 @@ Let [[Gori]] go in exchange for crab info:
 - [[Nefros]] for information, or for more specific contacts
 
 
+- World is size of marble
 
 
 
