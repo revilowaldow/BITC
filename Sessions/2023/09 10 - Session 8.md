@@ -49,3 +49,4 @@ Kaulinan feels in touch with signs in the heaven
 	- Destiny
 Generally encouraging
 
+Grovers visiting

@@ -486,7 +486,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -568,7 +568,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Party/Kaulinan Badag.md",
+                "file": "Sessions/2023/09 10 - Session 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -585,7 +585,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Party/Kaulinan Badag.md",
+                "file": "Sessions/2023/09 10 - Session 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -608,7 +608,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Party/Kaulinan Badag.md"
+                "file": "Sessions/2023/09 10 - Session 8.md"
               }
             }
           },
@@ -654,10 +654,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "338a7e01dfc4de72",
+  "active": "e1fc235418c7cada",
   "lastOpenFiles": [
-    "Sessions/2023/09 10 - Session 8.md",
     "Factions/Party/Kaulinan Badag.md",
+    "Sessions/2023/09 10 - Session 8.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Setting Rules/Rules Index.md",
     "Sessions/2023/06 18 - Session 4.md",
