@@ -44,4 +44,7 @@ Sold basic book on common to vrindrilliax (1gp)
 Signs in the heaven
 - I am in the right place
 - Center of something big
-- 
+	- Death and rebirth
+	- Ruin
+	- Destiny
+Generally enco
