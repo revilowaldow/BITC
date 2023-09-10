@@ -56,7 +56,7 @@ Generally encouraging
 	[[Vrindrilliax]] smells something familiar
 	Head towards Nefros's territory
 	Orc hails Aru ([[Bark]])
-	
+	[[Elder Jimboli]] - Kobold 
 
 
 
