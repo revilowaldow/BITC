@@ -66,8 +66,7 @@ Caenis Made Popcorn Treats
 Gold (for now) Dragon: [[Zheevaglishgar]] 
 Had egg for 20 years
 Elder is 130
-
-Tell the elder if ever goimg north of the crimson keep, might know someone who knows about Aru's 
+Tell the elder if ever going north of the crimson keep, might know someone who knows about Aru's parents/the blue dragon
 
 
 
