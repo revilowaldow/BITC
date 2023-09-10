@@ -12,3 +12,6 @@ Tarp 20ft x 20ft
 
 Two planks prow and aft
 Barge has crenellations
+
+One guard iron armour
+
