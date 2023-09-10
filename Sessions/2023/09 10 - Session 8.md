@@ -30,4 +30,4 @@ One guard iron armour
 
 Informed Kev
 Spoke to [[Karta]] to try and delay with paperwork
-Karta wants last 
+Karta wants their doc so she can corect and supplant it/
