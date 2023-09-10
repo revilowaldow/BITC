@@ -49,6 +49,9 @@ Kaulinan feels in touch with signs in the heaven
 	- Destiny
 Generally encouraging
 
+Caenis Made Popcorn Treats
+	We added chef feat to sheet but haven't applied the associated stat increase 
+
 [[Aru]] visits reed squeeze bar with [[Kippen]]
 	There are a number of Grovers present
 	Elves, community circle
@@ -60,9 +63,8 @@ Generally encouraging
 
 [[Vrindrilliax]] leads [[Aru]] to kobold location nextdoor to Nefros' place
 [[Xitar]] says there are two drakes, eggs left by dragon they know
-Gold Dragon: [[Zheevaglishgar]] 
+Gold (for now) Dragon: [[Zheevaglishgar]] 
 
 
-Caenis Made Popcorn Treats
-	We added chef feat to sheet but haven't applied the associated stat increase 
+
 
