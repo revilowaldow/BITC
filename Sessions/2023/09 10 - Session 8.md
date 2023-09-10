@@ -34,4 +34,5 @@ Karta wants their doc so she can correct and supplant it to divert.
 Likely stored on the [[Wisteria]] 
 - Heist mission, wild shape + rogue
 - Backup aru + caenis
-Get 
+Get Larkin to organise cart / mover team
+Plan b is violence
