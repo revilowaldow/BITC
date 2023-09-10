@@ -12,10 +12,9 @@ Crab intended to go to warehouse near to [[Dyvarran Bridge]]
 	Ask where [[Gori]] lived
 
 [[Gori]]:
-Above average nose, beard
-low brow
-Dark beard 2-3 fingers below chin
-
+	Above average nose, beard
+	low brow
+	Dark beard 2-3 fingers below chin
 
 
 [[Platinum Pot]] Setlist:
@@ -32,8 +31,9 @@ Picked up scent from body with Mastiff
 	Dead man
 	Weapon (hand axe)
 	Got while not at home
-	[[Marka]] Nextdoor Nei
-	Used to work at the docks moving crates
+	[[Marka]]
+		Next-door Neighbour, old woman, gave gold found in Lopen's house
+	Lopen used to work at the docks moving crates
 	Sometimes worked at harvest
 	May have had an old partner
 	Silver Shadow
