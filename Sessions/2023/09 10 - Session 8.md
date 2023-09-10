@@ -14,6 +14,7 @@ Two planks prow and aft
 Barge has crenellations
 
 One guard iron armour
+- Looks Aegan
 
 [[Kippen]]
 - Harbourmaster
@@ -24,5 +25,6 @@ One guard iron armour
 - Earrings (maybe some affluence)
 > I don't mind a salty Reed squeeze
 > - Kippen
-
+- Going to Aegan Empire
+- 
 
