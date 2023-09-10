@@ -4,7 +4,7 @@ Head to [[Silver Company Headquarters]] to check if the crab was heading to a sp
 
 Intend to use mastiff to scent blood from body
 
-Silver Company has a dozen warehouses
+Silver Company has at least a dozen warehouses, mostly along the river banks
 
 Crab intended to go to warehouse near to [[Dyvarran Bridge]] 
 
