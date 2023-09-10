@@ -17,4 +17,5 @@ One guard iron armour
 
 [[Kippen]]
 - Harbormaster
+- Friendly with [[Aru]]
 - 
