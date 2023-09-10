@@ -55,7 +55,7 @@ Generally encouraging
 	Goblin runs the bar
 	[[Vrindrilliax]] smells something familiar
 	Head towards Nefros's territory
-	Orc hails Aru
+	Orc hails Aru ([[Bark]])
 	
 
 
