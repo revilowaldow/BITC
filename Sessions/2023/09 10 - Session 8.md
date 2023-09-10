@@ -65,6 +65,8 @@ Caenis Made Popcorn Treats
 [[Xitar]] says there are two drakes, eggs left by dragon they know
 Gold (for now) Dragon: [[Zheevaglishgar]] 
 Had egg for 20 years
+Elder is 130
+
 
 
 
