@@ -58,6 +58,9 @@ Generally encouraging
 	Orc hails Aru ([[Bark]])
 	[[Elder Jimboli]] - Kobold Leader for asking about drakes
 
+[[Vrindrilliax]] leads [[Aru]] to kobold location nextdoor to Nefros' place
+
+
 
 Caenis Made Popcorn Treats
 	We added chef feat to sheet but haven't applied the associated stat increase 
