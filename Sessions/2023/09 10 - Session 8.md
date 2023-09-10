@@ -16,10 +16,13 @@ Barge has crenellations
 One guard iron armour
 
 [[Kippen]]
-- Harbormaster
+- Harbourmaster
 - Friendly with [[Aru]]
 - Links to Kobold town?
 - Dwarf, little bit of beard
 - Not well kept
 - Earrings (maybe some affluence)
-- 
+> I don't mind a salty Reed squeeze
+> - Kippen
+
+
