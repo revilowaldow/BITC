@@ -12,3 +12,10 @@ Have mentioned from the [[Jungles]]
 
 Has seasickness
 
+Kaulinan feels in touch with signs in the heaven
+- I am in the right place
+- Centre of something big
+	- Death and rebirth
+	- Ruin
+	- Destiny
+
