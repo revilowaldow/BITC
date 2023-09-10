@@ -49,4 +49,7 @@ Kaulinan feels in touch with signs in the heaven
 	- Destiny
 Generally encouraging
 
-Grovers visiting
+[[Aru]] visits reed squeeze bar with [[Kippen]]
+	There are a number of Grovers present
+	Elves, community circle
+	
