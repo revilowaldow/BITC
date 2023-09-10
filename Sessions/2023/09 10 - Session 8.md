@@ -36,3 +36,8 @@ Likely stored on the [[Wisteria]]
 - Backup aru + caenis
 Get Larkin to organise cart / mover team
 Plan b is violence
+
+Aru visited the Bazaar
+[[Miran]] - lingust, sells books
+Sold basic book on common to vrindrilliax
+
