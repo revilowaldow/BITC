@@ -31,4 +31,7 @@ One guard iron armour
 Informed Kev
 Spoke to [[Karta]] to try and delay with paperwork
 Karta wants their doc so she can correct and supplant it to divert.
-Likely stored 
+Likely stored on the [[Wisteria]] 
+- Heist mission, wild shape + rogue
+- Backup aru + caenis
+Get 
