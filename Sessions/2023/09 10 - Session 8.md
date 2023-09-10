@@ -59,7 +59,8 @@ Generally encouraging
 	[[Elder Jimboli]] - Kobold Leader for asking about drakes
 
 [[Vrindrilliax]] leads [[Aru]] to kobold location nextdoor to Nefros' place
-[[Xitar]] 
+[[Xitar]] says there are two drakes, eggs left by dragon they know
+
 
 
 Caenis Made Popcorn Treats
