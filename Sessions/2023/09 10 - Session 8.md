@@ -18,4 +18,8 @@ One guard iron armour
 [[Kippen]]
 - Harbormaster
 - Friendly with [[Aru]]
+- Links to Kobold town?
+- Dwarf, little bit of beard
+- Not well kept
+- Earrings (maybe some affluence)
 - 
