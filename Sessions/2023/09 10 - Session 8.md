@@ -55,13 +55,4 @@ Generally encouraging
 	Goblin runs the bar
 	[[Vrindrilliax]] smells something familiar
 
-Orange
-Honeycomb
-Sea Salt (Milk) 
-Sea Salt (Dark)
-White
-Cream Tea
-Chilli
-Eton Mess
-Ginger and Lime
-Crème Brûlée
+Caenis Mad epopcor
