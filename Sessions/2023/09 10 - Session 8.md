@@ -15,3 +15,6 @@ Barge has crenellations
 
 One guard iron armour
 
+[[Kippen]]
+- Harbormaster
+- 
