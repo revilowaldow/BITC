@@ -52,4 +52,5 @@ Generally encouraging
 [[Aru]] visits reed squeeze bar with [[Kippen]]
 	There are a number of Grovers present
 	Elves, community circle
+	Goblin runs the bar
 	
