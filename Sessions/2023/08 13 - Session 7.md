@@ -32,7 +32,7 @@ Picked up scent from body with Mastiff
 	Dead man
 	Weapon (hand axe)
 	Got while not at home
-	[[Marka]] 
+	[[Marka]] Nextdoor Nei
 	Used to work at the docks moving crates
 	Sometimes worked at harvest
 	May have had an old partner
@@ -62,15 +62,14 @@ Returned an hour ago with a two burly men
 Fight:
 ![[GorisFlat.png]]
 
-Let [[Gori]] go in exchange for crab
-[[Sea Blooded Organisation]] approached Gori, make crab deviate, he can disappear
-Cart moved to ship in dock
-Ship is currently embargoed
-[[The Wisteria]] due to sail in couple days after paperwork cleared.
-One guy on ship to watch out for, steelmonger, Envoy from the West
-Crab still under big red tarp
-
-[[Nefros]] for information, or for more specific contacts
+Let [[Gori]] go in exchange for crab info:
+- [[Sea Blooded Organisation]] approached Gori, make crab deviate, he can disappear
+- Cart moved to ship in dock
+- Ship is currently embargoed
+- [[The Wisteria]] due to sail in couple days after paperwork cleared.
+- One guy on ship to watch out for, steelmonger, Envoy from the West
+- Crab still under big red tarp
+- [[Nefros]] for information, or for more specific contacts
 
 
 
