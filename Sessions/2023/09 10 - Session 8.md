@@ -28,3 +28,6 @@ One guard iron armour
 - Going to Aegan Empire
 - 
 
+Informed Kev
+Spoke to [[Karta]] to try and delay with paperwork
+Karta wants last 
