@@ -58,4 +58,9 @@ Generally encouraging
 Orange
 Honeycomb
 Sea Salt (Milk) 
-W
+Sea Salt (Dark)
+White
+Cream Tea
+Chilli
+Eton MEss
+
