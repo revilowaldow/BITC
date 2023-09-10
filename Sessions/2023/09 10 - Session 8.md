@@ -54,6 +54,12 @@ Generally encouraging
 	Elves, community circle
 	Goblin runs the bar
 	[[Vrindrilliax]] smells something familiar
+	Head towards Nefros's territory
+	Orc hails Aru
+	
+
+
 
 Caenis Made Popcorn Treats
 	We added chef feat to sheet but haven't applied the associated stat increase 
+
