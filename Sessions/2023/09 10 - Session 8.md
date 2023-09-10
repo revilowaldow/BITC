@@ -55,4 +55,5 @@ Generally encouraging
 	Goblin runs the bar
 	[[Vrindrilliax]] smells something familiar
 
-Caenis Mad epopcor
+Caenis Made Popcorn Treats
+	We added chef feat to sheet but haven't applied the associated stat increase 
