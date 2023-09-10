@@ -60,7 +60,7 @@ Generally encouraging
 
 [[Vrindrilliax]] leads [[Aru]] to kobold location nextdoor to Nefros' place
 [[Xitar]] says there are two drakes, eggs left by dragon they know
-
+Gold Dragon: [[Zheevaglishgar]] 
 
 
 Caenis Made Popcorn Treats
