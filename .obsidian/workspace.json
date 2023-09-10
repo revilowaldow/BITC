@@ -8,114 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4dbbcda87b69900",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Sea Blooded Org/Evangeline Stifka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed2affd50ab0e279",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Cobalt Comanda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4e6ce8405e84cf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Lore/NPCs/Nefros.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5a0ee87f1c2ba91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Lore/NPCs/Leader Jovil.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c862f9cd587340b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Lore/NPCs/Calamxis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ad86ca6fd0a4824",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Lore/NPCs/Teryna.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e451d01201b9bdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Party/The Party.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "338a7e01dfc4de72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Party/Kaulinan Badag.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3b9c9e8b501e5d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Larkin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "56e217da93a85582",
             "type": "leaf",
             "state": {
@@ -318,175 +210,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b1ade8021f2ab8b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Rules Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45b96e696337c56d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/08 13 - Session 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9274618d7d4f8058",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Weapon Rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7533c4e85c51f50c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/07 16 - Session 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73487dcfbe3eeae9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Lachaka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85ee4c1e0ff5a11c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/Embassies and Garrisons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8585aeb398ff13f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/Lowtown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f138180eb8106811",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9eac55efad1b40a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6956679a34f97d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 28 - Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a777902f8112a53e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b145b029563e9fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/04 23 - Session 0.5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83232ac5c6cce3c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/06 18 - Session 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9c4a68db826ad4c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/GorisFlat.png"
-              }
-            }
           }
-        ],
-        "currentTab": 25
+        ]
       }
     ],
     "direction": "vertical"
@@ -568,7 +293,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
+                "file": "Factions/Silver Company/Karta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -585,7 +310,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
+                "file": "Factions/Silver Company/Karta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -608,7 +333,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md"
+                "file": "Factions/Silver Company/Karta.md"
               }
             }
           },
@@ -654,37 +379,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1fc235418c7cada",
+  "active": "56e217da93a85582",
   "lastOpenFiles": [
+    "Factions/Silver Company/Larkin.md",
     "Factions/Party/Kaulinan Badag.md",
+    "Factions/Party/The Party.md",
+    "Character Lore/NPCs/Teryna.md",
+    "Character Lore/NPCs/Calamxis.md",
+    "Character Lore/NPCs/Leader Jovil.md",
+    "Character Lore/NPCs/Nefros.md",
+    "Factions/Cobalt Comanda.md",
+    "Factions/Sea Blooded Org/Evangeline Stifka.md",
     "Sessions/2023/09 10 - Session 8.md",
-    "Setting Rules/Valid Wild Shapes.md",
     "Setting Rules/Rules Index.md",
-    "Sessions/2023/06 18 - Session 4.md",
-    "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/08 13 - Session 7.md",
+    "Setting Rules/Weapon Rules.md",
     "Sessions/2023/07 16 - Session 6.md",
+    "Locations/Lachaka.md",
+    "Locations/Kathkach/Embassies and Garrisons.md",
+    "Locations/Kathkach/Lowtown.md",
+    "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/04 23 - Session 0.5.md",
+    "Sessions/2023/06 18 - Session 4.md",
     "Assets/Maps/GorisFlat.png",
-    "Factions/Sea Blooded Org/Evangeline Stifka.md",
+    "Setting Rules/Valid Wild Shapes.md",
     "Jobs/Level 3/Forge Allies.md",
-    "Setting Rules/Weapon Rules.md",
     "Factions/Silver Company/Karta.md",
-    "Jobs/Level 3/Town warlocks.md",
-    "Jobs/Level 3/Murders in Lowtown.md",
-    "Jobs/Level 3/Missing Devil Crab.md",
-    "Locations/Lachaka.md",
-    "Locations/Kathkach/Embassies and Garrisons.md",
-    "Deity/Old/Aepoptosis.md",
     "Deity/New",
     "Deity/Old",
-    "Deity/Old/Gotha.md",
-    "Locations/Kathkach/Lowtown.md",
-    "Deity/New/The Protector.md",
-    "Deity/New/Lifegiver.md",
     "Deity",
     "Factions/Sea Blooded Org",
     "Locations/Coprun/Mine Layout.canvas",
