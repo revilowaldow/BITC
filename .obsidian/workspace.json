@@ -8,192 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56e217da93a85582",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Karta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91a0a226a87c4471",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Silver Company.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5be7c4605c1c72c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Setting Rules/Valid Wild Shapes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cb7ac3446bfde82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Kevin Aldragosh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3074b49cb05dc065",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Party/Eugene.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c684abe7f649d3f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Party/Vrindrilliax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "131036aee6ef278a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/Level 3/Town warlocks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea1a47bdb40b6610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/07 16 - Session 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc71612c6baec613",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87b9f1a051e8565a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/Level 3/Missing Devil Crab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2535dd85dbc1ac20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/Middle Zigg.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa19c50c7c68a967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deity/New/Lifegiver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f42c620898a92f65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deity/New/The Protector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cdbb6e9562ffbb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deity/Old/Gotha.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88410a6eda8a3c62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deity/Old/Aepoptosis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6947b9fcccf3262",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/'Stealth'.md",
                 "mode": "source",
                 "source": false
               }
@@ -211,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -293,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Silver Company/Karta.md",
+                "file": "Sessions/2023/09 10 - Session 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Silver Company/Karta.md",
+                "file": "Sessions/2023/09 10 - Session 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -333,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Silver Company/Karta.md"
+                "file": "Sessions/2023/09 10 - Session 8.md"
               }
             }
           },
@@ -379,8 +200,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56e217da93a85582",
+  "active": "e1fc235418c7cada",
   "lastOpenFiles": [
+    "Setting Rules/Valid Wild Shapes.md",
+    "Jobs/Level 3/Murders in Lowtown.md",
+    "Jobs/Level 3/Missing Devil Crab.md",
+    "Locations/Kathkach/Middle Zigg.md",
+    "Sessions/2023/07 16 - Session 6.md",
+    "Jobs/Level 3/Town warlocks.md",
+    "Factions/Party/Vrindrilliax.md",
+    "Factions/Party/Eugene.md",
+    "Factions/Silver Company/Kevin Aldragosh.md",
+    "Factions/Silver Company/Silver Company.md",
+    "Factions/Silver Company/Karta.md",
     "Factions/Silver Company/Larkin.md",
     "Factions/Party/Kaulinan Badag.md",
     "Factions/Party/The Party.md",
@@ -394,20 +226,9 @@
     "Setting Rules/Rules Index.md",
     "Sessions/2023/08 13 - Session 7.md",
     "Setting Rules/Weapon Rules.md",
-    "Sessions/2023/07 16 - Session 6.md",
     "Locations/Lachaka.md",
     "Locations/Kathkach/Embassies and Garrisons.md",
-    "Locations/Kathkach/Lowtown.md",
-    "Sessions/2023/07 02 - Session 5.md",
-    "Sessions/2023/06 04 - Session 3.md",
-    "Sessions/2023/05 28 - Session 2.md",
-    "Sessions/2023/05 07 - Session 1.md",
-    "Sessions/2023/04 23 - Session 0.5.md",
-    "Sessions/2023/06 18 - Session 4.md",
     "Assets/Maps/GorisFlat.png",
-    "Setting Rules/Valid Wild Shapes.md",
-    "Jobs/Level 3/Forge Allies.md",
-    "Factions/Silver Company/Karta.md",
     "Deity/New",
     "Deity/Old",
     "Deity",
