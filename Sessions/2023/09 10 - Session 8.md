@@ -59,7 +59,7 @@ Generally encouraging
 	[[Elder Jimboli]] - Kobold Leader for asking about drakes
 
 [[Vrindrilliax]] leads [[Aru]] to kobold location nextdoor to Nefros' place
-
+[[Xitar]] 
 
 
 Caenis Made Popcorn Treats
