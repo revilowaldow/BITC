@@ -64,6 +64,8 @@ Caenis Made Popcorn Treats
 [[Vrindrilliax]] leads [[Aru]] to kobold location nextdoor to Nefros' place
 [[Xitar]] says there are two drakes, eggs left by dragon they know
 Gold (for now) Dragon: [[Zheevaglishgar]] 
+Had egg for 20 years
+
 
 
 
