@@ -30,6 +30,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2881514a9b2a833e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -210,7 +218,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1fc235418c7cada",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Setting Rules/Valid Wild Shapes.md",
     "Assets/Maps/WisteriaDocked.png",
