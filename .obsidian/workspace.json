@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2023/09 10 - Session 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2023/09 10 - Session 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Sessions/2023/09 10 - Session 8.md"
               }
             }
           },
@@ -181,6 +181,16 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "1469a83cc3a6e842",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -200,10 +210,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "e1fc235418c7cada",
   "lastOpenFiles": [
-    "Assets/Maps/WisteriaDocked.png",
     "Setting Rules/Valid Wild Shapes.md",
+    "Assets/Maps/WisteriaDocked.png",
     "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Missing Devil Crab.md",
     "Locations/Kathkach/Middle Zigg.md",
@@ -247,7 +257,6 @@
     "compendium/bestiary/dragon/token/drake-companion.png",
     "Assets/Characters/Vrindrilliax.png",
     "Assets/Maps/MineCombat4.png",
-    "Assets/Maps/MineCombat3.png",
-    "Pasted image 20230604141319.png"
+    "Assets/Maps/MineCombat3.png"
   ]
 }
