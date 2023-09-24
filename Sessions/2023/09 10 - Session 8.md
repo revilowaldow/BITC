@@ -68,7 +68,7 @@ Had egg for 20 years
 Elder is 130
 Tell the elder if ever going north of the crimson keep, might know someone who knows about Aru's parents/the blue dragon
 
-Dragons have been becoming shape-changers due to inability to maintain form in low magic context.
+Dragons have been becoming shape-changers due to inability to maintain form in low magic context. Their increased malleability also allows their colouration to shift
 
 ![[WisteriaDocked.png]]
 
