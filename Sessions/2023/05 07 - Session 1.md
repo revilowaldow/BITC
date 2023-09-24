@@ -23,7 +23,7 @@ The Coprun [[Market]] is run by an orc named [[Leilis]] who is flamboyantly dres
 
 The party rested overnight in the tavern with one minorly damaged bed
 There was some discussion of backstories;
-- [[Amaranth]] and [[Aru of the Sands]] know each other and seem to have a suspect past involving someone called [[Nefros]]
+- [[Amaranth Hand]] and [[Aru of the Sands]] know each other and seem to have a suspect past involving someone called [[Nefros]]
 - [[Kaulinan Badag|Kaulinan]] said he was from the Jungles and revealed his age
 - [[Caenis]] revealed the Mule is named [[Eugene]]
 

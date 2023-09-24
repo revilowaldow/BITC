@@ -18,7 +18,7 @@ Warehouse, large empty warehouse
 Human male, flies
 On back, visible cuts and injuries
 
-[[Amaranth]]'s guide suggests familiarity, look at the cuts
+[[Amaranth Hand]]'s guide suggests familiarity, look at the cuts
 Cuts made with a unique blade, multiple edges
 Body laid out in a religious way, tendons cut to let limb be placed unnaturally
 

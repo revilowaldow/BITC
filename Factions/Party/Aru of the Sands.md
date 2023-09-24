@@ -1,4 +1,4 @@
-Knows [[Amaranth]]
+Knows [[Amaranth Hand]]
 
 Speaks Thieves Cant
 
