@@ -26,3 +26,5 @@ Gold District:
 	Kendariam Malain
 	Plandaer Macave
 	Bight Brasshand
+
+
