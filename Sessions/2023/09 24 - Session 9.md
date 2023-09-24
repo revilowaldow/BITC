@@ -46,4 +46,5 @@ Oven was removed from Caenis' Shop
 [[Corsaro]] - Steelmonger
 Born in [[Crownthron]]
 
-The Northern Kingdoms have an ul
+The Northern Kingdoms have an ultra king known as the UK
+
