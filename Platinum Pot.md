@@ -19,3 +19,10 @@ Grizzled human helviti stood alone
 - Contribute to negative helviti reputation, but always get job done
 - Light brimmed helmet, travel weight armor
 - Hammer made of steel, longbow, shield
+
+Group of cloaked figures, grovers
+
+Group of austere looking aegan men
+
+Group of extravagant wearing chinerian envoy pointy shoes
+
