@@ -6,4 +6,5 @@ Gaping wound over heart
 Can make physical contact with Amaranth but not others?
 Two-pronged dagger wound
 
-[[Murders in Lowtown]]
+[[Murders in Lowtown]] used same knife
+
