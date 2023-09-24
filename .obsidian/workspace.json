@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Silver Company/Karta.md",
+                "file": "Sessions/2023/09 24 - Session 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Silver Company/Karta.md",
+                "file": "Sessions/2023/09 24 - Session 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Silver Company/Karta.md"
+                "file": "Sessions/2023/09 24 - Session 9.md"
               }
             }
           },
@@ -235,11 +235,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b933bd09bdc28233",
+  "active": "ac56601cacb1b66f",
   "lastOpenFiles": [
+    "Factions/Silver Company/Karta.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Sessions/2023/09 10 - Session 8.md",
-    "Factions/Silver Company/Karta.md",
     "Factions/Party/Amaranth Hand.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Assets/Maps/WisteriaDocked.png",
