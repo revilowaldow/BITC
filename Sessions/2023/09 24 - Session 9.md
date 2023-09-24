@@ -38,7 +38,7 @@ Eternal queen covers sky space time destiny
 Could have a chat about portents with grovers
 Library also
 
-
-
+[[Caenis]]
+Exiled to [[Coprun]] for not doing taxes 
 
 
