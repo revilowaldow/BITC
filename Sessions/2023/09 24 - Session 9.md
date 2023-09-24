@@ -44,4 +44,4 @@ Exiled to [[Coprun]] for not doing taxes
 Oven was removed from Caenis' Shop
 
 [[Corsaro]] - Steelmonger
-
+Born in [[Crownthron]]
