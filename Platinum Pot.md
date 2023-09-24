@@ -16,4 +16,5 @@ Stage, occupied by lizards
 Grizzled human helviti stood alone
 - Wendigo Comanda, monster hunters, operate solo
 - Bounty hunters, thugs for hire
-- Contribute to negative h
+- Contribute to negative helviti reputation, but always get job done
+- 
