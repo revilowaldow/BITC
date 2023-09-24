@@ -12,4 +12,7 @@ Two-pronged dagger wound
 
 [[Kaulinan Badag]] Turned into Cat
 
-[[Caenis]] They've done
+[[Caenis]] They've done something to my shop 
+	Apparently done by a son of a ravioli
+
+
