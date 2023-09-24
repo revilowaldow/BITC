@@ -41,4 +41,5 @@ Library also
 [[Caenis]]
 Exiled to [[Coprun]] for not doing taxes 
 
-K
+[[Karta]] wants breakfast, available from [[Caenis]]' friend in Bazaar
+
