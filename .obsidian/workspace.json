@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
+                "file": "Sessions/2023/09 24 - Session 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
+                "file": "Sessions/2023/09 24 - Session 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md"
+                "file": "Sessions/2023/09 24 - Session 9.md"
               }
             }
           },
@@ -223,10 +223,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1fc235418c7cada",
+  "active": "ac56601cacb1b66f",
   "lastOpenFiles": [
-    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/09 10 - Session 8.md",
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Assets/Maps/WisteriaDocked.png",
     "Assets/Maps/GorisFlat.png",
