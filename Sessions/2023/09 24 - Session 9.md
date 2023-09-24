@@ -43,4 +43,5 @@ Exiled to [[Coprun]] for not doing taxes
 
 [[Karta]] wants breakfast, available from [[Caenis]]' friend in Bazaar
 
-Oven was removed from 
+Oven was removed from Caenis' Shop
+
