@@ -45,3 +45,5 @@ Oven was removed from Caenis' Shop
 
 [[Corsaro]] - Steelmonger
 Born in [[Crownthron]]
+
+The Northern Kingdoms have an ul
