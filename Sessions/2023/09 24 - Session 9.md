@@ -43,3 +43,5 @@ Exiled to [[Coprun]] for not doing taxes
 [[Karta]] wants breakfast, available from [[Caenis]]' friend in Bazaar [[Gryru]]
 Oven was removed from Caenis' Shop
 
+[[Corsaro]] - Steelmonger
+
