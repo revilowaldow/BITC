@@ -16,3 +16,6 @@ Two-pronged dagger wound
 	Apparently done by a son of a ravioli
 
 Stole papers as cat (sacred to Aegans)
+Damaged
+Asked Karta to fix
+
