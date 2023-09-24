@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md",
+                "file": "Jobs/Level 3/Soiree.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "right": {
     "id": "ef72d1b6d53eecf3",
@@ -186,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md",
+                "file": "Jobs/Level 3/Soiree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md",
+                "file": "Jobs/Level 3/Soiree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md"
+                "file": "Jobs/Level 3/Soiree.md"
               }
             }
           },
@@ -284,6 +285,8 @@
   },
   "active": "74c55fe76aa72db4",
   "lastOpenFiles": [
+    "Jobs/Level 3/Murders in Lowtown.md",
+    "Jobs/Level 3/Soiree.md",
     "Jobs/Level 3/Town warlocks.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Sessions/2023/07 02 - Session 5.md",
@@ -298,7 +301,6 @@
     "Setting Rules/Valid Wild Shapes.md",
     "Assets/Maps/WisteriaDocked.png",
     "Assets/Maps/GorisFlat.png",
-    "Jobs/Level 3/Murders in Lowtown.md",
     "Locations/Kathkach/Middle Zigg.md",
     "Factions/Party/Vrindrilliax.md",
     "Factions/Party/Eugene.md",
@@ -313,7 +315,6 @@
     "Character Lore/NPCs/Nefros.md",
     "Factions/Cobalt Comanda.md",
     "Factions/Sea Blooded Org/Evangeline Stifka.md",
-    "Setting Rules/Rules Index.md",
     "Deity/New",
     "Deity/Old",
     "Deity",
