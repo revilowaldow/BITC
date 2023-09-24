@@ -29,6 +29,7 @@ Gold District:
 	Cobalt Comanda everywhere, travel in groups of 2,3 or 4
 		4 has a commander
 	Kapat - Special Sash for nobles, requires a servant to put it on
-	
+
+Lady's library guarded by 
 
 
