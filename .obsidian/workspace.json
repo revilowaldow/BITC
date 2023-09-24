@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "e230dbac278869d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/08 13 - Session 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c9ca39a57375927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/07 16 - Session 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e799769d4ff50e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/07 02 - Session 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ac56601cacb1b66f",
             "type": "leaf",
             "state": {
@@ -32,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "right": {
     "id": "ef72d1b6d53eecf3",
@@ -115,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs/Level 3/Missing Devil Crab.md",
+                "file": "Sessions/2023/07 02 - Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs/Level 3/Missing Devil Crab.md",
+                "file": "Sessions/2023/07 02 - Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs/Level 3/Missing Devil Crab.md"
+                "file": "Sessions/2023/07 02 - Session 5.md"
               }
             }
           },
@@ -211,21 +246,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac56601cacb1b66f",
+  "active": "e799769d4ff50e01",
   "lastOpenFiles": [
+    "Sessions/2023/07 16 - Session 6.md",
+    "Sessions/2023/08 13 - Session 7.md",
+    "Sessions/2023/09 10 - Session 8.md",
+    "Jobs/Level 3/Missing Devil Crab.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Assets/Maps/Topographic Map.png",
     "Assets/Maps/PevicContinent.png",
     "Factions/Silver Company/Karta.md",
-    "Sessions/2023/09 10 - Session 8.md",
     "Factions/Party/Amaranth Hand.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Assets/Maps/WisteriaDocked.png",
     "Assets/Maps/GorisFlat.png",
     "Jobs/Level 3/Murders in Lowtown.md",
-    "Jobs/Level 3/Missing Devil Crab.md",
     "Locations/Kathkach/Middle Zigg.md",
-    "Sessions/2023/07 16 - Session 6.md",
     "Jobs/Level 3/Town warlocks.md",
     "Factions/Party/Vrindrilliax.md",
     "Factions/Party/Eugene.md",
@@ -241,7 +277,6 @@
     "Factions/Cobalt Comanda.md",
     "Factions/Sea Blooded Org/Evangeline Stifka.md",
     "Setting Rules/Rules Index.md",
-    "Sessions/2023/08 13 - Session 7.md",
     "Deity/New",
     "Deity/Old",
     "Deity",
