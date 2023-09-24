@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jobs/Level 3/Soirée.md",
+                "file": "Platinum Pot.md",
                 "mode": "source",
                 "source": false
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs/Level 3/Soirée.md",
+                "file": "Platinum Pot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs/Level 3/Soirée.md",
+                "file": "Platinum Pot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs/Level 3/Soirée.md"
+                "file": "Platinum Pot.md"
               }
             }
           },
@@ -285,8 +285,9 @@
   },
   "active": "74c55fe76aa72db4",
   "lastOpenFiles": [
-    "Factions/Lady Fara Eyelaine.md",
     "Jobs/Level 3/Soirée.md",
+    "Platinum Pot.md",
+    "Factions/Lady Fara Eyelaine.md",
     "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Town warlocks.md",
     "Sessions/2023/09 24 - Session 9.md",
@@ -314,7 +315,6 @@
     "Character Lore/NPCs/Calamxis.md",
     "Character Lore/NPCs/Leader Jovil.md",
     "Character Lore/NPCs/Nefros.md",
-    "Factions/Cobalt Comanda.md",
     "Deity/New",
     "Deity/Old",
     "Deity",
