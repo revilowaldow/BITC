@@ -33,6 +33,9 @@ Gold District:
 Lady's library guarded by local guards from brass palace, not comanda
 
 Temples, middle deities, high deities
-High Zigggurat, houses priestly ord
+High Zigggurat, houses priestly orders of great architect and eternal queen
+Eternal queen covers sky space time destiny
+
+
 
 
