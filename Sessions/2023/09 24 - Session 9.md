@@ -21,4 +21,8 @@ Asked Karta to fix
 Can fit in a long rest
 
 Gold District:
-	Bridge, 
+	Bridge, Statues of 100 dyvarren guard
+	Statues of ruling class
+	Kendariam Malain
+	Plandaer Macave
+	Bight Brasshand
