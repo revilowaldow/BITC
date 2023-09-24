@@ -30,6 +30,8 @@ Gold District:
 		4 has a commander
 	Kapat - Special Sash for nobles, requires a servant to put it on
 
-Lady's library guarded by 
+Lady's library guarded by local guards from brass palace, not comanda
+
+
 
 
