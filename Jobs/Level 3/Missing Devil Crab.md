@@ -8,3 +8,4 @@ large red tarp covering crab
 	- Unkillable, undead, no sunlight or steaking (no heart)
 	- One is dead, brought here for research
 	- But it's disappeared
+
