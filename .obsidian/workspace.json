@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "aa445007b54d62b6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/Topographic Map.png"
+              }
+            }
+          },
+          {
             "id": "b933bd09bdc28233",
             "type": "leaf",
             "state": {
@@ -56,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/09 24 - Session 9.md",
+                "file": "Assets/Maps/Topographic Map.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/09 24 - Session 9.md",
+                "file": "Assets/Maps/Topographic Map.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/09 24 - Session 9.md"
+                "file": "Assets/Maps/Topographic Map.png"
               }
             }
           },
@@ -235,10 +245,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac56601cacb1b66f",
+  "active": "aa445007b54d62b6",
   "lastOpenFiles": [
-    "Factions/Silver Company/Karta.md",
     "Sessions/2023/09 24 - Session 9.md",
+    "Factions/Silver Company/Karta.md",
     "Sessions/2023/09 10 - Session 8.md",
     "Factions/Party/Amaranth Hand.md",
     "Setting Rules/Valid Wild Shapes.md",
