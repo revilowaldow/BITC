@@ -54,6 +54,16 @@
             }
           },
           {
+            "id": "fa8827e61faa0eab",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/PevicContinent.png"
+              }
+            }
+          },
+          {
             "id": "b933bd09bdc28233",
             "type": "leaf",
             "state": {
@@ -66,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -148,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Maps/Topographic Map.png",
+                "file": "Assets/Maps/PevicContinent.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Maps/Topographic Map.png",
+                "file": "Assets/Maps/PevicContinent.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Maps/Topographic Map.png"
+                "file": "Assets/Maps/PevicContinent.png"
               }
             }
           },
@@ -244,8 +254,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa445007b54d62b6",
+  "active": "fa8827e61faa0eab",
   "lastOpenFiles": [
+    "Assets/Maps/Topographic Map.png",
     "Sessions/2023/09 24 - Session 9.md",
     "Factions/Silver Company/Karta.md",
     "Sessions/2023/09 10 - Session 8.md",
@@ -273,7 +284,6 @@
     "Factions/Sea Blooded Org/Evangeline Stifka.md",
     "Setting Rules/Rules Index.md",
     "Sessions/2023/08 13 - Session 7.md",
-    "Setting Rules/Weapon Rules.md",
     "Deity/New",
     "Deity/Old",
     "Deity",
