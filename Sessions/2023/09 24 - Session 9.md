@@ -18,4 +18,6 @@ Two-pronged dagger wound
 Stole papers as cat (sacred to Aegans)
 Damaged
 Asked Karta to fix
+Can fit in a long rest
+
 
