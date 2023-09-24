@@ -20,4 +20,5 @@ Damaged
 Asked Karta to fix
 Can fit in a long rest
 
-
+Gold District:
+	Bridge, 
