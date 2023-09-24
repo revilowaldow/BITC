@@ -1,5 +1,5 @@
 Kev old acquaintance
-Used to be friends with [[Lady Eyelaine]]
+Used to be friends with [[Lady Fara Eyelaine]]
 Requires Bodyguards
 Gold Quarter
 
@@ -10,5 +10,6 @@ Attendee List:
 - [[Candaria Malain]]  
 - [[Evangeline Stifka]]  
 - [[Kevin Aldragosh]]  
-- Palanda Macav  
-- Lyan Thorp
+- [[Palanda Macav]]  
+- [[Lyan Thorp]]
+

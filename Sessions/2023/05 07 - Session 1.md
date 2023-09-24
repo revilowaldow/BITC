@@ -5,7 +5,7 @@ The party were tasked to:
 - [ ] Retrieve a deed from inside the Coprun [[Copper Mines]]
 	- The mine is owned by a group of people
 		- [[Silver Company]] (Current Administrator is called [[Kevin Aldragosh|Kevin]])
-		- [[Lady Eyelaine]] (Majority Owner)
+		- [[Lady Fara Eyelaine]] (Majority Owner)
 		- [[Sea Blooded Organisation]] (Poor relations with Silver Company)
 	- There will be rival agents
 	- Payment is 5gp immediately, Longer term access to the Silver Company + undisclosed gp sum

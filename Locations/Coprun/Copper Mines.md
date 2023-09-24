@@ -1,5 +1,5 @@
 art owned between [[Silver Company]]
-Majority ownership is [[Lady Eyelaine]]
+Majority ownership is [[Lady Fara Eyelaine]]
 
 Poor relationship with [[Sea Blooded Organisation]]
 
