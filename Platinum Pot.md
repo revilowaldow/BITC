@@ -22,7 +22,8 @@ Grizzled human helviti stood alone
 
 Group of cloaked figures, grovers
 
-Group of austere looking aegan men
+Group of austere looking Aegan men
 
-Group of extravagant wearing chinerian envoy pointy shoes
+Group of extravagant wearing Chinerian envoy pointy shoes
+
 
