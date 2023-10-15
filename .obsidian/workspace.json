@@ -71,12 +71,19 @@
             "id": "22e3eeb9d04a1ac4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Jobs/Level 3/Town warlocks.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
+            }
+          },
+          {
+            "id": "1ee61794fc1ee16e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -88,6 +95,16 @@
                 "file": "Platinum Pot.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "6df32616643388c3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
               }
             }
           },
@@ -104,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "right": {
     "id": "ef72d1b6d53eecf3",
@@ -187,7 +203,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Platinum Pot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +219,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Platinum Pot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,9 +240,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Platinum Pot.md"
-              }
+              "state": {}
             }
           },
           {
@@ -282,13 +294,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74c55fe76aa72db4",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
+    "Jobs/Level 3/Town warlocks.md",
     "Jobs/Level 3/Soirée.md",
     "Platinum Pot.md",
     "Factions/Lady Fara Eyelaine.md",
     "Jobs/Level 3/Murders in Lowtown.md",
-    "Jobs/Level 3/Town warlocks.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/07 16 - Session 6.md",
