@@ -20,14 +20,15 @@ Epedemic of violence
 Groves in Northern Kingdoms lost contact
 Gateways open infrequently
 Nearby grove, plentiful water
-
-[[Machaka]]
+[[Machaka]] Town
  Ritual to open the grove
 Ancient one: [[Horu]]
 	Predates the new age
+Visits the temples often
 
-
-
+City Grove?
+	Walk through Alleys and entrance moves
+	
 
 
 
