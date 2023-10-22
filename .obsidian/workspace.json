@@ -140,6 +140,14 @@
             }
           },
           {
+            "id": "7d6a5cb037acbd71",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "4ee171df80638bdc",
             "type": "leaf",
             "state": {
@@ -462,7 +470,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb14be1370571c26",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/09 24 - Session 9.md",
