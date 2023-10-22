@@ -51,3 +51,12 @@ Born in [[Crownthron]]
 
 The Northern Kingdoms have an ultra king known as the UK
 
+Rich people:
+[[Lady Fara Eyelaine]]  
+[[Brayk Brasshand]]  
+[[Toryk Jamal]]  
+[Candaria Malain]  
+[[Evangeline Stifka]] 
+[[Kevin Aldragosh]]
+[[Palanda Macav]]
+[[Lyan Thorp]]
