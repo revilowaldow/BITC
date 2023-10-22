@@ -37,3 +37,7 @@ Ghost stories, people disappearing
 Lodged in the lifegiver temple
 
 
+[[Amaranth Hand]] broke into Platinum pot window upper floor.
+Stole document
+Caenis made friend with bouncer
+
