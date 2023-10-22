@@ -31,4 +31,6 @@ The Queen and her Entourage??
 	Band that plays in Kathkach
 	[[Platinum Pot]]
 
-
+[[The Entourage]] 
+	[[Her Majesty]] rents a room in the Platinum Pot
+	Entourage is missing
