@@ -272,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -354,7 +354,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/10 22 - Session 10.md",
+                "file": "Locations/Kathkach/Platinum Pot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +371,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/10 22 - Session 10.md",
+                "file": "Locations/Kathkach/Platinum Pot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -394,7 +394,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/10 22 - Session 10.md"
+                "file": "Locations/Kathkach/Platinum Pot.md"
               }
             }
           },
@@ -450,11 +450,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45a221d85ad80d71",
+  "active": "92b3decded853b84",
   "lastOpenFiles": [
+    "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Factions/Eastern City States/Parche.md",
-    "Sessions/2023/10 22 - Session 10.md",
     "Locations/Kathkach/Platinum Pot.md",
     "Factions/Eastern City States/Eastern City States.md",
     "Factions/Eastern City States/Freedom City.md",
