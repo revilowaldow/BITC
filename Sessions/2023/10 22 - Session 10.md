@@ -10,4 +10,7 @@ Dancing
 [[Caenis]]- dancing with attractive, Chinerian dark skinned woman
 
 [[High Alchemist Ji-yo Fuitan]]
-	Alc
+	Alchemy is a mix of natural medicine and science.
+	Mix of magic and physical sciences
+	Eastern City states make use
+
