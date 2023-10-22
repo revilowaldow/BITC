@@ -26,8 +26,8 @@ Gold District:
 	Statues of ruling class
 	Kendariam Malain
 	Plandaer Macave
-	Bight Brasshand
-	Cobalt Comanda everywhere, travel in groups of 2,3 or 4
+	Bright Brasshand
+	Cobalt Comanda everywhere, travel in groups of 2, 3 or 4
 		4 has a commander
 	Kapat - Special Sash for nobles, requires a servant to put it on
 
