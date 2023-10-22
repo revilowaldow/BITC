@@ -32,6 +32,6 @@ City Grove?
 	Caution
 Linked to [[Lady Fara Eyelaine]] 
 
-Lodged in the lif
+Lodged in the lifegiver temple
 
 
