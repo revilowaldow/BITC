@@ -35,4 +35,5 @@ combination of halves/opposites
 Light & Dark
 
 
-Goodbye, q
+Goodbye, quarter bow with hand over heart. 
+	Get it on the right side!
