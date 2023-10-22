@@ -19,7 +19,9 @@ Half-elf grover
 Epedemic of violence
 Groves in Northern Kingdoms lost contact
 Gateways open infrequently
-Nearby grove, plentiful 
+Nearby grove, plentiful water
+
+Machaka
 
 
 
