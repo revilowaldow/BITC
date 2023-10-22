@@ -6,8 +6,8 @@ Leader: Omana the Eldritch
 
 Magocracy
 
-The Ash Wars between chineria and Parch
-First conflcit of new age
+The Ash Wars between [[chineria]] and Parche
+First conflict of new age
 Slave armies, mages vs slaves, ash was left
 
 Helviti Inquisition was founded immediately before the Ash War as a check/balance to keep mages from nuking slaves from orbit
