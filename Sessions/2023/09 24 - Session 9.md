@@ -41,8 +41,11 @@ Library also
 
 [[Caenis]]
 Exiled to [[Coprun]] for not doing taxes 
-[[Karta]] wants breakfast, available from [[Caenis]]' friend in Bazaar [[Gryru]]
+[[Karta]] wants breakfast, available from [[Caenis]]' friend in Bazaar [[Gryru]] [[Morkin]]
+
 Oven was removed from Caenis' Shop
+
+[[Birianda Lam]]
 
 [[Corsaro]] - Steelmonger
 Born in [[Crownthron]]
