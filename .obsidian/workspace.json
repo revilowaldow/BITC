@@ -272,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -354,7 +354,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Eastern City States/Parche.md",
+                "file": "Sessions/2023/10 22 - Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +371,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Eastern City States/Parche.md",
+                "file": "Sessions/2023/10 22 - Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -394,7 +394,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Eastern City States/Parche.md"
+                "file": "Sessions/2023/10 22 - Session 10.md"
               }
             }
           },
@@ -450,15 +450,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e0c57bd4d655be4",
+  "active": "45a221d85ad80d71",
   "lastOpenFiles": [
+    "Locations/Kathkach/Platinum Pot.md",
     "Factions/Eastern City States/Eastern City States.md",
+    "Factions/Eastern City States/Parche.md",
     "Factions/Eastern City States/Freedom City.md",
     "Factions/Eastern City States/Chineria.md",
     "Factions/Eastern City States/Yayoi.md",
-    "Factions/Eastern City States/Parche.md",
     "Sessions/2023/10 22 - Session 10.md",
-    "Locations/Kathkach/Platinum Pot.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
