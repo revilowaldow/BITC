@@ -27,5 +27,8 @@ Group of austere looking Aegan men
 Group of extravagant wearing Chinerian envoy pointy shoes
 
 
-Multiple reed squeezes, graient from bitter to not, Level of filtration
-One is salty, don;t w
+Multiple reed squeezes, gradient from bitter to not, Level of filtration
+One is salty, don't mind a salty reedsqueeze
+
+
+
