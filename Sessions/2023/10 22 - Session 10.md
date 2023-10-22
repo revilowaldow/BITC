@@ -31,6 +31,8 @@ City Grove?
 	Dark, dour, sinister
 	Caution
 Linked to [[Lady Fara Eyelaine]] 
+Ghost stories, people disappearing
+
 
 Lodged in the lifegiver temple
 
