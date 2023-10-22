@@ -2,7 +2,7 @@ One of the [[Eastern City States]]
 
 Oldest city 
 Lots of scrolls etc
-Leader: Omana the Eldritch
+Leader: [[Omana the Eldritch]]
 
 Magocracy
 
@@ -27,3 +27,7 @@ Helviti Inquisition was founded immediately before the Ash War as a check/balanc
 
 
 
+Omana - 
+Immortal body immortal soul
+Non-binary
+Alcemical the
