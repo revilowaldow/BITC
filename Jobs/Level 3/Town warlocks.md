@@ -39,4 +39,5 @@ Tiefling Ancestry
 Winged
 
 Bandmates are renting place in merchant quarters
-Offer made by 
+Offer made by Helviti Band to Her Majesty to join
+
