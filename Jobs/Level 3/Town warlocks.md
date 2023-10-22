@@ -43,3 +43,6 @@ Offer made by Helviti Band to Her Majesty to join
 
 Caenis cooking in the Platinum Pot
 
+Sulphur and ozone
+
+Scorch mark on inside of door frame
