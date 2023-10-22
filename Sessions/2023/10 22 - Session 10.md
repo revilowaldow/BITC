@@ -41,3 +41,4 @@ Lodged in the lifegiver temple
 Stole document
 Caenis made friend with bouncer
 
+Offer was made by helviti to 

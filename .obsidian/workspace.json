@@ -284,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -366,7 +366,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/10 22 - Session 10.md",
+                "file": "Jobs/Level 3/Town warlocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -383,7 +383,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/10 22 - Session 10.md",
+                "file": "Jobs/Level 3/Town warlocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -406,7 +406,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/10 22 - Session 10.md"
+                "file": "Jobs/Level 3/Town warlocks.md"
               }
             }
           },
@@ -462,12 +462,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45a221d85ad80d71",
+  "active": "eb14be1370571c26",
   "lastOpenFiles": [
+    "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Locations/Kathkach/Platinum Pot.md",
     "Jobs/Level 3/Town warlocks.md",
-    "Sessions/2023/10 22 - Session 10.md",
     "Factions/Eastern City States/Eastern City States.md",
     "Factions/Eastern City States/Parche.md",
     "Factions/Eastern City States/Freedom City.md",
