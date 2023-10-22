@@ -34,3 +34,6 @@ The Queen and her Entourage??
 [[The Entourage]] 
 	[[Her Majesty]] rents a room in the Platinum Pot
 	Entourage is missing
+
+Tiefling Ancestry
+
