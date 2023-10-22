@@ -21,7 +21,10 @@ Groves in Northern Kingdoms lost contact
 Gateways open infrequently
 Nearby grove, plentiful water
 
-Machaka
+[[Machaka]]
+ Ritual to open the grove
+Ancient one: [[Horu]]
+
 
 
 
