@@ -17,6 +17,9 @@ Dancing
 Half-elf grover
 [[Kalta]]
 Epedemic of violence
+Groves in Northern Kingdoms lost contact
+Gateways open infrequently
+Nearby grove, plentiful 
 
 
 
