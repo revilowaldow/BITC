@@ -203,6 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/2023/09 10 - Session 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,6 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions/2023/09 10 - Session 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +242,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions/2023/09 10 - Session 8.md"
+              }
             }
           },
           {
