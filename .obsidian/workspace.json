@@ -61,67 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Sessions/2023/10 22 - Session 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "561041358ee96465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Sessions/2023/09 24 - Session 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22e3eeb9d04a1ac4",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "1ee61794fc1ee16e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "74c55fe76aa72db4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Platinum Pot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6df32616643388c3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
-            "id": "ac56601cacb1b66f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/Level 3/Missing Devil Crab.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -203,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
+                "file": "Sessions/2023/10 22 - Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
+                "file": "Sessions/2023/10 22 - Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md"
+                "file": "Sessions/2023/10 22 - Session 10.md"
               }
             }
           },
@@ -285,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 295.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,18 +258,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "45a221d85ad80d71",
   "lastOpenFiles": [
+    "Sessions/2023/09 24 - Session 9.md",
+    "Sessions/2023/10 22 - Session 10.md",
+    "Platinum Pot.md",
+    "Sessions/2023/09 10 - Session 8.md",
     "Jobs/Level 3/Town warlocks.md",
     "Jobs/Level 3/Soirée.md",
-    "Platinum Pot.md",
     "Factions/Lady Fara Eyelaine.md",
     "Jobs/Level 3/Murders in Lowtown.md",
-    "Sessions/2023/09 24 - Session 9.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/08 13 - Session 7.md",
-    "Sessions/2023/09 10 - Session 8.md",
     "Jobs/Level 3/Missing Devil Crab.md",
     "Assets/Maps/Topographic Map.png",
     "Assets/Maps/PevicContinent.png",
@@ -329,7 +290,6 @@
     "Character Lore/NPCs/Teryna.md",
     "Character Lore/NPCs/Calamxis.md",
     "Character Lore/NPCs/Leader Jovil.md",
-    "Character Lore/NPCs/Nefros.md",
     "Deity/New",
     "Deity/Old",
     "Deity",
