@@ -5,4 +5,5 @@ Black slate
 
 Dancing 
 
-[[Bottok]] - 4 stringed instrument, 
+[[Bhotok]] - 4 stringed instrument
+
