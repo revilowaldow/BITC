@@ -28,7 +28,9 @@ Visits the temples often
 
 City Grove?
 	Walk through Alleys and entrance moves
-	
+	Dark, dour
+	Caution
+
 
 
 
