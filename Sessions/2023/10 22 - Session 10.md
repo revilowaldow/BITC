@@ -24,7 +24,7 @@ Nearby grove, plentiful water
  Ritual to open the grove
 Ancient one: [[Horu]]
 	Predates the new age
-Visits the temples often
+Visits the temples often [[Temple of the Lady of Life]] [[Eternal queen]]
 
 City Grove?
 	Walk through Alleys and entrance moves
@@ -32,7 +32,6 @@ City Grove?
 	Caution
 Linked to [[Lady Fara Eyelaine]] 
 
-
-
+Lodged in the lif
 
 
