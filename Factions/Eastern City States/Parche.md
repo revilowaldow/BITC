@@ -30,4 +30,6 @@ Helviti Inquisition was founded immediately before the Ash War as a check/balanc
 Omana - 
 Immortal body immortal soul
 Non-binary
-Alcemical the
+Alchemical theory,
+combination of halves/opposites
+Light & Dark
