@@ -16,7 +16,7 @@ Dancing
 
 Half-elf grover
 [[Kalta]]
-Epedemic of violence
+Epidemic of violence
 Groves in Northern Kingdoms lost contact
 Gateways open infrequently
 Nearby grove, plentiful water
@@ -28,7 +28,7 @@ Visits the temples often
 
 City Grove?
 	Walk through Alleys and entrance moves
-	Dark, dour
+	Dark, dour, sinister
 	Caution
 
 
