@@ -36,4 +36,6 @@ The Queen and her Entourage??
 	Entourage is missing
 
 Tiefling Ancestry
+Winged
 
+Bandmates are renting place in merchant quarters
