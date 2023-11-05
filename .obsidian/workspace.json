@@ -220,6 +220,18 @@
             }
           },
           {
+            "id": "532a70f4e9a62991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jobs/Level 3/Murders in Lowtown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8c57c2f04955fead",
             "type": "leaf",
             "state": {
@@ -439,7 +451,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -521,7 +533,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/Ladies Library.md",
+                "file": "Jobs/Level 3/Murders in Lowtown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -538,7 +550,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Kathkach/Ladies Library.md",
+                "file": "Jobs/Level 3/Murders in Lowtown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -561,7 +573,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/Ladies Library.md"
+                "file": "Jobs/Level 3/Murders in Lowtown.md"
               }
             }
           },
@@ -618,10 +630,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c16ae7b0d29e14e6",
+  "active": "532a70f4e9a62991",
   "lastOpenFiles": [
-    "Jobs/Level 3/Murders in Lowtown.md",
     "Locations/Kathkach/Ladies Library.md",
+    "Jobs/Level 3/Murders in Lowtown.md",
     "Sessions/2023/10 22 - Session 10.md",
     "Jobs/Level 3/Forge Allies.md",
     "Jobs/Level 3/Town warlocks.md",

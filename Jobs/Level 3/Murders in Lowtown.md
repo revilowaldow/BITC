@@ -34,3 +34,8 @@ Old gods - [[Aepoptosis]] - god of death violence destruction
 
 [[Cobalt Comanda]] can become involved if murders spread to the merchant district
 
+
+---
+
+Symbol:
+Library not
