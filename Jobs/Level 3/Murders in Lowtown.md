@@ -40,4 +40,6 @@ Old gods - [[Aepoptosis]] - god of death violence destruction
 Symbol:
 Library notes on [[Aepoptosis]] Primal god of violence brutality, dying and death
 Predates the fall
-City of [[Kathkach]] is old and was built 
+City of [[Kathkach]] is old and was built
+First Founding was under [[Brayk Brasshand]] and offered tribute to [[Aepoptosis]]
+Ritual and rites were performed including bloody sacrifice and gladiatorial combat
