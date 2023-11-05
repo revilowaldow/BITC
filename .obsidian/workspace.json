@@ -321,7 +321,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2023/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -446,7 +446,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2023/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -463,7 +463,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2023/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -486,7 +486,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Sessions/2023/Untitled.md"
               }
             }
           },
@@ -545,6 +545,8 @@
   },
   "active": "10c6dc3773d5ff93",
   "lastOpenFiles": [
+    "Setting Rules/Valid Wild Shapes.md",
+    "Sessions/2023/Untitled.md",
     "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2023/10 22 - Session 10.md",
     "Locations/Coprun/Miners Pick.md",
@@ -570,9 +572,7 @@
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Setting Rules/Weapon Rules.md",
-    "Setting Rules/Valid Wild Shapes.md",
     "Setting Rules/Rules Index.md",
-    "Setting Rules/Ration Rules.md",
     "Assets/Maps/WisteriaDocked.png",
     "Assets/Maps/GorisFlat.png",
     "Deity/New",
