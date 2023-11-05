@@ -7,3 +7,6 @@ Dragon
 
 ---
 Refence to grove
+Druidic magic
+Tied to natures
+Tied to pillars now
