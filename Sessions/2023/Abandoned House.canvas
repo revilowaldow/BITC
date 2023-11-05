@@ -8,7 +8,8 @@
 		{"id":"82b15479097dc82d","x":373,"y":5,"width":250,"height":60,"type":"text","text":"Parlour\n"},
 		{"id":"6ae9d8bb5d6fd131","x":0,"y":200,"width":250,"height":60,"type":"text","text":"Entrance"},
 		{"id":"650cab647b876da6","x":373,"y":-680,"width":250,"height":280,"type":"text","text":"Cellar\nVery Cold, frost\nSmell of cold and damp\nWine \n\nHammered through opening in brick wall\n"},
-		{"id":"5302c25482bb9789","x":373,"y":-1080,"width":250,"height":300,"type":"text","text":"Older tunnel section\n\nSmell of fresh blood and ozone\n"}
+		{"id":"5302c25482bb9789","x":373,"y":-1080,"width":250,"height":300,"type":"text","text":"Older tunnel section\n\nSmell of fresh blood and ozone\n"},
+		{"id":"55120d60300b1e53","x":-132,"y":-957,"width":250,"height":60,"type":"text","text":"Slumped dwar"}
 	],
 	"edges":[
 		{"id":"dcfe112ca0e44c56","fromNode":"6ae9d8bb5d6fd131","fromSide":"top","toNode":"1fd27e5ba70aa0f1","toSide":"bottom"},
@@ -18,6 +19,7 @@
 		{"id":"47b3bb698b61108d","fromNode":"1fd27e5ba70aa0f1","fromSide":"top","toNode":"74b77fb966f8e611","toSide":"bottom","label":"Up stairs"},
 		{"id":"2eb2130564014383","fromNode":"3602ae5049c61a11","fromSide":"top","toNode":"0f7a4c3740d9d7f4","toSide":"bottom"},
 		{"id":"93e2e3a173453aed","fromNode":"0f7a4c3740d9d7f4","fromSide":"top","toNode":"650cab647b876da6","toSide":"bottom","label":"Trapdoor ladder\nSquueze"},
-		{"id":"68d7589e62492bc7","fromNode":"650cab647b876da6","fromSide":"top","toNode":"5302c25482bb9789","toSide":"bottom","label":"Breached Wall"}
+		{"id":"68d7589e62492bc7","fromNode":"650cab647b876da6","fromSide":"top","toNode":"5302c25482bb9789","toSide":"bottom","label":"Breached Wall"},
+		{"id":"14cad07565a69927","fromNode":"5302c25482bb9789","fromSide":"left","toNode":"55120d60300b1e53","toSide":"right"}
 	]
 }
