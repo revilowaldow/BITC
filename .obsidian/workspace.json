@@ -439,7 +439,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -521,7 +521,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/10 22 - Session 10.md",
+                "file": "Jobs/Level 3/Murders in Lowtown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -538,7 +538,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/10 22 - Session 10.md",
+                "file": "Jobs/Level 3/Murders in Lowtown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -561,7 +561,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/10 22 - Session 10.md"
+                "file": "Jobs/Level 3/Murders in Lowtown.md"
               }
             }
           },
@@ -618,8 +618,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7d6a5cb037acbd71",
+  "active": "c16ae7b0d29e14e6",
   "lastOpenFiles": [
+    "Sessions/2023/10 22 - Session 10.md",
     "Jobs/Level 3/Forge Allies.md",
     "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Town warlocks.md",
@@ -630,7 +631,6 @@
     "Factions/The Cooking Association.md",
     "Factions/Silver Company/Karta.md",
     "Sessions/2023/09 24 - Session 9.md",
-    "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/Abandoned House.canvas",
     "Sessions/2023/Abandoned house.md",
     "Locations/Coprun/Miners Pick.md",
