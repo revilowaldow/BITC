@@ -379,7 +379,7 @@
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -461,7 +461,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Cooking Association.md",
+                "file": "Sessions/2023/11 05 - Session 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -478,7 +478,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/The Cooking Association.md",
+                "file": "Sessions/2023/11 05 - Session 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -501,7 +501,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/The Cooking Association.md"
+                "file": "Sessions/2023/11 05 - Session 11.md"
               }
             }
           },
@@ -558,10 +558,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1cd1dfb0b1bfbaaa",
+  "active": "4a4fdbe3d99d172f",
   "lastOpenFiles": [
-    "Factions/Silver Company/Karta.md",
     "Factions/The Cooking Association.md",
+    "Factions/Silver Company/Karta.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/Abandoned House.canvas",
