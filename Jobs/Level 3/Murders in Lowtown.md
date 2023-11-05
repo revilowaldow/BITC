@@ -43,3 +43,4 @@ Predates the fall
 City of [[Kathkach]] is old and was built
 First Founding was under [[Brayk Brasshand]] and offered tribute to [[Aepoptosis]]
 Ritual and rites were performed including bloody sacrifice and gladiatorial combat
+Arenas supported this now ladies library, on houses cobalt Comanda, one is still arena, one is submerged, one is abandoned
