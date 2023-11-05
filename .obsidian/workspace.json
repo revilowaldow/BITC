@@ -297,7 +297,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Silver Company/Karta.md",
+                "file": "Factions/The Cooking Association.md",
                 "mode": "source",
                 "source": false
               }
@@ -461,7 +461,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Silver Company/Karta.md",
+                "file": "Factions/The Cooking Association.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -478,7 +478,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Silver Company/Karta.md",
+                "file": "Factions/The Cooking Association.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -501,7 +501,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Silver Company/Karta.md"
+                "file": "Factions/The Cooking Association.md"
               }
             }
           },
@@ -560,6 +560,8 @@
   },
   "active": "1cd1dfb0b1bfbaaa",
   "lastOpenFiles": [
+    "Factions/Silver Company/Karta.md",
+    "Factions/The Cooking Association.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/Abandoned House.canvas",
@@ -587,7 +589,6 @@
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/04 23 - Session 0.5.md",
-    "Setting Rules/Weapon Rules.md",
     "Assets/Maps/WisteriaDocked.png",
     "Assets/Maps/GorisFlat.png",
     "Deity/New",
