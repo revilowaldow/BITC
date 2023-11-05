@@ -22,6 +22,12 @@ Kathkachan Dyvare existed 200 years ago and took place as the second founding
 
 Marked skin, forged by trauma and loss, becomes violent and grows until unstoppable, positive light for Kathkach but not always for other instances
 
+---
+
+Hear scream followed by clang of metal on metal
+"Get out of here Run"
+Threats
+
 
 
 
