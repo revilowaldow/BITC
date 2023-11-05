@@ -20,6 +20,8 @@ Prophecy of the Dyvaren Prophecy
 
 Kathkachan Dyvare existed 200 years ago and took place as the second founding
 
-Marked skin, forged by trauma and loss, becomes violent and grows until unstoppable, positive light for KAthkach but
+Marked skin, forged by trauma and loss, becomes violent and grows until unstoppable, positive light for Kathkach but not always for other instances
+
+
 
 
