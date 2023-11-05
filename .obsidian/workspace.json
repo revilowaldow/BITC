@@ -213,7 +213,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md",
+                "file": "Locations/Kathkach/Ladies Library.md",
                 "mode": "source",
                 "source": false
               }
@@ -521,7 +521,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md",
+                "file": "Locations/Kathkach/Ladies Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -538,7 +538,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md",
+                "file": "Locations/Kathkach/Ladies Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -561,7 +561,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md"
+                "file": "Locations/Kathkach/Ladies Library.md"
               }
             }
           },
@@ -620,9 +620,10 @@
   },
   "active": "c16ae7b0d29e14e6",
   "lastOpenFiles": [
+    "Jobs/Level 3/Murders in Lowtown.md",
+    "Locations/Kathkach/Ladies Library.md",
     "Sessions/2023/10 22 - Session 10.md",
     "Jobs/Level 3/Forge Allies.md",
-    "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Town warlocks.md",
     "Jobs/Level 3/Soirée.md",
     "Jobs/Level 3/Missing Devil Crab.md",
@@ -648,7 +649,6 @@
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/08 13 - Session 7.md",
-    "Sessions/2023/07 16 - Session 6.md",
     "Assets/Maps/WisteriaDocked.png",
     "Assets/Maps/GorisFlat.png",
     "Deity/New",
