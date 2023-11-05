@@ -16,6 +16,8 @@ Two moons phases
 Connections to cosmic web
 Limited prophecies
 Prophecies of the two sages
-Prophecy of the Dyvaren 
+Prophecy of the Dyvaren Prophecy
+
+Kathkachan Dyvare 
 
 
