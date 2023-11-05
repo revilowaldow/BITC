@@ -47,4 +47,5 @@ Sulphur and ozone
 
 Scorch mark on inside of door frame
 
-Dealth with, won't be creating warlocks any more
+Dealt with, won't be creating warlocks any more
+
