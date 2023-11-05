@@ -27,7 +27,7 @@ Marked skin, forged by trauma and loss, becomes violent and grows until unstoppa
 Hear scream followed by clang of metal on metal
 "Get out of here Run"
 Threats
-[[The Silver Blade]]
+[[Virtelle The Silver Blade]]
 Medium height half-elf
 short hair tied back
 steel blade
