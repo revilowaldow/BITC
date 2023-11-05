@@ -184,6 +184,14 @@
             }
           },
           {
+            "id": "3aaf6e8e49c52b02",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "3ba776b8092475c1",
             "type": "leaf",
             "state": {
@@ -630,7 +638,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a4fdbe3d99d172f",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Pasted image 20231105164854.png",
     "Jobs/Level 3/Murders in Lowtown.md",
