@@ -11,7 +11,7 @@
 		{"id":"5302c25482bb9789","x":373,"y":-1080,"width":250,"height":300,"type":"text","text":"Older tunnel section\n\nSmell of fresh blood and ozone\n"},
 		{"id":"55120d60300b1e53","x":-100,"y":-1028,"width":250,"height":197,"type":"text","text":"Slumped dwarf body\nParchian Magic"},
 		{"id":"a34ae0f3d14baada","x":-100,"y":-1300,"width":250,"height":157,"type":"text","text":"Runes? \nMonster"},
-		{"id":"221472ffee0fa355","x":-114,"y":-1820,"width":714,"height":342,"type":"text","text":"Old ancient room\n+100 years old\n65ft by 50ft\n\nTwo balconies, one north one west, 10ft elevated, ladders\nDaubed runes"}
+		{"id":"221472ffee0fa355","x":-114,"y":-1820,"width":714,"height":342,"type":"text","text":"Old ancient room\n+100 years old\n65ft by 50ft\n\nTwo balconies, one north one west, 10ft elevated, ladders\nDaubed runes, around wall"}
 	],
 	"edges":[
 		{"id":"dcfe112ca0e44c56","fromNode":"6ae9d8bb5d6fd131","fromSide":"top","toNode":"1fd27e5ba70aa0f1","toSide":"bottom"},
