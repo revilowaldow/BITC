@@ -196,6 +196,42 @@
             }
           },
           {
+            "id": "760ba438c5a519dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jobs/Level 3/Missing Devil Crab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c16ae7b0d29e14e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jobs/Level 3/Murders in Lowtown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b16ed774212c6fc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jobs/Level 3/Soirée.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6c661b0b13b90b63",
             "type": "leaf",
             "state": {
@@ -391,7 +427,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -473,7 +509,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Jobs/Level 3/Town warlocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -490,7 +526,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Jobs/Level 3/Town warlocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -513,7 +549,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Jobs/Level 3/Town warlocks.md"
               }
             }
           },
@@ -570,8 +606,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ba776b8092475c1",
+  "active": "eb14be1370571c26",
   "lastOpenFiles": [
+    "Jobs/Level 3/Soirée.md",
+    "Jobs/Level 3/Murders in Lowtown.md",
+    "Jobs/Level 3/Missing Devil Crab.md",
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/11 05 - Session 11.md",
     "Factions/The Cooking Association.md",
     "Factions/Silver Company/Karta.md",
@@ -579,7 +619,6 @@
     "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/Abandoned House.canvas",
     "Sessions/2023/Abandoned house.md",
-    "Setting Rules/Valid Wild Shapes.md",
     "Locations/Coprun/Miners Pick.md",
     "Locations/Kathkach/Platinum Pot.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
@@ -598,9 +637,6 @@
     "Sessions/2023/08 13 - Session 7.md",
     "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/07 02 - Session 5.md",
-    "Sessions/2023/06 18 - Session 4.md",
-    "Sessions/2023/05 07 - Session 1.md",
-    "Sessions/2023/04 23 - Session 0.5.md",
     "Assets/Maps/WisteriaDocked.png",
     "Assets/Maps/GorisFlat.png",
     "Deity/New",
