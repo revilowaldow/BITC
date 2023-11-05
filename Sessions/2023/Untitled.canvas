@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1fd27e5ba70aa0f1","x":-125,"y":-140,"width":250,"height":170,"type":"text","text":"Hallway, dusty"},
+		{"id":"6ae9d8bb5d6fd131","x":-125,"y":200,"width":250,"height":60,"type":"text","text":"Entrance"}
+	],
+	"edges":[
+		{"id":"dcfe112ca0e44c56","fromNode":"6ae9d8bb5d6fd131","fromSide":"top","toNode":"1fd27e5ba70aa0f1","toSide":"bottom"}
+	]
+}
