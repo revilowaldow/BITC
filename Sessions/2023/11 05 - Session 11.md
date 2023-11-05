@@ -39,3 +39,6 @@ Half of face brutally burned
 ![[Pasted image 20231105164854.png]]
 
 
+
+
+
