@@ -30,7 +30,12 @@ Threats
 [[The Silver Blade]]
 Medium height half-elf
 short hair tied back
-ste
+steel blade
+expensive weapon ornate handguard
+iron-banded armor (studded)
+fencers pose
+Half of face brutally burned
+
 
 
 
