@@ -12,4 +12,10 @@ Tied to natures
 Tied to pillars now
 
 Stars
-Two moons 
+Two moons phases
+Connections to cosmic web
+Limited prophecies
+Prophecies of the two sages
+Prophecy of the Dyvaren 
+
+
