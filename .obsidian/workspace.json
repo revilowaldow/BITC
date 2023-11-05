@@ -624,8 +624,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
-    "collapsed": true
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -638,7 +637,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "4a4fdbe3d99d172f",
   "lastOpenFiles": [
     "Pasted image 20231105164854.png",
     "Jobs/Level 3/Murders in Lowtown.md",
