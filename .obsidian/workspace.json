@@ -367,7 +367,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -449,7 +449,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/11 05 - Session 11.md",
+                "file": "Sessions/2023/Abandoned House.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -466,7 +466,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/11 05 - Session 11.md",
+                "file": "Sessions/2023/Abandoned House.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -489,7 +489,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/11 05 - Session 11.md"
+                "file": "Sessions/2023/Abandoned House.canvas"
               }
             }
           },
@@ -546,12 +546,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a4fdbe3d99d172f",
+  "active": "10c6dc3773d5ff93",
   "lastOpenFiles": [
+    "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2023/Abandoned House.canvas",
     "Sessions/2023/Abandoned house.md",
     "Setting Rules/Valid Wild Shapes.md",
-    "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2023/10 22 - Session 10.md",
     "Locations/Coprun/Miners Pick.md",
     "Locations/Kathkach/Platinum Pot.md",
