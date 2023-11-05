@@ -184,6 +184,18 @@
             }
           },
           {
+            "id": "3ba776b8092475c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Rules/Valid Wild Shapes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6c661b0b13b90b63",
             "type": "leaf",
             "state": {
@@ -379,7 +391,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -461,7 +473,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/11 05 - Session 11.md",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -478,7 +490,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/11 05 - Session 11.md",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -501,7 +513,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/11 05 - Session 11.md"
+                "file": "Setting Rules/Valid Wild Shapes.md"
               }
             }
           },
@@ -558,14 +570,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a4fdbe3d99d172f",
+  "active": "3ba776b8092475c1",
   "lastOpenFiles": [
+    "Sessions/2023/11 05 - Session 11.md",
     "Factions/The Cooking Association.md",
     "Factions/Silver Company/Karta.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/Abandoned House.canvas",
-    "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2023/Abandoned house.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Locations/Coprun/Miners Pick.md",
