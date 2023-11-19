@@ -14,3 +14,6 @@ Old sandstone staircase
 
 Chase sequence
 
+[[Therten]]
+Orc held captive by cult fanatic
+
