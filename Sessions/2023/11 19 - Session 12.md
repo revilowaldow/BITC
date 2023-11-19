@@ -28,4 +28,6 @@ Carvings in room depict the process of completing the ritual
 
 Return to HQ with cultist
 
-[[Epo]] report to [[Ke]]
+[[Epo]] report to [[Kevin Aldragosh]]
+[[Yarek]] travelling to [[The Pit]] with an item
+
