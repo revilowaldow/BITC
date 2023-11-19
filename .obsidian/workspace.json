@@ -223,6 +223,18 @@
             }
           },
           {
+            "id": "05fa9cd1ae97ce18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Silver Company/Epo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "760ba438c5a519dc",
             "type": "leaf",
             "state": {
@@ -550,7 +562,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -632,7 +644,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/11 19 - Session 12.md",
+                "file": "Factions/Silver Company/Epo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -649,7 +661,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/11 19 - Session 12.md",
+                "file": "Factions/Silver Company/Epo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -672,7 +684,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/11 19 - Session 12.md"
+                "file": "Factions/Silver Company/Epo.md"
               }
             }
           },
@@ -728,11 +740,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cc1e4c0b7dafa60",
+  "active": "05fa9cd1ae97ce18",
   "lastOpenFiles": [
+    "Sessions/2023/11 19 - Session 12.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
-    "Sessions/2023/11 19 - Session 12.md",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
     "Sessions/2023/11 05 - Session 11.md",
     "Locations/Kathkach/Abandoned House.canvas",
