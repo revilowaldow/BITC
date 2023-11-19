@@ -1,9 +1,11 @@
 {
 	"nodes":[
 		{"id":"8018cbde15f34b19","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Main Area"},
-		{"id":"95dc09046f2919e3","x":-132,"y":-192,"width":250,"height":60,"type":"text","text":""}
+		{"id":"93aaedee38f4be2b","x":-213,"y":-820,"width":427,"height":595,"type":"text","text":"Sandstone staircase heading down\n\nCarvings of tormented and frightened priests\nRitualistic sacrifice\nTwo-"},
+		{"id":"95dc09046f2919e3","x":-158,"y":-160,"width":316,"height":60,"type":"text","text":"Tunnel with painted arrow"}
 	],
 	"edges":[
-		{"id":"5e273c4b500ff8ee","fromNode":"8018cbde15f34b19","fromSide":"top","toNode":"95dc09046f2919e3","toSide":"bottom"}
+		{"id":"5e273c4b500ff8ee","fromNode":"8018cbde15f34b19","fromSide":"top","toNode":"95dc09046f2919e3","toSide":"bottom"},
+		{"id":"3928e8902d99cd33","fromNode":"95dc09046f2919e3","fromSide":"top","toNode":"93aaedee38f4be2b","toSide":"bottom"}
 	]
 }
