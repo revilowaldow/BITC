@@ -574,7 +574,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -656,7 +656,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Silver Company/Pozzan.md",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -673,7 +673,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Silver Company/Pozzan.md",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -696,7 +696,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Silver Company/Pozzan.md"
+                "file": "Setting Rules/Valid Wild Shapes.md"
               }
             }
           },
@@ -752,11 +752,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4af8192732c4beda",
+  "active": "3ba776b8092475c1",
   "lastOpenFiles": [
+    "Factions/Silver Company/Pozzan.md",
     "Sessions/2023/11 19 - Session 12.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
-    "Factions/Silver Company/Pozzan.md",
     "Factions/Silver Company/Epo.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
