@@ -562,7 +562,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -644,7 +644,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Silver Company/Epo.md",
+                "file": "Sessions/2023/11 19 - Session 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -661,7 +661,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Silver Company/Epo.md",
+                "file": "Sessions/2023/11 19 - Session 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -684,7 +684,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Silver Company/Epo.md"
+                "file": "Sessions/2023/11 19 - Session 12.md"
               }
             }
           },
@@ -740,8 +740,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05fa9cd1ae97ce18",
+  "active": "6cc1e4c0b7dafa60",
   "lastOpenFiles": [
+    "Factions/Silver Company/Epo.md",
     "Sessions/2023/11 19 - Session 12.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",

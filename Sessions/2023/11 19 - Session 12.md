@@ -24,3 +24,8 @@ Shopping list of one weeks food
 Address of a house in the merchant district
 
 Carvings in room depict the process of completing the ritual
+
+
+Return to HQ with cultist
+
+[[Epo]] report to [[Ke]]
