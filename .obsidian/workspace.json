@@ -523,7 +523,7 @@
             }
           }
         ],
-        "currentTab": 34
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -605,7 +605,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/Abandoned House.canvas",
+                "file": "Sessions/2023/11 05 - Session 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -622,7 +622,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Kathkach/Abandoned House.canvas",
+                "file": "Sessions/2023/11 05 - Session 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -645,7 +645,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/Abandoned House.canvas"
+                "file": "Sessions/2023/11 05 - Session 11.md"
               }
             }
           },
@@ -701,15 +701,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10c6dc3773d5ff93",
+  "active": "4a4fdbe3d99d172f",
   "lastOpenFiles": [
-    "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2023/11 19 - Session 12.md",
+    "Locations/Kathkach/Abandoned House.canvas",
+    "Sessions/2023/11 05 - Session 11.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
     "Assets/Characters/Virtelle.png",
     "Assets/Table/Pasted image 20230423144311.png",
     "Assets/Table/Pasted image 20230507171917.png",
-    "Locations/Kathkach/Abandoned House.canvas",
     "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Sessions/2023/09 10 - Session 8.md",
