@@ -535,7 +535,7 @@
             }
           }
         ],
-        "currentTab": 43
+        "currentTab": 42
       }
     ],
     "direction": "vertical"
@@ -617,7 +617,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Lore/NPCs/Virtelle The Silver Blade.md",
+                "file": "Sessions/2023/11 19 - Session 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -634,7 +634,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Lore/NPCs/Virtelle The Silver Blade.md",
+                "file": "Sessions/2023/11 19 - Session 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -657,7 +657,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Lore/NPCs/Virtelle The Silver Blade.md"
+                "file": "Sessions/2023/11 19 - Session 12.md"
               }
             }
           },
@@ -713,10 +713,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "448329e2b2b484c0",
+  "active": "f31b6eeca3cff613",
   "lastOpenFiles": [
-    "Sessions/2023/11 19 - Session 12.md",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
+    "Sessions/2023/11 19 - Session 12.md",
     "Sessions/2023/11 05 - Session 11.md",
     "Locations/Kathkach/Abandoned House.canvas",
     "Locations/Kathkach/Silver Company Headquarters.md",
