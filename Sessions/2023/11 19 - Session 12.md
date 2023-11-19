@@ -45,4 +45,6 @@ Business man
 House search
 Several cult symbols
 Maps - areas ticked off, areas to kidnap people
+Small closet - Tools, butchery, shrine to [[Aepoptosis]]
+Wife
 
