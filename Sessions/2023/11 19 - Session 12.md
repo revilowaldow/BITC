@@ -16,7 +16,7 @@ Chase sequence
 
 [[Therten]]
 Orc held captive by cult fanatic
-Worked near the docks, owns 
+Worked near the docks, owns a stall
 
 Cultist was well dressed
 Merchant dress
