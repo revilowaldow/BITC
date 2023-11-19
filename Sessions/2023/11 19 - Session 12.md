@@ -17,3 +17,7 @@ Chase sequence
 [[Therten]]
 Orc held captive by cult fanatic
 
+
+Cultist was well dressed
+Merchant dress
+
