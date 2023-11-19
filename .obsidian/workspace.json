@@ -189,7 +189,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Sessions/2023/Abandoned House.canvas",
+                "file": "Locations/Kathkach/Abandoned House.canvas",
                 "viewState": {
                   "x": 121.5,
                   "y": -859.6790220540723,
@@ -420,11 +420,26 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Sessions/2023/Abandoned House.canvas",
+                "file": "Locations/Kathkach/Abandoned House.canvas",
                 "viewState": {
                   "x": 124.07296712609165,
                   "y": -1696.6173938441204,
                   "zoom": -0.3333333333333333
+                }
+              }
+            }
+          },
+          {
+            "id": "5ca64caf83de6659",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Coprun/Mine Layout.canvas",
+                "viewState": {
+                  "x": 1470,
+                  "y": 869.3431835491242,
+                  "zoom": -1.3425252826845615
                 }
               }
             }
@@ -478,7 +493,7 @@
             }
           }
         ],
-        "currentTab": 38
+        "currentTab": 39
       }
     ],
     "direction": "vertical"
@@ -655,14 +670,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "f31b6eeca3cff613",
   "lastOpenFiles": [
-    "Sessions/2023/09 10 - Session 8.md",
+    "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/11 05 - Session 11.md",
+    "Sessions/2023/09 24 - Session 9.md",
+    "Locations/Coprun/Mine Layout.canvas",
+    "Locations/Kathkach/Abandoned House.canvas",
+    "Sessions/2023/09 10 - Session 8.md",
     "Pasted image 20231105164854.png",
     "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Missing Devil Crab.md",
-    "Sessions/2023/10 22 - Session 10.md",
     "Locations/Kathkach/Ladies Library.md",
     "Jobs/Level 3/Forge Allies.md",
     "Jobs/Level 3/Town warlocks.md",
@@ -670,8 +688,6 @@
     "Setting Rules/Valid Wild Shapes.md",
     "Factions/The Cooking Association.md",
     "Factions/Silver Company/Karta.md",
-    "Sessions/2023/09 24 - Session 9.md",
-    "Sessions/2023/Abandoned House.canvas",
     "Sessions/2023/Abandoned house.md",
     "Locations/Coprun/Miners Pick.md",
     "Locations/Kathkach/Platinum Pot.md",
@@ -692,7 +708,6 @@
     "Deity/Old",
     "Deity",
     "Factions/Sea Blooded Org",
-    "Locations/Coprun/Mine Layout.canvas",
     "Factions/Silver Company",
     "Jobs/Level 3",
     "Jobs",
