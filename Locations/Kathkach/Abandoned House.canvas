@@ -7,11 +7,11 @@
 		{"id":"3602ae5049c61a11","type":"text","text":"Kitchen","x":373,"y":-125,"width":250,"height":60},
 		{"id":"82b15479097dc82d","type":"text","text":"Parlour\n","x":373,"y":5,"width":250,"height":60},
 		{"id":"6ae9d8bb5d6fd131","type":"text","text":"Entrance","x":0,"y":200,"width":250,"height":60},
-		{"id":"221472ffee0fa355","type":"text","text":"Old ancient room\n+300 years old\n65ft by 50ft\n\nTwo balconies, one north one west, 10ft elevated, ladders\nDaubed runes, around wall\nEast side steps go up 5ft to stage\nLarge metal cage on platform, containing Tiefling 8 horns, red wings, dressed in ostentatious merchant garb\n\nOn floor multiple scorches, ozone smell, lingering frost, multiple bodies, desiccated/bleached bone\nFrost burst marks","x":-357,"y":-1980,"width":980,"height":502},
 		{"id":"55120d60300b1e53","type":"text","text":"Slumped dwarf body\nParchian Magic","x":8,"y":-1028,"width":250,"height":200},
 		{"id":"650cab647b876da6","type":"text","text":"Cellar\nVery Cold, frost\nSmell of cold and damp\nWine \n\nHammered through opening in brick wall\n","x":373,"y":-700,"width":250,"height":280},
 		{"id":"5302c25482bb9789","type":"text","text":"Older tunnel section\n\nSmell of fresh blood and ozone\n","x":373,"y":-1028,"width":250,"height":200},
-		{"id":"a34ae0f3d14baada","type":"text","text":"Runes? \nMonster","x":8,"y":-1300,"width":250,"height":157}
+		{"id":"a34ae0f3d14baada","type":"text","text":"Runes? \nMonster","x":8,"y":-1260,"width":250,"height":157},
+		{"id":"221472ffee0fa355","type":"text","text":"Old ancient room\n+300 years old\n65ft by 50ft\n\nTwo balconies, one north one west, 10ft elevated, ladders\nDaubed runes, around wall\nEast side steps go up 5ft to stage\nLarge metal cage on platform, containing Tiefling 8 horns, red wings, dressed in ostentatious merchant garb\n\nOn floor multiple scorches, ozone smell, lingering frost, multiple bodies, desiccated/bleached bone\nFrost burst marks","x":-357,"y":-1700,"width":980,"height":382}
 	],
 	"edges":[
 		{"id":"dcfe112ca0e44c56","fromNode":"6ae9d8bb5d6fd131","fromSide":"top","toNode":"1fd27e5ba70aa0f1","toSide":"bottom"},

@@ -423,9 +423,39 @@
                 "file": "Locations/Kathkach/Abandoned House.canvas",
                 "viewState": {
                   "x": 111.47375662714296,
-                  "y": -818.4524220673941,
+                  "y": -1169.9703949880636,
                   "zoom": -0.3333333333333333
                 }
+              }
+            }
+          },
+          {
+            "id": "a0c6beda3a1b4c0f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Table/Pasted image 20230507171917.png"
+              }
+            }
+          },
+          {
+            "id": "cbef30d9bb01cab3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Table/Pasted image 20230423144311.png"
+              }
+            }
+          },
+          {
+            "id": "a4dd6d7ef9b9324b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/Virtelle.png"
               }
             }
           },
@@ -675,12 +705,15 @@
   "lastOpenFiles": [
     "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2023/11 19 - Session 12.md",
+    "Locations/Kathkach/Silver Company Headquarters.md",
+    "Assets/Characters/Virtelle.png",
+    "Assets/Table/Pasted image 20230423144311.png",
+    "Assets/Table/Pasted image 20230507171917.png",
+    "Locations/Kathkach/Abandoned House.canvas",
     "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Sessions/2023/09 10 - Session 8.md",
     "Locations/Coprun/Mine Layout.canvas",
-    "Locations/Kathkach/Abandoned House.canvas",
-    "Pasted image 20231105164854.png",
     "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Missing Devil Crab.md",
     "Locations/Kathkach/Ladies Library.md",
@@ -693,7 +726,6 @@
     "Sessions/2023/Abandoned house.md",
     "Locations/Coprun/Miners Pick.md",
     "Locations/Kathkach/Platinum Pot.md",
-    "Locations/Kathkach/Silver Company Headquarters.md",
     "Factions/Eastern City States/Parche.md",
     "Factions/Eastern City States/Yayoi.md",
     "Factions/Lady Fara Eyelaine.md",
@@ -703,7 +735,6 @@
     "Factions/Eastern City States/Freedom City.md",
     "Factions/Eastern City States/Chineria.md",
     "Sessions/2023/06 04 - Session 3.md",
-    "Sessions/2023/05 28 - Session 2.md",
     "Assets/Maps/WisteriaDocked.png",
     "Assets/Maps/GorisFlat.png",
     "Deity/New",
@@ -716,8 +747,6 @@
     "compendium/bestiary/dragon/token",
     "compendium/bestiary/dragon",
     "compendium/bestiary",
-    "Assets/Table/Pasted image 20230507171917.png",
-    "Assets/Table/Pasted image 20230423144311.png",
     "Assets/Table/Pasted image 20230423131449.png",
     "Assets/Characters/NPC.png",
     "compendium/bestiary/dragon/token/drake-companion.png"

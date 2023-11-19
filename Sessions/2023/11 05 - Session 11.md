@@ -36,7 +36,7 @@ iron-banded armor (studded)
 fencers pose
 Half of face brutally burned
 
-![[Pasted image 20231105164854.png]]
+![[Virtelle.png]]
 
 
 
