@@ -9,4 +9,4 @@ Small shanty town exists within the abandoned arena
 Recognise symbol as the one made by the corpse
 
 One other similar symbol
-Arrow pointing 
+Arrow pointing down the corridor
