@@ -1,17 +1,17 @@
 {
 	"nodes":[
-		{"id":"1fd27e5ba70aa0f1","x":0,"y":-120,"width":250,"height":170,"type":"text","text":"Hallway, dusty"},
-		{"id":"40865b3a0d049740","x":-320,"y":-65,"width":250,"height":60,"type":"text","text":"Mainroom"},
-		{"id":"74b77fb966f8e611","x":-2,"y":-335,"width":250,"height":60,"type":"text","text":"Landing"},
-		{"id":"0f7a4c3740d9d7f4","x":373,"y":-280,"width":250,"height":60,"type":"text","text":"Storage area\n"},
-		{"id":"3602ae5049c61a11","x":373,"y":-125,"width":250,"height":60,"type":"text","text":"Kitchen"},
-		{"id":"82b15479097dc82d","x":373,"y":5,"width":250,"height":60,"type":"text","text":"Parlour\n"},
-		{"id":"6ae9d8bb5d6fd131","x":0,"y":200,"width":250,"height":60,"type":"text","text":"Entrance"},
-		{"id":"650cab647b876da6","x":373,"y":-680,"width":250,"height":280,"type":"text","text":"Cellar\nVery Cold, frost\nSmell of cold and damp\nWine \n\nHammered through opening in brick wall\n"},
-		{"id":"5302c25482bb9789","x":373,"y":-1080,"width":250,"height":300,"type":"text","text":"Older tunnel section\n\nSmell of fresh blood and ozone\n"},
-		{"id":"55120d60300b1e53","x":-100,"y":-1028,"width":250,"height":197,"type":"text","text":"Slumped dwarf body\nParchian Magic"},
-		{"id":"a34ae0f3d14baada","x":-100,"y":-1300,"width":250,"height":157,"type":"text","text":"Runes? \nMonster"},
-		{"id":"221472ffee0fa355","x":-380,"y":-1980,"width":980,"height":502,"type":"text","text":"Old ancient room\n+300 years old\n65ft by 50ft\n\nTwo balconies, one north one west, 10ft elevated, ladders\nDaubed runes, around wall\nEast side steps go up 5ft to stage\nLarge metal cage on platform, containing Tiefling 8 horns, red wings, dressed in ostentatious merchant garb\n\nOn floor multiple scorches, ozone smell, lingering frost, multiple bodies, desiccated/bleached bone\nFrost burst marks"}
+		{"id":"1fd27e5ba70aa0f1","type":"text","text":"Hallway, dusty","x":0,"y":-120,"width":250,"height":170},
+		{"id":"40865b3a0d049740","type":"text","text":"Mainroom","x":-320,"y":-65,"width":250,"height":60},
+		{"id":"74b77fb966f8e611","type":"text","text":"Landing","x":-2,"y":-335,"width":250,"height":60},
+		{"id":"0f7a4c3740d9d7f4","type":"text","text":"Storage area\n","x":373,"y":-280,"width":250,"height":60},
+		{"id":"3602ae5049c61a11","type":"text","text":"Kitchen","x":373,"y":-125,"width":250,"height":60},
+		{"id":"82b15479097dc82d","type":"text","text":"Parlour\n","x":373,"y":5,"width":250,"height":60},
+		{"id":"6ae9d8bb5d6fd131","type":"text","text":"Entrance","x":0,"y":200,"width":250,"height":60},
+		{"id":"221472ffee0fa355","type":"text","text":"Old ancient room\n+300 years old\n65ft by 50ft\n\nTwo balconies, one north one west, 10ft elevated, ladders\nDaubed runes, around wall\nEast side steps go up 5ft to stage\nLarge metal cage on platform, containing Tiefling 8 horns, red wings, dressed in ostentatious merchant garb\n\nOn floor multiple scorches, ozone smell, lingering frost, multiple bodies, desiccated/bleached bone\nFrost burst marks","x":-357,"y":-1980,"width":980,"height":502},
+		{"id":"55120d60300b1e53","type":"text","text":"Slumped dwarf body\nParchian Magic","x":8,"y":-1028,"width":250,"height":200},
+		{"id":"650cab647b876da6","type":"text","text":"Cellar\nVery Cold, frost\nSmell of cold and damp\nWine \n\nHammered through opening in brick wall\n","x":373,"y":-700,"width":250,"height":280},
+		{"id":"5302c25482bb9789","type":"text","text":"Older tunnel section\n\nSmell of fresh blood and ozone\n","x":373,"y":-1028,"width":250,"height":200},
+		{"id":"a34ae0f3d14baada","type":"text","text":"Runes? \nMonster","x":8,"y":-1300,"width":250,"height":157}
 	],
 	"edges":[
 		{"id":"dcfe112ca0e44c56","fromNode":"6ae9d8bb5d6fd131","fromSide":"top","toNode":"1fd27e5ba70aa0f1","toSide":"bottom"},
@@ -20,7 +20,7 @@
 		{"id":"e5f7ef58320c10ad","fromNode":"1fd27e5ba70aa0f1","fromSide":"right","toNode":"82b15479097dc82d","toSide":"left"},
 		{"id":"47b3bb698b61108d","fromNode":"1fd27e5ba70aa0f1","fromSide":"top","toNode":"74b77fb966f8e611","toSide":"bottom","label":"Up stairs"},
 		{"id":"2eb2130564014383","fromNode":"3602ae5049c61a11","fromSide":"top","toNode":"0f7a4c3740d9d7f4","toSide":"bottom"},
-		{"id":"93e2e3a173453aed","fromNode":"0f7a4c3740d9d7f4","fromSide":"top","toNode":"650cab647b876da6","toSide":"bottom","label":"Trapdoor ladder\nSquueze"},
+		{"id":"93e2e3a173453aed","fromNode":"0f7a4c3740d9d7f4","fromSide":"top","toNode":"650cab647b876da6","toSide":"bottom","label":"Trapdoor ladder\nSqueeze"},
 		{"id":"68d7589e62492bc7","fromNode":"650cab647b876da6","fromSide":"top","toNode":"5302c25482bb9789","toSide":"bottom","label":"Breached Wall"},
 		{"id":"14cad07565a69927","fromNode":"5302c25482bb9789","fromSide":"left","toNode":"55120d60300b1e53","toSide":"right"},
 		{"id":"77917e406f8971b6","fromNode":"55120d60300b1e53","fromSide":"top","toNode":"a34ae0f3d14baada","toSide":"bottom"},
