@@ -32,4 +32,4 @@ Return to HQ with cultist
 [[Yarek]] travelling to [[The Pit]] with an item
 
 [[Epo]] and [[Kevin Aldragosh]] clearly do not get on
-[[Kevin Aldragosh]] is unhappy at not having 
+[[Kevin Aldragosh]] is unhappy at not having access to reports from the pit but has access to the 
