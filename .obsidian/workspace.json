@@ -187,8 +187,15 @@
             "id": "3aaf6e8e49c52b02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Sessions/2023/Abandoned House.canvas",
+                "viewState": {
+                  "x": 121.5,
+                  "y": -859.6790220540723,
+                  "zoom": -1.221825018116343
+                }
+              }
             }
           },
           {
@@ -459,7 +466,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -541,7 +548,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/11 05 - Session 11.md",
+                "file": "Sessions/2023/09 10 - Session 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -558,7 +565,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/11 05 - Session 11.md",
+                "file": "Sessions/2023/09 10 - Session 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -581,7 +588,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/11 05 - Session 11.md"
+                "file": "Sessions/2023/09 10 - Session 8.md"
               }
             }
           },
@@ -637,12 +644,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a4fdbe3d99d172f",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
+    "Sessions/2023/11 05 - Session 11.md",
     "Pasted image 20231105164854.png",
     "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Missing Devil Crab.md",
-    "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2023/10 22 - Session 10.md",
     "Locations/Kathkach/Ladies Library.md",
     "Jobs/Level 3/Forge Allies.md",
@@ -685,7 +692,6 @@
     "Assets/Table/Pasted image 20230423144311.png",
     "Assets/Table/Pasted image 20230423131449.png",
     "Assets/Characters/NPC.png",
-    "compendium/bestiary/dragon/token/drake-companion.png",
-    "Assets/Characters/Vrindrilliax.png"
+    "compendium/bestiary/dragon/token/drake-companion.png"
   ]
 }
