@@ -223,6 +223,18 @@
             }
           },
           {
+            "id": "4af8192732c4beda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Silver Company/Pozzan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "05fa9cd1ae97ce18",
             "type": "leaf",
             "state": {
@@ -742,14 +754,15 @@
   },
   "active": "6cc1e4c0b7dafa60",
   "lastOpenFiles": [
-    "Factions/Silver Company/Epo.md",
+    "Locations/Kathkach/Silver Company Headquarters.md",
+    "Factions/Silver Company/Pozzan.md",
     "Sessions/2023/11 19 - Session 12.md",
+    "Factions/Silver Company/Epo.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
     "Sessions/2023/11 05 - Session 11.md",
     "Locations/Kathkach/Abandoned House.canvas",
-    "Locations/Kathkach/Silver Company Headquarters.md",
     "Assets/Characters/Virtelle.png",
     "Assets/Table/Pasted image 20230423144311.png",
     "Assets/Table/Pasted image 20230507171917.png",
@@ -775,7 +788,6 @@
     "Assets/Maps/PevicContinent.png",
     "Factions/Eastern City States/Eastern City States.md",
     "Factions/Eastern City States/Freedom City.md",
-    "Factions/Eastern City States/Chineria.md",
     "Assets/Maps/WisteriaDocked.png",
     "Assets/Maps/GorisFlat.png",
     "Deity/New",
