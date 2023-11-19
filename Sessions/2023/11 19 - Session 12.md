@@ -46,5 +46,7 @@ House search
 Several cult symbols
 Maps - areas ticked off, areas to kidnap people
 Small closet - Tools, butchery, shrine to [[Aepoptosis]]
-Wife
+Wife [[Lyla Duman]], remains found in closet
+Torn apart by violent ripping
+
 
