@@ -48,5 +48,6 @@ Maps - areas ticked off, areas to kidnap people
 Small closet - Tools, butchery, shrine to [[Aepoptosis]]
 Wife [[Lyla Duman]], remains found in closet
 Torn apart by violent ripping
+Happened last night, not Jagal
 
 
