@@ -573,7 +573,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -655,7 +656,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
+                "file": "Sessions/2023/10 22 - Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -672,7 +673,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
+                "file": "Sessions/2023/10 22 - Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -695,7 +696,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md"
+                "file": "Sessions/2023/10 22 - Session 10.md"
               }
             }
           },
@@ -733,7 +734,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -751,23 +753,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1fc235418c7cada",
+  "active": "7d6a5cb037acbd71",
   "lastOpenFiles": [
+    "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2023/11 19 - Session 12.md",
+    "Sessions/2023/10 22 - Session 10.md",
+    "Sessions/2023/09 24 - Session 9.md",
+    "Sessions/2023/09 10 - Session 8.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Factions/Silver Company/Pozzan.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
     "Factions/Silver Company/Epo.md",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
-    "Sessions/2023/11 05 - Session 11.md",
     "Locations/Kathkach/Abandoned House.canvas",
     "Assets/Characters/Virtelle.png",
     "Assets/Table/Pasted image 20230423144311.png",
     "Assets/Table/Pasted image 20230507171917.png",
-    "Sessions/2023/10 22 - Session 10.md",
-    "Sessions/2023/09 24 - Session 9.md",
-    "Sessions/2023/09 10 - Session 8.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Missing Devil Crab.md",
