@@ -2,10 +2,12 @@
 	"nodes":[
 		{"id":"8018cbde15f34b19","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Main Area"},
 		{"id":"95dc09046f2919e3","x":-158,"y":-160,"width":316,"height":60,"type":"text","text":"Tunnel with painted arrow"},
-		{"id":"93aaedee38f4be2b","x":-368,"y":-1080,"width":736,"height":775,"type":"text","text":"Sandstone staircase heading down\n\nCarvings of tormented and frightened priests\nRitualistic sacrifice\nTwo-pronged dagger recurring theme\nLeaf bladed shape with curved section missing\n\nAncient divine figures depicted\nfiercely eyed bearded human\nSometimes with wings\nSome carvings added to\nCarvings are over 300 years old\nAltars and columns also appear frequently in carvings\n\nStone steps are worn away over years of things being dragged past but also recent signs of dragging\n"}
+		{"id":"93aaedee38f4be2b","x":-368,"y":-880,"width":736,"height":575,"type":"text","text":"Sandstone staircase heading down\n\nCarvings of tormented and frightened priests\nRitualistic sacrifice\nTwo-pronged dagger recurring theme\nLeaf bladed shape with curved section missing\n\nAncient divine figures depicted\nfiercely eyed bearded human\nSometimes with wings\nSome carvings added to\nCarvings are over 300 years old\nAltars and columns also appear frequently in carvings\n\nStone steps are worn away over years of things being dragged past but also recent signs of dragging\n"},
+		{"id":"aaaf93f679f6c9e3","x":-821,"y":-622,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"5e273c4b500ff8ee","fromNode":"8018cbde15f34b19","fromSide":"top","toNode":"95dc09046f2919e3","toSide":"bottom"},
-		{"id":"3928e8902d99cd33","fromNode":"95dc09046f2919e3","fromSide":"top","toNode":"93aaedee38f4be2b","toSide":"bottom"}
+		{"id":"3928e8902d99cd33","fromNode":"95dc09046f2919e3","fromSide":"top","toNode":"93aaedee38f4be2b","toSide":"bottom"},
+		{"id":"3b7d44d26f1fd4c4","fromNode":"93aaedee38f4be2b","fromSide":"left","toNode":"aaaf93f679f6c9e3","toSide":"right"}
 	]
 }
