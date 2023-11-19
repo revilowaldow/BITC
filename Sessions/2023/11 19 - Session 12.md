@@ -49,5 +49,6 @@ Small closet - Tools, butchery, shrine to [[Aepoptosis]]
 Wife [[Lyla Duman]], remains found in closet
 Torn apart by violent ripping
 Happened last night, not Jagal
+Blunt force trauma
 
 
