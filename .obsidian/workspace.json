@@ -538,7 +538,7 @@
             }
           }
         ],
-        "currentTab": 42
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -620,7 +620,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/Abandoned Arena Basement.canvas",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -637,7 +637,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Kathkach/Abandoned Arena Basement.canvas",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -660,7 +660,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/Abandoned Arena Basement.canvas"
+                "file": "Setting Rules/Valid Wild Shapes.md"
               }
             }
           },
@@ -716,10 +716,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f31b6eeca3cff613",
+  "active": "3ba776b8092475c1",
   "lastOpenFiles": [
-    "Sessions/2023/11 19 - Session 12.md",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
+    "Sessions/2023/11 19 - Session 12.md",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
     "Sessions/2023/11 05 - Session 11.md",
     "Locations/Kathkach/Abandoned House.canvas",
