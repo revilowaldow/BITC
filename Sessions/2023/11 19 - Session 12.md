@@ -41,4 +41,8 @@ Significant tunnel networks beneath the city
 Equipment
 
 [[Jagal Duman]]
-Buisness man 
+Business man 
+House search
+Several cult symbols
+Maps - areas ticked off, areas to kidnap people
+
