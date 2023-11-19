@@ -10,3 +10,5 @@ Recognise symbol as the one made by the corpse
 One other similar symbol
 Arrow pointing down the corridor
 
+Old sandstone staircase
+
