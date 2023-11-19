@@ -514,11 +514,14 @@
             "id": "f31b6eeca3cff613",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Sessions/2023/11 19 - Session 12.md",
-                "mode": "source",
-                "source": false
+                "file": "Locations/Kathkach/Abandoned Arena Basement.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -617,7 +620,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/11 19 - Session 12.md",
+                "file": "Locations/Kathkach/Abandoned Arena Basement.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -634,7 +637,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/11 19 - Session 12.md",
+                "file": "Locations/Kathkach/Abandoned Arena Basement.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -657,7 +660,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/11 19 - Session 12.md"
+                "file": "Locations/Kathkach/Abandoned Arena Basement.canvas"
               }
             }
           },
@@ -715,8 +718,9 @@
   },
   "active": "f31b6eeca3cff613",
   "lastOpenFiles": [
-    "Character Lore/NPCs/Virtelle The Silver Blade.md",
     "Sessions/2023/11 19 - Session 12.md",
+    "Locations/Kathkach/Abandoned Arena Basement.canvas",
+    "Character Lore/NPCs/Virtelle The Silver Blade.md",
     "Sessions/2023/11 05 - Session 11.md",
     "Locations/Kathkach/Abandoned House.canvas",
     "Locations/Kathkach/Silver Company Headquarters.md",
@@ -747,7 +751,6 @@
     "Factions/Eastern City States/Eastern City States.md",
     "Factions/Eastern City States/Freedom City.md",
     "Factions/Eastern City States/Chineria.md",
-    "Sessions/2023/06 04 - Session 3.md",
     "Assets/Maps/WisteriaDocked.png",
     "Assets/Maps/GorisFlat.png",
     "Deity/New",
