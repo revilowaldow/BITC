@@ -12,3 +12,4 @@ Arrow pointing down the corridor
 
 Old sandstone staircase
 
+Chase sequence
