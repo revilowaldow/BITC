@@ -1,4 +1,4 @@
-Daryl is recapping this session
+I am recapping this session
 
 [[Virtelle The Silver Blade]] 
 
