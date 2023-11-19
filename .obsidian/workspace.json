@@ -211,6 +211,18 @@
             }
           },
           {
+            "id": "6cc1e4c0b7dafa60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/11 19 - Session 12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "760ba438c5a519dc",
             "type": "leaf",
             "state": {
@@ -538,7 +550,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -620,7 +632,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2023/11 19 - Session 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -637,7 +649,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2023/11 19 - Session 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -660,7 +672,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Sessions/2023/11 19 - Session 12.md"
               }
             }
           },
@@ -716,8 +728,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ba776b8092475c1",
+  "active": "6cc1e4c0b7dafa60",
   "lastOpenFiles": [
+    "Setting Rules/Valid Wild Shapes.md",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Sessions/2023/11 19 - Session 12.md",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
@@ -737,7 +750,6 @@
     "Jobs/Level 3/Forge Allies.md",
     "Jobs/Level 3/Town warlocks.md",
     "Jobs/Level 3/Soirée.md",
-    "Setting Rules/Valid Wild Shapes.md",
     "Factions/The Cooking Association.md",
     "Factions/Silver Company/Karta.md",
     "Sessions/2023/Abandoned house.md",
