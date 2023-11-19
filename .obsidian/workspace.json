@@ -469,12 +469,16 @@
             "id": "f31b6eeca3cff613",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/11 05 - Session 11.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 38
       }
     ],
     "direction": "vertical"
@@ -556,7 +560,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
+                "file": "Sessions/2023/11 05 - Session 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -573,7 +577,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
+                "file": "Sessions/2023/11 05 - Session 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -596,7 +600,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md"
+                "file": "Sessions/2023/11 05 - Session 11.md"
               }
             }
           },
@@ -634,8 +638,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -654,6 +657,7 @@
   },
   "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
+    "Sessions/2023/09 10 - Session 8.md",
     "Sessions/2023/11 05 - Session 11.md",
     "Pasted image 20231105164854.png",
     "Jobs/Level 3/Murders in Lowtown.md",
@@ -677,7 +681,6 @@
     "Factions/Lady Fara Eyelaine.md",
     "Assets/Maps/Topographic Map.png",
     "Assets/Maps/PevicContinent.png",
-    "Sessions/2023/09 10 - Session 8.md",
     "Factions/Eastern City States/Eastern City States.md",
     "Factions/Eastern City States/Freedom City.md",
     "Factions/Eastern City States/Chineria.md",
