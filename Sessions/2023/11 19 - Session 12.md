@@ -20,5 +20,6 @@ Orc held captive by cult fanatic
 
 Cultist was well dressed
 Merchant dress
+Shopping list of one weeks food
+Address of a house in the merchant district
 
-Bill of food
