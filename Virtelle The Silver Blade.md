@@ -1,5 +1,3 @@
-Daryl is recapping this session
-
-[[Virtelle The Silver Blade]] 
+![[Virtelle.png]]
 
 Very ornate weapon, steel, rapier, engraving and fine basket hilt
