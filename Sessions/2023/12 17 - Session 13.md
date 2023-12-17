@@ -37,6 +37,14 @@ Kelp trees
 
 Large Oak Tree underwater
 
+Thodunn has not been in the idea of water before
+
+
+
+
+
+
+
 
 
 
