@@ -48,6 +48,8 @@ Magic flows from one space to another
 Seek out what is pulling the energy to here
 [[Horu]]
 
+Grove is growing kelp as a crop
+
 
 
 
