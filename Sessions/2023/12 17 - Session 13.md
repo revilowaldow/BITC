@@ -8,4 +8,6 @@ New hands on deck, visit Kev
 
 Stealth going to cordon the house
 
+Party have similar level of authority (locally) to Epo and Karta/Stealth
+
 
