@@ -308,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -390,7 +390,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/12 17 - Session 13.md",
+                "file": "Sessions/2023/10 22 - Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -407,7 +407,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/12 17 - Session 13.md",
+                "file": "Sessions/2023/10 22 - Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -430,7 +430,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/12 17 - Session 13.md"
+                "file": "Sessions/2023/10 22 - Session 10.md"
               }
             }
           },
@@ -487,15 +487,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78e592d483345eb2",
+  "active": "d51bde5b4cbf12fb",
   "lastOpenFiles": [
-    "Sessions/2023/11 19 - Session 12.md",
-    "Sessions/2023/12 17 - Session 13.md",
-    "Sessions/2023/09 24 - Session 9.md",
-    "Sessions/2023/11 05 - Session 11.md",
-    "Sessions/2023/10 22 - Session 10.md",
-    "Sessions/2023/09 10 - Session 8.md",
     "Sessions/2023/08 13 - Session 7.md",
+    "Sessions/2023/09 10 - Session 8.md",
+    "Sessions/2023/09 24 - Session 9.md",
+    "Sessions/2023/11 19 - Session 12.md",
+    "Sessions/2023/11 05 - Session 11.md",
+    "Sessions/2023/12 17 - Session 13.md",
+    "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/06 18 - Session 4.md",
