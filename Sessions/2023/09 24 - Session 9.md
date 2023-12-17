@@ -55,8 +55,8 @@ Rich people:
 [[Lady Fara Eyelaine]] - Vinyards and Mine
 [[Brayk Brasshand]]  
 [[Toryk Jamal]]  
-[Candaria Malain]  
+[[Candaria Malain]]  
 [[Evangeline Stifka]]  Sea Blood
 [[Kevin Aldragosh]] Silver Company
-[[Palanda Macav]]
-[[Lyan Thorp]]
+[[Palanda Macav]] Head Chef Master of Bakers Guild
+[[Lyan Thorp]] 
