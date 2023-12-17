@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/12 17 - Session 13.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/12 17 - Session 13.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/12 17 - Session 13.md"
+                "file": "Jobs/Level 3/Soirée.md"
               }
             }
           },
@@ -343,15 +343,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78e592d483345eb2",
+  "active": "bcad13203b5951cc",
   "lastOpenFiles": [
-    "Factions/Silver Company/Kevin Aldragosh.md",
-    "Sessions/2023/12 17 - Session 13.md",
-    "Factions/Silver Company/'Stealth'.md",
     "Jobs/Level 3/Murders in Lowtown.md",
-    "Jobs/Level 3/Town warlocks.md",
-    "Jobs/Level 3/Forge Allies.md",
     "Jobs/Level 3/Missing Devil Crab.md",
+    "Jobs/Level 3/Forge Allies.md",
+    "Sessions/2023/12 17 - Session 13.md",
+    "Factions/Silver Company/Kevin Aldragosh.md",
+    "Factions/Silver Company/'Stealth'.md",
+    "Jobs/Level 3/Town warlocks.md",
     "Jobs/Level 3/Soirée.md",
     "Sessions/2023/11 19 - Session 12.md",
     "Deity/Old/Aepoptosis.md",
