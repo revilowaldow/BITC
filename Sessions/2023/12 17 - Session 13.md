@@ -30,7 +30,7 @@ Thodunn's armor looks like it's from the Steelmongers
 
 Arrive at Matchaka
 
-
+Grove is 10 minutes walk away 
 
 
 
