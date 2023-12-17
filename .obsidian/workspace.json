@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "ac1232e61ebda1fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Lore/NPCs/Virtelle The Silver Blade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "01f76a36604d7b2a",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/11 19 - Session 12.md",
+                "file": "Character Lore/NPCs/Virtelle The Silver Blade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/11 19 - Session 12.md",
+                "file": "Character Lore/NPCs/Virtelle The Silver Blade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/11 19 - Session 12.md"
+                "file": "Character Lore/NPCs/Virtelle The Silver Blade.md"
               }
             }
           },
@@ -235,11 +247,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4435c04f283fbc27",
+  "active": "ac1232e61ebda1fd",
   "lastOpenFiles": [
+    "Sessions/2023/11 19 - Session 12.md",
     "Sessions/2023/12 17 - Session 13.md",
     "Factions/Silver Company/Pozzan.md",
-    "Sessions/2023/11 19 - Session 12.md",
     "Factions/Party/Thodunn.md",
     "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2023/10 22 - Session 10.md",
