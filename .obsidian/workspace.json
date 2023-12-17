@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "b05894db43d27d05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Rules/Valid Wild Shapes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d51bde5b4cbf12fb",
             "type": "leaf",
             "state": {
@@ -308,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -390,7 +402,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/12 17 - Session 13.md",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -407,7 +419,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/12 17 - Session 13.md",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -430,7 +442,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/12 17 - Session 13.md"
+                "file": "Setting Rules/Valid Wild Shapes.md"
               }
             }
           },
@@ -487,11 +499,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78e592d483345eb2",
+  "active": "b05894db43d27d05",
   "lastOpenFiles": [
+    "Sessions/2023/12 17 - Session 13.md",
     "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/11 05 - Session 11.md",
-    "Sessions/2023/12 17 - Session 13.md",
     "Sessions/2023/08 13 - Session 7.md",
     "Sessions/2023/09 10 - Session 8.md",
     "Sessions/2023/09 24 - Session 9.md",
