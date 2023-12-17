@@ -22,6 +22,8 @@ Level Up!
 North Gate, guarded by Cobalt Comanda
 Chimera Comanda also present, they have a small outpost just outside the city
 
+Aru leaving town via north gate
+
 
 
 
