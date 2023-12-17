@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/11 19 - Session 12.md",
+                "file": "Sessions/2023/12 17 - Session 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/11 19 - Session 12.md",
+                "file": "Sessions/2023/12 17 - Session 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/11 19 - Session 12.md"
+                "file": "Sessions/2023/12 17 - Session 13.md"
               }
             }
           },
@@ -259,10 +259,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4435c04f283fbc27",
+  "active": "78e592d483345eb2",
   "lastOpenFiles": [
-    "Deity/Old/Aepoptosis.md",
     "Sessions/2023/11 19 - Session 12.md",
+    "Deity/Old/Aepoptosis.md",
     "Factions/Silver Company/Pozzan.md",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
     "Sessions/2023/12 17 - Session 13.md",
