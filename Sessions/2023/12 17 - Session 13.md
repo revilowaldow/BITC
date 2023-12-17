@@ -16,6 +16,8 @@ Party have similar level of authority (locally) to Epo and Karta/Stealth
 
 Meet [[Thodunn]] for first time
 
+Level Up!
+
 
 
 
