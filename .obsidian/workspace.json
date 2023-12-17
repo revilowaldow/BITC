@@ -44,6 +44,66 @@
             }
           },
           {
+            "id": "07cafe33ac1ec864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/06 18 - Session 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ead14b6bc06b91fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/07 02 - Session 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e71a8cfab09b5a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/07 16 - Session 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a8edb329f1edafa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/08 13 - Session 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6886103ca40ab6a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/09 10 - Session 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2d5dae3d518af230",
             "type": "leaf",
             "state": {
@@ -248,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -330,7 +390,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/10 22 - Session 10.md",
+                "file": "Sessions/2023/08 13 - Session 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +407,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/10 22 - Session 10.md",
+                "file": "Sessions/2023/08 13 - Session 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -370,7 +430,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/10 22 - Session 10.md"
+                "file": "Sessions/2023/08 13 - Session 7.md"
               }
             }
           },
@@ -427,12 +487,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d51bde5b4cbf12fb",
+  "active": "6a8edb329f1edafa",
   "lastOpenFiles": [
     "Sessions/2023/09 24 - Session 9.md",
+    "Sessions/2023/09 10 - Session 8.md",
+    "Sessions/2023/08 13 - Session 7.md",
+    "Sessions/2023/07 16 - Session 6.md",
+    "Sessions/2023/07 02 - Session 5.md",
+    "Sessions/2023/06 18 - Session 4.md",
+    "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/11 19 - Session 12.md",
     "Sessions/2023/11 05 - Session 11.md",
-    "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/12 17 - Session 13.md",
     "Factions/Party/Thodunn.md",
     "Factions/Party/Vrindrilliax.md",
@@ -450,17 +515,13 @@
     "Deity/Old/Aepoptosis.md",
     "Factions/Silver Company/Pozzan.md",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
-    "Sessions/2023/09 10 - Session 8.md",
     "Setting Rules/Valid Wild Shapes.md",
-    "Locations/Kathkach/Silver Company Headquarters.md",
-    "Factions/Silver Company/Epo.md",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Locations/Kathkach/Abandoned House.canvas",
     "Assets/Characters/Virtelle.png",
     "Assets/Table/Pasted image 20230423144311.png",
     "Assets/Table/Pasted image 20230507171917.png",
     "Locations/Coprun/Mine Layout.canvas",
-    "Locations/Kathkach/Ladies Library.md",
     "Assets/Maps/Topographic Map.png",
     "Assets/Maps/PevicContinent.png",
     "Assets/Maps/WisteriaDocked.png",
