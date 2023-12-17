@@ -19,6 +19,10 @@ Meet [[Thodunn]] for first time
 Level Up!
 
 
+North Gate, guarded by Cobalt Comanda
+
+Chimera Comanda
+
 
 
 
