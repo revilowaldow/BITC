@@ -50,7 +50,12 @@ Seek out what is pulling the energy to here
 
 Grove is growing kelp as a crop
 
-Kaulinan turned into a cat and picke up by Th
+Kaulinan turned into a cat and picked up by Thodunn
+
+Visit Elder Jimbolee
+
+
+
 
 
 
