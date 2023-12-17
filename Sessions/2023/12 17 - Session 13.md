@@ -52,7 +52,7 @@ Grove is growing kelp as a crop
 
 Kaulinan turned into a cat and picked up by Thodunn
 
-Visit Elder Jimbolee
+Visit [[Ji]]
 
 > "More like Fee Fi Thodunn"
 >  - Kaulinan, telepathically while a cat
