@@ -5,3 +5,4 @@ swords
 greatsword
 wearing chain armor and steel pauldrons
 writing on pauldrons
+
