@@ -52,11 +52,11 @@ Born in [[Crownthron]]
 The Northern Kingdoms have an ultra king known as the UK
 
 Rich people:
-[[Lady Fara Eyelaine]]  
+[[Lady Fara Eyelaine]] - Vinyards and Mine
 [[Brayk Brasshand]]  
 [[Toryk Jamal]]  
 [Candaria Malain]  
-[[Evangeline Stifka]] 
-[[Kevin Aldragosh]]
+[[Evangeline Stifka]]  Sea Blood
+[[Kevin Aldragosh]] Silver Company
 [[Palanda Macav]]
 [[Lyan Thorp]]
