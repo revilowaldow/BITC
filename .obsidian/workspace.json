@@ -211,7 +211,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -293,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Party/Thodunn.md",
+                "file": "Sessions/2023/11 19 - Session 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Party/Thodunn.md",
+                "file": "Sessions/2023/11 19 - Session 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -333,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Party/Thodunn.md"
+                "file": "Sessions/2023/11 19 - Session 12.md"
               }
             }
           },
@@ -390,10 +391,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cc1e4c0b7dafa60",
+  "active": "4435c04f283fbc27",
   "lastOpenFiles": [
-    "Sessions/2023/12 17 - Session 13.md",
     "Factions/Party/Thodunn.md",
+    "Sessions/2023/12 17 - Session 13.md",
     "Factions/Party/Vrindrilliax.md",
     "Assets/Characters/Vrindrilliax.png",
     "Factions/Party/Kaulinan Badag.md",
