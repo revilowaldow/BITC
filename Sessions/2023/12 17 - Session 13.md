@@ -45,6 +45,10 @@ Elvish creature is embedded into the tree
 
 Magic flows from one space to another
 
+Seek out what is pulling the energy to here
+
+
+
 
 
 
