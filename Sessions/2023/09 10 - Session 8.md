@@ -59,7 +59,7 @@ Caenis Made Popcorn Treats
 	[[Vrindrilliax]] smells something familiar
 	Head towards Nefros's territory
 	Orc hails Aru ([[Bark]])
-	[[Elder Jimboli]] - Kobold Leader for asking about drakes
+	[[Elder Jimbolee]] - Kobold Leader for asking about drakes
 
 [[Vrindrilliax]] leads [[Aru]] to kobold location nextdoor to Nefros' place
 [[Xitar]] says there are two drakes, eggs left by dragon they know
