@@ -320,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -402,7 +402,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2023/12 17 - Session 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -419,7 +419,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2023/12 17 - Session 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -442,7 +442,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Sessions/2023/12 17 - Session 13.md"
               }
             }
           },
@@ -499,8 +499,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b05894db43d27d05",
+  "active": "78e592d483345eb2",
   "lastOpenFiles": [
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/12 17 - Session 13.md",
     "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/11 05 - Session 11.md",
@@ -527,7 +528,6 @@
     "Deity/Old/Aepoptosis.md",
     "Factions/Silver Company/Pozzan.md",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
-    "Setting Rules/Valid Wild Shapes.md",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Locations/Kathkach/Abandoned House.canvas",
     "Assets/Characters/Virtelle.png",
