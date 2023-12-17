@@ -212,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -294,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Party/Vrindrilliax.md",
+                "file": "Sessions/2023/12 17 - Session 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Party/Vrindrilliax.md",
+                "file": "Sessions/2023/12 17 - Session 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -334,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Party/Vrindrilliax.md"
+                "file": "Sessions/2023/12 17 - Session 13.md"
               }
             }
           },
@@ -391,10 +391,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "87f8ead78173008b",
+  "active": "78e592d483345eb2",
   "lastOpenFiles": [
-    "Factions/Party/Kaulinan Badag.md",
+    "Factions/Party/Thodunn.md",
     "Sessions/2023/12 17 - Session 13.md",
+    "Factions/Party/Vrindrilliax.md",
+    "Assets/Characters/Vrindrilliax.png",
+    "Factions/Party/Kaulinan Badag.md",
     "Setting Rules/Rules Index.md",
     "Setting Rules/Ration Rules.md",
     "Jobs/Level 3/Soirée.md",
@@ -408,7 +411,6 @@
     "Deity/Old/Aepoptosis.md",
     "Factions/Silver Company/Pozzan.md",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
-    "Factions/Party/Thodunn.md",
     "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/09 24 - Session 9.md",
@@ -423,8 +425,6 @@
     "Assets/Table/Pasted image 20230507171917.png",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Kathkach/Ladies Library.md",
-    "Factions/The Cooking Association.md",
-    "Factions/Silver Company/Karta.md",
     "Assets/Maps/Topographic Map.png",
     "Assets/Maps/PevicContinent.png",
     "Assets/Maps/WisteriaDocked.png",
@@ -440,7 +440,6 @@
     "compendium/bestiary/dragon",
     "compendium/bestiary",
     "Assets/Table/Pasted image 20230423131449.png",
-    "Assets/Characters/NPC.png",
-    "compendium/bestiary/dragon/token/drake-companion.png"
+    "Assets/Characters/NPC.png"
   ]
 }
