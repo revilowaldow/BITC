@@ -43,6 +43,9 @@ Houses and rooms are very open, no roofs etc
 
 Elvish creature is embedded into the tree
 
+Magic flows from one space to another
+
+
 
 
 
