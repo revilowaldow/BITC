@@ -39,6 +39,8 @@ Large Oak Tree underwater
 
 Thodunn has not been in the idea of water before
 
+Houses and rooms are very open, no roofs etc
+
 
 
 
