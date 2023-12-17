@@ -54,8 +54,10 @@ Kaulinan turned into a cat and picked up by Thodunn
 
 Visit Elder Jimbolee
 
-> More like Fee Fi Thodunn
->  - Kau
+> "More like Fee Fi Thodunn"
+>  - Kaulinan, telepathically while a cat
+
+
 
 
 
