@@ -241,6 +241,16 @@
             }
           },
           {
+            "id": "e7d2f070d9b24228",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
             "id": "4af8192732c4beda",
             "type": "leaf",
             "state": {
@@ -592,7 +602,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -771,7 +781,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef7c6b94d2bcd4ae",
+  "active": "e7d2f070d9b24228",
   "lastOpenFiles": [
     "Sessions/2023/11 19 - Session 12.md",
     "Sessions/2023/11 05 - Session 11.md",
