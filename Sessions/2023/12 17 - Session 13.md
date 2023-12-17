@@ -24,6 +24,10 @@ Chimera Comanda also present, they have a small outpost just outside the city
 
 Aru leaving town via north gate
 
+Caenis play 
+
+
+Arrive at Matchaka
 
 
 
