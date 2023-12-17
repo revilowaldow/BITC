@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "5f886aa521c9b24c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Silver Company/Kevin Aldragosh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "edf345fc03761db0",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/12 17 - Session 13.md",
+                "file": "Factions/Silver Company/Kevin Aldragosh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/12 17 - Session 13.md",
+                "file": "Factions/Silver Company/Kevin Aldragosh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/12 17 - Session 13.md"
+                "file": "Factions/Silver Company/Kevin Aldragosh.md"
               }
             }
           },
@@ -331,10 +343,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78e592d483345eb2",
+  "active": "5f886aa521c9b24c",
   "lastOpenFiles": [
-    "Factions/Silver Company/'Stealth'.md",
     "Sessions/2023/12 17 - Session 13.md",
+    "Factions/Silver Company/'Stealth'.md",
     "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Town warlocks.md",
     "Jobs/Level 3/Forge Allies.md",
