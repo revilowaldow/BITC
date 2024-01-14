@@ -77,4 +77,5 @@ Informed [[Kevin Aldragosh]] we've allied with the [[Helviti Inquisition]]
 	- Quick orders, in remote town can order equipment remotely
 - Research Library
 	- Information collation, should be easier to search
-- Homing Pid
+- Homing Pidgeons
+	- 
