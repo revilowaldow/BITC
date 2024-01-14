@@ -34,7 +34,7 @@ The brass Palace is CLOSED to the public
 Visit the High Ziggurat
 Motifs on floor of stars and heavenly bodies
 
-Dedicated to the Eternal Queen and the Great architech
+Dedicated to the Eternal Queen and the Great architect
 
 
 
