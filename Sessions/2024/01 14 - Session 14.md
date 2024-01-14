@@ -55,6 +55,7 @@ Jay Connar - [[Helviti Inquisition]]
 	Descend from Helviti Nomads (but not the comanda)
 	Aegan Empire has started to view HI as a threat
 	[[Omana the Eldritch]] (head mage of [[Parche]]) has inflicted many evils on the world
+	Sacrifices are used as ritual power
 	Access, information and assistance
 	Large library, extensive network of information and informants
 
@@ -63,7 +64,7 @@ Gale Comanda are spies
 
 Kanalon the Last
 	Family of Kanalons
-	He engineered the assasination and death of all the other family memebers
+	He engineered the assassination and death of all the other family members
 	Kalamsis works with this guy allegedly, may have done some killing
 	
 	
