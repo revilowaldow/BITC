@@ -68,6 +68,14 @@
             }
           },
           {
+            "id": "a092f56891a208c0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "fcdd4a60b7c16c0e",
             "type": "leaf",
             "state": {
@@ -217,7 +225,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acco",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,8 +250,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -368,7 +375,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81b4aff025d424ca",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/07 16 - Session 6.md",
