@@ -17,6 +17,8 @@ young, 18 maybe 19
 
 Noble
 
+Chinerian manhunters were working in the low quarter
+
 
 
 
