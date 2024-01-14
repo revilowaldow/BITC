@@ -38,6 +38,8 @@ Dedicated to the Eternal Queen and the Great architect
 
 Half Orc Priestess
 
+Candles burn a bright blue
+
 
 
 
