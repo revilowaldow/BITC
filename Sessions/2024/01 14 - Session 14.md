@@ -61,5 +61,6 @@ Jay Connar - [[Helviti Inquisition]]
 
 Gale Comanda are spies
 
+Kanalon the Last
 
 
