@@ -28,6 +28,11 @@ Khapat - garment you can only put on with assistance
 
 Virtelle learnt fencing from Comanda but also had a few lessons with Kalamsis
 
+The brass Palace is CLOSED to the public
+
+
+Visit the High Ziggurat
+
 
 
 
