@@ -74,4 +74,7 @@ Kanalon the Last
 Informed [[Kevin Aldragosh]] we've allied with the [[Helviti Inquisition]]
 
 - Trading Stamps
-	- Quick orders, in remote 
+	- Quick orders, in remote town can order equipment remotely
+- Research Library
+	- Information collation, should be easier to search
+- Homing Pid
