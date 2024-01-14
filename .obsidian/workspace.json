@@ -320,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -402,7 +402,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/Platinum Pot.md",
+                "file": "Sessions/2023/12 17 - Session 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -419,7 +419,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Kathkach/Platinum Pot.md",
+                "file": "Sessions/2023/12 17 - Session 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -442,7 +442,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/Platinum Pot.md"
+                "file": "Sessions/2023/12 17 - Session 13.md"
               }
             }
           },
@@ -498,8 +498,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d51bde5b4cbf12fb",
+  "active": "78e592d483345eb2",
   "lastOpenFiles": [
+    "Locations/Kathkach/Platinum Pot.md",
     "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Sessions/2023/09 10 - Session 8.md",
@@ -526,7 +527,6 @@
     "Factions/Silver Company/Kevin Aldragosh.md",
     "Factions/Silver Company/'Stealth'.md",
     "Jobs/Level 3/Town warlocks.md",
-    "Deity/Old/Aepoptosis.md",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Locations/Kathkach/Abandoned House.canvas",
     "Assets/Characters/Virtelle.png",
