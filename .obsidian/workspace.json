@@ -344,7 +344,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -426,7 +426,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deity/Old/Gotha.md",
+                "file": "Sessions/2024/01 14 - Session 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -443,7 +443,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deity/Old/Gotha.md",
+                "file": "Sessions/2024/01 14 - Session 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -466,7 +466,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deity/Old/Gotha.md"
+                "file": "Sessions/2024/01 14 - Session 14.md"
               }
             }
           },
@@ -523,8 +523,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac43729f3cc6a74e",
+  "active": "78e592d483345eb2",
   "lastOpenFiles": [
+    "Deity/Old/Gotha.md",
     "Deity/Old/Aepoptosis.md",
     "Sessions/2023/11 19 - Session 12.md",
     "Sessions/2023/11 05 - Session 11.md",
@@ -552,7 +553,6 @@
     "Jobs/Level 3/Murders in Lowtown.md",
     "Jobs/Level 3/Missing Devil Crab.md",
     "Jobs/Level 3/Forge Allies.md",
-    "Factions/Silver Company/Kevin Aldragosh.md",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Locations/Kathkach/Abandoned House.canvas",
     "Assets/Characters/Virtelle.png",
