@@ -140,54 +140,6 @@
             }
           },
           {
-            "id": "dd197a15848d05c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Party/Kaulinan Badag.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87f8ead78173008b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Party/Vrindrilliax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f886aa521c9b24c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Kevin Aldragosh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edf345fc03761db0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/'Stealth'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bcad13203b5951cc",
             "type": "leaf",
             "state": {
@@ -200,144 +152,12 @@
             }
           },
           {
-            "id": "b3eac8138aab1e8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Ration Rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "878ae71992ec6ceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Rules Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1b0e2b95df9290a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/Level 3/Missing Devil Crab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1de13f6d2c764803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/Level 3/Forge Allies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ce0747732a8fc71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/Level 3/Town warlocks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f45eb68355552237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/Level 3/Murders in Lowtown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4435c04f283fbc27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/11 19 - Session 12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e9c35bb46e12392",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/09 24 - Session 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e54e8cd567692bdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deity/Old/Aepoptosis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac43729f3cc6a74e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deity/Old/Gotha.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ac1232e61ebda1fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Character Lore/NPCs/Virtelle The Silver Blade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01f76a36604d7b2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Pozzan.md",
                 "mode": "source",
                 "source": false
               }
@@ -525,34 +345,34 @@
   },
   "active": "78e592d483345eb2",
   "lastOpenFiles": [
-    "Deity/Old/Gotha.md",
-    "Deity/Old/Aepoptosis.md",
-    "Sessions/2023/11 19 - Session 12.md",
+    "Character Lore/NPCs/Virtelle The Silver Blade.md",
     "Sessions/2023/11 05 - Session 11.md",
+    "Factions/Party/Kaulinan Badag.md",
+    "Factions/Party/Vrindrilliax.md",
+    "Factions/Silver Company/Kevin Aldragosh.md",
+    "Factions/Silver Company/'Stealth'.md",
+    "Jobs/Level 3/Soirée.md",
+    "Setting Rules/Ration Rules.md",
+    "Setting Rules/Rules Index.md",
+    "Jobs/Level 3/Missing Devil Crab.md",
+    "Jobs/Level 3/Forge Allies.md",
+    "Jobs/Level 3/Town warlocks.md",
+    "Jobs/Level 3/Murders in Lowtown.md",
+    "Sessions/2023/11 19 - Session 12.md",
+    "Sessions/2023/09 24 - Session 9.md",
+    "Deity/Old/Aepoptosis.md",
+    "Factions/Silver Company/Pozzan.md",
     "Sessions/2024/01 14 - Session 14.md",
+    "Deity/Old/Gotha.md",
     "Sessions/2023/12 17 - Session 13.md",
     "Sessions/2024",
     "Locations/Kathkach/Platinum Pot.md",
     "Sessions/2023/10 22 - Session 10.md",
-    "Sessions/2023/09 24 - Session 9.md",
     "Sessions/2023/09 10 - Session 8.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/08 13 - Session 7.md",
-    "Character Lore/NPCs/Virtelle The Silver Blade.md",
-    "Factions/Elder Jimbolee.md",
-    "Sessions/2023/06 18 - Session 4.md",
-    "Setting Rules/Valid Wild Shapes.md",
-    "Factions/Party/Thodunn.md",
-    "Factions/Party/Vrindrilliax.md",
     "Assets/Characters/Vrindrilliax.png",
-    "Factions/Party/Kaulinan Badag.md",
-    "Setting Rules/Rules Index.md",
-    "Setting Rules/Ration Rules.md",
-    "Jobs/Level 3/Soirée.md",
-    "Jobs/Level 3/Murders in Lowtown.md",
-    "Jobs/Level 3/Missing Devil Crab.md",
-    "Jobs/Level 3/Forge Allies.md",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Locations/Kathkach/Abandoned House.canvas",
     "Assets/Characters/Virtelle.png",
