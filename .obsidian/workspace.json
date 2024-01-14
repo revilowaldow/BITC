@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md",
+                "file": "Factions/Silver Company/Silver Company.md",
                 "mode": "source",
                 "source": false
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "acco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,7 +242,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -270,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md",
+                "file": "Factions/Silver Company/Silver Company.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md",
+                "file": "Factions/Silver Company/Silver Company.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md"
+                "file": "Factions/Silver Company/Silver Company.md"
               }
             }
           },
@@ -369,13 +370,17 @@
   },
   "active": "81b4aff025d424ca",
   "lastOpenFiles": [
+    "Sessions/2023/10 22 - Session 10.md",
+    "Sessions/2023/07 16 - Session 6.md",
+    "Sessions/2023/05 07 - Session 1.md",
+    "Sessions/2023/04 23 - Session 0.5.md",
+    "Sessions/2024/01 14 - Session 14.md",
     "Factions/Party/Aru of the Sands.md",
     "Factions/Party/Amaranth Hand.md",
     "Factions/Eastern City States/Parche.md",
     "Factions/Eastern City States/Freedom City.md",
     "Factions/Eastern City States/Eastern City States.md",
     "Factions/Eastern City States/Chineria.md",
-    "Sessions/2024/01 14 - Session 14.md",
     "Deity/New/Eternal Queen.md",
     "Deity/New/Lifegiver.md",
     "Deity/New/The Protector.md",
@@ -386,15 +391,11 @@
     "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2023/09 10 - Session 8.md",
     "Sessions/2023/08 13 - Session 7.md",
-    "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Locations/Kathkach/Platinum Pot.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Factions/Party/Thodunn.md",
-    "Factions/Party/Kaulinan Badag.md",
-    "Factions/Party/Vrindrilliax.md",
-    "Factions/Silver Company/Kevin Aldragosh.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
