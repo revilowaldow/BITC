@@ -40,6 +40,8 @@ Half Orc Priestess
 
 Candles burn a bright blue
 
+Age of Strife and Great Change
+	On side of 
 
 
 
