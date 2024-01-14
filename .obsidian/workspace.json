@@ -32,6 +32,14 @@
             }
           },
           {
+            "id": "aea5cb44280b8d2e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "b05894db43d27d05",
             "type": "leaf",
             "state": {
@@ -499,7 +507,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78e592d483345eb2",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Locations/Kathkach/Platinum Pot.md",
     "Sessions/2023/10 22 - Session 10.md",
