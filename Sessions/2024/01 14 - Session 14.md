@@ -56,7 +56,8 @@ Jay Connar - [[Helviti Inquisition]]
 	Aegan Empire has started to view HI as a threat
 	[[Omana the Eldritch]] (head mage of [[Parche]]) has inflicted many evils on the world
 	Access, information and assistance
-	Large library,
+	Large library, extensive network of information and informants
+	
 
 
 
