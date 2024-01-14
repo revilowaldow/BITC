@@ -44,6 +44,8 @@ Foretold an Age of Strife and Great Change
 >"On side of people and society or on side that wants to undermine it?"
 >- Priestess of the Eternal Queen
 
+Destiny?
+
 
 
 
