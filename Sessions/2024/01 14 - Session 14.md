@@ -79,4 +79,10 @@ Informed [[Kevin Aldragosh]] we've allied with the [[Helviti Inquisition]]
 	- Information collation, should be easier to search
 - Homing Pigeons
 	- Send messages over distance
-- 
+
+
+
+Home of the [[Lady Fara Eyelaine]]
+	In three days
+
+
