@@ -22,7 +22,8 @@ Chinerian manhunters were working in the low quarter
 Chineria and Parche rely heavily on slavery
 Chineria (reputation for cruelty and ruling through fear)
 
-Khapat - 
+Khapat - garment you can only put on with assistance
+
 
 
 
