@@ -52,6 +52,9 @@ In a few days there will be a blue sun.
 
 Jay Connar - Helviti Inquisition
 
-Act as a chec and balance 
+Act as a check and balance against magical powers
+Descend from Helviti Nomads (but not the comanda)
+Aegan Empire has started to 
+
 
 
