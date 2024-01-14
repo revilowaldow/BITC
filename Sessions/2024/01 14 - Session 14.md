@@ -69,5 +69,6 @@ Kanalon the Last
 	
 	
 
-[[Jay Connar]] had an identical
+[[Jay Connar]] had an identical sacrificial dagger
+
 
