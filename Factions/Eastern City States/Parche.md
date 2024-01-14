@@ -20,7 +20,7 @@ Slave armies, mages vs slaves, ash was left
 - Second Eastern War Ended (Year 210 NA)
 - Parche officially becomes a magocracy 225NA
 - Parche started a new war called the Ash War
-- Rival to the the Helviti Inquisition formed as a rival to the HI
+- Rival to the Helviti Inquisition formed as a rival to the HI
 - Then focus moves to Aegan Empire (Green Plague)
 - Founding of Freedom City (240NA by slaves and oppressed individuals)
 - Battle of Looming Rock (246NA)
