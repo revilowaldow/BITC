@@ -40,8 +40,9 @@ Half Orc Priestess
 
 Candles burn a bright blue
 
-Age of Strife and Great Change
-	On side of 
+Foretold an Age of Strife and Great Change
+>"On side of people and society or on side that wants to undermine it?"
+>- Priestess of the Eternal Queen
 
 
 
