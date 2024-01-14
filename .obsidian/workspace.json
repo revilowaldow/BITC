@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ee1357421de02431",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/01 14 - Session 14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "42890982578c0ebc",
             "type": "leaf",
             "state": {
@@ -103,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deity/New/Eternal Queen.md",
+                "file": "Sessions/2024/01 14 - Session 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deity/New/Eternal Queen.md",
+                "file": "Sessions/2024/01 14 - Session 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deity/New/Eternal Queen.md"
+                "file": "Sessions/2024/01 14 - Session 14.md"
               }
             }
           },
@@ -282,10 +295,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78e592d483345eb2",
+  "active": "ee1357421de02431",
   "lastOpenFiles": [
-    "Sessions/2024/01 14 - Session 14.md",
     "Deity/New/Eternal Queen.md",
+    "Sessions/2024/01 14 - Session 14.md",
     "Deity/New/Lifegiver.md",
     "Deity/New/The Protector.md",
     "Locations/Kathkach/Middle Zigg.md",
