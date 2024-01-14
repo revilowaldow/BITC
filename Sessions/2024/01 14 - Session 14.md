@@ -71,4 +71,5 @@ Kanalon the Last
 
 [[Jay Connar]] had an identical sacrificial dagger
 
+Informed [[Kevin Aldragosh]] we've allied with the [[Helviti Inquisition]]
 
