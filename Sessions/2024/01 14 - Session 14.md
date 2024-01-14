@@ -24,6 +24,8 @@ Chineria (reputation for cruelty and ruling through fear)
 
 Khapat - garment you can only put on with assistance
 
+4 tokens for the loan of a Khapat
+
 
 
 
