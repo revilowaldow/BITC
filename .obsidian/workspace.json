@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "42890982578c0ebc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deity/New/Lifegiver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb70b6508266f2c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deity/New/The Protector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5029ec64d87cc246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Kathkach/Middle Zigg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "aea5cb44280b8d2e",
             "type": "leaf",
             "state": {
@@ -67,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md",
+                "file": "Deity/New/Lifegiver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md",
+                "file": "Deity/New/Lifegiver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md"
+                "file": "Deity/New/Lifegiver.md"
               }
             }
           },
@@ -246,10 +283,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78e592d483345eb2",
+  "active": "42890982578c0ebc",
   "lastOpenFiles": [
-    "Jobs/Level 3/Soirée.md",
+    "Deity/New/The Protector.md",
+    "Deity/New/Lifegiver.md",
     "Sessions/2024/01 14 - Session 14.md",
+    "Locations/Kathkach/Middle Zigg.md",
+    "Jobs/Level 3/Soirée.md",
     "Sessions/2023/12 17 - Session 13.md",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
     "Sessions/2023/11 05 - Session 11.md",
@@ -271,9 +311,6 @@
     "Jobs/Level 3/Forge Allies.md",
     "Jobs/Level 3/Town warlocks.md",
     "Jobs/Level 3/Murders in Lowtown.md",
-    "Sessions/2023/11 19 - Session 12.md",
-    "Sessions/2023/09 24 - Session 9.md",
-    "Deity/Old/Aepoptosis.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",

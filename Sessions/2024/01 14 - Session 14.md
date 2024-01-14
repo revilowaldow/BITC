@@ -32,6 +32,8 @@ The brass Palace is CLOSED to the public
 
 
 Visit the High Ziggurat
+Motifs on floor of stars and heavenly bodies
+
 
 
 
