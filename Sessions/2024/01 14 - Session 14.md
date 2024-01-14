@@ -12,6 +12,9 @@ Three personal yachts, one is party barge size
 Palace
 
 
+Virtelle half-elven
+young, 18 maybe 19
+
 
 
 
