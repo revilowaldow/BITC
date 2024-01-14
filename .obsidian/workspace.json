@@ -35,8 +35,12 @@
             "id": "aea5cb44280b8d2e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/12 17 - Session 13.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -509,6 +513,7 @@
   },
   "active": "78e592d483345eb2",
   "lastOpenFiles": [
+    "Sessions/2023/11 19 - Session 12.md",
     "Sessions/2023/12 17 - Session 13.md",
     "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2024",
@@ -520,7 +525,6 @@
     "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/08 13 - Session 7.md",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
-    "Sessions/2023/11 19 - Session 12.md",
     "Sessions/2023/11 05 - Session 11.md",
     "Factions/Elder Jimbolee.md",
     "Sessions/2023/06 18 - Session 4.md",
