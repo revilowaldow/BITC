@@ -55,7 +55,7 @@ Jay Connar - [[Helviti Inquisition]]
 	Descend from Helviti Nomads (but not the comanda)
 	Aegan Empire has started to view HI as a threat
 	[[Omana the Eldritch]] (head mage of [[Parche]]) has inflicted many evils on the world
-
+	Access, information and assistance
 
 
 
