@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Lore/NPCs/Virtelle The Silver Blade.md",
+                "file": "Sessions/2023/11 05 - Session 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Lore/NPCs/Virtelle The Silver Blade.md",
+                "file": "Sessions/2023/11 05 - Session 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Lore/NPCs/Virtelle The Silver Blade.md"
+                "file": "Sessions/2023/11 05 - Session 11.md"
               }
             }
           },
@@ -343,10 +343,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac1232e61ebda1fd",
+  "active": "2d5dae3d518af230",
   "lastOpenFiles": [
-    "Sessions/2024/01 14 - Session 14.md",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
+    "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2023/11 05 - Session 11.md",
     "Factions/Party/Kaulinan Badag.md",
     "Factions/Party/Vrindrilliax.md",
