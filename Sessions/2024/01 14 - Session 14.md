@@ -45,6 +45,9 @@ Foretold an Age of Strife and Great Change
 >- Priestess of the Eternal Queen
 
 Destiny?
+What can manipulate the stars?
+Go looking for prophecy
+
 
 
 
