@@ -6,11 +6,11 @@ Leader: [[Omana the Eldritch]]
 
 Magocracy
 
-The Ash Wars between [[chineria]] and Parche
+The Ash Wars between [[chineria]] and [[Parche]]
 First conflict of new age
 Slave armies, mages vs slaves, ash was left
 
-Helviti Inquisition was founded immediately before the Ash War as a check/balance to keep mages from nuking slaves from orbit
+[[Helviti Inquisition]] was founded immediately before the Ash War as a check/balance to keep mages from nuking slaves from orbit
 
 
 - Shadow Disaster
