@@ -9,6 +9,8 @@ Very posh garden, lawn
 
 Three personal yachts, one is party barge size
 
+Palace
+
 
 
 
