@@ -19,6 +19,8 @@ Noble
 
 Chinerian manhunters were working in the low quarter
 
+Chineria and Parche rely heavily on slavery
+Chineria (reputation fo)
 
 
 
