@@ -57,7 +57,9 @@ Jay Connar - [[Helviti Inquisition]]
 	[[Omana the Eldritch]] (head mage of [[Parche]]) has inflicted many evils on the world
 	Access, information and assistance
 	Large library, extensive network of information and informants
-	
+
+
+Gale Comanda are spies
 
 
 
