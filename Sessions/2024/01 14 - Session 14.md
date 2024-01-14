@@ -50,6 +50,8 @@ Go looking for prophecy
 
 In a few days there will be a blue sun.
 
+Jay Connar - Helviti Inquisition
+
 
 
 
