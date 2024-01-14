@@ -62,6 +62,10 @@ Jay Connar - [[Helviti Inquisition]]
 Gale Comanda are spies
 
 Kanalon the Last
-	Family of
+	Family of Kanalons
+	He engineered the assasination and death of all the other family memebers
+	Kalamsis works with this guy allegedly, may have done some killing
+	
+	
 
 
