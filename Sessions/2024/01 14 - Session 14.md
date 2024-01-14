@@ -48,6 +48,7 @@ Destiny?
 What can manipulate the stars?
 Go looking for prophecy
 
+In a few days there will be a blue sun.
 
 
 
