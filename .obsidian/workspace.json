@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md",
+                "file": "Sessions/2024/01 28 - Session 15.md",
                 "mode": "source",
                 "source": false
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md",
+                "file": "Sessions/2024/01 28 - Session 15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md",
+                "file": "Sessions/2024/01 28 - Session 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md"
+                "file": "Sessions/2024/01 28 - Session 15.md"
               }
             }
           },
@@ -380,8 +380,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b1c0b9b6efd09be3",
+  "active": "a092f56891a208c0",
   "lastOpenFiles": [
+    "Sessions/2024/01 14 - Session 14.md",
+    "Sessions/2024/01 28 - Session 15.md",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
     "Factions/Eastern City States/Parche.md",
     "Deity/New/Eternal Queen.md",
@@ -389,7 +391,6 @@
     "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/04 23 - Session 0.5.md",
-    "Sessions/2024/01 14 - Session 14.md",
     "Factions/Party/Aru of the Sands.md",
     "Factions/Party/Amaranth Hand.md",
     "Factions/Eastern City States/Freedom City.md",
@@ -407,7 +408,6 @@
     "Sessions/2023/06 18 - Session 4.md",
     "Locations/Kathkach/Platinum Pot.md",
     "Setting Rules/Valid Wild Shapes.md",
-    "Factions/Party/Thodunn.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
