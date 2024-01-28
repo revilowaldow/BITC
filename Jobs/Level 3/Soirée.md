@@ -14,7 +14,9 @@ Attendee List:
 - [[Lyan Thorp]]
 - [[Shiendo Kadan]]
 - [[Kalamsis]]
-- Arcanists 
+- Arcanists (Parchians)
 	- [[Mholok Krass]]
-	- [[]]
+	- [[Torniar Maluka]]
+	- [[Vixel]] is dead?
+- 
 
