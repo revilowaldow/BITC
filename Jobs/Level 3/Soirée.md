@@ -14,6 +14,7 @@ Attendee List:
 - [[Lyan Thorp]]
 - [[Shiendo Kadan]]
 - [[Kalamsis]]
+- [[Kevin Aldragosh]]
 - Arcanists (Parchians)
 	- [[Mholok Krass]]
 	- [[Torniar Maluka]]

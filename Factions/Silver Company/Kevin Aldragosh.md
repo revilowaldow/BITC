@@ -9,5 +9,6 @@ Commander
 
 Tall and broad man, built like he works out
 
-
+> "Kevvy"
+> - Lady Farah Eylaine
 
