@@ -26,4 +26,5 @@ Half orc middle aged
 
 Old orc 70s/80s
 
-Formal Armored individual with facial 
+Formal Armored individual with facial cuts, human
+
