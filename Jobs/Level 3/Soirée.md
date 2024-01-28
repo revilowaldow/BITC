@@ -23,7 +23,7 @@ Attendee List:
 - [[Jay Connar]]
 - [[Shaku Toto]]
 
-Half orc middle aged
+
 
 No torches, jars of fireflies
 
@@ -37,3 +37,5 @@ Tower of Eyes is the opponent of Helviti Inquisition
 [[Jay Connar]] speaks Draconic
 
 Aru and Thodunn decide to duel [[Calamxis]]
+
+

@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "c29687867738ebb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lyan Thorp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3599dbf16207c5fd",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
+                "file": "Lyan Thorp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
+                "file": "Lyan Thorp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md"
+                "file": "Lyan Thorp.md"
               }
             }
           },
@@ -248,15 +260,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7b6b6e7d21090fcb",
+  "active": "c29687867738ebb9",
   "lastOpenFiles": [
-    "Factions/Party/Kaulinan Badag.md",
     "Jobs/Level 3/Soirée.md",
+    "Lyan Thorp.md",
     "Sessions/2024/01 28 - Session 15.md",
+    "Sessions/2023/06 04 - Session 3.md",
+    "Factions/Party/Kaulinan Badag.md",
     "Character Lore/NPCs/Calamxis.md",
     "Factions/Sea Blooded Org/Evangeline Stifka.md",
     "Factions/Sea Blooded Org/Sea Blooded Organisation.md",
-    "Sessions/2023/06 04 - Session 3.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Factions/Lady Fara Eyelaine.md",
     "Sessions/2023/05 28 - Session 2.md",
@@ -275,7 +288,6 @@
     "Locations/Kathkach/Eylaine Estate.md",
     "Sessions/2024/01 14 - Session 14.md",
     "Setting Rules/Weapon Rules.md",
-    "Character Lore/NPCs/Virtelle The Silver Blade.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
