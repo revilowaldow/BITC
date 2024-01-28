@@ -9,3 +9,7 @@ Vain and arrogant
 
 Short, Black Haircut, Cut on Chin, Scimitar, Recognises drake, classist
 
+Cut on chin, very sensitive
+
+> "you fucking got outplayed you bitch"
+> - Lady Farah Elayne to Calamxis
