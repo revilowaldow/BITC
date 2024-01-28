@@ -24,8 +24,6 @@ Attendee List:
 
 Half orc middle aged
 
-Elderly orc 70s/80s, ostentatious merchant's attire
-
 
 Formal Armored individual with facial cuts, human
 
