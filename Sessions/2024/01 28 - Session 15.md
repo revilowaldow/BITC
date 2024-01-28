@@ -17,4 +17,5 @@ Arrive at [[Soirée]]
 [[Vixel]] was obsessed with the stars
 	Stabbed with a ritual dagger of Aepoptosis
 
-Tower of Eyes is the 
+Tower of Eyes is the opponent of Helviti Inquisition
+
