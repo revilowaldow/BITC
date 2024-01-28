@@ -50,7 +50,7 @@ Go looking for prophecy
 
 In a few days there will be a blue sun.
 
-Jay Connar - [[Helviti Inquisition]]
+[[Jay Connar]] - [[Helviti Inquisition]]
 	Act as a check and balance against magical powers
 	Descend from Helviti Nomads (but not the comanda)
 	Aegan Empire has started to view HI as a threat
