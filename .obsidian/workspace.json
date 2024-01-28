@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brayk Brasshand.md",
+                "file": "Factions/Eastern City States/Parche.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "right one",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,7 +230,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brayk Brasshand.md",
+                "file": "Factions/Eastern City States/Parche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brayk Brasshand.md",
+                "file": "Factions/Eastern City States/Parche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brayk Brasshand.md"
+                "file": "Factions/Eastern City States/Parche.md"
               }
             }
           },
@@ -358,8 +359,9 @@
   },
   "active": "1de2c9e04b69c961",
   "lastOpenFiles": [
-    "Jobs/Level 3/Soirée.md",
+    "Sessions/2023/09 24 - Session 9.md",
     "Brayk Brasshand.md",
+    "Jobs/Level 3/Soirée.md",
     "Shaku Toto.md",
     "Liera Lov.md",
     "Shiendo Kadan.md",
@@ -383,7 +385,6 @@
     "Factions/Eastern City States/Chineria.md",
     "Deity/New/Lifegiver.md",
     "Deity/New/The Protector.md",
-    "Locations/Kathkach/Middle Zigg.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
