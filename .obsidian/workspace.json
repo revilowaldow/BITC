@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "3599dbf16207c5fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Party/Kaulinan Badag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ba10043133d71717",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs/Level 3/Soirée.md",
+                "file": "Sessions/2023/06 04 - Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs/Level 3/Soirée.md",
+                "file": "Sessions/2023/06 04 - Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs/Level 3/Soirée.md"
+                "file": "Sessions/2023/06 04 - Session 3.md"
               }
             }
           },
@@ -236,11 +248,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "596c5c7ba8829245",
+  "active": "7b6b6e7d21090fcb",
   "lastOpenFiles": [
+    "Factions/Party/Kaulinan Badag.md",
+    "Jobs/Level 3/Soirée.md",
     "Sessions/2024/01 28 - Session 15.md",
     "Character Lore/NPCs/Calamxis.md",
-    "Jobs/Level 3/Soirée.md",
     "Factions/Sea Blooded Org/Evangeline Stifka.md",
     "Factions/Sea Blooded Org/Sea Blooded Organisation.md",
     "Sessions/2023/06 04 - Session 3.md",
@@ -263,7 +276,6 @@
     "Sessions/2024/01 14 - Session 14.md",
     "Setting Rules/Weapon Rules.md",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
-    "Deity/New/Eternal Queen.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
