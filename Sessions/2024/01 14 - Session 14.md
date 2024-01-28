@@ -22,6 +22,8 @@ Chinerian manhunters were working in the low quarter
 Chineria and Parche rely heavily on slavery
 Chineria (reputation for cruelty and ruling through fear)
 
+Virtelle wants a tour of the rest of the city
+
 Khapat - garment you can only put on with assistance
 
 4 tokens for the loan of a Khapat
