@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md"
+                "file": "Jobs/Level 3/Soirée.md"
               }
             }
           },
@@ -380,12 +380,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16d498160dc78e2e",
+  "active": "596c5c7ba8829245",
   "lastOpenFiles": [
-    "Locations/Lachaka.md",
     "Sessions/2024/01 28 - Session 15.md",
-    "Shiendo Kadan.md",
     "Jobs/Level 3/Soirée.md",
+    "Locations/Lachaka.md",
+    "Shiendo Kadan.md",
     "Palanda Macav.md",
     "Factions/Eastern City States/Parche.md",
     "Sessions/2023/09 24 - Session 9.md",

@@ -28,3 +28,10 @@ No torches, jars of fireflies
 
 Virtelle on the table with Vrin
 
+[[Vixel]] was obsessed with the stars
+	Stabbed with a ritual dagger of Aepoptosis
+
+Tower of Eyes is the opponent of Helviti Inquisition
+
+[[Jay Connar]] speaks Draconic
+
