@@ -308,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -390,7 +390,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
+                "file": "Sessions/2024/01 28 - Session 15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -407,7 +407,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
+                "file": "Sessions/2024/01 28 - Session 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -430,7 +430,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md"
+                "file": "Sessions/2024/01 28 - Session 15.md"
               }
             }
           },
@@ -488,8 +488,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7b6b6e7d21090fcb",
+  "active": "16d498160dc78e2e",
   "lastOpenFiles": [
+    "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/04 23 - Session 0.5.md",
@@ -515,7 +516,6 @@
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
     "Deity/New/Eternal Queen.md",
     "Sessions/2023/10 22 - Session 10.md",
-    "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
