@@ -13,4 +13,8 @@ Attendee List:
 - [[Palanda Macav]]  
 - [[Lyan Thorp]]
 - [[Shiendo Kadan]]
+- [[Kalamsis]]
+- Arcanists 
+	- [[Mholok Krass]]
+	- [[]]
 

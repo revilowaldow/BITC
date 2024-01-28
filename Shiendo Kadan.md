@@ -1,1 +1,1 @@
-Leader of Ko
+Leader of Kobolt Comanda
