@@ -13,3 +13,5 @@ Cut on chin, very sensitive
 
 > "you fucking got outplayed you bitch"
 > - Lady Farah Elayne to Calamxis
+
+
