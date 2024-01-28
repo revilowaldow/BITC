@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs/Level 3/Soirée.md",
+                "file": "Sessions/2023/06 04 - Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs/Level 3/Soirée.md",
+                "file": "Sessions/2023/06 04 - Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs/Level 3/Soirée.md"
+                "file": "Sessions/2023/06 04 - Session 3.md"
               }
             }
           },
@@ -260,10 +260,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "596c5c7ba8829245",
+  "active": "7b6b6e7d21090fcb",
   "lastOpenFiles": [
-    "Lyan Thorp.md",
     "Jobs/Level 3/Soirée.md",
+    "Lyan Thorp.md",
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Factions/Party/Kaulinan Badag.md",
