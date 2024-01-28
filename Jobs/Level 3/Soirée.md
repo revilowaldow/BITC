@@ -40,4 +40,6 @@ Aru and Thodunn decide to duel [[Calamxis]]
 
 Met Eylaine 
 
+> "Have you tried the devilled crab?"
+> Kaulinan to 
 
