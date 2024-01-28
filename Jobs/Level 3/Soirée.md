@@ -18,5 +18,5 @@ Attendee List:
 	- [[Mholok Krass]]
 	- [[Torniar Maluka]]
 	- [[Vixel]] is dead?
-- 
+- [[Liera Lov]]
 
