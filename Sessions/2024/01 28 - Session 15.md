@@ -14,4 +14,5 @@ Kev was trained as a young warrior in the royal guard for fara eylaine
 
 Arrive at [[Soirée]]
 
-
+[[Vixel]] was obsessed with the stars
+	Stabbed with a ritual dagger of Aepoptosis
