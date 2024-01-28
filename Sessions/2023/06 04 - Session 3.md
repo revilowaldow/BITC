@@ -48,6 +48,7 @@ Resting:
 	- Trees shrivel and shrink
 	- Coprun disc of light with figure emerging
 	- Two shapes - proud, other was shadowy but violent
+		- SESSION 15 - Not 
 - [[Caenis]]
 	- Shop brickwork
 	- Oven beautiful
