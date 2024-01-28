@@ -19,4 +19,6 @@ Attendee List:
 	- [[Torniar Maluka]]
 	- [[Vixel]] is dead?
 - [[Liera Lov]]
+- [[Jay Connar]]
+- [[Shaku Toto]]
 
