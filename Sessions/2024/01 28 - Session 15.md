@@ -19,3 +19,5 @@ Arrive at [[Soirée]]
 
 Tower of Eyes is the opponent of Helviti Inquisition
 
+[[Jay Connar]] speaks Draconic
+
