@@ -9,4 +9,8 @@ Deep blue khapat
 
 Rigorously Lit Gold Quarter at night
 
+Kev was trained as a young warrior in the royal guard for fara eylaine
+	Used to hang out
+
+
 
