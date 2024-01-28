@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "d65f9f057a58e2eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Party/Thodunn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69769d1c8dc18b0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Lady Fara Eyelaine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "49f1c8074bcab804",
             "type": "leaf",
             "state": {
@@ -224,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -306,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/Eylaine Estate.md",
+                "file": "Factions/Lady Fara Eyelaine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Kathkach/Eylaine Estate.md",
+                "file": "Factions/Lady Fara Eyelaine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +370,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/Eylaine Estate.md"
+                "file": "Factions/Lady Fara Eyelaine.md"
               }
             }
           },
@@ -404,10 +428,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a092f56891a208c0",
+  "active": "69769d1c8dc18b0d",
   "lastOpenFiles": [
-    "Sessions/2024/01 14 - Session 14.md",
+    "Factions/Party/Thodunn.md",
     "Locations/Kathkach/Eylaine Estate.md",
+    "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2024/01 28 - Session 15.md",
     "Setting Rules/Weapon Rules.md",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
@@ -431,7 +456,6 @@
     "Sessions/2023/09 10 - Session 8.md",
     "Sessions/2023/08 13 - Session 7.md",
     "Sessions/2023/07 02 - Session 5.md",
-    "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
