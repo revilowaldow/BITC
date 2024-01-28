@@ -24,8 +24,5 @@ Attendee List:
 
 Half orc middle aged
 
-eeee
-
-
 No torches, jars of fireflies
 
