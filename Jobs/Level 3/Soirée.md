@@ -36,4 +36,4 @@ Tower of Eyes is the opponent of Helviti Inquisition
 
 [[Jay Connar]] speaks Draconic
 
-Short, Black Haircut, Cut on Chin, Scimitar, Recognises drake
+Short, Black Haircut, Cut on Chin, Scimitar, Recognises drake, classist
