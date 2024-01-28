@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81b4aff025d424ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Silver Company.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a092f56891a208c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/Eylaine Estate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d65f9f057a58e2eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Party/Thodunn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69769d1c8dc18b0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Lady Fara Eyelaine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "16d498160dc78e2e",
             "type": "leaf",
             "state": {
@@ -80,72 +32,12 @@
             }
           },
           {
-            "id": "841ccd75e4473269",
+            "id": "ba10043133d71717",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab6dd0b131408913",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Sea Blooded Org/Evangeline Stifka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a099853e4822505e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Sea Blooded Org/Sea Blooded Organisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c5c14962ac01de5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/04 23 - Session 0.5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "674a08e8ed4371a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2f2b7c0a7b21007",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 28 - Session 2.md",
+                "file": "Character Lore/NPCs/Calamxis.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
+                "file": "Character Lore/NPCs/Calamxis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
+                "file": "Character Lore/NPCs/Calamxis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md"
+                "file": "Character Lore/NPCs/Calamxis.md"
               }
             }
           },
@@ -344,18 +236,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7b6b6e7d21090fcb",
+  "active": "ba10043133d71717",
   "lastOpenFiles": [
-    "Setting Rules/Valid Wild Shapes.md",
     "Jobs/Level 3/Soirée.md",
+    "Factions/Sea Blooded Org/Evangeline Stifka.md",
+    "Factions/Sea Blooded Org/Sea Blooded Organisation.md",
     "Sessions/2023/06 04 - Session 3.md",
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/01 28 - Session 15.md",
     "Factions/Lady Fara Eyelaine.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/04 23 - Session 0.5.md",
-    "Factions/Sea Blooded Org/Sea Blooded Organisation.md",
-    "Factions/Sea Blooded Org/Evangeline Stifka.md",
     "Character Lore/NPCs/Calamxis.md",
     "Factions/Brayk Brasshand.md",
     "Factions/Silver Company/Kevin Aldragosh.md",
