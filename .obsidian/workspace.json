@@ -308,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -390,7 +390,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md",
+                "file": "Sessions/2023/06 04 - Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -407,7 +407,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md",
+                "file": "Sessions/2023/06 04 - Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -430,7 +430,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md"
+                "file": "Sessions/2023/06 04 - Session 3.md"
               }
             }
           },
@@ -488,8 +488,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16d498160dc78e2e",
+  "active": "7b6b6e7d21090fcb",
   "lastOpenFiles": [
+    "Sessions/2024/01 28 - Session 15.md",
+    "Factions/Lady Fara Eyelaine.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
@@ -500,7 +502,6 @@
     "Character Lore/NPCs/Calamxis.md",
     "Factions/Brayk Brasshand.md",
     "Factions/Silver Company/Kevin Aldragosh.md",
-    "Sessions/2024/01 28 - Session 15.md",
     "Locations/Lachaka.md",
     "Factions/Shiendo Kadan.md",
     "Factions/Palanda Macav.md",
@@ -508,7 +509,6 @@
     "Sessions/2023/09 24 - Session 9.md",
     "Factions/Shaku Toto.md",
     "Factions/Liera Lov.md",
-    "Factions/Lady Fara Eyelaine.md",
     "Factions/Party/Thodunn.md",
     "Locations/Kathkach/Eylaine Estate.md",
     "Sessions/2024/01 14 - Session 14.md",
