@@ -28,3 +28,5 @@ Old orc 70s/80s
 
 Formal Armored individual with facial cuts, human
 
+No torches, jars of fireflies
+
