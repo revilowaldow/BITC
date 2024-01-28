@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Palanda Macav.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Palanda Macav.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Palanda Macav.md"
+                "file": "Jobs/Level 3/Soirée.md"
               }
             }
           },
@@ -380,10 +380,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "956da23ea75041c8",
+  "active": "596c5c7ba8829245",
   "lastOpenFiles": [
-    "Jobs/Level 3/Soirée.md",
     "Palanda Macav.md",
+    "Jobs/Level 3/Soirée.md",
     "Shiendo Kadan.md",
     "Locations/Lachaka.md",
     "Factions/Eastern City States/Parche.md",
