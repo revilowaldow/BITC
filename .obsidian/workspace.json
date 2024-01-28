@@ -366,7 +366,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 633.5
+    "width": 633.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -379,7 +380,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "b1c0b9b6efd09be3",
   "lastOpenFiles": [
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
     "Factions/Eastern City States/Parche.md",
