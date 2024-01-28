@@ -103,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md"
+                "file": "Jobs/Level 3/Soirée.md"
               }
             }
           },
@@ -283,14 +284,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16d498160dc78e2e",
+  "active": "596c5c7ba8829245",
   "lastOpenFiles": [
+    "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Factions/Sea Blooded Org/Evangeline Stifka.md",
     "Jobs/Level 3/Soirée.md",
     "Character Lore/NPCs/Calamxis.md",
-    "Sessions/2024/01 28 - Session 15.md",
     "Lyan Thorp.md",
     "Factions/Party/Kaulinan Badag.md",
     "Factions/Sea Blooded Org/Sea Blooded Organisation.md",
