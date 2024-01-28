@@ -12,5 +12,5 @@ Attendee List:
 - [[Kevin Aldragosh]]  
 - [[Palanda Macav]]  
 - [[Lyan Thorp]]
-- 
+- [[Shiendo Kadan]]
 
