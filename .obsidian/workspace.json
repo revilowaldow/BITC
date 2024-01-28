@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Lore/NPCs/Calamxis.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Lore/NPCs/Calamxis.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Lore/NPCs/Calamxis.md"
+                "file": "Jobs/Level 3/Soirée.md"
               }
             }
           },
@@ -236,19 +236,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ba10043133d71717",
+  "active": "596c5c7ba8829245",
   "lastOpenFiles": [
+    "Sessions/2024/01 28 - Session 15.md",
+    "Character Lore/NPCs/Calamxis.md",
     "Jobs/Level 3/Soirée.md",
     "Factions/Sea Blooded Org/Evangeline Stifka.md",
     "Factions/Sea Blooded Org/Sea Blooded Organisation.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Setting Rules/Valid Wild Shapes.md",
-    "Sessions/2024/01 28 - Session 15.md",
     "Factions/Lady Fara Eyelaine.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/04 23 - Session 0.5.md",
-    "Character Lore/NPCs/Calamxis.md",
     "Factions/Brayk Brasshand.md",
     "Factions/Silver Company/Kevin Aldragosh.md",
     "Locations/Lachaka.md",
