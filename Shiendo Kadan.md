@@ -10,4 +10,6 @@ preemptive strike
 Village razed
 Murdered the entire town
 
-Previous leader was too eager to follow 
+Previous leader was too eager to follow orders
+
+Chance encounter 
