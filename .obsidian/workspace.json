@@ -145,7 +145,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brayk Brasshand.md",
+                "file": "Factions/Brayk Brasshand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2508bc5a49a17c83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Lore/NPCs/Calamxis.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Palanda Macav.md",
+                "file": "Factions/Palanda Macav.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shiendo Kadan.md",
+                "file": "Factions/Shiendo Kadan.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shaku Toto.md",
+                "file": "Factions/Shaku Toto.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liera Lov.md",
+                "file": "Factions/Liera Lov.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -306,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brayk Brasshand.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brayk Brasshand.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +358,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brayk Brasshand.md"
+                "file": "Jobs/Level 3/Soirée.md"
               }
             }
           },
@@ -404,19 +416,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "596c5c7ba8829245",
   "lastOpenFiles": [
+    "Character Lore/NPCs/Calamxis.md",
+    "Factions/Brayk Brasshand.md",
     "Factions/Silver Company/Kevin Aldragosh.md",
     "Jobs/Level 3/Soirée.md",
     "Sessions/2024/01 28 - Session 15.md",
     "Locations/Lachaka.md",
-    "Shiendo Kadan.md",
-    "Palanda Macav.md",
+    "Factions/Shiendo Kadan.md",
+    "Factions/Palanda Macav.md",
     "Factions/Eastern City States/Parche.md",
     "Sessions/2023/09 24 - Session 9.md",
-    "Brayk Brasshand.md",
-    "Shaku Toto.md",
-    "Liera Lov.md",
+    "Factions/Shaku Toto.md",
+    "Factions/Liera Lov.md",
     "Factions/Lady Fara Eyelaine.md",
     "Factions/Party/Thodunn.md",
     "Locations/Kathkach/Eylaine Estate.md",
@@ -431,7 +444,6 @@
     "Factions/Party/Aru of the Sands.md",
     "Factions/Party/Amaranth Hand.md",
     "Factions/Eastern City States/Freedom City.md",
-    "Factions/Eastern City States/Eastern City States.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
