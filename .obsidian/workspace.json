@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs/Level 3/Soirée.md",
+                "file": "Shiendo Kadan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs/Level 3/Soirée.md",
+                "file": "Shiendo Kadan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs/Level 3/Soirée.md"
+                "file": "Shiendo Kadan.md"
               }
             }
           },
@@ -356,12 +356,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "596c5c7ba8829245",
+  "active": "ac499b434098b479",
   "lastOpenFiles": [
+    "Jobs/Level 3/Soirée.md",
     "Factions/Eastern City States/Parche.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Brayk Brasshand.md",
-    "Jobs/Level 3/Soirée.md",
     "Shaku Toto.md",
     "Liera Lov.md",
     "Shiendo Kadan.md",

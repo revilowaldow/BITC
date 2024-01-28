@@ -24,7 +24,7 @@ Attendee List:
 
 Half orc middle aged
 
-Formal Armored individual with facial cuts, human
+
 
 
 No torches, jars of fireflies
