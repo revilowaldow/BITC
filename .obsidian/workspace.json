@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shaku Toto.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shaku Toto.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shaku Toto.md"
+                "file": "Jobs/Level 3/Soirée.md"
               }
             }
           },
@@ -344,10 +344,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe4744398501e050",
+  "active": "596c5c7ba8829245",
   "lastOpenFiles": [
-    "Jobs/Level 3/Soirée.md",
     "Shaku Toto.md",
+    "Jobs/Level 3/Soirée.md",
     "Liera Lov.md",
     "Shiendo Kadan.md",
     "Sessions/2024/01 28 - Session 15.md",

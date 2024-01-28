@@ -1,4 +1,4 @@
-[[Quta Lione]]
+Representative of [[Quta Lione]]
 
 Lion Hold
 
