@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "6350ce8874010e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/01 14 - Session 14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fcdd4a60b7c16c0e",
             "type": "leaf",
             "state": {
@@ -200,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -282,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md",
+                "file": "Sessions/2024/01 14 - Session 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md",
+                "file": "Sessions/2024/01 14 - Session 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md"
+                "file": "Sessions/2024/01 14 - Session 14.md"
               }
             }
           },
@@ -380,10 +392,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a092f56891a208c0",
+  "active": "6350ce8874010e18",
   "lastOpenFiles": [
-    "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2024/01 28 - Session 15.md",
+    "Sessions/2024/01 14 - Session 14.md",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
     "Factions/Eastern City States/Parche.md",
     "Deity/New/Eternal Queen.md",
