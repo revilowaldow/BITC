@@ -104,127 +104,19 @@
             }
           },
           {
-            "id": "49f1c8074bcab804",
+            "id": "16d498160dc78e2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting Rules/Weapon Rules.md",
+                "file": "Sessions/2024/01 28 - Session 15.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6350ce8874010e18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcdd4a60b7c16c0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Eastern City States/Freedom City.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac3ad1e1cbf4ef60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Eastern City States/Eastern City States.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3dc09683804438d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Eastern City States/Chineria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42890982578c0ebc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deity/New/Lifegiver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb70b6508266f2c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deity/New/The Protector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5029ec64d87cc246",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/Middle Zigg.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aea5cb44280b8d2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/12 17 - Session 13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d5dae3d518af230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/11 05 - Session 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcad13203b5951cc",
+            "id": "596c5c7ba8829245",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -234,21 +126,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ac1232e61ebda1fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Lore/NPCs/Virtelle The Silver Blade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -330,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Lady Fara Eyelaine.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Lady Fara Eyelaine.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -370,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Lady Fara Eyelaine.md"
+                "file": "Jobs/Level 3/Soirée.md"
               }
             }
           },
@@ -428,12 +308,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "69769d1c8dc18b0d",
+  "active": "596c5c7ba8829245",
   "lastOpenFiles": [
+    "Sessions/2024/01 28 - Session 15.md",
+    "Jobs/Level 3/Soirée.md",
+    "Factions/Lady Fara Eyelaine.md",
     "Factions/Party/Thodunn.md",
     "Locations/Kathkach/Eylaine Estate.md",
     "Sessions/2024/01 14 - Session 14.md",
-    "Sessions/2024/01 28 - Session 15.md",
     "Setting Rules/Weapon Rules.md",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
     "Factions/Eastern City States/Parche.md",
@@ -450,12 +332,10 @@
     "Deity/New/Lifegiver.md",
     "Deity/New/The Protector.md",
     "Locations/Kathkach/Middle Zigg.md",
-    "Jobs/Level 3/Soirée.md",
     "Sessions/2023/12 17 - Session 13.md",
     "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2023/09 10 - Session 8.md",
     "Sessions/2023/08 13 - Session 7.md",
-    "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
