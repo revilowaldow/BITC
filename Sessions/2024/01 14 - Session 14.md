@@ -17,6 +17,8 @@ young, 18 maybe 19
 
 Noble
 
+Jeremey the butler
+
 Chinerian manhunters were working in the low quarter
 	Hunt down runaway slaves, also capture new ones
 Chineria and Parche rely heavily on slavery
