@@ -38,4 +38,6 @@ Tower of Eyes is the opponent of Helviti Inquisition
 
 Aru and Thodunn decide to duel [[Calamxis]]
 
-Met Eylaine, 
+Met Eylaine 
+
+
