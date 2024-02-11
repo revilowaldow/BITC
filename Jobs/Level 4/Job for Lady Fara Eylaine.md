@@ -5,9 +5,9 @@ Modified alloy allowing resistance to fatigue
 
 "Heliotropic Bronze"
 
-Jokul is a researcher from the Aegan Empire
+[[Jokku]] is a researcher from the Aegan Empire
 
-Need to find Jokul
+Need to find [[Jokku]]
 
 Last seen at [[Barbakn]] (Aegan Empire)
 
