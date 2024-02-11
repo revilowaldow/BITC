@@ -212,6 +212,18 @@
             }
           },
           {
+            "id": "f9b199c51e987dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Party/Kaulinan Badag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e003aeb0101613d4",
             "type": "leaf",
             "state": {
@@ -272,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -354,7 +366,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
+                "file": "Factions/Party/Aru of the Sands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +383,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
+                "file": "Factions/Party/Aru of the Sands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -394,7 +406,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md"
+                "file": "Factions/Party/Aru of the Sands.md"
               }
             }
           },
@@ -452,8 +464,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8cda67738afc09f",
+  "active": "63f5f13e9d3cdc76",
   "lastOpenFiles": [
+    "Factions/Party/Kaulinan Badag.md",
+    "Sessions/2023/07 02 - Session 5.md",
     "Factions/Party/Aru of the Sands.md",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Sessions/2024/02 11 - Session 16.md",
@@ -471,7 +485,6 @@
     "Factions/Silver Company/Yarek.md",
     "Sessions/2023/08 13 - Session 7.md",
     "Sessions/2023/07 16 - Session 6.md",
-    "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
