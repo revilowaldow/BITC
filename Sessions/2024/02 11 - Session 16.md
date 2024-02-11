@@ -50,6 +50,8 @@ Tincture
 	Potion of Healing
 
 City grove: 
+	Significant psychic damage
+	Unnatural sound of segmented bodies/spiders/many legs
 	
 
 
