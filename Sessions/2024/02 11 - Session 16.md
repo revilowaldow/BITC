@@ -52,6 +52,7 @@ Tincture
 City grove: 
 	Significant psychic damage
 	Unnatural sound of segmented bodies/spiders/many legs
+	Not sure what did differently to normal
 	
 
 
