@@ -14,4 +14,8 @@ Bonded to [[Vrindrilliax]]
 > - Aru's Parents
 
 
-> "The Sands call not the strong nor the wise, but those who understand the bond that ties true commarades. One never braves the sands alone." 
+> "The Sands call not the strong nor the wise, but those who understand the bond that ties true comrades. One never braves the sands alone." 
+
+Dream of parents and north gate and sandstorm
+
+
