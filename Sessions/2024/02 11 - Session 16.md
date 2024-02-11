@@ -66,5 +66,7 @@ Kaulinan bought a parrot
 
 Tudor the bird
 
-Ambushed in 
+Ambushed in sandstorm
+
+![[Pasted image 20240211211148.png]]
 
