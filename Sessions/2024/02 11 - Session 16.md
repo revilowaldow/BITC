@@ -30,6 +30,8 @@ Lachaka burning could be what burned [[Virtelle The Silver Blade]]
 Adoptive daughter of [[Lady Fara Eyelaine]]
 
 No fire in the whole party?
-Maybe to avoid vir
+Maybe to avoid virtelle being traumatised?
+
+
 
 
