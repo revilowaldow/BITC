@@ -1,14 +1,14 @@
-Weapon materials apply only to melee weapons (not ranged or amunnition)
+Weapon materials apply only to melee weapons (not ranged or ammunition)
 
-Iron from north - traded by helveti mercenaries
+Iron from north - traded by Helveti mercenaries
 
 Organic - stone, bone, wood
 
 Bronze - bendy
-Iron - hip crack shatter (long maintanance), require a Whetstone to maintain
+Iron - hip crack shatter (long maintenance), require a Whetstone to maintain
 Organic - fragile but brutal
 
-Steel - flexible, light, neglligible maintainance
+Steel - flexible, light, negligible maintenance
 
 
 | Material | Atk | Dam | Count of fixes | Fixing Method         | Damaged Weapon Malus |     |     |     |     |     |     |
