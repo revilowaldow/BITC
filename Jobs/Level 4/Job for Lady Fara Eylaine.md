@@ -8,3 +8,6 @@ Modified alloy allowing resistance to fatigue
 Jokul is a researcher from the Aegan Empire
 
 Need to find Jokul
+
+Last seen at [[Barbakn]] (Aegan Empire)
+
