@@ -163,8 +163,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
+                "file": "Sessions/2024/01 28 - Session 15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
+                "file": "Sessions/2024/01 28 - Session 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md"
+                "file": "Sessions/2024/01 28 - Session 15.md"
               }
             }
           },
@@ -344,12 +343,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "036b565d07f2e68a",
+  "active": "16d498160dc78e2e",
   "lastOpenFiles": [
+    "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2023/11 19 - Session 12.md",
     "Sessions/2023/12 17 - Session 13.md",
     "Sessions/2024/01 14 - Session 14.md",
-    "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2024/01 28 - Session 15.md",
     "Jobs/Level 3/Soirée.md",
