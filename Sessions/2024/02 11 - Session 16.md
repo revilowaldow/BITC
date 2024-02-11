@@ -6,5 +6,4 @@ Daryl is recapping
 Humans wearing kapats
 
 Kathkachians
-
-
+From Parch, but happy to be out from under their yoke
