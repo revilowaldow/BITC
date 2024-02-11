@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "422d2f98ac2e6648",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Shiendo Kadan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "582185a4b98ed5d9",
             "type": "leaf",
             "state": {
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Shiendo Kadan.md",
+                "file": "Sessions/2024/02 11 - Session 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Shiendo Kadan.md",
+                "file": "Sessions/2024/02 11 - Session 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Shiendo Kadan.md"
+                "file": "Sessions/2024/02 11 - Session 16.md"
               }
             }
           },
@@ -260,8 +248,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "422d2f98ac2e6648",
+  "active": "036b565d07f2e68a",
   "lastOpenFiles": [
+    "Factions/Shiendo Kadan.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Factions/Party/Caenis.md",
     "Sessions/2024/01 28 - Session 15.md",
@@ -285,7 +274,6 @@
     "Factions/Brayk Brasshand.md",
     "Factions/Silver Company/Kevin Aldragosh.md",
     "Locations/Lachaka.md",
-    "Factions/Shiendo Kadan.md",
     "Factions/Palanda Macav.md",
     "Factions/Eastern City States/Parche.md",
     "Sessions/2024",
