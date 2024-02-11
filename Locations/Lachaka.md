@@ -10,4 +10,4 @@ Village razed
 Murdered the entire town
 
 Proposed by Fara
-Narrow vote,
+Narrow vote

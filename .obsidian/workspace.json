@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lachaka.md",
+                "file": "Sessions/2024/02 11 - Session 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lachaka.md",
+                "file": "Sessions/2024/02 11 - Session 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Lachaka.md"
+                "file": "Sessions/2024/02 11 - Session 16.md"
               }
             }
           },
@@ -368,8 +368,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32659d076b26c40f",
+  "active": "036b565d07f2e68a",
   "lastOpenFiles": [
+    "Locations/Lachaka.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Factions/Silver Company/Yarek.md",
     "Sessions/2023/05 07 - Session 1.md",
@@ -395,7 +396,6 @@
     "Factions/Sea Blooded Org/Sea Blooded Organisation.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Factions/Lady Fara Eyelaine.md",
-    "Factions/Brayk Brasshand.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
