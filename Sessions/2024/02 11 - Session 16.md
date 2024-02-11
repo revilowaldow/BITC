@@ -36,5 +36,13 @@ Group Melee Kalamsis in a week
 
 
 
+Healing:
+
+Middle aged dwarf woman
+Wearing regalia with flowers
+
+
+
+
 
 
