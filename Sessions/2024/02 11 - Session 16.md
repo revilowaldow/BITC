@@ -60,6 +60,8 @@ Alternatively Yarek or Karta may know where research is held
 lurks near Lachaka - bandit
 	Doesn't leave survivors, only gnawed bones
 
+Should have arrive 3 days ago
+
 
 
 
