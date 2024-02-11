@@ -8,3 +8,6 @@ preemptive strike
 
 Village razed
 Murdered the entire town
+
+Proposed by Fara
+Narrow vote,

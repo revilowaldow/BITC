@@ -26,4 +26,7 @@ Need to talk to [[Shiendo Kadan]] about Vixel
 
 Shiendo says talk to [[Kevin Aldragosh]]
 
+Lachaka burning could be what burned [[Virtelle The Silver Blade]]
+Adoptive daughter of [[Lady Fara Eyelaine]]
+
 
