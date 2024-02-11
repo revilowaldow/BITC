@@ -272,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -354,7 +354,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
+                "file": "Factions/Party/Aru of the Sands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +371,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
+                "file": "Factions/Party/Aru of the Sands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -394,7 +394,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md"
+                "file": "Factions/Party/Aru of the Sands.md"
               }
             }
           },
@@ -452,17 +452,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eadd3b9f9b5316f2",
+  "active": "63f5f13e9d3cdc76",
   "lastOpenFiles": [
-    "Pasted image 20240211211148.png",
+    "Sessions/2023/04 23 - Session 0.5.md",
+    "Sessions/2024/02 11 - Session 16.md",
+    "Assets/Pasted image 20240211211148.png",
     "Factions/Party/Aru of the Sands.md",
     "Factions/Party/Amaranth Hand.md",
-    "Sessions/2024/02 11 - Session 16.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Factions/Party/Vrindrilliax.md",
     "Jobs/Level 4/Job for Lady Fara Eylaine.md",
     "Sessions/2023/05 07 - Session 1.md",
-    "Sessions/2023/04 23 - Session 0.5.md",
     "Jobs/Level 4",
     "Setting Rules/Weapon Rules.md",
     "Sessions/2024/01 14 - Session 14.md",
@@ -501,7 +501,6 @@
     "Jobs/Level 3",
     "Jobs",
     "compendium/bestiary/dragon/token",
-    "Assets/Table/Pasted image 20230423131449.png",
-    "Assets/Characters/NPC.png"
+    "Assets/Table/Pasted image 20230423131449.png"
   ]
 }
