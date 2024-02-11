@@ -21,4 +21,7 @@ Mholok to travel to chineria soon, though Torniar will remain
 Vixel was interested in: 
 	Astrology
 		Keen on topic of communicating with the beyond
-		
+
+Need to talk to [[Shiendo Kadan]] about Vixel
+
+
