@@ -13,4 +13,5 @@ Not a personal associate
 Third greatest practitioner
 
 Mholok: focusses on alteration of matter
+	Interested in knowledge over power
 	
