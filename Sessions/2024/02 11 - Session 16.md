@@ -32,6 +32,8 @@ Adoptive daughter of [[Lady Fara Eyelaine]]
 No fire in the whole party?
 Maybe to avoid virtelle being traumatised?
 
+Group Melee
+
 
 
 
