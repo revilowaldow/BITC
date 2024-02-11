@@ -15,4 +15,6 @@ Third greatest practitioner
 Mholok: focusses on alteration of matter
 	Interested in knowledge over power
 		Developing of spells
-		
+
+Mholok to travel to chineria soon, though Torniar will remain
+
