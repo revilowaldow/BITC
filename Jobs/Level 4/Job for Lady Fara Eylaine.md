@@ -16,3 +16,5 @@ Crossed to north of River
 Threat in Region: 
 	[[Dog Prince]]
 
+Leaves no corpses,
+ works with dogs alone, terrorist, abushes mercenaries
