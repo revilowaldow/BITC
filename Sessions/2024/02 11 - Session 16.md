@@ -24,4 +24,6 @@ Vixel was interested in:
 
 Need to talk to [[Shiendo Kadan]] about Vixel
 
+Shiendo says talk to [[Kevin Aldragosh]]
+
 
