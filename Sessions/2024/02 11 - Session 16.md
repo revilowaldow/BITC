@@ -55,7 +55,10 @@ City grove:
 	Not sure what did differently to normal
 	
 
-Helviti may have Vixe
+Helviti may have Vixel's research
+Alternatively Yarek or Karta may know where research is held
+
+
 
 
 
