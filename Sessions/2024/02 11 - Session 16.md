@@ -7,5 +7,7 @@ Humans wearing kapats
 
 Kathkachians
 From Parch, but happy to be out from under their yoke
-[[Vixel]]
+[[Vixel]] - Not accident
+Not a personal associate
 
+Third greatest practicioner
