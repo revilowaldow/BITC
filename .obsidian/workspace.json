@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md"
+                "file": "Jobs/Level 3/Soirée.md"
               }
             }
           },
@@ -248,10 +248,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "036b565d07f2e68a",
+  "active": "596c5c7ba8829245",
   "lastOpenFiles": [
-    "Factions/Shiendo Kadan.md",
     "Sessions/2024/02 11 - Session 16.md",
+    "Factions/Shiendo Kadan.md",
     "Factions/Party/Caenis.md",
     "Sessions/2024/01 28 - Session 15.md",
     "Jobs/Level 3/Soirée.md",
