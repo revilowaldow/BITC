@@ -2,7 +2,7 @@ Daryl is recapping
 
  Arcanists (Parchians??)
 	- [[Mholok Krass]]
-	- [[Torniar Maluka]]
+	- [[Torniar Maluka]] 
 Humans wearing kapats
 
 Kathkachians
