@@ -236,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -318,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Weapon Rules.md",
+                "file": "Sessions/2024/02 11 - Session 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Weapon Rules.md",
+                "file": "Sessions/2024/02 11 - Session 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,7 +358,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Weapon Rules.md"
+                "file": "Sessions/2024/02 11 - Session 16.md"
               }
             }
           },
@@ -416,8 +416,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c7bf811905bcf45",
+  "active": "036b565d07f2e68a",
   "lastOpenFiles": [
+    "Setting Rules/Weapon Rules.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2024/01 28 - Session 15.md",
@@ -443,7 +444,6 @@
     "Lyan Thorp.md",
     "Factions/Party/Kaulinan Badag.md",
     "Character Lore/NPCs/Calamxis.md",
-    "Factions/Sea Blooded Org/Sea Blooded Organisation.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
