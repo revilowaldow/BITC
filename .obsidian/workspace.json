@@ -272,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -354,7 +354,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Party/Aru of the Sands.md",
+                "file": "Sessions/2024/02 11 - Session 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +371,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Party/Aru of the Sands.md",
+                "file": "Sessions/2024/02 11 - Session 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -394,7 +394,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Party/Aru of the Sands.md"
+                "file": "Sessions/2024/02 11 - Session 16.md"
               }
             }
           },
@@ -452,8 +452,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63f5f13e9d3cdc76",
+  "active": "eadd3b9f9b5316f2",
   "lastOpenFiles": [
+    "Factions/Party/Aru of the Sands.md",
     "Factions/Party/Amaranth Hand.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Setting Rules/Valid Wild Shapes.md",
@@ -480,7 +481,6 @@
     "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2023/12 17 - Session 13.md",
     "Factions/Sea Blooded Org/Evangeline Stifka.md",
-    "Lyan Thorp.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
