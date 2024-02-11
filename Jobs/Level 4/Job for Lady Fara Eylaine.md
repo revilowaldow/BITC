@@ -11,3 +11,4 @@ Need to find Jokul
 
 Last seen at [[Barbakn]] (Aegan Empire)
 
+Crossed to north of River
