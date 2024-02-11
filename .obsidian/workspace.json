@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9a9f13bf2b94a3c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/01 14 - Session 14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "596c5c7ba8829245",
             "type": "leaf",
             "state": {
@@ -200,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
+                "file": "Sessions/2024/01 14 - Session 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
+                "file": "Sessions/2024/01 14 - Session 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md"
+                "file": "Sessions/2024/01 14 - Session 14.md"
               }
             }
           },
@@ -380,10 +392,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "036b565d07f2e68a",
+  "active": "9a9f13bf2b94a3c9",
   "lastOpenFiles": [
-    "Factions/Party/Vrindrilliax.md",
+    "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/02 11 - Session 16.md",
+    "Factions/Party/Vrindrilliax.md",
     "Locations/Lachaka.md",
     "Factions/Silver Company/Yarek.md",
     "Sessions/2023/05 07 - Session 1.md",
@@ -397,7 +410,6 @@
     "Jobs/Level 3/Soirée.md",
     "Factions/Shiendo Kadan.md",
     "Factions/Party/Caenis.md",
-    "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2023/11 19 - Session 12.md",
     "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2024/01 14 - Session 14.md",
