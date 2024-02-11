@@ -62,6 +62,8 @@ lurks near Lachaka - bandit
 
 Should have arrive 3 days ago
 
+Kaulinan bought a parrot
+
 
 
 
