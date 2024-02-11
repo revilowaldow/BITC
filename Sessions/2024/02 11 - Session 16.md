@@ -55,6 +55,7 @@ City grove:
 	Not sure what did differently to normal
 	
 
+Helviti may have Vixe
 
 
 
