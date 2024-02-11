@@ -44,6 +44,102 @@
             }
           },
           {
+            "id": "f42c433df1dd55fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/04 23 - Session 0.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2d507b983200112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efd9ce076cb21c4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 28 - Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f58323c60d176a11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/06 04 - Session 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8cda67738afc09f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/07 02 - Session 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e003aeb0101613d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/07 16 - Session 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf96952835f6c0b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/08 13 - Session 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c302f9b4fed79d9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/06 18 - Session 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "582185a4b98ed5d9",
             "type": "leaf",
             "state": {
@@ -68,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md"
+                "file": "Sessions/2023/05 07 - Session 1.md"
               }
             }
           },
@@ -248,10 +344,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "036b565d07f2e68a",
+  "active": "c2d507b983200112",
   "lastOpenFiles": [
-    "Jobs/Level 3/Soirée.md",
+    "Sessions/2023/08 13 - Session 7.md",
+    "Sessions/2023/07 16 - Session 6.md",
+    "Sessions/2023/07 02 - Session 5.md",
+    "Sessions/2023/06 18 - Session 4.md",
+    "Sessions/2023/06 04 - Session 3.md",
+    "Sessions/2023/04 23 - Session 0.5.md",
+    "Sessions/2023/05 28 - Session 2.md",
+    "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2024/02 11 - Session 16.md",
+    "Jobs/Level 3/Soirée.md",
     "Factions/Shiendo Kadan.md",
     "Factions/Party/Caenis.md",
     "Sessions/2024/01 28 - Session 15.md",
@@ -263,19 +367,11 @@
     "Lyan Thorp.md",
     "Factions/Party/Kaulinan Badag.md",
     "Character Lore/NPCs/Calamxis.md",
-    "Sessions/2023/06 04 - Session 3.md",
-    "Sessions/2023/06 18 - Session 4.md",
     "Factions/Sea Blooded Org/Sea Blooded Organisation.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Factions/Lady Fara Eyelaine.md",
-    "Sessions/2023/05 28 - Session 2.md",
-    "Sessions/2023/05 07 - Session 1.md",
-    "Sessions/2023/04 23 - Session 0.5.md",
     "Factions/Brayk Brasshand.md",
     "Factions/Silver Company/Kevin Aldragosh.md",
-    "Locations/Lachaka.md",
-    "Factions/Palanda Macav.md",
-    "Factions/Eastern City States/Parche.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
