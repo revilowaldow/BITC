@@ -37,7 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/Untitled.md",
+                "file": "Sessions/2024/02 11 - Session 16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f15e68267c34c772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/01 14 - Session 14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e85830e2885deae8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/12 17 - Session 13.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/Untitled.md",
+                "file": "Sessions/2024/01 14 - Session 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/Untitled.md",
+                "file": "Sessions/2024/01 14 - Session 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/Untitled.md"
+                "file": "Sessions/2024/01 14 - Session 14.md"
               }
             }
           },
@@ -296,10 +320,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "036b565d07f2e68a",
+  "active": "f15e68267c34c772",
   "lastOpenFiles": [
+    "Sessions/2023/12 17 - Session 13.md",
+    "Sessions/2024/01 14 - Session 14.md",
+    "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/01 28 - Session 15.md",
-    "Sessions/2024/Untitled.md",
     "Jobs/Level 3/Soirée.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
@@ -322,8 +348,6 @@
     "Sessions/2023/09 24 - Session 9.md",
     "Factions/Shaku Toto.md",
     "Factions/Liera Lov.md",
-    "Factions/Party/Thodunn.md",
-    "Locations/Kathkach/Eylaine Estate.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
