@@ -5,5 +5,6 @@ Modified alloy allowing resistance to fatigue
 
 "Heliotropic Bronze"
 
+Jokul is a researcher from the Aegan Empire
 
 
