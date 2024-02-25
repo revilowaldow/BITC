@@ -14,7 +14,7 @@ Approach Lachaka from the east, wind in favour
 
 Camp nearby, [[Tudor]] scouting, recovered spoon (key)
 
-
+Approach Lachaka wall, come near to gatehouse
 
 
 
