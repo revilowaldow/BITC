@@ -6,3 +6,6 @@ Straight in to combat with Dogs
 
 [[Krot]]
 
+Information about base in Lachaka
+Found papers of research
+Fought off 
