@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "74386c4f732745e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Rules/Weapon Rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e300bf4dc815b820",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2024/02 25 - Session 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2024/02 25 - Session 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Sessions/2024/02 25 - Session 17.md"
               }
             }
           },
@@ -272,8 +284,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8290ae6201773a01",
+  "active": "97b3e831f4b44f5a",
   "lastOpenFiles": [
+    "Setting Rules/Weapon Rules.md",
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/02 25 - Session 17.md",
     "Pasted image 20240225171609.png",
     "Sessions/2024/02 11 - Session 16.md",
@@ -281,7 +295,6 @@
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2023/12 17 - Session 13.md",
-    "Setting Rules/Valid Wild Shapes.md",
     "Factions/Party/Vrindrilliax.md",
     "Factions/Party/Aru of the Sands.md",
     "Factions/Party/Kaulinan Badag.md",
@@ -291,7 +304,6 @@
     "Factions/Party/Amaranth Hand.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Jobs/Level 4",
-    "Setting Rules/Weapon Rules.md",
     "Locations/Lachaka.md",
     "Factions/Silver Company/Yarek.md",
     "Sessions/2023/08 13 - Session 7.md",
