@@ -10,6 +10,9 @@ Fought off ambush
 Interrogated [[Krot]] - Bandit
 Lachaka - bandit base
 
+Approach Lachaka from the east, wind in favour
+
+
 
 
 
