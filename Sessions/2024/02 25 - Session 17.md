@@ -16,9 +16,10 @@ Camp nearby, [[Tudor]] scouting, recovered spoon (key)
 
 Approach Lachaka wall, come near to gatehouse
 Gatehouse intentionally blocked to prevent escape
-Caenis injured climbing over, 
+Caenis injured climbing over, Kaulinan turned into Spider
 Destroyed statue of kathkatchan dyvare (street 4)
 
+Dyvaran cult is very transactional in nature
 
 
 
