@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e46882bd1db34cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jobs/Level 4/Job for Lady Fara Eylaine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
+                "file": "Jobs/Level 4/Job for Lady Fara Eylaine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
+                "file": "Jobs/Level 4/Job for Lady Fara Eylaine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md"
+                "file": "Jobs/Level 4/Job for Lady Fara Eylaine.md"
               }
             }
           },
@@ -248,10 +260,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e300bf4dc815b820",
+  "active": "4e46882bd1db34cf",
   "lastOpenFiles": [
-    "Sessions/2024/02 25 - Session 17.md",
     "Sessions/2024/02 11 - Session 16.md",
+    "Sessions/2024/02 25 - Session 17.md",
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2023/12 17 - Session 13.md",
