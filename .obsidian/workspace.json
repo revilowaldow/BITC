@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "847bd17f20fd78fd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/Pasted image 20240225171609.png"
+              }
+            }
+          },
+          {
             "id": "8290ae6201773a01",
             "type": "leaf",
             "state": {
@@ -104,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/02 25 - Session 17.md",
+                "file": "Assets/Maps/Pasted image 20240225171609.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/02 25 - Session 17.md",
+                "file": "Assets/Maps/Pasted image 20240225171609.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/02 25 - Session 17.md"
+                "file": "Assets/Maps/Pasted image 20240225171609.png"
               }
             }
           },
@@ -284,14 +294,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97b3e831f4b44f5a",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
+    "Sessions/2024/02 25 - Session 17.md",
     "Setting Rules/Weapon Rules.md",
     "Setting Rules/Valid Wild Shapes.md",
-    "Sessions/2024/02 25 - Session 17.md",
     "Jobs/Level 4/Job for Lady Fara Eylaine.md",
     "Sessions/2024/02 11 - Session 16.md",
-    "Pasted image 20240225171609.png",
+    "Assets/Maps/Pasted image 20240225171609.png",
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2023/12 17 - Session 13.md",
