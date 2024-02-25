@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs/Level 4/Job for Lady Fara Eylaine.md",
+                "file": "Sessions/2024/02 11 - Session 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs/Level 4/Job for Lady Fara Eylaine.md",
+                "file": "Sessions/2024/02 11 - Session 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs/Level 4/Job for Lady Fara Eylaine.md"
+                "file": "Sessions/2024/02 11 - Session 16.md"
               }
             }
           },
@@ -260,10 +260,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e46882bd1db34cf",
+  "active": "e300bf4dc815b820",
   "lastOpenFiles": [
-    "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/02 25 - Session 17.md",
+    "Jobs/Level 4/Job for Lady Fara Eylaine.md",
+    "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2023/12 17 - Session 13.md",
@@ -275,7 +276,6 @@
     "Sessions/2023/04 23 - Session 0.5.md",
     "Assets/Pasted image 20240211211148.png",
     "Factions/Party/Amaranth Hand.md",
-    "Jobs/Level 4/Job for Lady Fara Eylaine.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Jobs/Level 4",
     "Setting Rules/Weapon Rules.md",
