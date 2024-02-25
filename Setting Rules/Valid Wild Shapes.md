@@ -1,8 +1,8 @@
-| Level | Max. CR | Limitations           |
-| ----- | ------- | --------------------- |
-| 2nd   | 1/4     | No flying or swimming |
-| 4th   | 1/2     | No Flying             |
-| 8th   | 1       | None                  | 
+| Level | Max. CR | Limitations           |     |
+| ----- | ------- | --------------------- | --- |
+| 2nd   | 1/4     | No flying or swimming |     |
+| 4th   | 1/2     | No Flying             |     |
+| 8th   | 1       | None                  |     |
 
 
 ## 2nd Level

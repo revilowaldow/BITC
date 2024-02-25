@@ -20,278 +20,19 @@
             }
           },
           {
-            "id": "9a9f13bf2b94a3c9",
+            "id": "97b3e831f4b44f5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee24806546e9d27e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c7bf811905bcf45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Weapon Rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "596c5c7ba8829245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/Level 3/Soirée.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "036b565d07f2e68a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/Level 4/Job for Lady Fara Eylaine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecf9557c826cf0fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Party/Vrindrilliax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32659d076b26c40f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Lachaka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f42c433df1dd55fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/04 23 - Session 0.5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2d507b983200112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eadd3b9f9b5316f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1157ea5a097f809b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "668635a8df355abb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Party/Amaranth Hand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63f5f13e9d3cdc76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Party/Aru of the Sands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84db7c08e26687f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Yarek.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efd9ce076cb21c4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 28 - Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f58323c60d176a11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8cda67738afc09f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9b199c51e987dd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Party/Kaulinan Badag.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e003aeb0101613d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/07 16 - Session 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf96952835f6c0b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/08 13 - Session 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c302f9b4fed79d9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/06 18 - Session 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "582185a4b98ed5d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Party/Caenis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba10043133d71717",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Lore/NPCs/Calamxis.md",
+                "file": "Sessions/2024/02 25 - Session 17.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -373,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md",
+                "file": "Sessions/2024/02 25 - Session 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -390,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md",
+                "file": "Sessions/2024/02 25 - Session 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -413,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md"
+                "file": "Sessions/2024/02 25 - Session 17.md"
               }
             }
           },
@@ -471,8 +212,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16d498160dc78e2e",
+  "active": "97b3e831f4b44f5a",
   "lastOpenFiles": [
+    "Setting Rules/Valid Wild Shapes.md",
+    "Sessions/2024/02 25 - Session 17.md",
+    "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Factions/Party/Vrindrilliax.md",
     "Factions/Party/Aru of the Sands.md",
@@ -481,13 +225,11 @@
     "Sessions/2023/04 23 - Session 0.5.md",
     "Assets/Pasted image 20240211211148.png",
     "Factions/Party/Amaranth Hand.md",
-    "Setting Rules/Valid Wild Shapes.md",
     "Jobs/Level 4/Job for Lady Fara Eylaine.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Jobs/Level 4",
     "Setting Rules/Weapon Rules.md",
     "Sessions/2024/01 14 - Session 14.md",
-    "Sessions/2024/01 28 - Session 15.md",
     "Locations/Lachaka.md",
     "Factions/Silver Company/Yarek.md",
     "Sessions/2023/08 13 - Session 7.md",
@@ -500,7 +242,6 @@
     "Factions/Party/Caenis.md",
     "Sessions/2023/11 19 - Session 12.md",
     "Sessions/2023/11 05 - Session 11.md",
-    "Sessions/2023/12 17 - Session 13.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
