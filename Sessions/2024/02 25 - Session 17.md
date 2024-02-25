@@ -8,6 +8,8 @@ Information about base in Lachaka
 Found papers of research
 Fought off ambush
 Interrogated [[Krot]] - Bandit
-Lachaka 
+Lachaka - bandit base
+
+
 
 
