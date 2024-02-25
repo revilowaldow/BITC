@@ -16,6 +16,7 @@ Camp nearby, [[Tudor]] scouting, recovered spoon (key)
 
 Approach Lachaka wall, come near to gatehouse
 
+Destroy
 
 
 
