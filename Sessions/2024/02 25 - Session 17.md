@@ -8,4 +8,6 @@ Straight in to combat with Dogs
 
 Information about base in Lachaka
 Found papers of research
-Fought off 
+Fought off ambush
+
+
