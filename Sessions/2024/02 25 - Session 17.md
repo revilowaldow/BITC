@@ -15,8 +15,11 @@ Approach Lachaka from the east, wind in favour
 Camp nearby, [[Tudor]] scouting, recovered spoon (key)
 
 Approach Lachaka wall, come near to gatehouse
+Gatehouse intentionally blocked to prevent escape
+Caenis injured climbing over, 
+Destroyed statue of kathkatchan dyvare (street 4)
 
-Destroy
+
 
 
 
