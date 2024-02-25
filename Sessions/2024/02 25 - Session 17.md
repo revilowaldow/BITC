@@ -2,7 +2,7 @@ Oliver is recapping
 
 Straight in to combat with Dogs
 
-![[Pasted image 20240225171609.png]]
+![[Kathkachan Wilderness.png]]
 
 Information about base in Lachaka
 Found papers of research

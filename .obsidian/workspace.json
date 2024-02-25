@@ -61,7 +61,17 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Assets/Maps/Pasted image 20240225171609.png"
+                "file": "Assets/Maps/Kathkachan Wilderness.png"
+              }
+            }
+          },
+          {
+            "id": "efc8acf2531bc07e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Pasted image 20240211211148.png"
               }
             }
           },
@@ -114,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -196,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Maps/Pasted image 20240225171609.png",
+                "file": "Assets/Pasted image 20240211211148.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Maps/Pasted image 20240225171609.png",
+                "file": "Assets/Pasted image 20240211211148.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Maps/Pasted image 20240225171609.png"
+                "file": "Assets/Pasted image 20240211211148.png"
               }
             }
           },
@@ -294,14 +304,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "efc8acf2531bc07e",
   "lastOpenFiles": [
+    "Assets/Maps/Kathkachan Wilderness.png",
     "Sessions/2024/02 25 - Session 17.md",
     "Setting Rules/Weapon Rules.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Jobs/Level 4/Job for Lady Fara Eylaine.md",
     "Sessions/2024/02 11 - Session 16.md",
-    "Assets/Maps/Pasted image 20240225171609.png",
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2023/12 17 - Session 13.md",
