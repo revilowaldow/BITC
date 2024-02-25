@@ -140,6 +140,14 @@
             }
           },
           {
+            "id": "1157ea5a097f809b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "668635a8df355abb",
             "type": "leaf",
             "state": {
@@ -464,7 +472,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eadd3b9f9b5316f2",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Factions/Party/Vrindrilliax.md",
     "Factions/Party/Aru of the Sands.md",
