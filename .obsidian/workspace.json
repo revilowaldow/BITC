@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2024/02 25 - Session 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2024/02 25 - Session 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Sessions/2024/02 25 - Session 17.md"
               }
             }
           },
@@ -284,13 +284,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8290ae6201773a01",
+  "active": "97b3e831f4b44f5a",
   "lastOpenFiles": [
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/02 25 - Session 17.md",
     "Jobs/Level 4/Job for Lady Fara Eylaine.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Setting Rules/Weapon Rules.md",
-    "Setting Rules/Valid Wild Shapes.md",
     "Pasted image 20240225171609.png",
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/01 14 - Session 14.md",
