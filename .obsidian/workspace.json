@@ -87,8 +87,8 @@
               "state": {
                 "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
                 "viewState": {
-                  "x": -637.7636523777944,
-                  "y": -215.4867430516656,
+                  "x": -443.735810693984,
+                  "y": -228.08595355061436,
                   "zoom": -0.3333333333333333
                 }
               }
@@ -323,7 +323,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "e300bf4dc815b820",
   "lastOpenFiles": [
     "Assets/Maps/Lachaka Town hall.png",
     "Sessions/2024/03 10 - Session 18.md",
