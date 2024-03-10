@@ -6,7 +6,7 @@
 		{"id":"fa7aedd8fda042df","x":297,"y":-602,"width":192,"height":427,"type":"text","text":"Long Corridor\n"},
 		{"id":"b760a197a747ce30","x":-240,"y":-433,"width":250,"height":90,"type":"text","text":"Main Room\nLights under door"},
 		{"id":"f7725b59afc8f643","x":263,"y":-916,"width":250,"height":60,"type":"text","text":"Exit Door"},
-		{"id":"e3e6b77c1840c9bc","x":-115,"y":-422,"width":250,"height":60,"type":"text","text":""}
+		{"id":"e3e6b77c1840c9bc","x":100,"y":-426,"width":147,"height":75,"type":"text","text":"Double Door"}
 	],
 	"edges":[
 		{"id":"5748f9f7e4a057c2","fromNode":"61c3ee08f46567be","fromSide":"top","toNode":"d69ec8d3064ad31c","toSide":"bottom"},
@@ -14,6 +14,7 @@
 		{"id":"96ef6d123e6bf02a","fromNode":"d69ec8d3064ad31c","fromSide":"top","toNode":"b760a197a747ce30","toSide":"bottom"},
 		{"id":"432c5836b3620e52","fromNode":"e0919a558d3f6da8","fromSide":"top","toNode":"fa7aedd8fda042df","toSide":"bottom"},
 		{"id":"2600d515b36d357c","fromNode":"fa7aedd8fda042df","fromSide":"top","toNode":"f7725b59afc8f643","toSide":"bottom"},
-		{"id":"9a473fa27144269d","fromNode":"fa7aedd8fda042df","fromSide":"left","toNode":"e3e6b77c1840c9bc","toSide":"right"}
+		{"id":"9a473fa27144269d","fromNode":"fa7aedd8fda042df","fromSide":"left","toNode":"e3e6b77c1840c9bc","toSide":"right"},
+		{"id":"51adb2b573f3b777","fromNode":"e3e6b77c1840c9bc","fromSide":"left","toNode":"b760a197a747ce30","toSide":"right"}
 	]
 }
