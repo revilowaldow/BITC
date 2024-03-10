@@ -3,11 +3,13 @@
 		{"id":"61c3ee08f46567be","x":-240,"y":380,"width":250,"height":60,"type":"text","text":"Street 4"},
 		{"id":"d69ec8d3064ad31c","x":-240,"y":60,"width":250,"height":124,"type":"text","text":"Side Corridor 4\n10ft long"},
 		{"id":"b760a197a747ce30","x":-240,"y":-220,"width":250,"height":90,"type":"text","text":"Main Room\nLights under door"},
-		{"id":"e0919a558d3f6da8","x":120,"y":-74,"width":560,"height":484,"type":"text","text":"Side Room\nDerelict\nScorched, but not fully burnt\nOffice, lots of paper\n\nFar corner, desiccated body, died of smoke inhalation\n\nBody has a vial with a blueish tinge\n\nFound Note: [[JournalEntry.GbxIvNuSOf6usjAy]]\nDisease in city, rebels are from kathkach not from lachaka though sheltering here\n"}
+		{"id":"fa7aedd8fda042df","x":268,"y":-253,"width":250,"height":60,"type":"text","text":"Exit door"},
+		{"id":"e0919a558d3f6da8","x":113,"y":-82,"width":560,"height":408,"type":"text","text":"Side Room\nDerelict\nScorched, but not fully burnt\nOffice, lots of paper\n\nFar corner, desiccated body, died of smoke inhalation\n\nBody has a vial with a blueish tinge\nPotion of Cold Resistance\n\nFound Note: [[JournalEntry.GbxIvNuSOf6usjAy]]\nDisease in city, rebels are from kathkach not from lachaka though sheltering here\n"}
 	],
 	"edges":[
 		{"id":"5748f9f7e4a057c2","fromNode":"61c3ee08f46567be","fromSide":"top","toNode":"d69ec8d3064ad31c","toSide":"bottom"},
 		{"id":"fe03dc5720353975","fromNode":"d69ec8d3064ad31c","fromSide":"right","toNode":"e0919a558d3f6da8","toSide":"left"},
-		{"id":"96ef6d123e6bf02a","fromNode":"d69ec8d3064ad31c","fromSide":"top","toNode":"b760a197a747ce30","toSide":"bottom"}
+		{"id":"96ef6d123e6bf02a","fromNode":"d69ec8d3064ad31c","fromSide":"top","toNode":"b760a197a747ce30","toSide":"bottom"},
+		{"id":"432c5836b3620e52","fromNode":"e0919a558d3f6da8","fromSide":"top","toNode":"fa7aedd8fda042df","toSide":"bottom"}
 	]
 }
