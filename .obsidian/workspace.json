@@ -87,9 +87,9 @@
               "state": {
                 "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
                 "viewState": {
-                  "x": -578.5473630327355,
-                  "y": -381.7963216377889,
-                  "zoom": -0.3333333333333333
+                  "x": -485.44068950899447,
+                  "y": -530.2089235328274,
+                  "zoom": -0.6666666666666666
                 }
               }
             }
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240310210048.png",
+                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240310210048.png",
+                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240310210048.png"
+                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas"
               }
             }
           },
