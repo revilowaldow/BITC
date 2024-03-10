@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas"
+                "file": "Setting Rules/Valid Wild Shapes.md"
               }
             }
           },
@@ -323,11 +323,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e300bf4dc815b820",
+  "active": "8290ae6201773a01",
   "lastOpenFiles": [
+    "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Sessions/2024/03 10 - Session 18.md",
     "Setting Rules/Valid Wild Shapes.md",
-    "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Assets/Maps/Lachaka Town hall.png",
     "Sessions/2024/02 25 - Session 17.md",
     "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
