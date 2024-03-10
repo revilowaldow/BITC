@@ -85,12 +85,24 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Locations/Untitled.canvas",
+                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
                   "zoom": 0
                 }
+              }
+            }
+          },
+          {
+            "id": "441f257dba19ca5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Lachaka/Lachaka.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -189,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Untitled.canvas",
+                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Untitled.canvas",
+                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Untitled.canvas"
+                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas"
               }
             }
           },
@@ -289,8 +301,10 @@
   },
   "active": "e300bf4dc815b820",
   "lastOpenFiles": [
+    "Locations/Lachaka/Lachaka.md",
+    "Locations/Lachaka",
+    "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Sessions/2024/03 10 - Session 18.md",
-    "Locations/Untitled.canvas",
     "Sessions/2024/02 25 - Session 17.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/01 28 - Session 15.md",
@@ -309,7 +323,6 @@
     "Factions/Party/Amaranth Hand.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Jobs/Level 4",
-    "Locations/Lachaka.md",
     "Factions/Silver Company/Yarek.md",
     "Sessions/2023/08 13 - Session 7.md",
     "Sessions/2023/07 16 - Session 6.md",
@@ -336,7 +349,6 @@
     "Factions/Sea Blooded Org",
     "Factions/Silver Company",
     "Jobs/Level 3",
-    "Jobs",
-    "compendium/bestiary/dragon/token"
+    "Jobs"
   ]
 }

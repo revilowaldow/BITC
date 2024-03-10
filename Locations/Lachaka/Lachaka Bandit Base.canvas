@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"61c3ee08f46567be","x":-240,"y":380,"width":250,"height":60,"type":"text","text":"Street 4"},
+		{"id":"d69ec8d3064ad31c","x":-240,"y":164,"width":250,"height":60,"type":"text","text":"Side Corridor 4\n10ft long"}
+	],
+	"edges":[
+		{"id":"5748f9f7e4a057c2","fromNode":"61c3ee08f46567be","fromSide":"top","toNode":"d69ec8d3064ad31c","toSide":"bottom"}
+	]
+}
