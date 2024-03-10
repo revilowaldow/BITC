@@ -3,7 +3,7 @@
 		{"id":"61c3ee08f46567be","x":-240,"y":380,"width":250,"height":60,"type":"text","text":"Street 4"},
 		{"id":"d69ec8d3064ad31c","x":-240,"y":60,"width":250,"height":124,"type":"text","text":"Side Corridor 4\n10ft long"},
 		{"id":"b760a197a747ce30","x":-240,"y":-220,"width":250,"height":90,"type":"text","text":"Main Room\nLights under door"},
-		{"id":"e0919a558d3f6da8","x":120,"y":-74,"width":400,"height":392,"type":"text","text":"Side Room\nDerelict\nScorched, but not fully burnt\nOffice, lots of paper\n\nFar corner, desiccated body, died of smoke inhalation\n\nBody has a vial with a blueish tinge"}
+		{"id":"e0919a558d3f6da8","x":120,"y":-74,"width":500,"height":392,"type":"text","text":"Side Room\nDerelict\nScorched, but not fully burnt\nOffice, lots of paper\n\nFar corner, desiccated body, died of smoke inhalation\n\nBody has a vial with a blueish tinge\n\nDisease in city, rebels "}
 	],
 	"edges":[
 		{"id":"5748f9f7e4a057c2","fromNode":"61c3ee08f46567be","fromSide":"top","toNode":"d69ec8d3064ad31c","toSide":"bottom"},
