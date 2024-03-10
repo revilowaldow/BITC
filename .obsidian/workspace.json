@@ -87,10 +87,22 @@
               "state": {
                 "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
                 "viewState": {
-                  "x": 293.95910321892575,
-                  "y": 30.81450777745166,
-                  "zoom": -0.6666666666666666
+                  "x": 334.89539814104756,
+                  "y": 131.0503646700943,
+                  "zoom": -0.3333333333333333
                 }
+              }
+            }
+          },
+          {
+            "id": "87ca772b841b2415",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JournalEntry.GbxIvNuSOf6usjAy.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -301,9 +313,10 @@
   },
   "active": "e300bf4dc815b820",
   "lastOpenFiles": [
+    "JournalEntry.GbxIvNuSOf6usjAy.md",
+    "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Locations/Lachaka/Lachaka.md",
     "Locations/Lachaka",
-    "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2024/02 25 - Session 17.md",
     "Sessions/2024/02 11 - Session 16.md",
@@ -330,7 +343,6 @@
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Jobs/Level 3/Soirée.md",
-    "Factions/Shiendo Kadan.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
