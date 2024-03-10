@@ -95,6 +95,18 @@
             }
           },
           {
+            "id": "9a629ca9c16eeec7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/03 10 - Session 18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "87ca772b841b2415",
             "type": "leaf",
             "state": {
@@ -313,12 +325,12 @@
   },
   "active": "e300bf4dc815b820",
   "lastOpenFiles": [
-    "JournalEntry.GbxIvNuSOf6usjAy.md",
+    "Sessions/2024/02 25 - Session 17.md",
+    "Sessions/2024/03 10 - Session 18.md",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
+    "JournalEntry.GbxIvNuSOf6usjAy.md",
     "Locations/Lachaka/Lachaka.md",
     "Locations/Lachaka",
-    "Sessions/2024/03 10 - Session 18.md",
-    "Sessions/2024/02 25 - Session 17.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2023/12 17 - Session 13.md",
