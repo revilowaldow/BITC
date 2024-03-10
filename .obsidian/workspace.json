@@ -87,8 +87,8 @@
               "state": {
                 "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
                 "viewState": {
-                  "x": 109.36953020986527,
-                  "y": -251.96563449794724,
+                  "x": 162.28621430544996,
+                  "y": -338.9001869406935,
                   "zoom": -0.3333333333333333
                 }
               }
@@ -189,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 309.5
   },
   "right": {
     "id": "ef72d1b6d53eecf3",

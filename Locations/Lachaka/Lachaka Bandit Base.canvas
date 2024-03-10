@@ -3,10 +3,9 @@
 		{"id":"61c3ee08f46567be","x":-240,"y":380,"width":250,"height":60,"type":"text","text":"Street 4"},
 		{"id":"d69ec8d3064ad31c","x":-240,"y":60,"width":250,"height":124,"type":"text","text":"Side Corridor 4\n10ft square"},
 		{"id":"e0919a558d3f6da8","x":113,"y":-82,"width":560,"height":408,"type":"text","text":"Side Room\nDerelict\nScorched, but not fully burnt\nOffice, lots of paper\n\nFar corner, desiccated body, died of smoke inhalation\n\nBody has a vial with a blueish tinge\nPotion of Cold Resistance\n\nFound Note: [[JournalEntry.GbxIvNuSOf6usjAy]]\nDisease in city, rebels are from kathkach not from lachaka though sheltering here\n"},
-		{"id":"fa7aedd8fda042df","x":297,"y":-602,"width":192,"height":427,"type":"text","text":"Long Corridor\n"},
-		{"id":"b760a197a747ce30","x":-240,"y":-433,"width":250,"height":90,"type":"text","text":"Main Room\nLights under door"},
-		{"id":"f7725b59afc8f643","x":263,"y":-916,"width":250,"height":60,"type":"text","text":"Exit Door"},
-		{"id":"e3e6b77c1840c9bc","x":100,"y":-426,"width":147,"height":75,"type":"text","text":"Double Door"}
+		{"id":"f7725b59afc8f643","x":268,"y":-740,"width":250,"height":60,"type":"text","text":"Exit Door"},
+		{"id":"fa7aedd8fda042df","x":297,"y":-601,"width":192,"height":427,"type":"text","text":"Long Corridor\n"},
+		{"id":"b760a197a747ce30","x":-380,"y":-746,"width":410,"height":718,"type":"text","text":"Main Room\nLights under door\n\nMaybe two people?"}
 	],
 	"edges":[
 		{"id":"5748f9f7e4a057c2","fromNode":"61c3ee08f46567be","fromSide":"top","toNode":"d69ec8d3064ad31c","toSide":"bottom"},
@@ -14,7 +13,6 @@
 		{"id":"96ef6d123e6bf02a","fromNode":"d69ec8d3064ad31c","fromSide":"top","toNode":"b760a197a747ce30","toSide":"bottom"},
 		{"id":"432c5836b3620e52","fromNode":"e0919a558d3f6da8","fromSide":"top","toNode":"fa7aedd8fda042df","toSide":"bottom"},
 		{"id":"2600d515b36d357c","fromNode":"fa7aedd8fda042df","fromSide":"top","toNode":"f7725b59afc8f643","toSide":"bottom"},
-		{"id":"9a473fa27144269d","fromNode":"fa7aedd8fda042df","fromSide":"left","toNode":"e3e6b77c1840c9bc","toSide":"right"},
-		{"id":"51adb2b573f3b777","fromNode":"e3e6b77c1840c9bc","fromSide":"left","toNode":"b760a197a747ce30","toSide":"right"}
+		{"id":"4289c4f678236e56","fromNode":"fa7aedd8fda042df","fromSide":"left","toNode":"b760a197a747ce30","toSide":"right","label":"Doubv"}
 	]
 }
