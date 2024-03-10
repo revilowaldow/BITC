@@ -5,7 +5,7 @@
 		{"id":"e0919a558d3f6da8","x":113,"y":-82,"width":560,"height":408,"type":"text","text":"Side Room\nDerelict\nScorched, but not fully burnt\nOffice, lots of paper\n\nFar corner, desiccated body, died of smoke inhalation\n\nBody has a vial with a blueish tinge\nPotion of Cold Resistance\n\nFound Note: [[JournalEntry.GbxIvNuSOf6usjAy]]\nDisease in city, rebels are from kathkach not from lachaka though sheltering here\n"},
 		{"id":"f7725b59afc8f643","x":268,"y":-860,"width":250,"height":180,"type":"text","text":"Exit Door\nMaybe Outside"},
 		{"id":"fa7aedd8fda042df","x":297,"y":-601,"width":192,"height":427,"type":"text","text":"Long Corridor\n"},
-		{"id":"b760a197a747ce30","x":-380,"y":-746,"width":410,"height":718,"type":"text","text":"Main Room\nLights under door\n\nMaybe two people?\n\nTeam with [[Krot]] has not returned\nStay\n\nLarge room, many windows, torches lanterns candles\n\nTwo individuals"}
+		{"id":"b760a197a747ce30","x":-380,"y":-746,"width":410,"height":718,"type":"text","text":"Main Room\nLights under door\n\nMaybe two people?\n\nTeam with [[Krot]] has not returned\nStay\n\nLarge room, many windows, torches lanterns candles\n\nTwo individuals\nHumanoid figure massively banadaged\n"}
 	],
 	"edges":[
 		{"id":"5748f9f7e4a057c2","fromNode":"61c3ee08f46567be","fromSide":"top","toNode":"d69ec8d3064ad31c","toSide":"bottom"},
