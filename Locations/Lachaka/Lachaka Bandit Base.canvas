@@ -1,9 +1,13 @@
 {
 	"nodes":[
 		{"id":"61c3ee08f46567be","x":-240,"y":380,"width":250,"height":60,"type":"text","text":"Street 4"},
-		{"id":"d69ec8d3064ad31c","x":-240,"y":164,"width":250,"height":60,"type":"text","text":"Side Corridor 4\n10ft long"}
+		{"id":"d69ec8d3064ad31c","x":-240,"y":60,"width":250,"height":124,"type":"text","text":"Side Corridor 4\n10ft long"},
+		{"id":"b760a197a747ce30","x":-240,"y":-220,"width":250,"height":90,"type":"text","text":"Main Room\nLights under door"},
+		{"id":"e0919a558d3f6da8","x":100,"y":92,"width":250,"height":60,"type":"text","text":"Side Room"}
 	],
 	"edges":[
-		{"id":"5748f9f7e4a057c2","fromNode":"61c3ee08f46567be","fromSide":"top","toNode":"d69ec8d3064ad31c","toSide":"bottom"}
+		{"id":"5748f9f7e4a057c2","fromNode":"61c3ee08f46567be","fromSide":"top","toNode":"d69ec8d3064ad31c","toSide":"bottom"},
+		{"id":"fe03dc5720353975","fromNode":"d69ec8d3064ad31c","fromSide":"right","toNode":"e0919a558d3f6da8","toSide":"left"},
+		{"id":"96ef6d123e6bf02a","fromNode":"d69ec8d3064ad31c","fromSide":"top","toNode":"b760a197a747ce30","toSide":"bottom"}
 	]
 }
