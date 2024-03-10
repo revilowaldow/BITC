@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2024/02 11 - Session 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2024/02 11 - Session 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Sessions/2024/02 11 - Session 16.md"
               }
             }
           },
@@ -272,10 +272,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8290ae6201773a01",
+  "active": "e300bf4dc815b820",
   "lastOpenFiles": [
-    "Setting Rules/Weapon Rules.md",
     "Setting Rules/Valid Wild Shapes.md",
+    "Setting Rules/Weapon Rules.md",
     "Sessions/2024/02 25 - Session 17.md",
     "Assets/Pasted image 20240211211148.png",
     "Assets/Maps/Kathkachan Wilderness.png",
