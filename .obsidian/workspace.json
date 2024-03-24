@@ -4,146 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "578838ca74241e69",
+        "id": "d621b303788e4eef",
         "type": "tabs",
         "children": [
           {
-            "id": "16d498160dc78e2e",
+            "id": "ae9a3c0d38025b43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5425b212a2e6ef7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67fa31ee55928ac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/12 17 - Session 13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97b3e831f4b44f5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/02 25 - Session 17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d40e680b87ef177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8290ae6201773a01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e300bf4dc815b820",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
-                "viewState": {
-                  "x": -444.1682621578213,
-                  "y": -482.58689197378146,
-                  "zoom": -0.6666666666666666
-                }
-              }
-            }
-          },
-          {
-            "id": "9a629ca9c16eeec7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/03 10 - Session 18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87ca772b841b2415",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "441f257dba19ca5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Lachaka/Lachaka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e46882bd1db34cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/Level 4/Job for Lady Fara Eylaine.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/03 10 - Session 18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/03 10 - Session 18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sessions/2024/03 10 - Session 18.md"
-              }
+              "state": {}
             }
           },
           {
@@ -319,27 +187,35 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "9a629ca9c16eeec7",
+  "active": "ae9a3c0d38025b43",
   "lastOpenFiles": [
-    "Sessions/2024/02 25 - Session 17.md",
-    "Sessions/2024/03 10 - Session 18.md",
-    "Locations/Lachaka/Lachaka Bandit Base.canvas",
-    "Pasted image 20240310210048.png",
     "Setting Rules/Valid Wild Shapes.md",
-    "Assets/Maps/Lachaka Town hall.png",
+    "Sessions/2024/03 24 - Session 19.md",
+    "Factions/Shiendo Kadan.md",
+    "Locations/The Pit.md",
+    "Sessions/2024/03 10 - Session 18.md",
+    "Sessions/2024/02 25 - Session 17.md",
     "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
     "Locations/Lachaka/Lachaka.md",
-    "Locations/Lachaka",
-    "Sessions/2024/02 11 - Session 16.md",
+    "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Sessions/2024/01 28 - Session 15.md",
+    "Sessions/2024/02 11 - Session 16.md",
+    "Assets/Pasted image 20240211211148.png",
+    "Assets/Maps/Lachaka Street Chase.png",
+    "Sessions/2023/09 10 - Session 8.md",
+    "Sessions/2023/09 24 - Session 9.md",
+    "Sessions/2023/10 22 - Session 10.md",
+    "Sessions/2023/11 05 - Session 11.md",
+    "Sessions/2023/11 19 - Session 12.md",
     "Sessions/2023/12 17 - Session 13.md",
     "Sessions/2024/01 14 - Session 14.md",
+    "Factions/Sea Blooded Org/Evangeline Stifka.md",
+    "Assets/Maps/Lachaka Town hall.png",
+    "Locations/Lachaka",
     "Setting Rules/Weapon Rules.md",
-    "Assets/Pasted image 20240211211148.png",
     "Assets/Maps/Kathkachan Wilderness.png",
     "Jobs/Level 4/Job for Lady Fara Eylaine.md",
     "Factions/Party/Vrindrilliax.md",
@@ -348,15 +224,7 @@
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Factions/Party/Amaranth Hand.md",
-    "Sessions/2023/05 07 - Session 1.md",
     "Jobs/Level 4",
-    "Factions/Silver Company/Yarek.md",
-    "Sessions/2023/08 13 - Session 7.md",
-    "Sessions/2023/07 16 - Session 6.md",
-    "Sessions/2023/06 18 - Session 4.md",
-    "Sessions/2023/06 04 - Session 3.md",
-    "Sessions/2023/05 28 - Session 2.md",
-    "Jobs/Level 3/Soirée.md",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",

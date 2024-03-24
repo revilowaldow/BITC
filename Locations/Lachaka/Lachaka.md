@@ -4,10 +4,11 @@ Supposedly destroyed by [[Cobalt Comanda]]
 
 18 years ago
 'Burning of Lachaka'
-preemptive strike
+pre-emptive strike
 
 Village razed
 Murdered the entire town
 
 Proposed by Fara
 Narrow vote
+
