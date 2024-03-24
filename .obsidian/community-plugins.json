@@ -3,5 +3,9 @@
   "obsidian-git",
   "no-dupe-leaves",
   "obsidian-5e-statblocks",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-dice-roller",
+  "obsidian-checklist-plugin",
+  "table-editor-obsidian",
+  "obsidian-admonition"
 ]
