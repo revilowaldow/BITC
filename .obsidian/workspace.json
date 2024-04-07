@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
+                "file": "Factions/Eastern City States/Parche.md",
                 "mode": "source",
                 "source": false
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alche",
+                "query": "loomin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,7 +229,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -257,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
+                "file": "Factions/Eastern City States/Parche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
+                "file": "Factions/Eastern City States/Parche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md"
+                "file": "Factions/Eastern City States/Parche.md"
               }
             }
           },
@@ -358,12 +359,12 @@
   },
   "active": "18d7deea9af450bd",
   "lastOpenFiles": [
+    "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/04 23 - Session 0.5.md",
-    "Sessions/2024/04 07 - Session 20.md",
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/03 10 - Session 18.md",
