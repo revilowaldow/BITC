@@ -57,7 +57,8 @@ Dog bandits have been raiding across river into small settlements
 
 
 
-
+Lots of groves in the northern kingdoms
+More open than other
 
 
 
