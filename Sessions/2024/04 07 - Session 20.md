@@ -31,6 +31,8 @@ Man from last time was a dragon
 
 Wendigo Comanda kill if dragon
 
+Drake's Red and Bronze
+
 
 
 
