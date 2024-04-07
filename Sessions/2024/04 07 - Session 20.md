@@ -19,4 +19,8 @@ Purple Star from
 
 [[Yayek]] was a correspondent with [[Vixel]]
 
+Recent uptick in correspondence two months ago 
+But been in contact for last ten years
+
+
 
