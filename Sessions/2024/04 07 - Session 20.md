@@ -20,6 +20,10 @@ Purple Star from
 Spoke to Karta about Vixel
 
 
+Visit helviti base
+
+Chimeria unhappy about being summoned, waiting for leaders to return
+
 
 
 
