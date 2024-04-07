@@ -67,6 +67,8 @@ Types of reincarnates:
 
 Kathkachan mess 7-8 NA
 
+Investigation declared cold after 5 years?
+
 
 
 
