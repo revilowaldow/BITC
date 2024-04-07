@@ -7,6 +7,10 @@ Murdered
 Not a personal associate
 Third greatest practitioner after [[Mholok Krass]] and [[Torniar Maluka]]
 
+
+Killed by stabbing and defenestrating
+Nearby militia man
+
 Kathkachians
 From Parch, but happy to be out from under their yoke
 
