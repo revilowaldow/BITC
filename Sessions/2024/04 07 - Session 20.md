@@ -39,7 +39,11 @@ Fall of gods
 "Loathing that Lurks"
 "The Violent One"
 "The Silver in the Hell"
-"Reincarnate"s?
+"Reincarnate"
+>Vixel uses plurals?
+
+The last stand of the silvers
+Army of knights, part of the founding force of Aega
 
 
 
