@@ -25,8 +25,16 @@ Visit helviti base
 Chimeria unhappy about being summoned, waiting for leaders to return
 
 Old stone tablets from Parch
+Largely old prophecies
+
 
 Parche not damaged significantly from old age
+
+Tomes on prophecies
+
+Star signs
+
+Fall of gods
 
 
 
