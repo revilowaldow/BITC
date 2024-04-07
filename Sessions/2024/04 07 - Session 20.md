@@ -17,12 +17,10 @@ Purple Star from
 <hr>
 
 
-[[Yayek]] was a correspondent with [[Vixel]]
+Spoke to Karta about Vixel
 
-Recent uptick in correspondence two months ago 
-But been in contact for last ten years
 
-Parcel to Vixel
+
 
 
 

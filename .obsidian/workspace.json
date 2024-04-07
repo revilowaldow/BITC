@@ -103,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
+                "file": "Sessions/2024/03 24 - Session 19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
+                "file": "Sessions/2024/03 24 - Session 19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md"
+                "file": "Sessions/2024/03 24 - Session 19.md"
               }
             }
           },
@@ -284,10 +285,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18d7deea9af450bd",
+  "active": "8534d848f476802d",
   "lastOpenFiles": [
-    "Locations/The Pit.md",
+    "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2024/04 07 - Session 20.md",
+    "Locations/The Pit.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Factions/Local Arcanists/Vixel.md",
     "Factions/Local Arcanists/Mholok Krass.md",
@@ -295,7 +297,6 @@
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/01 14 - Session 14.md",
     "Factions/Local Arcanists",
-    "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/02 25 - Session 17.md",
     "Setting Rules/Valid Wild Shapes.md",
