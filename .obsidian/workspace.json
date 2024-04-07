@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "da40aa7772b9728b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/02 11 - Session 16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "655ac38879514b81",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -198,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Local Arcanists/Vixel.md",
+                "file": "Factions/Local Arcanists/Torniar Maluka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Local Arcanists/Vixel.md",
+                "file": "Factions/Local Arcanists/Torniar Maluka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Local Arcanists/Vixel.md"
+                "file": "Factions/Local Arcanists/Torniar Maluka.md"
               }
             }
           },
@@ -278,7 +290,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -296,16 +309,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "655ac38879514b81",
+  "active": "a1f8639e477ac3aa",
   "lastOpenFiles": [
     "Sessions/2024/02 11 - Session 16.md",
-    "Factions/Local Arcanists/Vixel.md",
-    "Factions/Local Arcanists/Mholok Krass.md",
-    "Sessions/2024/04 07 - Session 20.md",
-    "Factions/Local Arcanists/Torniar Maluka.md",
-    "Factions/Local Arcanists",
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/01 14 - Session 14.md",
+    "Factions/Local Arcanists/Vixel.md",
+    "Factions/Local Arcanists/Mholok Krass.md",
+    "Factions/Local Arcanists/Torniar Maluka.md",
+    "Sessions/2024/04 07 - Session 20.md",
+    "Factions/Local Arcanists",
     "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/02 25 - Session 17.md",
