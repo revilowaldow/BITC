@@ -37,6 +37,10 @@ Drake's Red and Bronze
 
 Bronze drake: [[Leydertharian]]
 
+<hr>
+
+Bodyguarding Kevin Aldragosh
+
 
 
 
