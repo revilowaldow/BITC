@@ -10,4 +10,10 @@ Vixel was interested in:
 		Keen on topic of communicating with the beyond
 
 
-Purple Star fro
+Purple Star from 
+
+
+
+<hr>
+
+
