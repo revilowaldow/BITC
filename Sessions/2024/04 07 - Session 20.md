@@ -44,6 +44,8 @@ Bodyguarding Kevin Aldragosh
 Wasabi preferred herb
 
 Warm day
+Nice verdant area
+
 
 
 
