@@ -36,8 +36,9 @@ Star signs
 
 Fall of gods
 
-
-
+"Loathing that Lurks"
+"The Violent One"
+""
 
 
 
