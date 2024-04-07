@@ -45,7 +45,7 @@ Fall of gods
 	Arenas
 	Large Battle Site Bandits
 "The Silver in the Hell"
-	The last stand of the silvers
+	The last stand of the silvers 2 NA
 	Army of knights, part of the founding force of Aegan Empire
 
 "Reincarnate"
@@ -60,7 +60,7 @@ Ring of Abjuration magic :'(
 
 Purple star 300 years ago in 5NA (New Age)
 
-
+Kathkachan mess 7-8 NA
 
 
 
