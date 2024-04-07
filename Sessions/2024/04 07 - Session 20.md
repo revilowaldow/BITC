@@ -78,6 +78,8 @@ Immediate problem to take care of
 
 Finding people, patrol did not return
 
+It's the dwarf lady with healer kit bag
+
 
 
 
