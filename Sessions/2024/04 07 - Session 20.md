@@ -60,7 +60,7 @@ Dog bandits have been raiding across river into small settlements
 Lots of groves in the northern kingdoms
 More open than groves elsewhere
 
-Kev used to be squire for guard u
+Kev used to be squire for guard in gold district
 
 
 
