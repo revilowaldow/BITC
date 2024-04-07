@@ -44,26 +44,6 @@
             }
           },
           {
-            "id": "a4d0f1688e3b80e8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Kathkachan Wilderness.png"
-              }
-            }
-          },
-          {
-            "id": "80a1839a87cb20b7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Topographic Map.png"
-              }
-            }
-          },
-          {
             "id": "55ba93aee28cb7d5",
             "type": "leaf",
             "state": {
@@ -244,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -326,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Maps/Topographic Map.png",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +323,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Maps/Topographic Map.png",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Maps/Topographic Map.png"
+                "file": "Sessions/2024/04 07 - Session 20.md"
               }
             }
           },
@@ -425,8 +405,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80a1839a87cb20b7",
+  "active": "825f9950fe93fd63",
   "lastOpenFiles": [
+    "Assets/Maps/Topographic Map.png",
     "Assets/Maps/Kathkachan Wilderness.png",
     "Sessions/2024/04 07 - Session 20.md",
     "Factions/Local Arcanists/Vixel.md",
@@ -468,7 +449,6 @@
     "Assets/Table/Pasted image 20230423144311.png",
     "Assets/Table/Pasted image 20230507171917.png",
     "Locations/Coprun/Mine Layout.canvas",
-    "Assets/Maps/Topographic Map.png",
     "Assets/Maps/PevicContinent.png",
     "Deity/New",
     "Deity/Old",
