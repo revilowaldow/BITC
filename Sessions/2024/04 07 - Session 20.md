@@ -74,6 +74,10 @@ No candles
 
 [[Virtelle The Silver Blade]] is present
 
+Immediate problem to take care of
+
+Finding people, patrol did not return
+
 
 
 
