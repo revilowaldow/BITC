@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/03 24 - Session 19.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/03 24 - Session 19.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/03 24 - Session 19.md"
+                "file": "Sessions/2024/04 07 - Session 20.md"
               }
             }
           },
@@ -260,14 +259,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8534d848f476802d",
+  "active": "18d7deea9af450bd",
   "lastOpenFiles": [
+    "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2024/02 25 - Session 17.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/01 14 - Session 14.md",
-    "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/03 10 - Session 18.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Factions/Shiendo Kadan.md",
