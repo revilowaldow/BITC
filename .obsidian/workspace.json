@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "942b548c13771863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Kathkach/Eyelaine Vinyards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "55ba93aee28cb7d5",
             "type": "leaf",
             "state": {
@@ -224,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -306,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
+                "file": "Locations/Kathkach/Eyelaine Vinyards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
+                "file": "Locations/Kathkach/Eyelaine Vinyards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +358,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md"
+                "file": "Locations/Kathkach/Eyelaine Vinyards.md"
               }
             }
           },
@@ -405,11 +417,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "825f9950fe93fd63",
+  "active": "942b548c13771863",
   "lastOpenFiles": [
+    "Locations/Kathkach/Eylaine Estate.md",
+    "Locations/Kathkach/Eyelaine Vinyards.md",
+    "Sessions/2024/04 07 - Session 20.md",
     "Assets/Maps/Topographic Map.png",
     "Assets/Maps/Kathkachan Wilderness.png",
-    "Sessions/2024/04 07 - Session 20.md",
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
@@ -434,7 +448,6 @@
     "Setting Rules/Valid Wild Shapes.md",
     "Factions/Shiendo Kadan.md",
     "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
-    "Locations/Lachaka/Lachaka.md",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Assets/Pasted image 20240211211148.png",
     "Assets/Maps/Lachaka Street Chase.png",
