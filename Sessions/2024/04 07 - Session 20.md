@@ -54,7 +54,7 @@ Fall of gods
 "I need to call for help, this is beyond what we can handle, They are coming"
 
 Orb looks the same as the one I gave to Yayek
-
+Evocation
 
 
 

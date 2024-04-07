@@ -20,6 +20,66 @@
             }
           },
           {
+            "id": "55ba93aee28cb7d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/04 23 - Session 0.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4de6c6d8e3920d79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e892f929fa8eb94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 28 - Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ead4ee5d8201c23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/06 04 - Session 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0641b07f5662d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/06 18 - Session 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cf424fa26135a5cc",
             "type": "leaf",
             "state": {
@@ -115,7 +175,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -197,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
+                "file": "Sessions/2023/06 18 - Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
+                "file": "Sessions/2023/06 18 - Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md"
+                "file": "Sessions/2023/06 18 - Session 4.md"
               }
             }
           },
@@ -296,10 +357,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18d7deea9af450bd",
+  "active": "f0641b07f5662d32",
   "lastOpenFiles": [
-    "Factions/Local Arcanists/Vixel.md",
+    "Sessions/2023/06 04 - Session 3.md",
+    "Sessions/2023/05 28 - Session 2.md",
+    "Sessions/2023/05 07 - Session 1.md",
+    "Sessions/2023/04 23 - Session 0.5.md",
     "Sessions/2024/04 07 - Session 20.md",
+    "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/03 10 - Session 18.md",
     "Locations/The Pit.md",
@@ -326,11 +391,7 @@
     "Factions/Sea Blooded Org/Evangeline Stifka.md",
     "Assets/Maps/Lachaka Town hall.png",
     "Locations/Lachaka",
-    "Setting Rules/Weapon Rules.md",
     "Assets/Maps/Kathkachan Wilderness.png",
-    "Jobs/Level 4/Job for Lady Fara Eylaine.md",
-    "Factions/Party/Vrindrilliax.md",
-    "Factions/Party/Aru of the Sands.md",
     "Jobs/Level 4",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
