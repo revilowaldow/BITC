@@ -38,12 +38,15 @@ Fall of gods
 
 "Loathing that Lurks"
 "The Violent One"
+	References to Kathkach
+	Aepoptosis?
+	
 "The Silver in the Hell"
 "Reincarnate"
 >Vixel uses plurals?
 
 The last stand of the silvers
-Army of knights, part of the founding force of Aega
+Army of knights, part of the founding force of Aegan Empire
 
 
 
