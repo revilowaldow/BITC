@@ -38,7 +38,10 @@ Fall of gods
 
 "Loathing that Lurks"
 "The Violent One"
-""
+"The Silver in the Hell"
+"Reincarnate"
+
+
 
 
 
