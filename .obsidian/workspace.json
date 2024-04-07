@@ -236,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -318,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/Eyelaine Vineyards.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Kathkach/Eyelaine Vineyards.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,7 +358,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/Eyelaine Vineyards.md"
+                "file": "Sessions/2024/04 07 - Session 20.md"
               }
             }
           },
@@ -417,10 +417,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "942b548c13771863",
+  "active": "825f9950fe93fd63",
   "lastOpenFiles": [
-    "Locations/Kathkach/Eylaine Estate.md",
     "Locations/Kathkach/Eyelaine Vineyards.md",
+    "Locations/Kathkach/Eylaine Estate.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Assets/Maps/Topographic Map.png",
     "Assets/Maps/Kathkachan Wilderness.png",
