@@ -53,7 +53,7 @@ Uptick in bandit attacks across area
 
 Small farm house has gone dark
 
-
+Dog bandits 
 
 
 
