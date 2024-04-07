@@ -41,7 +41,7 @@ Bronze drake: [[Leydertharian]]
 
 Bodyguarding Kevin Aldragosh
 
-Wasabi preffered herb
+Wasabi preferred herb
 
 Warm day
 
