@@ -33,7 +33,8 @@ Wendigo Comanda kill if dragon
 
 Drake's Red and Bronze
 
-[[Paxel]]
+[[Pocxel]] - Kobold caretaker of red drake
+
 
 
 
