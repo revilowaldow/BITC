@@ -26,6 +26,9 @@ Chimeria unhappy about being summoned, waiting for leaders to return
 
 Old stone tablets from Parch
 
+Parche not damaged significantly from old age
+
+
 
 
 
