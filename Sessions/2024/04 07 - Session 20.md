@@ -48,6 +48,10 @@ Nice verdant area
 
 Uptick in bandit attacks across area
 
+<hr>
+
+
+Small farm house has gone dark
 
 
 
