@@ -51,7 +51,7 @@ Fall of gods
 "Reincarnate"
 >Vixel uses plurals?
 
-"I need t"
+"I need to call for help, this is beyond what we can handle, They are coming"
 
 
 
