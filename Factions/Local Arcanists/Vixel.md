@@ -9,7 +9,7 @@ Third greatest practitioner after [[Mholok Krass]] and [[Torniar Maluka]]
 
 
 Killed by stabbing and defenestrating
-Nearby militia man
+Nearby militia man killed with 
 
 Kathkachians
 From Parch, but happy to be out from under their yoke
