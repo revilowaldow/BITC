@@ -13,7 +13,9 @@ Slave armies, mages vs slaves, ash was left
 [[Helviti Inquisition]] was founded immediately before the Ash War as a check/balance to keep mages from nuking slaves from orbit
 
 
-- Shadow Disaster
+
+- 
+- Shadow Disaster 180NA
 - Helviti Inquisition Formed
 - Second Eastern War Started
 - Fire Slaughter (Year 209 in the New Age)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Eastern City States/Parche.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "mode": "source",
                 "source": false
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Eastern City States/Parche.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Eastern City States/Parche.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Eastern City States/Parche.md"
+                "file": "Sessions/2024/04 07 - Session 20.md"
               }
             }
           },
@@ -359,6 +359,7 @@
   },
   "active": "18d7deea9af450bd",
   "lastOpenFiles": [
+    "Factions/Eastern City States/Parche.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
@@ -388,7 +389,6 @@
     "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2023/11 19 - Session 12.md",
-    "Sessions/2023/12 17 - Session 13.md",
     "Assets/Maps/Lachaka Town hall.png",
     "Locations/Lachaka",
     "Assets/Maps/Kathkachan Wilderness.png",

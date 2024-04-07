@@ -58,7 +58,9 @@ Evocation
 
 Ring of Abjuration magic :'(
 
-Purple star 300 years ago in YEAR 5 
+Purple star 300 years ago in 5NA (New Age)
+
+
 
 
 
