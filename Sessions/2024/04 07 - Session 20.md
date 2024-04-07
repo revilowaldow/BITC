@@ -46,6 +46,8 @@ Wasabi preferred herb
 Warm day
 Nice verdant area
 
+Uptick in bandit attacks across area
+
 
 
 
