@@ -57,6 +57,7 @@ City grove:
 
 Helviti may have Vixel's research
 Alternatively Yarek or Karta may know where research is held
+
 lurks near Lachaka - bandit
 	Doesn't leave survivors, only gnawed bones
 
