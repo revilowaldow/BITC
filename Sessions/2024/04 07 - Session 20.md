@@ -37,16 +37,21 @@ Star signs
 Fall of gods
 
 "Loathing that Lurks"
+
+
 "The Violent One"
 	References to Kathkach
 	Aepoptosis?
-	
+	Arenas
+	Large Battle Site Bandits
 "The Silver in the Hell"
+	The last stand of the silvers
+	Army of knights, part of the founding force of Aegan Empire
+
 "Reincarnate"
 >Vixel uses plurals?
 
-The last stand of the silvers
-Army of knights, part of the founding force of Aegan Empire
+"I need t"
 
 
 
