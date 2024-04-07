@@ -68,7 +68,12 @@ Kev tries to avoid groves, unpredictable
 
 <hr>
 
-Visit Eyelaine 
+Visit Eyelaine mansion
+
+No candles
+
+[[Virtelle The Silver Blade]] is present
+
 
 
 
