@@ -44,6 +44,26 @@
             }
           },
           {
+            "id": "a4d0f1688e3b80e8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/Kathkachan Wilderness.png"
+              }
+            }
+          },
+          {
+            "id": "80a1839a87cb20b7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/Topographic Map.png"
+              }
+            }
+          },
+          {
             "id": "55ba93aee28cb7d5",
             "type": "leaf",
             "state": {
@@ -224,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -306,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
+                "file": "Assets/Maps/Topographic Map.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
+                "file": "Assets/Maps/Topographic Map.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +366,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md"
+                "file": "Assets/Maps/Topographic Map.png"
               }
             }
           },
@@ -405,10 +425,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "80a1839a87cb20b7",
   "lastOpenFiles": [
-    "Factions/Local Arcanists/Vixel.md",
+    "Assets/Maps/Kathkachan Wilderness.png",
     "Sessions/2024/04 07 - Session 20.md",
+    "Factions/Local Arcanists/Vixel.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/07 16 - Session 6.md",
@@ -436,10 +457,8 @@
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Assets/Pasted image 20240211211148.png",
     "Assets/Maps/Lachaka Street Chase.png",
-    "Sessions/2023/09 24 - Session 9.md",
     "Assets/Maps/Lachaka Town hall.png",
     "Locations/Lachaka",
-    "Assets/Maps/Kathkachan Wilderness.png",
     "Jobs/Level 4",
     "Sessions/2024",
     "Assets/Characters/Vrindrilliax.png",
