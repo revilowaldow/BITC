@@ -33,6 +33,8 @@ Wendigo Comanda kill if dragon
 
 Drake's Red and Bronze
 
+[[Paxel]]
+
 
 
 
