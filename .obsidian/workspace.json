@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
+                "file": "Sessions/2023/09 10 - Session 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10b8edc62d177fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/09 10 - Session 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -175,7 +187,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Zheevaglishgar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
+                "file": "Sessions/2023/09 10 - Session 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
+                "file": "Sessions/2023/09 10 - Session 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md"
+                "file": "Sessions/2023/09 10 - Session 8.md"
               }
             }
           },
@@ -356,10 +369,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "10b8edc62d177fa7",
   "lastOpenFiles": [
-    "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/04 07 - Session 20.md",
+    "Sessions/2023/09 10 - Session 8.md",
+    "Factions/Local Arcanists/Vixel.md",
     "Factions/Eastern City States/Parche.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
@@ -383,7 +397,6 @@
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Assets/Pasted image 20240211211148.png",
     "Assets/Maps/Lachaka Street Chase.png",
-    "Sessions/2023/09 10 - Session 8.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/11 05 - Session 11.md",
