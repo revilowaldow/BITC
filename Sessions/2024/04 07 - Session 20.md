@@ -59,6 +59,10 @@ Evocation
 Ring of Abjuration magic :'(
 
 Purple star 300 years ago in 5NA (New Age)
+Linked to a specific type of reincarnate?
+Types of reincarnates:
+
+
 
 Kathkachan mess 7-8 NA
 
