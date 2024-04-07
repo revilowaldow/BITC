@@ -80,42 +80,6 @@
             }
           },
           {
-            "id": "655ac38879514b81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Local Arcanists/Vixel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18861a64cd5d43b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Local Arcanists/Mholok Krass.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1f8639e477ac3aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Local Arcanists/Torniar Maluka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "61ab936b1273d919",
             "type": "leaf",
             "state": {
@@ -127,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Local Arcanists/Torniar Maluka.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Local Arcanists/Torniar Maluka.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Local Arcanists/Torniar Maluka.md"
+                "file": "Sessions/2024/04 07 - Session 20.md"
               }
             }
           },
@@ -309,14 +272,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1f8639e477ac3aa",
+  "active": "18d7deea9af450bd",
   "lastOpenFiles": [
     "Sessions/2024/02 11 - Session 16.md",
-    "Sessions/2024/01 28 - Session 15.md",
-    "Sessions/2024/01 14 - Session 14.md",
     "Factions/Local Arcanists/Vixel.md",
     "Factions/Local Arcanists/Mholok Krass.md",
     "Factions/Local Arcanists/Torniar Maluka.md",
+    "Sessions/2024/01 28 - Session 15.md",
+    "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Factions/Local Arcanists",
     "Sessions/2024/03 10 - Session 18.md",
