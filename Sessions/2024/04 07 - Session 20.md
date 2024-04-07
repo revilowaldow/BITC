@@ -64,6 +64,9 @@ Kev used to be squire for guard in gold district
 
 Groves inflicted upon them
 
+Kev tries to avoid groves, unpredictable
+
+
 
 
 
