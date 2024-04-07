@@ -1,4 +1,4 @@
-Oliver is recapping
+Oliver is recapping (technically daryl for the pattern but joined late)
 
 Bought some grain for tudor
 

@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "653d16fc70a85dae",
+        "id": "41eab466b90751d9",
         "type": "tabs",
         "children": [
           {
-            "id": "18d7deea9af450bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10b8edc62d177fa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "825f9950fe93fd63",
+            "id": "7c634e1fcc550447",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,201 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "942b548c13771863",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/Eyelaine Vineyards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55ba93aee28cb7d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/04 23 - Session 0.5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4de6c6d8e3920d79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e892f929fa8eb94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 28 - Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ead4ee5d8201c23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0641b07f5662d32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/06 18 - Session 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf424fa26135a5cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Local Arcanists/Vixel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef4f988b12454c85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ddc1045f3101c3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/07 16 - Session 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "728d2fa489b82d2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/The Pit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8534d848f476802d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/03 24 - Session 19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f35b9265dd29b459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/03 10 - Session 18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfe7dea84a9dc7f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdb6fb621607101d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da40aa7772b9728b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61ab936b1273d919",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/02 25 - Session 17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -318,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Local Arcanists/Vixel.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Local Arcanists/Vixel.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Local Arcanists/Vixel.md"
+                "file": "Sessions/2024/04 07 - Session 20.md"
               }
             }
           },
@@ -417,14 +200,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf424fa26135a5cc",
+  "active": "7c634e1fcc550447",
   "lastOpenFiles": [
+    "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Locations/Kathkach/Eyelaine Vineyards.md",
     "Locations/Kathkach/Eylaine Estate.md",
     "Assets/Maps/Topographic Map.png",
     "Assets/Maps/Kathkachan Wilderness.png",
-    "Factions/Local Arcanists/Vixel.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/07 16 - Session 6.md",
