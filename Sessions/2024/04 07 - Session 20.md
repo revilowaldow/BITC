@@ -80,6 +80,8 @@ Finding people, patrol did not return
 
 It's the dwarf lady with healer kit bag
 
+Taking [[Virtelle The Silver Blade]]
+
 
 
 
