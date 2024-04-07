@@ -62,6 +62,8 @@ More open than groves elsewhere
 
 Kev used to be squire for guard in gold district
 
+Groves inflicted upon them
+
 
 
 
