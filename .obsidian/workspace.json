@@ -175,8 +175,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/06 18 - Session 4.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/06 18 - Session 4.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/06 18 - Session 4.md"
+                "file": "Sessions/2024/04 07 - Session 20.md"
               }
             }
           },
@@ -357,8 +356,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f0641b07f5662d32",
+  "active": "18d7deea9af450bd",
   "lastOpenFiles": [
+    "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
@@ -388,7 +388,6 @@
     "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2023/11 19 - Session 12.md",
     "Sessions/2023/12 17 - Session 13.md",
-    "Factions/Sea Blooded Org/Evangeline Stifka.md",
     "Assets/Maps/Lachaka Town hall.png",
     "Locations/Lachaka",
     "Assets/Maps/Kathkachan Wilderness.png",

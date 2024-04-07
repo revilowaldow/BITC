@@ -56,6 +56,10 @@ Fall of gods
 Orb looks the same as the one I gave to Yayek
 Evocation
 
+Ring of Abjuration magic :'(
+
+
+
 
 
 
