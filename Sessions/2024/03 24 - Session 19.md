@@ -84,7 +84,7 @@ Was hunting renegades near freedom city
 [[Houndak]] last commander of cobalt commanda
 Missing Human, 70s, male
 
-Sending message to [[Uzgrad Khat'on]] 
+Sending message to [[Uzgrad Khat'on]]  - Death
 Effective Helviti hunter, operated with Shiendo
 
 New task:
