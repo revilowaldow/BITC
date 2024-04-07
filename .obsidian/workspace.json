@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Pit.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/The Pit.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/The Pit.md"
+                "file": "Sessions/2024/04 07 - Session 20.md"
               }
             }
           },
@@ -285,8 +284,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "728d2fa489b82d2e",
+  "active": "18d7deea9af450bd",
   "lastOpenFiles": [
+    "Locations/The Pit.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Factions/Local Arcanists/Vixel.md",
@@ -300,7 +300,6 @@
     "Sessions/2024/02 25 - Session 17.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Factions/Shiendo Kadan.md",
-    "Locations/The Pit.md",
     "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
     "Locations/Lachaka/Lachaka.md",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
