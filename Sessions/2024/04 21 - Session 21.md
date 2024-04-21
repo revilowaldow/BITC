@@ -42,5 +42,7 @@ Elite of Huascan Kingdom
 Crushing and gashing
 Necrosis
 
+![[Pasted image 20240421192129.png]]
+
 
 
