@@ -84,5 +84,5 @@ Return to Fara
 Half Orc Comanda - disillusioned with leadership
 
 Machaka Grove reopened less than a century ago
-
-
+Groves reopening?
+Machaka, Huascans? 
