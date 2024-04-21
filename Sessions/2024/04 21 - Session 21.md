@@ -70,5 +70,5 @@ alongside body of sylvie
 [[Angelica Snowsand]]
 	A famous artist
 	Done work in Eastern City States
-	Bard, older than she looks
+	Bard, older than she looks (70s)
 	
