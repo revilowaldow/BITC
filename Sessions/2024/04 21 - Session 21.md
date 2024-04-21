@@ -26,6 +26,8 @@ Shiny glint to the north edge of forest
 Discarded Bronze Kopesh with blood
 Dark and fresh, not long to dry
 5 hours tops
+Blood is on side, not edge!
+
 
 
 
