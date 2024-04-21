@@ -33,5 +33,5 @@ Can hear voices, including lilting baritone
 Large clearing, sylvan voices
 Standoff between 4 militia, surrounded by 7 creatures
 Triangular wooden creature
-Flowers and moss
+Flowers and moss on leader
 
