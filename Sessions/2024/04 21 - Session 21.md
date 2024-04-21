@@ -45,4 +45,5 @@ Necrosis
 ![[Pasted image 20240421192129.png]]
 
 
-
+Sent letter to Fara Eylaine
+Diplomatic Summit at Vine
