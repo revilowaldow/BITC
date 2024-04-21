@@ -37,9 +37,10 @@ Flowers and moss on leader
 
 [[Jok Jok]]
 
-Elite of Huas
+Elite of Huascan Kingdom
 
 Crushing and gashing
 Necrosis
+
 
 
