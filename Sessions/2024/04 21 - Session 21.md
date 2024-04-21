@@ -28,6 +28,6 @@ Dark and fresh, not long to dry
 5 hours tops
 Blood is on side, not edge!
 
-
+Can hear voices, including lilting baritone
 
 
