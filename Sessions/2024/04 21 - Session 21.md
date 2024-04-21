@@ -52,5 +52,9 @@ Diplomatic Summit at Vineyard in 3 days
 
 Flecks of blood
 
-Body impaled on a tree
+Orc captain impaled on a tree
+
+Bladelike indents in ground, 4 legs in ground
+like sharp hooves
+
 
