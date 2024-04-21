@@ -68,3 +68,7 @@ Middle aged woman with light hair
 alongside body of sylvie
 
 [[Angelica Snowsand]]
+	A famous artist
+	Done work in Eastern City States
+	Bard, older than she looks
+	
