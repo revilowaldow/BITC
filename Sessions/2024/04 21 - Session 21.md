@@ -77,3 +77,5 @@ Shrieker, Screamer, Wailer
 Rumors about the ruler of lionhold
 Attracting mercenaries, downtrodden, former slaves from chineria
 
+[[Utu Otaka]] 
+Half Orc Comanda - disillusioned with leadership
