@@ -31,5 +31,5 @@ Blood is on side, not edge!
 Can hear voices, including lilting baritone
 
 Large clearing, sylvan voices
-
+Standoff between 4 militia
 
