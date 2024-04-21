@@ -76,3 +76,4 @@ Shrieker, Screamer, Wailer
 
 Rumors about the ruler of lionhold
 Attracting mercenaries, downtrodden, former slaves from chineria
+
