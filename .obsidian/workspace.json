@@ -13,7 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Sessions/2024/04 21 - Session 21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87ce5a2b407aaa4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Sessions/2024/04 07 - Session 20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0642cdd7135d28c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/02 11 - Session 16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44f53d9c82c47980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/03 24 - Session 19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e4d63c03f37db3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/03 10 - Session 18.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
+                "file": "Sessions/2024/04 21 - Session 21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
+                "file": "Sessions/2024/04 21 - Session 21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md"
+                "file": "Sessions/2024/04 21 - Session 21.md"
               }
             }
           },
@@ -214,8 +262,12 @@
   },
   "active": "7c634e1fcc550447",
   "lastOpenFiles": [
-    "Factions/Local Arcanists/Vixel.md",
+    "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/04 07 - Session 20.md",
+    "Sessions/2024/03 10 - Session 18.md",
+    "Sessions/2024/03 24 - Session 19.md",
+    "Sessions/2024/04 21 - Session 21.md",
+    "Factions/Local Arcanists/Vixel.md",
     "Locations/Kathkach/Eyelaine Vineyards.md",
     "Locations/Kathkach/Eylaine Estate.md",
     "Assets/Maps/Topographic Map.png",
@@ -230,10 +282,7 @@
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/04 23 - Session 0.5.md",
-    "Sessions/2024/03 24 - Session 19.md",
-    "Sessions/2024/03 10 - Session 18.md",
     "Locations/The Pit.md",
-    "Sessions/2024/02 11 - Session 16.md",
     "Factions/Local Arcanists/Mholok Krass.md",
     "Factions/Local Arcanists/Torniar Maluka.md",
     "Sessions/2024/01 28 - Session 15.md",
@@ -242,7 +291,6 @@
     "Sessions/2024/02 25 - Session 17.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Factions/Shiendo Kadan.md",
-    "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Assets/Pasted image 20240211211148.png",
     "Assets/Maps/Lachaka Street Chase.png",
