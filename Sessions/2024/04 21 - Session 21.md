@@ -57,4 +57,6 @@ Orc captain impaled on a tree
 Bladelike indents in ground, 4 legs in ground
 like sharp hooves
 
+Killed for sport
+
 
