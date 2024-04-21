@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Local Arcanists/Vixel.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Local Arcanists/Vixel.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Local Arcanists/Vixel.md"
+                "file": "Sessions/2024/04 07 - Session 20.md"
               }
             }
           },
@@ -213,10 +212,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d10e898a92f1b5f4",
+  "active": "7c634e1fcc550447",
   "lastOpenFiles": [
-    "Sessions/2024/04 07 - Session 20.md",
     "Factions/Local Arcanists/Vixel.md",
+    "Sessions/2024/04 07 - Session 20.md",
     "Locations/Kathkach/Eyelaine Vineyards.md",
     "Locations/Kathkach/Eylaine Estate.md",
     "Assets/Maps/Topographic Map.png",
