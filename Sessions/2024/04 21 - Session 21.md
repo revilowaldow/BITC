@@ -35,7 +35,7 @@ Standoff between 4 militia, surrounded by 7 creatures
 Triangular wooden creature
 Flowers and moss on leader
 
-[[Jok Jok]]
+[[Jokjok]]
 
 Elite of Huascan Kingdom
 
