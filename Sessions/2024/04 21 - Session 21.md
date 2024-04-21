@@ -22,3 +22,6 @@ Frozen hood creation
 
 
 Shiny glint to the north edge of forest
+
+Discarded Bronze Kopesh
+
