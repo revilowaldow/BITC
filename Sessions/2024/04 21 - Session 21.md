@@ -39,6 +39,9 @@ Flowers and moss on leader
 
 Elite of Huascan Kingdom
 
+Ponti dead
+
+
 Crushing and gashing
 Necrosis
 
@@ -46,4 +49,5 @@ Necrosis
 
 
 Sent letter to Fara Eylaine
-Diplomatic Summit at Vine
+Diplomatic Summit at Vineyard in 3 days
+
