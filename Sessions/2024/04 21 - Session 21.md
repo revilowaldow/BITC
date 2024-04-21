@@ -77,5 +77,8 @@ Shrieker, Screamer, Wailer
 Rumors about the ruler of lionhold
 Attracting mercenaries, downtrodden, former slaves from chineria
 
-[[Utu Otaka]] 
+
+Return to Fara
+[[Utu Otaka]] + 2 cobalt comanda
 Half Orc Comanda - disillusioned with leadership
+
