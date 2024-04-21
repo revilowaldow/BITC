@@ -2,5 +2,5 @@ Daryl Recapping
 
 Guard towers
 
-Warm ay, no clouds
+Warm day, no clouds
 
