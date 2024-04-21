@@ -50,3 +50,5 @@ Necrosis
 Sent letter to Fara Eylaine
 Diplomatic Summit at Vineyard in 3 days
 
+Flecks of blood
+
