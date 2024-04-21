@@ -61,6 +61,7 @@ Killed for sport
 
 Plagued where Thodunn lived
 Killed his sister
+Near [[Waterholt]]
 
 Found bag and dragging marks
 
