@@ -71,4 +71,6 @@ alongside body of sylvie
 	A famous artist
 	Done work in Eastern City States
 	Bard, older than she looks (70s)
-	
+
+Shrieker, Screamer, Wailer
+
