@@ -52,3 +52,5 @@ Diplomatic Summit at Vineyard in 3 days
 
 Flecks of blood
 
+Body impaled on a tree
+
