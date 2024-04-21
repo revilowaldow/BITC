@@ -62,4 +62,7 @@ Killed for sport
 Plagued where Thodunn lived
 Killed his sister
 
-Found bag
+Found bag and dragging marks
+
+Middle aged woman with light hair
+alongside body of sylvie
