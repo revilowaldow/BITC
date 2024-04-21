@@ -23,5 +23,9 @@ Frozen hood creation
 
 Shiny glint to the north edge of forest
 
-Discarded Bronze Kopesh
+Discarded Bronze Kopesh with blood
+Dark and fresh, not long to dry
+5 hours tops
+
+
 
