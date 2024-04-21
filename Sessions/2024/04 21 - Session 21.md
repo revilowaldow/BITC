@@ -41,7 +41,6 @@ Elite of Huascan Kingdom
 
 Ponti dead
 
-
 Crushing and gashing
 Necrosis
 
