@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "45314f38bb54170a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Lore/NPCs/Virtelle The Silver Blade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "87ce5a2b407aaa4e",
             "type": "leaf",
             "state": {
@@ -262,11 +274,12 @@
   },
   "active": "7c634e1fcc550447",
   "lastOpenFiles": [
+    "Character Lore/NPCs/Virtelle The Silver Blade.md",
+    "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2024/03 24 - Session 19.md",
-    "Sessions/2024/04 21 - Session 21.md",
     "Factions/Local Arcanists/Vixel.md",
     "Locations/Kathkach/Eyelaine Vineyards.md",
     "Locations/Kathkach/Eylaine Estate.md",
@@ -290,7 +303,6 @@
     "Factions/Local Arcanists",
     "Sessions/2024/02 25 - Session 17.md",
     "Setting Rules/Valid Wild Shapes.md",
-    "Factions/Shiendo Kadan.md",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Assets/Pasted image 20240211211148.png",
     "Assets/Maps/Lachaka Street Chase.png",
