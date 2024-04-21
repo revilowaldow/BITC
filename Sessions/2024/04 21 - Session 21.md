@@ -82,3 +82,4 @@ Return to Fara
 [[Utu Otaka]] + 2 cobalt comanda
 Half Orc Comanda - disillusioned with leadership
 
+
