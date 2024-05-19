@@ -19,7 +19,7 @@ Large armoured guy looking for Thodunn?
 	Dwarf - freakishly big (not a duergar)
 Thodunn potentially uncertain where he's from?
 Piggy from [[Barbakn]]
-
+Kalamis was challenged by the crimson spear again 
 
 
 [[Polaka]] - maître d'hôtel at [[Brayk Brasshand]]'s club
