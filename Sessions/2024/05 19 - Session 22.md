@@ -72,5 +72,5 @@ Animal prints
 Injuries are typical of improvised weapons from farming equipment
 Less able bodied individuals than demographics would suggest
 
-
+Large numbers of paw prints
 
