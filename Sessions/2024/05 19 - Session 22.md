@@ -41,7 +41,9 @@ Vrin must be in it
 Caenis has opportunity to prep spells
 
 Ride spitlizards
- 4 legs, two of which are trex arms, bulbous frog head
- Slimy skin
- Curtain over back
+4 legs, two of which are t-rex arms, bulbous frog head
+Slimy skin
+Large saddle pad to avoid slime
+Barding, two large packs, lances, two people
+
 
