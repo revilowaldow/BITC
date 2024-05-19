@@ -102,141 +102,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f58aff35fbb2c7ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "166f08535081dd19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "216f82cc4092e1c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/04 21 - Session 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a153f345904eb40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/09 24 - Session 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b875af0e42e74735",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/11 05 - Session 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc41567bcaed7c36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/11 19 - Session 12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adacae4e4d7a4a3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7dbb238e79727e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/Level 3/Soirée.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8f6082fdf16e4e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Palanda Macav.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "869f448898fd9215",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Brayk Brasshand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c6e40dc9a34ec0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -318,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2023/06 18 - Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2023/06 18 - Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Sessions/2023/06 18 - Session 4.md"
               }
             }
           },
@@ -417,8 +285,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "166f08535081dd19",
+  "active": "e28746e43d113b7a",
   "lastOpenFiles": [
+    "Sessions/2023/06 04 - Session 3.md",
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Deity/Old/Aepoptosis.md",
     "Deity/Old/Gotha.md",
@@ -426,9 +296,7 @@
     "Sessions/2023/04 23 - Session 0.5.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/05 28 - Session 2.md",
-    "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/06 18 - Session 4.md",
-    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2023/11 05 - Session 11.md",
