@@ -16,6 +16,7 @@ Large armoured guy looking for Thodunn?
 	Been working with duty
 	Going to be keeping an eye
 	Evangeline is answering to someone else
+	Dwarf - freakishly big (not a duergar)
 
 
 
