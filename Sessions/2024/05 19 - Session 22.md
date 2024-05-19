@@ -15,4 +15,7 @@ Large armoured guy looking for Thodunn?
 Opened tab, baths, drinks, getting reedsqueeze
 
 [[Angelica Snowsand]] creating mosaic of defeat of [[Kalamsis]]
+Drop of blood
+Vrin must be in it
+
 
