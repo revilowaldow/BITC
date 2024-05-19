@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 213.5
   },
   "right": {
     "id": "ef72d1b6d53eecf3",
@@ -214,11 +214,13 @@
   },
   "active": "7c634e1fcc550447",
   "lastOpenFiles": [
+    "Assets/Characters/Pasted image 20240421192129.png",
+    "Assets/Characters/Pasted image 20240211211148.png",
+    "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/04 07 - Session 20.md",
-    "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/07 02 - Session 5.md",
@@ -227,7 +229,6 @@
     "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/05 07 - Session 1.md",
-    "Pasted image 20240421192129.png",
     "Locations/Kathkach/Eyelaine Vineyards.md",
     "Locations/Kathkach/Eylaine Estate.md",
     "Assets/Maps/Topographic Map.png",
@@ -243,9 +244,7 @@
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/01 14 - Session 14.md",
     "Factions/Local Arcanists",
-    "Sessions/2024/02 25 - Session 17.md",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
-    "Assets/Pasted image 20240211211148.png",
     "Assets/Maps/Lachaka Street Chase.png",
     "Assets/Maps/Lachaka Town hall.png",
     "Locations/Lachaka",
