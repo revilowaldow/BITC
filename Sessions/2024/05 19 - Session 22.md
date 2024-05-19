@@ -14,5 +14,4 @@ Large armoured guy looking for Thodunn?
 [[Polaka]] - maître d'hôtel at [[Brayk Brasshand]]'s club
 Opened tab, baths, drinks, getting reedsqueeze
 
-
-
+[[Angelica Snowsand]] creating 
