@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "166f08535081dd19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Rules/Valid Wild Shapes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "216f82cc4092e1c9",
             "type": "leaf",
             "state": {
@@ -127,7 +139,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/05 19 - Session 22.md",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/05 19 - Session 22.md",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/05 19 - Session 22.md"
+                "file": "Setting Rules/Valid Wild Shapes.md"
               }
             }
           },
@@ -308,8 +321,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c634e1fcc550447",
+  "active": "166f08535081dd19",
   "lastOpenFiles": [
+    "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2023/11 05 - Session 11.md",
@@ -331,7 +345,6 @@
     "Factions/Liera Lov.md",
     "Factions/The Cooking Association.md",
     "Factions/Cobalt Comanda.md",
-    "Sessions/2024/05 19 - Session 22.md",
     "Assets/Characters/Pasted image 20240421192129.png",
     "Assets/Characters/Pasted image 20240211211148.png",
     "Sessions/2024/03 10 - Session 18.md",
