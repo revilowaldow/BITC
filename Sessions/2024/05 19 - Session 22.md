@@ -12,7 +12,10 @@ Large armoured guy looking for Thodunn?
 	[[Piggy]] - Iron helmet painted like a boar
 	Two small handaxes, damaged, chipped
 	From [[Sea Blooded Organisation]]
-	We got your let
+	We got your letter
+	Been working with duty
+	Going to be keeping an eye
+	
 
 
 
