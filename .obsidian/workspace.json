@@ -139,8 +139,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2024/05 19 - Session 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2024/05 19 - Session 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Sessions/2024/05 19 - Session 22.md"
               }
             }
           },
@@ -321,8 +320,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "166f08535081dd19",
+  "active": "7c634e1fcc550447",
   "lastOpenFiles": [
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/04 07 - Session 20.md",
@@ -350,7 +350,6 @@
     "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/06 04 - Session 3.md",
-    "Sessions/2023/07 02 - Session 5.md",
     "Assets/Maps/Topographic Map.png",
     "Assets/Maps/Kathkachan Wilderness.png",
     "Factions/Local Arcanists",
