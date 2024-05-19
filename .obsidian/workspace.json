@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "88fddef2965fb0ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/04 07 - Session 20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d369905843ea150",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/03 24 - Session 19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb8ad0b508db97cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/03 10 - Session 18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/04 21 - Session 21.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/04 21 - Session 21.md",
+                "file": "Sessions/2024/04 07 - Session 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/04 21 - Session 21.md"
+                "file": "Sessions/2024/04 07 - Session 20.md"
               }
             }
           },
@@ -213,20 +249,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "216f82cc4092e1c9",
+  "active": "88fddef2965fb0ba",
   "lastOpenFiles": [
+    "Sessions/2024/03 24 - Session 19.md",
+    "Sessions/2024/03 10 - Session 18.md",
+    "Sessions/2024/04 07 - Session 20.md",
+    "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Character Lore/NPCs/Virtelle The Silver Blade.md",
-    "Sessions/2024/04 07 - Session 20.md",
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/02 11 - Session 16.md",
-    "Sessions/2024/03 24 - Session 19.md",
-    "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/05 07 - Session 1.md",
-    "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Pasted image 20240421192129.png",
     "Locations/Kathkach/Eyelaine Vineyards.md",
