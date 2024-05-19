@@ -74,3 +74,7 @@ Less able bodied individuals than demographics would suggest
 
 Large numbers of paw prints
 
+People walked out of the town
+
+
+
