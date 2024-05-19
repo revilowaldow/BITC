@@ -7,4 +7,11 @@ Might still think is THodunn
 
 How are you talking in my head?
 
-Attempting to organise a meet
+Attempting to organise a meeting
+
+What really happened at Lachaka?
+
+Agreed to a meeting along the river we are at
+
+*Description of location here*
+
