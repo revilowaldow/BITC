@@ -20,6 +20,78 @@
             }
           },
           {
+            "id": "a55d39159e0bcef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 28 - Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e40390603fded0ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3053afa4970bf9b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/07 02 - Session 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21b4e1d11988ae84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/04 23 - Session 0.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e28746e43d113b7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/06 18 - Session 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f58aff35fbb2c7ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/06 04 - Session 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "166f08535081dd19",
             "type": "leaf",
             "state": {
@@ -139,7 +211,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/05 19 - Session 22.md",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/05 19 - Session 22.md",
+                "file": "Sessions/2023/05 07 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/05 19 - Session 22.md"
+                "file": "Sessions/2023/05 07 - Session 1.md"
               }
             }
           },
@@ -320,10 +393,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c634e1fcc550447",
+  "active": "e40390603fded0ba",
   "lastOpenFiles": [
-    "Setting Rules/Valid Wild Shapes.md",
+    "Sessions/2023/04 23 - Session 0.5.md",
+    "Sessions/2023/07 02 - Session 5.md",
+    "Sessions/2023/05 07 - Session 1.md",
+    "Sessions/2023/05 28 - Session 2.md",
+    "Sessions/2023/06 04 - Session 3.md",
+    "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2024/05 19 - Session 22.md",
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2023/11 05 - Session 11.md",
@@ -342,14 +421,8 @@
     "Sessions/2024/01 28 - Session 15.md",
     "Factions/Shaku Toto.md",
     "Factions/Lady Fara Eyelaine.md",
-    "Factions/Liera Lov.md",
-    "Factions/The Cooking Association.md",
-    "Factions/Cobalt Comanda.md",
     "Assets/Characters/Pasted image 20240421192129.png",
     "Assets/Characters/Pasted image 20240211211148.png",
-    "Sessions/2024/03 10 - Session 18.md",
-    "Sessions/2023/05 28 - Session 2.md",
-    "Sessions/2023/06 04 - Session 3.md",
     "Assets/Maps/Topographic Map.png",
     "Assets/Maps/Kathkachan Wilderness.png",
     "Factions/Local Arcanists",
