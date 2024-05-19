@@ -70,5 +70,7 @@ Half the number of corpses you would expect
 Animal prints
 
 Injuries are typical of improvised weapons from farming equipment
+Less able bodied individuals than demographics would suggest
+
 
 
