@@ -59,4 +59,4 @@ Thodunn def has amnesia
 
 Smell of smoke, burnt out houses
 
-
+[[Hex'tan]] Ranger 
