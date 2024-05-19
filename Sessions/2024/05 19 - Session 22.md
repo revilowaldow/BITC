@@ -25,6 +25,11 @@ Kalamis was challenged by the crimson spear again
 [[Polaka]] - maître d'hôtel at [[Brayk Brasshand]]'s club
 Opened tab, baths, drinks, getting reedsqueeze
 
+
+
+
+
+
 [[Angelica Snowsand]] creating mosaic of defeat of [[Kalamsis]]
 Drop of blood
 Vrin must be in it
