@@ -14,4 +14,7 @@ What really happened at Lachaka?
 Agreed to a meeting along the river we are at
 
 *Description of location here*
+South near a landmark
+
+Said on 
 
