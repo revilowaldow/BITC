@@ -47,6 +47,7 @@ Large saddle pad to avoid slime
 Barding, two large packs, lances, two people
 
 Lances primarily for sandsquids
-
+Eagledragonflies
+Archerdragonflies
 
 
