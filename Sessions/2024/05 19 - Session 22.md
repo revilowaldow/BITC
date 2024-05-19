@@ -11,8 +11,8 @@ Large armoured guy looking for Thodunn?
 > Looking for a tall man, two shords, one big one short
 
 
-[[Polaka]] - Maitr d at [[Brayk Brasshand]]'s club
-
+[[Polaka]] - maître d'hôtel at [[Brayk Brasshand]]'s club
+Opened tab, baths, drinks, getting reedsqueeze
 
 
 
