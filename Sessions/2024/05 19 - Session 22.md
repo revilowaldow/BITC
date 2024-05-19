@@ -64,5 +64,7 @@ Smell of smoke, burnt out houses
 Sheep grazing
 
 Circle of bodies
+Maimed, injury aligns with [[Aepoptosis]] assassinations
+
 
 
