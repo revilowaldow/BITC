@@ -235,7 +235,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -317,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/05 19 - Session 22.md",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/05 19 - Session 22.md",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -357,7 +358,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/05 19 - Session 22.md"
+                "file": "Setting Rules/Valid Wild Shapes.md"
               }
             }
           },
@@ -416,11 +417,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c634e1fcc550447",
+  "active": "166f08535081dd19",
   "lastOpenFiles": [
+    "Sessions/2024/05 19 - Session 22.md",
     "Deity/Old/Aepoptosis.md",
     "Deity/Old/Gotha.md",
-    "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Sessions/2023/07 02 - Session 5.md",
