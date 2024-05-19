@@ -10,7 +10,9 @@ Lots of open air taverns
 Large armoured guy looking for Thodunn?
 > Looking for a tall man, two shords, one big one short
 	[[Piggy]] - Iron helmet painted like a boar
-	Two small handaxes, damaged, c
+	Two small handaxes, damaged, chipped
+	From [[Sea Blooded Organisation]]
+	
 
 
 
