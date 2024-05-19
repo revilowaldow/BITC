@@ -45,6 +45,7 @@ Ride spitlizards
 Slimy skin
 Large saddle pad to avoid slime
 Barding, two large packs, lances, two people
+Spitlizard require water
 
 Lances primarily for sandsquids
 Eagledragonflies
