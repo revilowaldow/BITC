@@ -61,14 +61,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Brayk Brasshand.md",
+                "file": "Sessions/2023/09 24 - Session 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c0ebf96d654d7aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/10 22 - Session 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b875af0e42e74735",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/11 05 - Session 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc41567bcaed7c36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/11 19 - Session 12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adacae4e4d7a4a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/01 14 - Session 14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c9a0139cea978e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/12 17 - Session 13.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -97,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Zheevaglishgar",
+                "query": "Brayk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Brayk Brasshand.md",
+                "file": "Sessions/2023/12 17 - Session 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Brayk Brasshand.md",
+                "file": "Sessions/2023/12 17 - Session 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Brayk Brasshand.md"
+                "file": "Sessions/2023/12 17 - Session 13.md"
               }
             }
           },
@@ -249,8 +309,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a153f345904eb40",
+  "active": "8c9a0139cea978e7",
   "lastOpenFiles": [
+    "Sessions/2024/01 14 - Session 14.md",
+    "Sessions/2023/11 19 - Session 12.md",
+    "Sessions/2023/11 05 - Session 11.md",
+    "Sessions/2023/10 22 - Session 10.md",
+    "Sessions/2023/09 24 - Session 9.md",
+    "Jobs/Level 3/Soirée.md",
+    "Factions/Brayk Brasshand.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2024/04 21 - Session 21.md",
@@ -274,12 +341,6 @@
     "Paxel.md",
     "Sessions/2023/09 10 - Session 8.md",
     "Factions/Eastern City States/Parche.md",
-    "Sessions/2023/04 23 - Session 0.5.md",
-    "Locations/The Pit.md",
-    "Factions/Local Arcanists/Mholok Krass.md",
-    "Factions/Local Arcanists/Torniar Maluka.md",
-    "Sessions/2024/01 28 - Session 15.md",
-    "Sessions/2024/01 14 - Session 14.md",
     "Factions/Local Arcanists",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Assets/Maps/Lachaka Street Chase.png",
