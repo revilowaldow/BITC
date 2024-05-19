@@ -42,4 +42,6 @@ Caenis has opportunity to prep spells
 
 Ride spitlizards
  4 legs, two of which are trex arms, bulbous frog head
+ Slimy skin
+ Curtain over back
  
