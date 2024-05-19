@@ -50,4 +50,6 @@ Lances primarily for sandsquids
 Eagledragonflies
 Archerdragonflies
 
+Thodunn def has amnesia
+
 
