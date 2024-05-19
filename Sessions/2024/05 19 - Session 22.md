@@ -25,6 +25,7 @@ Kalamis was challenged by the crimson spear again
 [[Polaka]] - maître d'hôtel at [[Brayk Brasshand]]'s club
 Opened tab, baths, drinks, getting reedsqueeze
 [[Jumi]] 40s/50s orc woman, retired attendant
+Virtelle may well have knucklebones
 
 
 
