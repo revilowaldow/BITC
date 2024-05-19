@@ -69,5 +69,5 @@ Maimed, injury aligns with [[Aepoptosis]] assassinations
 Half the number of corpses you would expect
 Animal prints
 
-
+Injuries are typical of improvised 
 
