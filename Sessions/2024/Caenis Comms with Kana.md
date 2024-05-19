@@ -1,9 +1,9 @@
 
-Caenis has been having comms with Kana
+Caenis has been having comms with [[Kana]]
 
 Tried twice to flirt, did not go well
 
-Might still think is THodunn
+Might still think is Thodunn
 
 How are you talking in my head?
 
