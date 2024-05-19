@@ -16,5 +16,9 @@ Agreed to a meeting along the river we are at
 *Description of location here*
 South near a landmark
 
-Said on 
+Said two days ago
+Meet at night
+
+"Come alone"
+
 
