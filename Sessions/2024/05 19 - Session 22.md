@@ -40,3 +40,4 @@ Vrin must be in it
 
 Caenis has opportunity to prep spells
 
+Ride spitlizards
