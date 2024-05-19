@@ -113,6 +113,7 @@
 - Peacock
 - Pteranodon
 - Raven
+- Spitlizard
 - Stirge
 - Tiger
 - Vulture
@@ -210,6 +211,7 @@
 - Sheep
 - Sled Dog
 - Spider
+- Spitlizard
 - Stirge
 - Tiger
 - Velociraptor
