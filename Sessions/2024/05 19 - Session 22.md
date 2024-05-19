@@ -61,4 +61,5 @@ Smell of smoke, burnt out houses
 
 [[Hex'tan]] Ranger 
 
+Sheep grazing
 
