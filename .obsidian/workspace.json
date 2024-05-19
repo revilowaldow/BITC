@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "216f82cc4092e1c9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "c6983724780d56eb",
             "type": "leaf",
             "state": {
@@ -318,7 +326,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 633.5
+    "width": 633.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -331,7 +340,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c634e1fcc550447",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2024/04 21 - Session 21.md",
