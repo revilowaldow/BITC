@@ -17,7 +17,8 @@ Large armoured guy looking for Thodunn?
 	Going to be keeping an eye
 	Evangeline is answering to someone else
 	Dwarf - freakishly big (not a duergar)
-
+Thodunn potentially uncertain where he's from?
+Piggy from [[Barbakn]]
 
 
 
