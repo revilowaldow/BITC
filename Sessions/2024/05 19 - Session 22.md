@@ -36,3 +36,7 @@ Drop of blood
 Vrin must be in it
 
 
+<hr>
+
+Caenis has opportunity to prep spells
+
