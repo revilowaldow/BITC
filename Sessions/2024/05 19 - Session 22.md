@@ -67,6 +67,7 @@ Circle of bodies
 Maimed, injury aligns with [[Aepoptosis]] assassinations
 
 Half the number of corpses you would expect
+Animal prints
 
 
 
