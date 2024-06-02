@@ -97,6 +97,12 @@ Crisis of faith, goign after Kathkach
 Went back to Lady Eylaine
 
 Memory of woman screaming for looking like a monster
+Kana is now a solider self-described
+Has my target
+
+
+
+
 
 
 
