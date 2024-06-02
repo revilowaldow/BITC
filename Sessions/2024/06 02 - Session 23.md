@@ -30,3 +30,8 @@ Meet at night
 
 <hr>
 
+Survivor
+
+Female
+Middle Aged 
+Tanned
