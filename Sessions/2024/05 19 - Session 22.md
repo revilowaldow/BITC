@@ -13,7 +13,7 @@ Large armoured guy looking for Thodunn?
 	Two small handaxes, damaged, chipped
 	From [[Sea Blooded Organisation]]
 	We got your letter
-	Been working with duty
+	Been working with [[duty]]?
 	Going to be keeping an eye
 	Evangeline is answering to someone else [[Dumi]]?
 	Dwarf - freakishly big (not a duergar)
