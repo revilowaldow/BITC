@@ -15,7 +15,7 @@ Large armoured guy looking for Thodunn?
 	We got your letter
 	Been working with duty
 	Going to be keeping an eye
-	Evangeline is answering to someone else
+	Evangeline is answering to someone else [[Dumi]]?
 	Dwarf - freakishly big (not a duergar)
 Thodunn potentially uncertain where he's from?
 Piggy from [[Barbakn]]
