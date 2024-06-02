@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Local Arcanists/Vixel.md",
+                "file": "Sessions/2024/06 02 - Session 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Local Arcanists/Vixel.md",
+                "file": "Sessions/2024/06 02 - Session 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Local Arcanists/Vixel.md"
+                "file": "Sessions/2024/06 02 - Session 23.md"
               }
             }
           },
@@ -285,8 +284,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c87db9de2821434a",
+  "active": "7c634e1fcc550447",
   "lastOpenFiles": [
+    "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/Caenis Comms with Kana.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/05 19 - Session 22.md",
@@ -312,7 +312,6 @@
     "Factions/Brayk Brasshand.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Jobs/Level 3/Soirée.md",
-    "Sessions/2023/11 19 - Session 12.md",
     "Assets/Characters/Pasted image 20240421192129.png",
     "Assets/Characters/Pasted image 20240211211148.png",
     "Assets/Maps/Topographic Map.png",
