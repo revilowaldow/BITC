@@ -50,7 +50,7 @@ People with them with strange knives and markings on skin
 Hid, covered with sheep shit
 
 Marked ones did strange chant
-Five cultisits
+Five cultists
 Forced villagers to fight each other
 Took sister, made kill parents
 
@@ -58,4 +58,8 @@ Ink tattoos
 Faces and arms
 
 Chanting is infectious 
+Mentally suppressed
+
+Cultists mostly men, maybe one woman
+Half Orc
 
