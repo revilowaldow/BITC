@@ -113,7 +113,8 @@ Father found allies who want to see a change in power
 
 Kathkachan coin made of tree bark 
 
-3 large dogs two large 
+3 large dogs two armoured bandits
+
 
 
 
