@@ -62,4 +62,8 @@ Mentally suppressed
 
 Cultists mostly men, maybe one woman
 Half Orc
+Dark loose robes
+
+Attack started at nightfall
+
 
