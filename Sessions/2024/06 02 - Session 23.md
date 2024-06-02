@@ -40,3 +40,7 @@ Human
 Bruises
 [[Levvy]] 
 
+Finishing up in fields
+heard barking
+Bandits appeared with massive and small dogs
+
