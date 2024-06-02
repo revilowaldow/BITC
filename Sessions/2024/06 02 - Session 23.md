@@ -124,6 +124,8 @@ Dog Prince base is caves
 
 Told [[Hex'tan]] the Dog Prince is [[Houndak]]
 
+Helviti Horn
+
 
 
 
