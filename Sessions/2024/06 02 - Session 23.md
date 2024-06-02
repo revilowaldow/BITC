@@ -122,7 +122,7 @@ Dog Prince base is caves
 
 <hr>
 
-
+Told [[Hex'tan]] the Dog Prince is [[Houndak]]
 
 
 
