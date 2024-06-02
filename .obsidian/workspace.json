@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/06 02 - Session 23.md",
+                "file": "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/06 02 - Session 23.md",
+                "file": "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/06 02 - Session 23.md"
+                "file": "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md"
               }
             }
           },
@@ -285,10 +285,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d8d664d1937b51a",
+  "active": "284ca9fb8b5a5579",
   "lastOpenFiles": [
-    "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
     "Sessions/2024/06 02 - Session 23.md",
+    "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
     "Deity/Old/Aepoptosis.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/02 11 - Session 16.md",
