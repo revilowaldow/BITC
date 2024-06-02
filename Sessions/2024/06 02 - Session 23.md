@@ -129,5 +129,11 @@ Helviti Horn
 Bones of the earth
 
 
+<hr>
 
+Two civilisations in Helviti Wastes
+
+Comanda civilisation
+Nomad Civilisation
+Helviti No
 
