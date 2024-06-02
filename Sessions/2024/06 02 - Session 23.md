@@ -35,3 +35,4 @@ Survivor
 Female
 Middle Aged 
 Tanned
+Farmer
