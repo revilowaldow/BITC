@@ -86,5 +86,7 @@ Thought a rebellious element
 Investigation found no evidence
 No weapons
 
+[[Houndak]] Missing Human, 70s, male
+Leader of Cobalt Comanda
 
 

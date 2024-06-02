@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Sessions/2024/03 24 - Session 19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fbb5570e0b335fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/05 19 - Session 22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d8d664d1937b51a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Sessions/2024/06 02 - Session 23.md",
                 "mode": "source",
                 "source": false
@@ -55,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Brayk",
+                "query": "Houndak",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,20 +261,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c634e1fcc550447",
+  "active": "0d8d664d1937b51a",
   "lastOpenFiles": [
+    "Sessions/2024/05 19 - Session 22.md",
+    "Sessions/2024/02 11 - Session 16.md",
+    "Sessions/2024/03 24 - Session 19.md",
+    "Sessions/2024/06 02 - Session 23.md",
     "Setting Rules/Ration Rules.md",
     "Setting Rules/Rules Index.md",
     "Setting Rules/Valid Wild Shapes.md",
-    "Sessions/2024/06 02 - Session 23.md",
-    "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Sessions/2024/Caenis Comms with Kana.md",
     "Factions/Local Arcanists/Vixel.md",
-    "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Deity/Old/Aepoptosis.md",
@@ -263,7 +289,6 @@
     "Factions/Palanda Macav.md",
     "Factions/Shiendo Kadan.md",
     "Factions/Aegan Empire.md",
-    "Factions/Brayk Brasshand.md",
     "Assets/Characters/Pasted image 20240421192129.png",
     "Assets/Characters/Pasted image 20240211211148.png",
     "Assets/Maps/Topographic Map.png",
