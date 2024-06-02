@@ -92,3 +92,11 @@ Leader of Cobalt Comanda
 [[JournalEntry.GbxIvNuSOf6usjAy]]
 
 Houndak took Kana 
+Crisis of faith, goign after Kathkach
+
+Went back to Lady Eylaine
+
+Memory of woman screaming for looking like a monster
+
+
+
