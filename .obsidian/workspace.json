@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/Caenis Comms with Kana.md",
+                "file": "Sessions/2024/06 02 - Session 23.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,8 +23,12 @@
             "id": "0daf345d5886c508",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/05 19 - Session 22.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -121,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/Caenis Comms with Kana.md",
+                "file": "Sessions/2024/06 02 - Session 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/Caenis Comms with Kana.md",
+                "file": "Sessions/2024/06 02 - Session 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/Caenis Comms with Kana.md"
+                "file": "Sessions/2024/06 02 - Session 23.md"
               }
             }
           },
@@ -220,12 +224,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "7c634e1fcc550447",
   "lastOpenFiles": [
-    "Sessions/2023/04 23 - Session 0.5.md",
-    "Sessions/2024/Caenis Comms with Kana.md",
-    "Deity/Old/Aepoptosis.md",
     "Sessions/2024/05 19 - Session 22.md",
+    "Sessions/2024/06 02 - Session 23.md",
+    "Sessions/2024/Caenis Comms with Kana.md",
+    "Sessions/2023/04 23 - Session 0.5.md",
+    "Deity/Old/Aepoptosis.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2024/03 24 - Session 19.md",
@@ -247,7 +252,6 @@
     "Sessions/2024/02 11 - Session 16.md",
     "Jobs/Level 3/Soirée.md",
     "Sessions/2023/11 19 - Session 12.md",
-    "Sessions/2023/09 24 - Session 9.md",
     "Assets/Characters/Pasted image 20240421192129.png",
     "Assets/Characters/Pasted image 20240211211148.png",
     "Assets/Maps/Topographic Map.png",
