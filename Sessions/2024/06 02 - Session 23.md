@@ -89,4 +89,6 @@ No weapons
 [[Houndak]] Missing Human, 70s, male
 Leader of Cobalt Comanda
 
+[[JournalEntry.GbxIvNuSOf6usjAy]]
 
+Houndak took Kana 
