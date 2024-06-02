@@ -36,3 +36,7 @@ Female
 Middle Aged 
 Tanned
 Farmer
+Human
+Bruises
+[[Levvy]] 
+
