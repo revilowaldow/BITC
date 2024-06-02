@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "1a05ccaa14e787d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deity/Old/Aepoptosis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "284ca9fb8b5a5579",
             "type": "leaf",
             "state": {
@@ -275,8 +287,9 @@
   },
   "active": "0d8d664d1937b51a",
   "lastOpenFiles": [
-    "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
+    "Deity/Old/Aepoptosis.md",
     "Sessions/2024/06 02 - Session 23.md",
+    "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/03 24 - Session 19.md",
@@ -291,7 +304,6 @@
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2024/04 21 - Session 21.md",
-    "Deity/Old/Aepoptosis.md",
     "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Deity/Old/Gotha.md",
