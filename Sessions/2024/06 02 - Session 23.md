@@ -138,6 +138,7 @@ Nomad Civilisation
 Helviti Nomads
 Showed way to City of Seven thousand steps
 
+Kana's wound is not healing right
 
 
 
