@@ -135,5 +135,9 @@ Two civilisations in Helviti Wastes
 
 Comanda civilisation
 Nomad Civilisation
-Helviti No
+Helviti Nomads
+Showed way to City of Seven thousand steps
+
+
+
 
