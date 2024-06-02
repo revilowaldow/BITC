@@ -109,6 +109,10 @@ Like the people who you live with
 
 The Last Daughter of Lachaka
 
+Father found allies who want to see a change in power
+
+
+
 
 
 
