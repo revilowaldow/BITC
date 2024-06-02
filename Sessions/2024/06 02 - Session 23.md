@@ -139,6 +139,10 @@ Helviti Nomads
 Showed way to City of Seven thousand steps
 
 Kana's wound is not healing right
+Virtelle's wound is fully healed
+
+Virtelle and Kana have a resemblance
+
 
 
 
