@@ -77,4 +77,8 @@ Tree on hill radius 400ft
 
 Kana
 
-I was a baby wh
+I was a baby when they burned it
+
+Lachaka was burned on order of Kathkach
+Burned by the helviti
+th
