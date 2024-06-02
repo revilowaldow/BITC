@@ -57,4 +57,5 @@ Took sister, made kill parents
 Ink tattoos
 Faces and arms
 
+Chanting is infectious 
 
