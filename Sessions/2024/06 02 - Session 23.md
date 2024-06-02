@@ -43,4 +43,10 @@ Bruises
 Finishing up in fields
 heard barking
 Bandits appeared with massive and small dogs
+Can't run, dogs too fast
+Two dozen bandits plus 
+Lots of dogs
+People with them with strange knives and markings on skin
+Hid, covered with sheep shit
+
 
