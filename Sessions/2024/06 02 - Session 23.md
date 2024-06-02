@@ -55,3 +55,6 @@ Forced villagers to fight each other
 Took sister, made kill parents
 
 Ink tattoos
+Faces and arms
+
+
