@@ -56,6 +56,42 @@
             }
           },
           {
+            "id": "547a4ad4809fcb82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0736ee6a4ba2f91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 28 - Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f222eb186ce5cd7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/06 04 - Session 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "24ea0e46d6d3aaa5",
             "type": "leaf",
             "state": {
@@ -104,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -186,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2023/06 04 - Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2023/06 04 - Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Sessions/2023/06 04 - Session 3.md"
               }
             }
           },
@@ -285,25 +321,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f420997c4d963de",
+  "active": "f222eb186ce5cd7b",
   "lastOpenFiles": [
-    "Sessions/2024/06 02 - Session 23.md",
+    "Sessions/2023/05 28 - Session 2.md",
+    "Sessions/2023/05 07 - Session 1.md",
+    "Sessions/2023/04 23 - Session 0.5.md",
     "Sessions/2024/05 19 - Session 22.md",
+    "Sessions/2024/06 02 - Session 23.md",
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/Caenis Comms with Kana.md",
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2024/04 21 - Session 21.md",
-    "Sessions/2023/04 23 - Session 0.5.md",
     "Deity/Old/Aepoptosis.md",
     "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
-    "Setting Rules/Valid Wild Shapes.md",
     "Deity/Old/Gotha.md",
-    "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/07 02 - Session 5.md",
-    "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2023/12 17 - Session 13.md",
