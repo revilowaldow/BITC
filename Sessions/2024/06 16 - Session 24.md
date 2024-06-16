@@ -12,3 +12,6 @@ Use Utu?
 Houndak has never been identified as having left base?
 
 Thodunn training militia
+
+Aru learning to ride a horse
+
