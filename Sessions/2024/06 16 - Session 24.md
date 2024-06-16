@@ -28,6 +28,8 @@ Eylaine's personal guard accompany Huascans
 
 [[Kaltta]] small Huascan
 
+Cloud Pickle Nubbin - Horses
+
 
 
 
