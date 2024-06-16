@@ -103,7 +103,7 @@ Eylaine still in power, replaced Houndak
 
 Helviti are an invading force for many
 
-Raised as a soilder
+Raised as a soldier
 Likes the dogs
 Like the people who you live with
 
