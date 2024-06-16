@@ -119,6 +119,7 @@ Kaulinan
 
 Dog Prince base is caves
 
+[[Caenis]] was given a bark coin by [[Kana]] allowing access to the base
 
 <hr>
 
