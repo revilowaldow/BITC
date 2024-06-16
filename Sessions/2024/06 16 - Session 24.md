@@ -22,4 +22,6 @@ Huascans approach with garish banners and flags
 More aggressive action favoured by Huascans
 Military faction
 
+JokJok interested in setting up an embassy, passage into world
+
 
