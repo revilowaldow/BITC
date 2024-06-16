@@ -5,4 +5,6 @@ Thodunn did sword maintenance and decided no archers on rooves and to serve vege
 Kevin and Aru talked about scenario
 
 Kevin wants Dog Prince taken out
+Option is if the forces are already out of the caves?
+Distraction
 
