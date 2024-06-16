@@ -34,7 +34,9 @@ Thodunn went to the blacksmith
 
 Kev has a thing for Tabella
 
-11pm smoke
+11pm smoke, barking
+
+
 
 
 
