@@ -8,3 +8,6 @@ Kevin wants Dog Prince taken out
 Option is if the forces are already out of the caves?
 Distraction
 
+Use Utu?
+Houndak has never been identified as having left base?
+
