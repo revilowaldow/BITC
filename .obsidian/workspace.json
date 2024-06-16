@@ -44,6 +44,14 @@
             }
           },
           {
+            "id": "b0e76b8db2b46f84",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "1a05ccaa14e787d9",
             "type": "leaf",
             "state": {
@@ -285,7 +293,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d8d664d1937b51a",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
     "Sessions/2024/06 02 - Session 23.md",
