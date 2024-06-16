@@ -26,6 +26,6 @@ JokJok interested in setting up an embassy, passage into world
 
 Eylaine's personal guard accompany Huascans
 
-[[Kalta]]
+[[Kaltta]]
 
 
