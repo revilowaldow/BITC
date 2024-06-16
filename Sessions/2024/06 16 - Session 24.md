@@ -11,3 +11,4 @@ Distraction
 Use Utu?
 Houndak has never been identified as having left base?
 
+Thodunn training militia
