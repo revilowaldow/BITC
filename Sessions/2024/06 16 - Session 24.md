@@ -32,6 +32,8 @@ Cloud Pickle Nubbin - Horses
 
 Thodunn went to the blacksmith
 
+Kev has a thing for Tabella
+
 
 
 
