@@ -30,6 +30,8 @@ Eylaine's personal guard accompany Huascans
 
 Cloud Pickle Nubbin - Horses
 
+Thodunn went to the blacksmith
+
 
 
 
