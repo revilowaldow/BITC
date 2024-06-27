@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -230,7 +230,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/03 24 - Session 19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +246,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/03 24 - Session 19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,9 +267,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sessions/2024/03 24 - Session 19.md"
-              }
+              "state": {}
             }
           },
           {
@@ -329,8 +325,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "a251e75627d89807",
   "lastOpenFiles": [
+    "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Sessions/2024/04 21 - Session 21.md",
@@ -339,7 +336,6 @@
     "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
     "Deity/Old/Aepoptosis.md",
     "Sessions/2024/02 11 - Session 16.md",
-    "Sessions/2024/03 24 - Session 19.md",
     "Setting Rules/Ration Rules.md",
     "Setting Rules/Rules Index.md",
     "Setting Rules/Valid Wild Shapes.md",
