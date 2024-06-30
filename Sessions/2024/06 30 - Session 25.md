@@ -30,5 +30,5 @@ Intricate metal filligree clasp
 Emblem two elongated triangular marks
 symbol of three
 
-
+![[Pasted image 20240630212744.png]]
 
