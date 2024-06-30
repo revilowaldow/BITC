@@ -16,3 +16,5 @@ Cultists present with two pronged daggers
 
 "I am not like those killers in Kathkach, I truly have the favor of my god"
 
+[[Kana]] was seen at the manor
+
