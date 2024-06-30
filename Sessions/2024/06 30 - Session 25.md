@@ -22,3 +22,10 @@ Took bone talismans, daggers and robes from cultists
 
 Steel Handaxe
 
+Layer of fabric
+
+Cloak from 300 plus years ago
+Intricate metal filligree clasp
+
+
+
