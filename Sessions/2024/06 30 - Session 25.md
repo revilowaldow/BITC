@@ -20,4 +20,3 @@ Cultists present with two pronged daggers
 
 Took bone talismans, daggers and robes from cultists
 
-Kathkachan 
