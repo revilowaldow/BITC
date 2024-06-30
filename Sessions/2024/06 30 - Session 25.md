@@ -27,5 +27,8 @@ Layer of fabric
 Cloak from 300 plus years ago
 Intricate metal filligree clasp
 
+Emblem two elongated triangular marks
+symbol of three
+
 
 
