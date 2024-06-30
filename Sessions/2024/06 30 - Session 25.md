@@ -18,3 +18,6 @@ Cultists present with two pronged daggers
 
 [[Kana]] was seen at the manor
 
+Took bone talismans, daggers and robes from cultists
+
+Kathkachan 
