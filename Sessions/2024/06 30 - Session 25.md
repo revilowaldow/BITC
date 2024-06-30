@@ -14,3 +14,5 @@ Cultists present with two pronged daggers
 
 ![[Pasted image 20240630184823.png]]
 
+"I am not like those killers in Kathkach, I truly have the favor of my god"
+
