@@ -159,8 +159,8 @@
               "state": {
                 "file": "Sessions/2024/Cave Network.canvas",
                 "viewState": {
-                  "x": 568.8499153879602,
-                  "y": 5.068948806112246,
+                  "x": 624.4089522068473,
+                  "y": -220.3420005733722,
                   "zoom": -0.6666666666666665
                 }
               }
@@ -174,8 +174,8 @@
               "state": {
                 "file": "Locations/Coprun/Mine Layout.canvas",
                 "viewState": {
-                  "x": 1303.7028780633173,
-                  "y": 446.9151216860663,
+                  "x": 1397.7028780633173,
+                  "y": 294.9151216860664,
                   "zoom": -1
                 }
               }
@@ -209,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/Cave Network.canvas",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/Cave Network.canvas",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/Cave Network.canvas"
+                "file": "Locations/Coprun/Mine Layout.canvas"
               }
             }
           },
@@ -390,12 +390,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab33b785d44c5243",
+  "active": "fdb33ff96f45a808",
   "lastOpenFiles": [
+    "Sessions/2024/Cave Network.canvas",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "att.yoad-cUYjfi4WVYcVwwSNvTheTmLhz5basTaXceT6xU.jpg",
-    "Sessions/2024/Cave Network.canvas",
     "att.nj0A-GrjBx0RmtKyOPq-kwwvVXap8a0XIMhSLM788LY.jpg",
     "Pasted image 20240714200147.png",
     "Setting Rules/Valid Wild Shapes.md",
