@@ -5,10 +5,11 @@
 		{"id":"fa7aedd8fda042df","type":"text","text":"Long Corridor\n","x":297,"y":-601,"width":192,"height":427},
 		{"id":"b760a197a747ce30","type":"text","text":"Main Room\nLights under door\n\nMaybe two people?\n\nTeam with [[Krot]] has not returned\nStay\n\nLarge room, many windows, torches lanterns candles\n\nTwo individuals\nHumanoid figure massively bandaged, lithe slender, deformed and scarred \n\nKnows who Aldragosh is\n","x":-620,"y":-746,"width":610,"height":718},
 		{"id":"d69ec8d3064ad31c","type":"text","text":"Side Corridor 4\n10ft square","x":-440,"y":60,"width":250,"height":124},
-		{"id":"61c3ee08f46567be","type":"text","text":"Street 4","x":-440,"y":420,"width":250,"height":60},
 		{"id":"8d51b98ba2ebe173","type":"file","file":"Assets/Maps/Lachaka Town hall.png","x":-1140,"y":-733,"width":470,"height":692},
 		{"id":"6b1e26393b166c65","type":"file","file":"Assets/Maps/Lachaka Street Chase.png","x":-1140,"y":-1340,"width":1130,"height":465},
-		{"id":"8cfd98cc2d2c86fa","x":-1140,"y":540,"width":2101,"height":498,"type":"file","file":"att.yoad-cUYjfi4WVYcVwwSNvTheTmLhz5basTaXceT6xU.jpg"}
+		{"id":"61c3ee08f46567be","type":"text","text":"Street 4","x":-440,"y":326,"width":250,"height":60},
+		{"id":"7bb62218c58af026","x":-440,"y":490,"width":320,"height":90,"type":"text","text":"Rear Gate (mountain of knives)"},
+		{"id":"8cfd98cc2d2c86fa","x":-1140,"y":680,"width":2101,"height":498,"type":"file","file":"att.yoad-cUYjfi4WVYcVwwSNvTheTmLhz5basTaXceT6xU.jpg"}
 	],
 	"edges":[
 		{"id":"5748f9f7e4a057c2","fromNode":"61c3ee08f46567be","fromSide":"top","toNode":"d69ec8d3064ad31c","toSide":"bottom"},
@@ -18,6 +19,7 @@
 		{"id":"2600d515b36d357c","fromNode":"fa7aedd8fda042df","fromSide":"top","toNode":"f7725b59afc8f643","toSide":"bottom"},
 		{"id":"4289c4f678236e56","fromNode":"fa7aedd8fda042df","fromSide":"left","toNode":"b760a197a747ce30","toSide":"right","label":"Double Door\nWebbed and Bound"},
 		{"id":"8cbd4b9b6d7e6582","fromNode":"b760a197a747ce30","fromSide":"left","toNode":"8d51b98ba2ebe173","toSide":"right"},
-		{"id":"90838b5f7944f5ea","fromNode":"8d51b98ba2ebe173","fromSide":"top","toNode":"6b1e26393b166c65","toSide":"bottom"}
+		{"id":"90838b5f7944f5ea","fromNode":"8d51b98ba2ebe173","fromSide":"top","toNode":"6b1e26393b166c65","toSide":"bottom"},
+		{"id":"9a3e517ed1384f74","fromNode":"7bb62218c58af026","fromSide":"top","toNode":"61c3ee08f46567be","toSide":"bottom"}
 	]
 }
