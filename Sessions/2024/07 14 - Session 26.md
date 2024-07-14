@@ -17,3 +17,5 @@ Rural clan forest/mountain
 
 Cloak worn 
 
+[[Wesken]] - Blacksmith
+
