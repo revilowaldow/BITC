@@ -167,6 +167,21 @@
             }
           },
           {
+            "id": "fdb33ff96f45a808",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Coprun/Mine Layout.canvas",
+                "viewState": {
+                  "x": 88.19094135350679,
+                  "y": -563.9640746936211,
+                  "zoom": -0.675858616017895
+                }
+              }
+            }
+          },
+          {
             "id": "c4060c5961aec655",
             "type": "leaf",
             "state": {
@@ -179,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -261,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/Cave Network.canvas",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/Cave Network.canvas",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/Cave Network.canvas"
+                "file": "Locations/Coprun/Mine Layout.canvas"
               }
             }
           },
@@ -360,10 +375,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab33b785d44c5243",
+  "active": "fdb33ff96f45a808",
   "lastOpenFiles": [
-    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/Cave Network.canvas",
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Sessions/2024/06 30 - Session 25.md",
