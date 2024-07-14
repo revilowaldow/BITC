@@ -2,14 +2,14 @@
 	"nodes":[
 		{"id":"bab67127ff3d909b","x":-600,"y":-280,"width":250,"height":80,"color":"2","type":"text","text":"Cave containing stream waterfall falling into pool"},
 		{"id":"65a0fedceec633d5","x":-1020,"y":-270,"width":250,"height":60,"color":"2","type":"text","text":"Helviti Camp"},
-		{"id":"f2ad7198516c6b43","x":-75,"y":-419,"width":495,"height":359,"type":"text","text":"Storage room\n50 x 40 ft oval\n20ft ceiling\nCold room, torch by entrance (extinguished by thodunn)\nCrates, Barrels, Pots, Wine\nMan muttering to self\n\t\"How much mutton do they eat\"\n\t\"Wish Kana was here\"\n\nMain Entrance directly north from here"},
+		{"id":"f2ad7198516c6b43","x":-75,"y":-419,"width":495,"height":359,"type":"text","text":"Storage room\n50 x 40 ft oval\n20ft ceiling\nCold room, torch by entrance (extinguished by thodunn)\nCrates, Barrels, Pots, Wine\nMan muttering to self\n\t\"How much mutton do they eat\"\n\t\"Wish Kana was here\"\n\nMain Entrance directly north from here\nStream is puddle in room"},
 		{"id":"20f9f8eab35adc8f","x":440,"y":-580,"width":250,"height":60,"type":"text","text":"."},
-		{"id":"38efd21b505cb803","x":380,"y":20,"width":250,"height":60,"type":"text","text":"."}
+		{"id":"38efd21b505cb803","x":440,"y":120,"width":250,"height":60,"type":"text","text":"."}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
 		{"id":"582bca41c759f6d7","fromNode":"65a0fedceec633d5","fromSide":"right","toNode":"bab67127ff3d909b","toSide":"left","color":"5","label":"Stream"},
 		{"id":"1182770b06ce2d09","fromNode":"f2ad7198516c6b43","fromSide":"top","toNode":"20f9f8eab35adc8f","toSide":"left"},
-		{"id":"643b3104d2a20198","fromNode":"f2ad7198516c6b43","fromSide":"bottom","toNode":"38efd21b505cb803","toSide":"left","label":"More trafficked"}
+		{"id":"643b3104d2a20198","fromNode":"f2ad7198516c6b43","fromSide":"bottom","toNode":"38efd21b505cb803","toSide":"left","label":"Long winding rock corridor\nMore trafficked"}
 	]
 }
