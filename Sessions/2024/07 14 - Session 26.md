@@ -4,5 +4,5 @@ Daryl Recapping
 
 Symbol on cloak 
 
-Cuneiform naios
+Cuneiform nails
 
