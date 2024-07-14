@@ -174,9 +174,9 @@
               "state": {
                 "file": "Locations/Coprun/Mine Layout.canvas",
                 "viewState": {
-                  "x": 1397.7028780633173,
-                  "y": 294.9151216860664,
-                  "zoom": -1
+                  "x": 352.9294258707341,
+                  "y": -229.66557403435246,
+                  "zoom": 0.33333333333333315
                 }
               }
             }
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "att.nj0A-GrjBx0RmtKyOPq-kwwvVXap8a0XIMhSLM788LY.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "att.nj0A-GrjBx0RmtKyOPq-kwwvVXap8a0XIMhSLM788LY.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas"
+                "file": "att.nj0A-GrjBx0RmtKyOPq-kwwvVXap8a0XIMhSLM788LY.jpg"
               }
             }
           },
