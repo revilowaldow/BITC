@@ -29,7 +29,7 @@
 		{"type":"file","file":"Assets/Maps/MineCombat1.png","id":"0dee76f893ae4972","x":246,"y":-750,"width":328,"height":400,"color":"6"},
 		{"type":"text","text":"Waterfall","id":"28d10705bc8971dc","x":280,"y":2087,"width":250,"height":60,"color":"5"},
 		{"id":"24d2422f40fc1183","x":2020,"y":-1080,"width":250,"height":60,"color":"4","type":"text","text":"Deep Crawler Shaft"},
-		{"id":"9b9ae65b29d9b148","x":820,"y":1000,"width":969,"height":590,"type":"file","file":"att.nj0A-GrjBx0RmtKyOPq-kwwvVXap8a0XIMhSLM788LY.jpg"}
+		{"id":"9b9ae65b29d9b148","x":460,"y":240,"width":969,"height":590,"type":"file","file":"att.nj0A-GrjBx0RmtKyOPq-kwwvVXap8a0XIMhSLM788LY.jpg"}
 	],
 	"edges":[
 		{"id":"8a1483f3d5eaea03","fromNode":"88cc56b40b519667","fromSide":"top","toNode":"970956ae872f1300","toSide":"bottom","label":"50ft"},
