@@ -179,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -261,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2024/Cave Network.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2024/Cave Network.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Sessions/2024/Cave Network.canvas"
               }
             }
           },
@@ -360,11 +360,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f420997c4d963de",
+  "active": "ab33b785d44c5243",
   "lastOpenFiles": [
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/Cave Network.canvas",
     "Sessions/2024/07 14 - Session 26.md",
-    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Sessions/2024/06 30 - Session 25.md",
     "Sessions/2024/06 02 - Session 23.md",
