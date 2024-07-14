@@ -157,7 +157,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Sessions/2024/Untitled.canvas",
+                "file": "Sessions/2024/Cave Network.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -261,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/Untitled.canvas",
+                "file": "Sessions/2024/Cave Network.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/Untitled.canvas",
+                "file": "Sessions/2024/Cave Network.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/Untitled.canvas"
+                "file": "Sessions/2024/Cave Network.canvas"
               }
             }
           },
@@ -363,7 +363,7 @@
   "active": "ab33b785d44c5243",
   "lastOpenFiles": [
     "Sessions/2024/07 14 - Session 26.md",
-    "Sessions/2024/Untitled.canvas",
+    "Sessions/2024/Cave Network.canvas",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Sessions/2024/06 30 - Session 25.md",
