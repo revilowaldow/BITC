@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/06 30 - Session 25.md",
+                "file": "Sessions/2024/07 14 - Session 26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/06 30 - Session 25.md",
+                "file": "Sessions/2024/07 14 - Session 26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/06 30 - Session 25.md"
+                "file": "Sessions/2024/07 14 - Session 26.md"
               }
             }
           },
@@ -345,14 +345,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4060c5961aec655",
+  "active": "ab33b785d44c5243",
   "lastOpenFiles": [
+    "Sessions/2024/06 30 - Session 25.md",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/06 16 - Session 24.md",
-    "Sessions/2024/06 30 - Session 25.md",
     "Pasted image 20240630212744.png",
     "Setting Rules/Valid Wild Shapes.md",
     "Pasted image 20240630184823.png",
