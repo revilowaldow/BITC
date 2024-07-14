@@ -174,9 +174,9 @@
               "state": {
                 "file": "Locations/Coprun/Mine Layout.canvas",
                 "viewState": {
-                  "x": 88.19094135350679,
-                  "y": -563.9640746936211,
-                  "zoom": -0.675858616017895
+                  "x": 308.258471598843,
+                  "y": -251.1475210610081,
+                  "zoom": -0.009191949351228357
                 }
               }
             }
@@ -377,6 +377,7 @@
   },
   "active": "fdb33ff96f45a808",
   "lastOpenFiles": [
+    "Pasted image 20240714200147.png",
     "Sessions/2024/Cave Network.canvas",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/07 14 - Session 26.md",
