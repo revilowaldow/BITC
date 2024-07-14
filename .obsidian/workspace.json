@@ -174,8 +174,8 @@
               "state": {
                 "file": "Locations/Coprun/Mine Layout.canvas",
                 "viewState": {
-                  "x": 1359,
-                  "y": -36,
+                  "x": 1615,
+                  "y": -638,
                   "zoom": 0
                 }
               }
@@ -189,8 +189,8 @@
               "state": {
                 "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
                 "viewState": {
-                  "x": -1319.1237623762377,
-                  "y": -879.8019801980204,
+                  "x": -167.93564356435633,
+                  "y": -1010.9306930693077,
                   "zoom": -0.6085750579431067
                 }
               }
@@ -209,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "att.yoad-cUYjfi4WVYcVwwSNvTheTmLhz5basTaXceT6xU.jpg",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "att.yoad-cUYjfi4WVYcVwwSNvTheTmLhz5basTaXceT6xU.jpg",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "att.yoad-cUYjfi4WVYcVwwSNvTheTmLhz5basTaXceT6xU.jpg"
+                "file": "Locations/Coprun/Mine Layout.canvas"
               }
             }
           },
@@ -390,8 +390,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "46a58642a8f33bd7",
+  "active": "fdb33ff96f45a808",
   "lastOpenFiles": [
+    "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "att.yoad-cUYjfi4WVYcVwwSNvTheTmLhz5basTaXceT6xU.jpg",
     "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2024/Cave Network.canvas",
@@ -429,9 +430,7 @@
     "Assets/Characters/Pasted image 20240421192129.png",
     "Assets/Characters/Pasted image 20240211211148.png",
     "Assets/Maps/Topographic Map.png",
-    "Assets/Maps/Kathkachan Wilderness.png",
     "Factions/Local Arcanists",
-    "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Locations/Lachaka",
     "Jobs/Level 4",
     "Sessions/2024",
