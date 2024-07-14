@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/06 30 - Session 25.md",
+                "file": "Sessions/2024/07 14 - Session 26.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,8 +155,12 @@
             "id": "c4060c5961aec655",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/06 30 - Session 25.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -242,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/06 30 - Session 25.md",
+                "file": "Sessions/2024/07 14 - Session 26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/06 30 - Session 25.md",
+                "file": "Sessions/2024/07 14 - Session 26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/06 30 - Session 25.md"
+                "file": "Sessions/2024/07 14 - Session 26.md"
               }
             }
           },
@@ -341,18 +345,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "ab33b785d44c5243",
   "lastOpenFiles": [
-    "Pasted image 20240630212744.png",
-    "Setting Rules/Valid Wild Shapes.md",
-    "Sessions/2024/06 30 - Session 25.md",
+    "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/06 16 - Session 24.md",
+    "Sessions/2024/06 30 - Session 25.md",
+    "Sessions/2024/07 14 - Session 26.md",
+    "Pasted image 20240630212744.png",
+    "Setting Rules/Valid Wild Shapes.md",
     "Pasted image 20240630184823.png",
     "Pasted image 20240630183537.png",
     "Pasted image 20240630173705.png",
-    "Sessions/2024/04 21 - Session 21.md",
     "Setting Rules/Ration Rules.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/04 07 - Session 20.md",
@@ -383,7 +388,6 @@
     "Locations/Lachaka",
     "Jobs/Level 4",
     "Sessions/2024",
-    "Assets/Characters/Vrindrilliax.png",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Locations/Kathkach/Abandoned House.canvas",
     "Locations/Coprun/Mine Layout.canvas",
