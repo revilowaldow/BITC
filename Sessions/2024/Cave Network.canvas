@@ -2,10 +2,11 @@
 	"nodes":[
 		{"id":"bab67127ff3d909b","type":"text","text":"Cave containing stream waterfall falling into pool","x":-600,"y":-280,"width":250,"height":80,"color":"2"},
 		{"id":"65a0fedceec633d5","type":"text","text":"Helviti Camp","x":-1020,"y":-270,"width":250,"height":60,"color":"2"},
-		{"id":"f2ad7198516c6b43","type":"text","text":"Storage room\n50 x 40 ft oval\n20ft ceiling\nCold room, torch by entrance (extinguished by thodunn)\nCrates, Barrels, Pots, Wine\nMan muttering to self\n\t\"How much mutton do they eat\"\n\t\"Wish Kana was here\"\n\nMain Entrance directly north from here\nStream is puddle in room","x":-75,"y":-419,"width":495,"height":359},
 		{"id":"20f9f8eab35adc8f","type":"text","text":"**Fork** \nCavernous corridor\nTemporary beams\nReflected light from both directions","x":385,"y":-700,"width":335,"height":120},
 		{"id":"3edcd918df61822a","type":"text","text":"Potentially main entrance?","x":220,"y":-940,"width":250,"height":60},
-		{"id":"38efd21b505cb803","type":"text","text":"Smells stuffy\nCooked food\nCurtain blocks room\nTorchlight\nSeveral tables\nfood storage areas\nthree torches\n\n6 bandits sat at tables eating\n1 bandit at table bald and gruff\n\nAt least 5 to 10 more people\n\nNo visible exits or entrances\n\nVisible from north vantage\nCan see 4 additional figures\n\t2 bandits\n\t1 meaty bloke\n\t1 robed cultist figure\n\n\n","x":600,"y":-239,"width":360,"height":460}
+		{"id":"f2ad7198516c6b43","type":"text","text":"Storage room\n50 x 40 ft oval\n20ft ceiling\nCold room, torch by entrance (extinguished by thodunn)\nCrates, Barrels, Pots, Wine\nMan muttering to self\n\t\"How much mutton do they eat\"\n\t\"Wish Kana was here\"\n\nMain Entrance directly north from here\nStream is puddle in room","x":-27,"y":-460,"width":495,"height":359},
+		{"id":"e4a9bfcf2009871d","x":1120,"y":-440,"width":250,"height":60,"type":"text","text":"."},
+		{"id":"38efd21b505cb803","type":"text","text":"Smells stuffy\nCooked food\nCurtain blocks room\nTorchlight\nSeveral tables\nfood storage areas\nthree torches\n\n6 bandits sat at tables eating\n1 bandit at table bald and gruff\n\nAt least 5 to 10 more people\n\nNo visible exits or entrances\n\nVisible from north vantage\nCan see 4 additional figures\n\t2 bandits\n\t1 meaty bloke\n\t1 robed cultist figure\n\n\n","x":620,"y":-240,"width":360,"height":500}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
@@ -13,6 +14,7 @@
 		{"id":"1182770b06ce2d09","fromNode":"f2ad7198516c6b43","fromSide":"top","toNode":"20f9f8eab35adc8f","toSide":"left","label":"50ft"},
 		{"id":"643b3104d2a20198","fromNode":"f2ad7198516c6b43","fromSide":"bottom","toNode":"38efd21b505cb803","toSide":"left","label":"Long winding rock corridor\nMore trafficked\nBend halfway\nCurtain covers next room\n75ft"},
 		{"id":"68ff5b25b52687e0","fromNode":"20f9f8eab35adc8f","fromSide":"top","toNode":"3edcd918df61822a","toSide":"bottom","label":"50ft then light\nSounds of wind / draft"},
-		{"id":"c26d89306e03ec43","fromNode":"20f9f8eab35adc8f","fromSide":"bottom","toNode":"38efd21b505cb803","toSide":"top","label":"50ft curtain\nSame sounds of eating etc"}
+		{"id":"c26d89306e03ec43","fromNode":"20f9f8eab35adc8f","fromSide":"bottom","toNode":"38efd21b505cb803","toSide":"top","label":"50ft curtain\nSame sounds of eating etc"},
+		{"id":"905c99de1260f323","fromNode":"38efd21b505cb803","fromSide":"right","toNode":"e4a9bfcf2009871d","toSide":"left","label":"North East"}
 	]
 }
