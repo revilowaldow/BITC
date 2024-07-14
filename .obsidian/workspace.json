@@ -159,9 +159,9 @@
               "state": {
                 "file": "Sessions/2024/Cave Network.canvas",
                 "viewState": {
-                  "x": 491.2805121948725,
-                  "y": -381.2334249596672,
-                  "zoom": -0.6666666666666667
+                  "x": 158.02594434046676,
+                  "y": -633.984479611062,
+                  "zoom": 1.1102230246251565e-16
                 }
               }
             }
@@ -174,8 +174,8 @@
               "state": {
                 "file": "Locations/Coprun/Mine Layout.canvas",
                 "viewState": {
-                  "x": 422.98712701243585,
-                  "y": 278.2145205841671,
+                  "x": 159.31249790400278,
+                  "y": -79.05453794061805,
                   "zoom": -0.009191949351228357
                 }
               }
@@ -276,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "att.nj0A-GrjBx0RmtKyOPq-kwwvVXap8a0XIMhSLM788LY.jpg",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "att.nj0A-GrjBx0RmtKyOPq-kwwvVXap8a0XIMhSLM788LY.jpg",
+                "file": "Locations/Coprun/Mine Layout.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "att.nj0A-GrjBx0RmtKyOPq-kwwvVXap8a0XIMhSLM788LY.jpg"
+                "file": "Locations/Coprun/Mine Layout.canvas"
               }
             }
           },
@@ -377,9 +377,10 @@
   },
   "active": "fdb33ff96f45a808",
   "lastOpenFiles": [
+    "Sessions/2024/Cave Network.canvas",
+    "Locations/Coprun/Mine Layout.canvas",
     "att.nj0A-GrjBx0RmtKyOPq-kwwvVXap8a0XIMhSLM788LY.jpg",
     "Pasted image 20240714200147.png",
-    "Sessions/2024/Cave Network.canvas",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/06 16 - Session 24.md",
@@ -415,13 +416,11 @@
     "Assets/Maps/Kathkachan Wilderness.png",
     "Factions/Local Arcanists",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
-    "Assets/Maps/Lachaka Street Chase.png",
     "Locations/Lachaka",
     "Jobs/Level 4",
     "Sessions/2024",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Locations/Kathkach/Abandoned House.canvas",
-    "Locations/Coprun/Mine Layout.canvas",
     "Deity/New",
     "Deity/Old",
     "Deity",
