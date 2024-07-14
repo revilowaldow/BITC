@@ -7,7 +7,8 @@
 		{"id":"d69ec8d3064ad31c","type":"text","text":"Side Corridor 4\n10ft square","x":-440,"y":60,"width":250,"height":124},
 		{"id":"61c3ee08f46567be","type":"text","text":"Street 4","x":-440,"y":420,"width":250,"height":60},
 		{"id":"8d51b98ba2ebe173","type":"file","file":"Assets/Maps/Lachaka Town hall.png","x":-1140,"y":-733,"width":470,"height":692},
-		{"id":"6b1e26393b166c65","type":"file","file":"Assets/Maps/Lachaka Street Chase.png","x":-1140,"y":-1340,"width":1130,"height":465}
+		{"id":"6b1e26393b166c65","type":"file","file":"Assets/Maps/Lachaka Street Chase.png","x":-1140,"y":-1340,"width":1130,"height":465},
+		{"id":"8cfd98cc2d2c86fa","x":-1140,"y":540,"width":2101,"height":498,"type":"file","file":"att.yoad-cUYjfi4WVYcVwwSNvTheTmLhz5basTaXceT6xU.jpg"}
 	],
 	"edges":[
 		{"id":"5748f9f7e4a057c2","fromNode":"61c3ee08f46567be","fromSide":"top","toNode":"d69ec8d3064ad31c","toSide":"bottom"},

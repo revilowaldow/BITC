@@ -189,8 +189,8 @@
               "state": {
                 "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
                 "viewState": {
-                  "x": -206.05445544554462,
-                  "y": -727.3267326732673,
+                  "x": 4.361386138613682,
+                  "y": 579.3861386138611,
                   "zoom": -0.6085750579431067
                 }
               }
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
+                "file": "att.yoad-cUYjfi4WVYcVwwSNvTheTmLhz5basTaXceT6xU.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
+                "file": "att.yoad-cUYjfi4WVYcVwwSNvTheTmLhz5basTaXceT6xU.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas"
+                "file": "att.yoad-cUYjfi4WVYcVwwSNvTheTmLhz5basTaXceT6xU.jpg"
               }
             }
           },
@@ -392,6 +392,7 @@
   },
   "active": "46a58642a8f33bd7",
   "lastOpenFiles": [
+    "att.yoad-cUYjfi4WVYcVwwSNvTheTmLhz5basTaXceT6xU.jpg",
     "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2024/Cave Network.canvas",
     "att.nj0A-GrjBx0RmtKyOPq-kwwvVXap8a0XIMhSLM788LY.jpg",
