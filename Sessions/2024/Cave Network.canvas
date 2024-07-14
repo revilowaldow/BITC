@@ -6,7 +6,7 @@
 		{"id":"f2ad7198516c6b43","type":"text","text":"Storage room\n50 x 40 ft oval\n20ft ceiling\nCold room, torch by entrance (extinguished by thodunn)\nCrates, Barrels, Pots, Wine\nMan muttering to self\n\t\"How much mutton do they eat\"\n\t\"Wish Kana was here\"\n\nMain Entrance directly north from here\nStream is puddle in room","x":-27,"y":-460,"width":495,"height":359},
 		{"id":"e4a9bfcf2009871d","x":1120,"y":-440,"width":250,"height":60,"type":"text","text":"."},
 		{"id":"38efd21b505cb803","type":"text","text":"Smells stuffy\nCooked food\nCurtain blocks room\nTorchlight\nSeveral tables\nfood storage areas\nthree torches\n\n6 bandits sat at tables eating\n1 bandit at table bald and gruff\n\nAt least 5 to 10 more people\n\nNo visible exits or entrances\n\nVisible from north vantage\nCan see 4 additional figures\n\t2 bandits\n\t1 meaty bloke\n\t1 robed cultist figure\n\n\nOverheard hushed conversation between 2 bandits\nWaiting for word from other teams\nI don't like this gonna blow up new recruits, just cultists\nWhen Kana's back everything will be sorted","x":620,"y":-240,"width":360,"height":700},
-		{"id":"3edcd918df61822a","type":"text","text":"Potentially main entrance?","x":20,"y":-1020,"width":250,"height":60}
+		{"id":"3edcd918df61822a","type":"text","text":"Open cavern with picket fence\nCampsite, cooking drying meat, tents\nOpen casual conversation\nA dozen people\n","x":-15,"y":-1120,"width":400,"height":240,"color":"2"}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
