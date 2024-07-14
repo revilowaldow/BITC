@@ -174,9 +174,24 @@
               "state": {
                 "file": "Locations/Coprun/Mine Layout.canvas",
                 "viewState": {
-                  "x": 159.31249790400278,
-                  "y": -79.05453794061805,
-                  "zoom": -0.009191949351228357
+                  "x": 1359,
+                  "y": -36,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "46a58642a8f33bd7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
+                "viewState": {
+                  "x": -206.05445544554462,
+                  "y": -727.3267326732673,
+                  "zoom": -0.6085750579431067
                 }
               }
             }
@@ -194,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -276,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas"
+                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas"
               }
             }
           },
@@ -375,10 +390,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fdb33ff96f45a808",
+  "active": "46a58642a8f33bd7",
   "lastOpenFiles": [
-    "Sessions/2024/Cave Network.canvas",
     "Locations/Coprun/Mine Layout.canvas",
+    "Sessions/2024/Cave Network.canvas",
     "att.nj0A-GrjBx0RmtKyOPq-kwwvVXap8a0XIMhSLM788LY.jpg",
     "Pasted image 20240714200147.png",
     "Setting Rules/Valid Wild Shapes.md",
