@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"bab67127ff3d909b","x":-120,"y":-140,"width":250,"height":181,"color":"5","type":"text","text":"Cave containing stream waterfall leading into pool"}
+		{"id":"bab67127ff3d909b","x":-120,"y":-140,"width":250,"height":181,"color":"5","type":"text","text":"Cave containing stream waterfall falling into pool"}
 	],
 	"edges":[]
 }
