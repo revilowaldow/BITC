@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"f2ad7198516c6b43","x":-126,"y":-419,"width":250,"height":159,"type":"text","text":"Storage room\nBarrels\nPots\nWine\n"},
-		{"id":"bab67127ff3d909b","x":-160,"y":40,"width":250,"height":80,"color":"2","type":"text","text":"Cave containing stream waterfall falling into pool"}
+		{"id":"65a0fedceec633d5","x":-160,"y":220,"width":250,"height":60,"color":"2","type":"text","text":"Helviti Camp"},
+		{"id":"bab67127ff3d909b","x":-160,"y":40,"width":250,"height":80,"color":"2","type":"text","text":"Cave containing stream waterfall falling into pool"},
+		{"id":"f2ad7198516c6b43","x":-275,"y":-300,"width":480,"height":159,"type":"text","text":"Storage room\nBarrels\nPots\nWine\nMan muttering to self \"How much mutton do they eat\"\n\"Wish Kana was here\"\n\n"}
 	],
 	"edges":[
-		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"top","toNode":"f2ad7198516c6b43","toSide":"bottom","color":"5","label":"Tunnel with stream flowing through it"}
+		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"top","toNode":"f2ad7198516c6b43","toSide":"bottom","color":"5","label":"Tunnel with stream flowing through it"},
+		{"id":"582bca41c759f6d7","fromNode":"65a0fedceec633d5","fromSide":"top","toNode":"bab67127ff3d909b","toSide":"bottom","color":"5","label":"Stream"}
 	]
 }
