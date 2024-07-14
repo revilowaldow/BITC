@@ -174,8 +174,8 @@
               "state": {
                 "file": "Locations/Coprun/Mine Layout.canvas",
                 "viewState": {
-                  "x": 308.258471598843,
-                  "y": -251.1475210610081,
+                  "x": 207.6193001834107,
+                  "y": -83.08010479723583,
                   "zoom": -0.009191949351228357
                 }
               }
@@ -276,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "att.nj0A-GrjBx0RmtKyOPq-kwwvVXap8a0XIMhSLM788LY.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "att.nj0A-GrjBx0RmtKyOPq-kwwvVXap8a0XIMhSLM788LY.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas"
+                "file": "att.nj0A-GrjBx0RmtKyOPq-kwwvVXap8a0XIMhSLM788LY.jpg"
               }
             }
           },
@@ -377,6 +377,7 @@
   },
   "active": "fdb33ff96f45a808",
   "lastOpenFiles": [
+    "att.nj0A-GrjBx0RmtKyOPq-kwwvVXap8a0XIMhSLM788LY.jpg",
     "Pasted image 20240714200147.png",
     "Sessions/2024/Cave Network.canvas",
     "Setting Rules/Valid Wild Shapes.md",
@@ -415,7 +416,6 @@
     "Factions/Local Arcanists",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Assets/Maps/Lachaka Street Chase.png",
-    "Assets/Maps/Lachaka Town hall.png",
     "Locations/Lachaka",
     "Jobs/Level 4",
     "Sessions/2024",
