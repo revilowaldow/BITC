@@ -3,17 +3,17 @@
 		{"id":"bab67127ff3d909b","x":-600,"y":-280,"width":250,"height":80,"color":"2","type":"text","text":"Cave containing stream waterfall falling into pool"},
 		{"id":"65a0fedceec633d5","x":-1020,"y":-270,"width":250,"height":60,"color":"2","type":"text","text":"Helviti Camp"},
 		{"id":"f2ad7198516c6b43","x":-75,"y":-419,"width":495,"height":359,"type":"text","text":"Storage room\n50 x 40 ft oval\n20ft ceiling\nCold room, torch by entrance (extinguished by thodunn)\nCrates, Barrels, Pots, Wine\nMan muttering to self\n\t\"How much mutton do they eat\"\n\t\"Wish Kana was here\"\n\nMain Entrance directly north from here\nStream is puddle in room"},
-		{"id":"38efd21b505cb803","x":510,"y":-80,"width":360,"height":460,"type":"text","text":"Smells stuffy\nCooked food\nCurtain blocks room\nTorchlight\nSeveral tables\nfood storage areas\nthree torches\n\n6 bandits sat at tables eating\n1 bandit at table bald and gruff\n\nAt least 5 to 10 more people\n\nNo visible exits or entrances\n\n\n"},
 		{"id":"20f9f8eab35adc8f","x":385,"y":-700,"width":335,"height":120,"type":"text","text":"**Fork** \nCavernous corridor\nTemporary beams\nReflected light from both directions"},
-		{"id":"3edcd918df61822a","x":220,"y":-940,"width":250,"height":60,"type":"text","text":"Sounds of wind / draft"},
-		{"id":"f7862f7d7ffbc3b8","x":660,"y":-400,"width":250,"height":60,"type":"text","text":"Same sounds of eating etc"}
+		{"id":"3edcd918df61822a","x":220,"y":-940,"width":250,"height":60,"type":"text","text":"."},
+		{"id":"f7862f7d7ffbc3b8","x":620,"y":-380,"width":250,"height":60,"type":"text","text":"."},
+		{"id":"38efd21b505cb803","x":565,"y":-120,"width":360,"height":460,"type":"text","text":"Smells stuffy\nCooked food\nCurtain blocks room\nTorchlight\nSeveral tables\nfood storage areas\nthree torches\n\n6 bandits sat at tables eating\n1 bandit at table bald and gruff\n\nAt least 5 to 10 more people\n\nNo visible exits or entrances\n\n\n"}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
 		{"id":"582bca41c759f6d7","fromNode":"65a0fedceec633d5","fromSide":"right","toNode":"bab67127ff3d909b","toSide":"left","color":"5","label":"Stream"},
 		{"id":"1182770b06ce2d09","fromNode":"f2ad7198516c6b43","fromSide":"top","toNode":"20f9f8eab35adc8f","toSide":"left","label":"50ft"},
 		{"id":"643b3104d2a20198","fromNode":"f2ad7198516c6b43","fromSide":"bottom","toNode":"38efd21b505cb803","toSide":"left","label":"Long winding rock corridor\nMore trafficked\nBend halfway\nCurtain covers next room\n75ft"},
-		{"id":"c26d89306e03ec43","fromNode":"20f9f8eab35adc8f","fromSide":"bottom","toNode":"f7862f7d7ffbc3b8","toSide":"top"},
-		{"id":"68ff5b25b52687e0","fromNode":"20f9f8eab35adc8f","fromSide":"top","toNode":"3edcd918df61822a","toSide":"bottom"}
+		{"id":"c26d89306e03ec43","fromNode":"20f9f8eab35adc8f","fromSide":"bottom","toNode":"f7862f7d7ffbc3b8","toSide":"top","label":"50ft curtain\nSame sounds of eating etc"},
+		{"id":"68ff5b25b52687e0","fromNode":"20f9f8eab35adc8f","fromSide":"top","toNode":"3edcd918df61822a","toSide":"bottom","label":"Sounds of wind / draft"}
 	]
 }
