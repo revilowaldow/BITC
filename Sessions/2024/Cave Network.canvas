@@ -4,7 +4,7 @@
 		{"id":"65a0fedceec633d5","x":-1020,"y":-270,"width":250,"height":60,"color":"2","type":"text","text":"Helviti Camp"},
 		{"id":"f2ad7198516c6b43","x":-75,"y":-419,"width":495,"height":359,"type":"text","text":"Storage room\n50 x 40 ft oval\n20ft ceiling\nCold room, torch by entrance (extinguished by thodunn)\nCrates, Barrels, Pots, Wine\nMan muttering to self\n\t\"How much mutton do they eat\"\n\t\"Wish Kana was here\"\n\nMain Entrance directly north from here\nStream is puddle in room"},
 		{"id":"20f9f8eab35adc8f","x":440,"y":-580,"width":250,"height":60,"type":"text","text":"."},
-		{"id":"38efd21b505cb803","x":500,"y":120,"width":360,"height":420,"type":"text","text":"Smells stuffy\nCooked food\nCurtain blocks room\nTorchlight\nSeveral tables\nfood storage areas\nthree torches\n\n7 bandits sat at tables eating\n\nAt least 5 to 10 more people\n\n\n\n\n"}
+		{"id":"38efd21b505cb803","x":500,"y":120,"width":360,"height":420,"type":"text","text":"Smells stuffy\nCooked food\nCurtain blocks room\nTorchlight\nSeveral tables\nfood storage areas\nthree torches\n\n6 bandits sat at tables eating\n1 bandit at table bald and gruff\n\nAt least 5 to 10 more people\n\n\n\n\n"}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
