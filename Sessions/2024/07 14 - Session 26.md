@@ -26,4 +26,5 @@ Headed north
 
 Pyramid to the south on the mountain
 
-Caenis had a nightmare 
+Caenis had a nightmare about being dragged in chains to altar from aepoptosis
+
