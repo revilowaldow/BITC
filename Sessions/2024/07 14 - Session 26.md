@@ -26,4 +26,4 @@ Headed north
 
 Pyramid to the south on the mountain
 
-Cae
+Caenis had a nightmare 
