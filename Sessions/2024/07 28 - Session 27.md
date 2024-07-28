@@ -38,6 +38,6 @@ Born anew
 
 
 10 mins - 4 turns left on starry form
-1 hour - 4 turns left on 
-
+1 hour - 4 turns left on panthers
+Of 8, 1 panther at 6 hp, 1 dead
 
