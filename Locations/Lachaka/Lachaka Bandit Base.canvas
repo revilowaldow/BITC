@@ -7,9 +7,9 @@
 		{"id":"d69ec8d3064ad31c","type":"text","text":"Side Corridor 4\n10ft square","x":-440,"y":60,"width":250,"height":124},
 		{"id":"8d51b98ba2ebe173","type":"file","file":"Assets/Maps/Lachaka Town hall.png","x":-1140,"y":-733,"width":470,"height":692},
 		{"id":"61c3ee08f46567be","type":"text","text":"Street 4","x":-440,"y":326,"width":250,"height":60},
-		{"id":"7bb62218c58af026","x":-465,"y":490,"width":300,"height":50,"type":"text","text":"Rear Gate (mountain of knives)"},
+		{"id":"7bb62218c58af026","type":"text","text":"Rear Gate (mountain of knives)","x":-465,"y":490,"width":300,"height":50},
 		{"id":"6b1e26393b166c65","type":"file","file":"Assets/Maps/Lachaka Street Chase.png","x":-1470,"y":-1360,"width":1130,"height":465},
-		{"id":"8cfd98cc2d2c86fa","x":-937,"y":-1920,"width":2101,"height":498,"type":"file","file":"Assets/Maps/Lachaka Layout.jpg"}
+		{"id":"8cfd98cc2d2c86fa","type":"file","file":"Assets/Maps/Lachaka Layout.jpg","x":-937,"y":-1920,"width":2101,"height":498}
 	],
 	"edges":[
 		{"id":"5748f9f7e4a057c2","fromNode":"61c3ee08f46567be","fromSide":"top","toNode":"d69ec8d3064ad31c","toSide":"bottom"},

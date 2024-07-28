@@ -4,302 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "41eab466b90751d9",
+        "id": "1cb34f40c2cda12f",
         "type": "tabs",
         "children": [
           {
-            "id": "7c634e1fcc550447",
+            "id": "123cafd7fb7692a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/03 24 - Session 19.md",
+                "file": "Sessions/2024/07 28 - Session 27.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8fbb5570e0b335fb",
+            "id": "77e15bc03d73c29a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/05 19 - Session 22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be4960ef2fc19dbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/04 21 - Session 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bc802c41aac1590",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d8d664d1937b51a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/06 16 - Session 24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85992ebbef55eb45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/07 14 - Session 26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0e76b8db2b46f84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/06 02 - Session 23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a05ccaa14e787d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deity/Old/Aepoptosis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "284ca9fb8b5a5579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f420997c4d963de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33a157d05c0bf2f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Rules Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6613f21ab3ffac9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Ration Rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab33b785d44c5243",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Sessions/2024/Cave Network.canvas",
-                "viewState": {
-                  "x": 624.4089522068473,
-                  "y": -220.3420005733722,
-                  "zoom": -0.6666666666666665
-                }
-              }
-            }
-          },
-          {
-            "id": "fdb33ff96f45a808",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
-                "viewState": {
-                  "x": 1718.8880310893703,
-                  "y": -162.2010293257041,
-                  "zoom": -0.6666666666666667
-                }
-              }
-            }
-          },
-          {
-            "id": "4c02ee83c1b8c6d1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Coprun Mine Layout.jpg"
-              }
-            }
-          },
-          {
-            "id": "a6894867a06f7a33",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240630212744.png"
-              }
-            }
-          },
-          {
-            "id": "52ecfcb03e896f29",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Eyelaine Villa 2.png"
-              }
-            }
-          },
-          {
-            "id": "4f87fae5fbe5c716",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Eylaine Villa.png"
-              }
-            }
-          },
-          {
-            "id": "dd645fff0d4f0bbf",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Vineyard Skirmish.png"
-              }
-            }
-          },
-          {
-            "id": "b789b284eb46969d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Eylaine Villa.png"
-              }
-            }
-          },
-          {
-            "id": "2430b1567d800075",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Eyelaine Villa 2.png"
-              }
-            }
-          },
-          {
-            "id": "e2e599cb3d9463ec",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240630212744.png"
-              }
-            }
-          },
-          {
-            "id": "40c2c0a1f6825848",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Lachaka Layout.jpg"
-              }
-            }
-          },
-          {
-            "id": "46a58642a8f33bd7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Lachaka/Lachaka Bandit Base.canvas",
-                "viewState": {
-                  "x": -167.93564356435633,
-                  "y": -1010.9306930693077,
-                  "zoom": -0.6085750579431067
-                }
-              }
-            }
-          },
-          {
-            "id": "c4060c5961aec655",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/06 30 - Session 25.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -381,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/Cave Network.canvas",
+                "file": "Sessions/2024/07 28 - Session 27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -398,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/Cave Network.canvas",
+                "file": "Sessions/2024/07 28 - Session 27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -421,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/Cave Network.canvas"
+                "file": "Sessions/2024/07 28 - Session 27.md"
               }
             }
           },
@@ -480,32 +208,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab33b785d44c5243",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
-    "Pasted image 20240630212744.png",
-    "Assets/Maps/Lachaka Layout.jpg",
-    "Assets/Maps/Coprun Mine Layout.jpg",
-    "Assets/Maps/Eylaine Villa.png",
-    "Assets/Maps/Eyelaine Villa 2.png",
-    "Pasted image 20240714200147.png",
-    "Assets/Maps/Vineyard Skirmish.png",
-    "Locations/Coprun/Mine Layout.canvas",
-    "Sessions/2024/Cave Network.canvas",
-    "Locations/Lachaka/Lachaka Bandit Base.canvas",
-    "Setting Rules/Valid Wild Shapes.md",
-    "Sessions/2024/07 14 - Session 26.md",
-    "Sessions/2024/06 16 - Session 24.md",
-    "Sessions/2024/06 30 - Session 25.md",
-    "Sessions/2024/06 02 - Session 23.md",
+    "Sessions/2024/07 28 - Session 27.md",
+    "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/04 21 - Session 21.md",
-    "Setting Rules/Ration Rules.md",
-    "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/04 07 - Session 20.md",
-    "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
+    "Sessions/2024/06 16 - Session 24.md",
+    "Sessions/2024/07 14 - Session 26.md",
+    "Sessions/2024/06 02 - Session 23.md",
     "Deity/Old/Aepoptosis.md",
-    "Sessions/2024/02 11 - Session 16.md",
+    "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
+    "Setting Rules/Valid Wild Shapes.md",
     "Setting Rules/Rules Index.md",
+    "Setting Rules/Ration Rules.md",
+    "Locations/Cave Network.canvas",
+    "Locations/Coprun/Mine Layout.canvas",
+    "Assets/Maps/Coprun Mine Layout.jpg",
+    "Pasted image 20240630212744.png",
+    "Assets/Maps/Eyelaine Villa 2.png",
+    "Assets/Maps/Eylaine Villa.png",
+    "Assets/Maps/Vineyard Skirmish.png",
+    "Assets/Maps/Lachaka Layout.jpg",
+    "Locations/Lachaka/Lachaka Bandit Base.canvas",
+    "Pasted image 20240714200147.png",
+    "Sessions/2024/06 30 - Session 25.md",
+    "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
