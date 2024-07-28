@@ -33,7 +33,7 @@ Large cages made of wood, 5 people at a time, chanting, arenas
 
 Must be made complicit, then conditioned
 Born anew
-Rev in arenas killed an older man
+[Rev] in arenas killed an older man
 
 
 
