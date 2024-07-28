@@ -22,7 +22,10 @@ Sparring in large room, dozen bandits sparring training
 
 Voices in his head, repressed, recollection of large chamber, buried towers, dog feet
 Kana is in the pool with her doctor
-Voices 
+Voices speaking through water or a wall
 
+One sounds older, gravellier, malicious
+confident suave voice
+Woman's voice, speaks least, commanding
 
 
