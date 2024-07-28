@@ -11,7 +11,7 @@
 		{"id":"65a0fedceec633d5","type":"text","text":"Helviti Camp","x":-845,"y":-270,"width":250,"height":60,"color":"2"},
 		{"id":"bab67127ff3d909b","type":"text","text":"Cave containing stream waterfall falling into pool","x":-425,"y":-280,"width":250,"height":80,"color":"2"},
 		{"id":"f2ad7198516c6b43","type":"text","text":"Storage room\n50 x 40 ft oval\n20ft ceiling\nCold room, torch by entrance (extinguished by thodunn)\nCrates, Barrels, Pots, Wine\nMan muttering to self\n\t\"How much mutton do they eat\"\n\t\"Wish Kana was here\"\n\nMain Entrance directly north from here\nStream is puddle in room","x":148,"y":-460,"width":495,"height":359},
-		{"id":"59d7896cbe264f68","type":"text","text":"SE\nCultists this way","x":1810,"y":-620,"width":250,"height":180}
+		{"id":"59d7896cbe264f68","type":"text","text":"Sounds of training and sparring\n\n","x":1760,"y":-660,"width":600,"height":440}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
