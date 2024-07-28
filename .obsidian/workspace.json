@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "501aeed4ac859095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/07 28 - Session 27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "53f97667c33a9e2a",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Sessions/2024/07 28 - Session 27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Sessions/2024/07 28 - Session 27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas"
+                "file": "Sessions/2024/07 28 - Session 27.md"
               }
             }
           },
@@ -231,10 +243,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "588939890135e2f7",
+  "active": "501aeed4ac859095",
   "lastOpenFiles": [
-    "Sessions/2024/07 28 - Session 27.md",
     "Locations/Dog Prince Caves.canvas",
+    "Sessions/2024/07 28 - Session 27.md",
     "Pasted image 20240630212744.png",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/06 30 - Session 25.md",
