@@ -111,184 +111,13 @@
             "id": "69be4cbc0d2713a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4e63df5b8994a52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/07 14 - Session 26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "425e88800eac065e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/06 30 - Session 25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c02664f36a0c1be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/06 16 - Session 24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33bb501bccbe19b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/06 02 - Session 23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f5269e55289df84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/05 19 - Session 22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb834d43b4bce632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/04 21 - Session 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20cd2d6ac560ed33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88623467ca236510",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/03 24 - Session 19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acb99981f35f6f47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/03 10 - Session 18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62b7fec1ef3e902c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/02 25 - Session 17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2744b063a343c1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac316eaa5509391c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51e4226c793e0995",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
-                "viewState": {
-                  "x": 728.3683496528788,
-                  "y": 146.36420618839327,
-                  "zoom": -0.9999999999999998
-                }
-              }
-            }
-          },
-          {
-            "id": "d469cf4378c99cfe",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
                 "file": "Locations/Dog Prince Caves.canvas",
                 "viewState": {
-                  "x": 546.0414379945183,
-                  "y": -359.8829242617338,
-                  "zoom": -0.3151684672023835
+                  "x": 333.5786359247299,
+                  "y": -603.3392319751072,
+                  "zoom": -0.6485018005357168
                 }
               }
             }
@@ -376,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md",
+                "file": "Locations/Dog Prince Caves.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -393,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md",
+                "file": "Locations/Dog Prince Caves.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -416,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md"
+                "file": "Locations/Dog Prince Caves.canvas"
               }
             }
           },
@@ -477,9 +306,9 @@
   },
   "active": "69be4cbc0d2713a1",
   "lastOpenFiles": [
+    "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/06 30 - Session 25.md",
-    "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/02 25 - Session 17.md",
