@@ -57,11 +57,19 @@
               "state": {
                 "file": "Locations/Dog Prince Caves.canvas",
                 "viewState": {
-                  "x": 1702.19960298783,
-                  "y": -618.5743464345762,
+                  "x": 1860.8855023663677,
+                  "y": -607.5032371756084,
                   "zoom": 0.11623462705328536
                 }
               }
+            }
+          },
+          {
+            "id": "6cf2cf90dfd28be9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -147,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240728200221.png",
+                "file": "Locations/Dog Prince Caves.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240728200221.png",
+                "file": "Locations/Dog Prince Caves.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240728200221.png"
+                "file": "Locations/Dog Prince Caves.canvas"
               }
             }
           },
