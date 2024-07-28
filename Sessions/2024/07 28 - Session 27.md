@@ -20,7 +20,9 @@ Mushrooms damp
 
 Sparring in large room, dozen bandits sparring training
 
-
+Voices in his head, repressed, recollection of large chamber, buried towers, dog feet
+Kana is in the pool with her doctor
+Voices 
 
 
 
