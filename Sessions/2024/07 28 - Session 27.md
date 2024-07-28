@@ -15,6 +15,10 @@ Cultist, impressive facial tattoos, smiling and knife
 Voices, shut out
 
 Cool breeze
-Decay rot sweat
+Decay rot sweat, wooden club
+Mushrooms damp
+
+
+
 
 
