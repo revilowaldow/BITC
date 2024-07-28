@@ -6,9 +6,9 @@
 		{"id":"38efd21b505cb803","type":"text","text":"Smells stuffy\nCooked food\nCurtain blocks room\nTorchlight\nSeveral tables\nfood storage areas\nthree torches\n\n6 bandits sat at tables eating\n1 bandit at table bald and gruff\n\nAt least 5 to 10 more people\n\nNo visible exits or entrances\n\nVisible from north vantage\nCan see 4 additional figures\n\t2 bandits\n\t1 meaty bloke\n\t1 robed cultist figure\n\n\nOverheard hushed conversation between 2 bandits\nWaiting for word from other teams\nI don't like this gonna blow up new recruits, just cultists\nWhen Kana's back everything will be sorted","x":620,"y":-240,"width":360,"height":700},
 		{"id":"20f9f8eab35adc8f","type":"text","text":"**Fork** \nCavernous corridor\nTemporary beams\nReflected light from both directions","x":420,"y":-640,"width":335,"height":120},
 		{"id":"3edcd918df61822a","type":"text","text":"Open cavern with picket fence\nCampsite, cooking drying meat, tents\nOpen casual conversation\nA dozen people\n","x":68,"y":-1090,"width":400,"height":240,"color":"2"},
-		{"id":"8e20c7632cb9ead1","type":"text","text":"Pair of curtains","x":920,"y":-1000,"width":250,"height":60},
 		{"id":"f6e28901998a174a","type":"text","text":"Main Entrance/Exit","x":-475,"y":-1000,"width":250,"height":60,"color":"2"},
-		{"id":"e4a9bfcf2009871d","type":"text","text":".","x":1440,"y":110,"width":250,"height":60}
+		{"id":"e4a9bfcf2009871d","type":"text","text":".","x":1440,"y":110,"width":250,"height":60},
+		{"id":"8e20c7632cb9ead1","type":"text","text":"Pair of curtains","x":940,"y":-1000,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
@@ -18,7 +18,7 @@
 		{"id":"68ff5b25b52687e0","fromNode":"20f9f8eab35adc8f","fromSide":"top","toNode":"3edcd918df61822a","toSide":"bottom","label":"50ft then light\nSounds of wind / draft"},
 		{"id":"c26d89306e03ec43","fromNode":"20f9f8eab35adc8f","fromSide":"bottom","toNode":"38efd21b505cb803","toSide":"top","label":"50ft then curtain\nSame sounds of eating etc"},
 		{"id":"905c99de1260f323","fromNode":"38efd21b505cb803","fromSide":"right","toNode":"e4a9bfcf2009871d","toSide":"left","label":"North East"},
-		{"id":"ee457a34c5b1db65","fromNode":"3edcd918df61822a","fromSide":"right","toNode":"8e20c7632cb9ead1","toSide":"left","label":"10ft wide 100ft long\nCorridor back into caves"},
+		{"id":"ee457a34c5b1db65","fromNode":"3edcd918df61822a","fromSide":"right","toNode":"8e20c7632cb9ead1","toSide":"left","label":"10ft wide 100ft long\nCorridor back into caves\nSome barefoot tracks, only in"},
 		{"id":"f1c7349c62ae7db5","fromNode":"3edcd918df61822a","fromSide":"left","toNode":"f6e28901998a174a","toSide":"right","color":"2","label":"Narrow Ravine"}
 	]
 }
