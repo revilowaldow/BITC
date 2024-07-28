@@ -23,6 +23,6 @@
 		{"id":"ee457a34c5b1db65","fromNode":"3edcd918df61822a","fromSide":"right","toNode":"8e20c7632cb9ead1","toSide":"left","label":"10ft wide 100ft long\nCorridor back into caves\nSome barefoot tracks, only in"},
 		{"id":"f1c7349c62ae7db5","fromNode":"3edcd918df61822a","fromSide":"left","toNode":"f6e28901998a174a","toSide":"right","color":"2","label":"Narrow Ravine"},
 		{"id":"38428e960b199584","fromNode":"8e20c7632cb9ead1","fromSide":"right","toNode":"59d7896cbe264f68","toSide":"top","label":"Curtained exit, goes south"},
-		{"id":"41286295204e9821","fromNode":"8e20c7632cb9ead1","fromSide":"right","toNode":"0701e14a58de5faa","toSide":"bottom"}
+		{"id":"41286295204e9821","fromNode":"8e20c7632cb9ead1","fromSide":"right","toNode":"0701e14a58de5faa","toSide":"bottom","label":"10ft wide"}
 	]
 }
