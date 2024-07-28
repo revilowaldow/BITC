@@ -5,3 +5,5 @@ Alex is recapping
 
 [[Terrence]]
 
+Small cave, stone altar, cultists
+
