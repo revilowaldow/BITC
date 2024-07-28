@@ -57,19 +57,11 @@
               "state": {
                 "file": "Locations/Dog Prince Caves.canvas",
                 "viewState": {
-                  "x": 1884.4601191368092,
-                  "y": -924.6054624938816,
-                  "zoom": 0.11623462705328536
+                  "x": 1884.6742338050321,
+                  "y": -1008.8350457920118,
+                  "zoom": -0.21709870628004796
                 }
               }
-            }
-          },
-          {
-            "id": "5a719165f40ea713",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -256,6 +248,7 @@
   },
   "active": "b09e91c4cb4b99cb",
   "lastOpenFiles": [
+    "Locations/Dog Prince Caves.canvas",
     "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/05 19 - Session 22.md",
@@ -264,7 +257,6 @@
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/06 16 - Session 24.md",
-    "Locations/Dog Prince Caves.canvas",
     "Pasted image 20240630212744.png",
     "Sessions/2024/06 30 - Session 25.md",
     "Sessions/2024/01 28 - Session 15.md",
