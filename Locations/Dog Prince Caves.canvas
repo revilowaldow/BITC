@@ -11,7 +11,7 @@
 		{"id":"8e20c7632cb9ead1","type":"text","text":"BC1\nPair of curtains\n\nLots of cots and beds\nHastily constructed sheets and planks\n25 cots, number of bandits\nCan see 10 bandits\n\nDripping sound from ceiling\n\nDefeated all of them \nOne ~restrained~ (killed), one knocked out, one paralyzed/poisioned/prone\n\nLoot: 37 cp 19sp 1small gemstone opaque & red\n[[Aru]] took Gem\n\n","x":980,"y":-1180,"width":600,"height":420},
 		{"id":"71097c780e9425c1","x":1155,"y":-1320,"width":250,"height":60,"color":"5","type":"text","text":"Dripping from ceiling"},
 		{"id":"59d7896cbe264f68","type":"text","text":"SE\nCultists this way","x":1900,"y":-760,"width":250,"height":180},
-		{"id":"0701e14a58de5faa","type":"text","text":"Mutterings of conversations, hushed\n\n\n","x":2060,"y":-1420,"width":320,"height":300}
+		{"id":"0701e14a58de5faa","type":"text","text":"Mutterings of conversations, hushed\n\n\n","x":2060,"y":-1470,"width":320,"height":300}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
