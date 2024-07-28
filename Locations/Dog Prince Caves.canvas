@@ -8,7 +8,7 @@
 		{"id":"3edcd918df61822a","type":"text","text":"Open cavern with picket fence\nCampsite, cooking drying meat, tents\nOpen casual conversation\nA dozen people\n","x":68,"y":-1090,"width":400,"height":240,"color":"2"},
 		{"id":"f6e28901998a174a","type":"text","text":"Main Entrance/Exit","x":-475,"y":-1000,"width":250,"height":60,"color":"2"},
 		{"id":"e4a9bfcf2009871d","type":"text","text":".","x":1440,"y":110,"width":250,"height":60},
-		{"id":"8e20c7632cb9ead1","type":"text","text":"BC1\nPair of curtains\n\nLots of cots and beds\nHastily constructed sheets and planks\n25 cots, number of bandits\nCan see 10 bandits\n\nDripping sound from ceiling\n\nDefeated all of them \nOne restrained, one knocked out, one paralyzed/poisioned/prone\n\nLoot: 37 cp 19sp 1small gemstone opaque & red\n[[Aru]] took Gem\n\n","x":980,"y":-1180,"width":600,"height":420},
+		{"id":"8e20c7632cb9ead1","type":"text","text":"BC1\nPair of curtains\n\nLots of cots and beds\nHastily constructed sheets and planks\n25 cots, number of bandits\nCan see 10 bandits\n\nDripping sound from ceiling\n\nDefeated all of them \nOne ~restrained~ (killed), one knocked out, one paralyzed/poisioned/prone\n\nLoot: 37 cp 19sp 1small gemstone opaque & red\n[[Aru]] took Gem\n\n","x":980,"y":-1180,"width":600,"height":420},
 		{"id":"0701e14a58de5faa","x":1920,"y":-1210,"width":250,"height":60,"type":"text","text":"NE"},
 		{"id":"59d7896cbe264f68","type":"text","text":"SE","x":1900,"y":-740,"width":250,"height":60}
 	],
