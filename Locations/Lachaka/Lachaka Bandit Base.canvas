@@ -9,7 +9,7 @@
 		{"id":"61c3ee08f46567be","type":"text","text":"Street 4","x":-440,"y":326,"width":250,"height":60},
 		{"id":"7bb62218c58af026","x":-465,"y":490,"width":300,"height":50,"type":"text","text":"Rear Gate (mountain of knives)"},
 		{"id":"6b1e26393b166c65","type":"file","file":"Assets/Maps/Lachaka Street Chase.png","x":-1470,"y":-1360,"width":1130,"height":465},
-		{"id":"8cfd98cc2d2c86fa","x":-937,"y":-1920,"width":2101,"height":498,"type":"file","file":"att.yoad-cUYjfi4WVYcVwwSNvTheTmLhz5basTaXceT6xU.jpg"}
+		{"id":"8cfd98cc2d2c86fa","x":-937,"y":-1920,"width":2101,"height":498,"type":"file","file":"Assets/Maps/Lachaka Layout.jpg"}
 	],
 	"edges":[
 		{"id":"5748f9f7e4a057c2","fromNode":"61c3ee08f46567be","fromSide":"top","toNode":"d69ec8d3064ad31c","toSide":"bottom"},

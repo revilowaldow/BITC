@@ -187,7 +187,37 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Coprun Mine Layout.jpg"
+                "file": "Assets/Maps/Coprun Mine Layout.jpg"
+              }
+            }
+          },
+          {
+            "id": "a6894867a06f7a33",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240630212744.png"
+              }
+            }
+          },
+          {
+            "id": "52ecfcb03e896f29",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/Eyelaine Villa 2.png"
+              }
+            }
+          },
+          {
+            "id": "4f87fae5fbe5c716",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/Eylaine Villa.png"
               }
             }
           },
@@ -197,7 +227,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Vineyard Skirmish.png"
+                "file": "Assets/Maps/Vineyard Skirmish.png"
               }
             }
           },
@@ -207,7 +237,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Eylaine Villa.png"
+                "file": "Assets/Maps/Eylaine Villa.png"
               }
             }
           },
@@ -217,7 +247,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Eyelaine Villa 2.png"
+                "file": "Assets/Maps/Eyelaine Villa 2.png"
               }
             }
           },
@@ -228,6 +258,16 @@
               "type": "image",
               "state": {
                 "file": "Pasted image 20240630212744.png"
+              }
+            }
+          },
+          {
+            "id": "40c2c0a1f6825848",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/Lachaka Layout.jpg"
               }
             }
           },
@@ -259,7 +299,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -341,7 +381,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240630212744.png",
+                "file": "Sessions/2024/Cave Network.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -358,7 +398,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240630212744.png",
+                "file": "Sessions/2024/Cave Network.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -381,7 +421,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240630212744.png"
+                "file": "Sessions/2024/Cave Network.canvas"
               }
             }
           },
@@ -440,17 +480,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2e599cb3d9463ec",
+  "active": "ab33b785d44c5243",
   "lastOpenFiles": [
-    "Eyelaine Villa 2.png",
-    "Eylaine Villa.png",
-    "Vineyard Skirmish.png",
-    "Coprun Mine Layout.jpg",
+    "Pasted image 20240630212744.png",
+    "Assets/Maps/Lachaka Layout.jpg",
+    "Assets/Maps/Coprun Mine Layout.jpg",
+    "Assets/Maps/Eylaine Villa.png",
+    "Assets/Maps/Eyelaine Villa 2.png",
+    "Pasted image 20240714200147.png",
+    "Assets/Maps/Vineyard Skirmish.png",
     "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2024/Cave Network.canvas",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
-    "att.yoad-cUYjfi4WVYcVwwSNvTheTmLhz5basTaXceT6xU.jpg",
-    "Pasted image 20240714200147.png",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/06 16 - Session 24.md",
@@ -458,7 +499,6 @@
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/04 21 - Session 21.md",
-    "Pasted image 20240630212744.png",
     "Setting Rules/Ration Rules.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/04 07 - Session 20.md",
