@@ -10,4 +10,7 @@ Small cave, stone altar, cultists
 Old man, wrinkled, stern, very large longbow, impressive arrows, large cave, underground ancient ruins, barking, keep out sign, cool air, different corridor
 
 Older slender bookish figure, near to Kana
-Large
+Large dark bearded bandit, flag with black kathkach coin
+Cultist, impressive facial tattoos, smiling and knife
+Voices, 
+
