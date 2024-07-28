@@ -11,9 +11,9 @@
 		{"id":"bab67127ff3d909b","type":"text","text":"Cave containing stream waterfall falling into pool","x":-425,"y":-280,"width":250,"height":80,"color":"2"},
 		{"id":"f2ad7198516c6b43","type":"text","text":"Storage room\n50 x 40 ft oval\n20ft ceiling\nCold room, torch by entrance (extinguished by thodunn)\nCrates, Barrels, Pots, Wine\nMan muttering to self\n\t\"How much mutton do they eat\"\n\t\"Wish Kana was here\"\n\nMain Entrance directly north from here\nStream is puddle in room","x":148,"y":-460,"width":495,"height":359},
 		{"id":"59d7896cbe264f68","type":"text","text":"Sounds of training and sparring\nVery Large Chamber supported by 4 pillars of rock\nbandits are in pairs training in combat\nNo obvious hierarchy\nHelviti drills\n\n2 pairs visible, large dog\n\nGuess at 5 pairs\n\nOne guy managed to flee\n","x":1760,"y":-660,"width":600,"height":440},
-		{"id":"32018d02a28a8451","x":1340,"y":-640,"width":382,"height":400,"type":"file","file":"Pasted image 20240728200221.png"},
 		{"id":"0701e14a58de5faa","type":"text","text":"BC2 (Croissant Room)\nMutterings of conversations, hushed\n\nOpens into the apex of a croissant\n\nLots of beds, two robed figures\n6 bandits\nTrespassing\n\nCultists are considering using this room to store new recruits\n\n\n\n\n\n\n","x":2060,"y":-1500,"width":380,"height":500,"color":"#6d571d"},
-		{"id":"17ee9a131f5aaa6a","x":2400,"y":-640,"width":357,"height":400,"type":"file","file":"Pasted image 20240728210302.png"}
+		{"id":"17ee9a131f5aaa6a","x":2380,"y":-860,"width":357,"height":400,"type":"file","file":"Pasted image 20240728210302.png"},
+		{"id":"32018d02a28a8451","x":2360,"y":-520,"width":382,"height":400,"type":"file","file":"Pasted image 20240728200221.png"}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
