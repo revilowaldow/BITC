@@ -37,6 +37,7 @@ Born anew
 
 
 
-
+10 mins - 4 turns left on starry form
+1 hour - 4 turns left on 
 
 

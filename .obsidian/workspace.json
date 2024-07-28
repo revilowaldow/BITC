@@ -57,8 +57,8 @@
               "state": {
                 "file": "Locations/Dog Prince Caves.canvas",
                 "viewState": {
-                  "x": 2042.7354618615223,
-                  "y": -133.89014537838602,
+                  "x": 2328.317682228801,
+                  "y": -114.85133068723408,
                   "zoom": -0.5504320396133813
                 }
               }
@@ -68,12 +68,16 @@
             "id": "6cf2cf90dfd28be9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/07 28 - Session 27.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Sessions/2024/07 28 - Session 27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Sessions/2024/07 28 - Session 27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas"
+                "file": "Sessions/2024/07 28 - Session 27.md"
               }
             }
           },
@@ -254,11 +258,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b09e91c4cb4b99cb",
+  "active": "6cf2cf90dfd28be9",
   "lastOpenFiles": [
+    "Locations/Dog Prince Caves.canvas",
     "Pasted image 20240728210302.png",
     "Pasted image 20240728200221.png",
-    "Locations/Dog Prince Caves.canvas",
     "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/05 19 - Session 22.md",
@@ -294,7 +298,6 @@
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Assets/Characters/Pasted image 20240421192129.png",
-    "Assets/Characters/Pasted image 20240211211148.png",
     "Factions/Local Arcanists",
     "Locations/Lachaka",
     "Jobs/Level 4",
