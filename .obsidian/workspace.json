@@ -294,7 +294,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -376,7 +376,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md",
+                "file": "Sessions/2024/07 14 - Session 26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -393,7 +393,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md",
+                "file": "Sessions/2024/07 14 - Session 26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -416,7 +416,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md"
+                "file": "Sessions/2024/07 14 - Session 26.md"
               }
             }
           },
@@ -475,10 +475,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "69be4cbc0d2713a1",
+  "active": "f4e63df5b8994a52",
   "lastOpenFiles": [
-    "Sessions/2024/07 14 - Session 26.md",
+    "Sessions/2024/06 30 - Session 25.md",
     "Sessions/2024/07 28 - Session 27.md",
+    "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/02 25 - Session 17.md",
@@ -489,7 +490,6 @@
     "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/06 16 - Session 24.md",
-    "Sessions/2024/06 30 - Session 25.md",
     "Locations/Dog Prince Caves.canvas",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
