@@ -18,6 +18,8 @@ Cool breeze
 Decay rot sweat, wooden club
 Mushrooms damp
 
+Sparring in large room, dozen bandits sparring training
+
 
 
 
