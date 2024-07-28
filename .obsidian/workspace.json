@@ -174,10 +174,60 @@
               "state": {
                 "file": "Locations/Coprun/Mine Layout.canvas",
                 "viewState": {
-                  "x": 2161.772924588498,
-                  "y": 723.5687576725512,
-                  "zoom": 0.33333333333333315
+                  "x": 1718.8880310893703,
+                  "y": -162.2010293257041,
+                  "zoom": -0.6666666666666667
                 }
+              }
+            }
+          },
+          {
+            "id": "4c02ee83c1b8c6d1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Coprun Mine Layout.jpg"
+              }
+            }
+          },
+          {
+            "id": "dd645fff0d4f0bbf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Vineyard Skirmish.png"
+              }
+            }
+          },
+          {
+            "id": "b789b284eb46969d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Eylaine Villa.png"
+              }
+            }
+          },
+          {
+            "id": "2430b1567d800075",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Eyelaine Villa 2.png"
+              }
+            }
+          },
+          {
+            "id": "e2e599cb3d9463ec",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240630212744.png"
               }
             }
           },
@@ -209,7 +259,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -291,7 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Pasted image 20240630212744.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +358,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
+                "file": "Pasted image 20240630212744.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,7 +381,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas"
+                "file": "Pasted image 20240630212744.png"
               }
             }
           },
@@ -390,13 +440,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fdb33ff96f45a808",
+  "active": "e2e599cb3d9463ec",
   "lastOpenFiles": [
-    "Sessions/2024/Cave Network.canvas",
+    "Eyelaine Villa 2.png",
+    "Eylaine Villa.png",
+    "Vineyard Skirmish.png",
+    "Coprun Mine Layout.jpg",
     "Locations/Coprun/Mine Layout.canvas",
+    "Sessions/2024/Cave Network.canvas",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "att.yoad-cUYjfi4WVYcVwwSNvTheTmLhz5basTaXceT6xU.jpg",
-    "att.nj0A-GrjBx0RmtKyOPq-kwwvVXap8a0XIMhSLM788LY.jpg",
     "Pasted image 20240714200147.png",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/07 14 - Session 26.md",
@@ -406,9 +459,6 @@
     "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Pasted image 20240630212744.png",
-    "Pasted image 20240630184823.png",
-    "Pasted image 20240630183537.png",
-    "Pasted image 20240630173705.png",
     "Setting Rules/Ration Rules.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/04 07 - Session 20.md",

@@ -4,7 +4,7 @@ Adam Recapping
 Kaulinan leads with plant growth to assist Utu and troops
 Party dart down back alley
 
-![[Pasted image 20240630173705.png]]
+![[Vineyard Skirmish.png]]
 
 Polish them off
 
@@ -14,7 +14,7 @@ Cultists present with two pronged daggers
 
 > "You bitch" - Virtelle
 
-![[Pasted image 20240630184823.png]]
+![[Eyelaine Villa 2.png]]
 
 "I am not like those killers in Kathkach, I truly have the favor of my god"
 
