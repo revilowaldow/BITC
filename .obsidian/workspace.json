@@ -30,6 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e6febe07a58db6b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Dog Prince Caves.canvas",
+                "viewState": {
+                  "x": 268.80300859598856,
+                  "y": -270.1568767908309,
+                  "zoom": -1.0944974337815168
+                }
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -215,20 +230,20 @@
   },
   "active": "77e15bc03d73c29a",
   "lastOpenFiles": [
+    "Locations/Dog Prince Caves.canvas",
+    "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2024/06 16 - Session 24.md",
-    "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Deity/Old/Aepoptosis.md",
     "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Setting Rules/Rules Index.md",
     "Setting Rules/Ration Rules.md",
-    "Locations/Cave Network.canvas",
     "Locations/Coprun/Mine Layout.canvas",
     "Assets/Maps/Coprun Mine Layout.jpg",
     "Pasted image 20240630212744.png",
@@ -250,7 +265,6 @@
     "Sessions/2023/06 18 - Session 4.md",
     "Deity/Old/Gotha.md",
     "Sessions/2023/07 02 - Session 5.md",
-    "Sessions/2023/11 05 - Session 11.md",
     "Assets/Characters/Pasted image 20240421192129.png",
     "Assets/Characters/Pasted image 20240211211148.png",
     "Assets/Maps/Topographic Map.png",
