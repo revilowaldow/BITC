@@ -28,7 +28,11 @@ One sounds older, gravellier, malicious
 confident suave voice
 Woman's voice, speaks least, commanding
 
-Large cages made of wood, 
+Large cages made of wood, 5 people at a time, chanting, arenas
+
+> Look for sister, 5 years younger shorter, dark hair [[Rev]]
+
+
 
 
 
