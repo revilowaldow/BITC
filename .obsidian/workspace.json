@@ -57,8 +57,8 @@
               "state": {
                 "file": "Locations/Dog Prince Caves.canvas",
                 "viewState": {
-                  "x": 1857.1951326133785,
-                  "y": -764.3439516776511,
+                  "x": 2378.459860223109,
+                  "y": -330.7255057014153,
                   "zoom": 0.11623462705328536
                 }
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Pasted image 20240728210302.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Pasted image 20240728210302.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas"
+                "file": "Pasted image 20240728210302.png"
               }
             }
           },
@@ -256,6 +256,7 @@
   },
   "active": "b09e91c4cb4b99cb",
   "lastOpenFiles": [
+    "Pasted image 20240728210302.png",
     "Pasted image 20240728200221.png",
     "Locations/Dog Prince Caves.canvas",
     "Sessions/2024/07 28 - Session 27.md",
@@ -294,7 +295,6 @@
     "Sessions/2023/06 18 - Session 4.md",
     "Assets/Characters/Pasted image 20240421192129.png",
     "Assets/Characters/Pasted image 20240211211148.png",
-    "Assets/Maps/Topographic Map.png",
     "Factions/Local Arcanists",
     "Locations/Lachaka",
     "Jobs/Level 4",
