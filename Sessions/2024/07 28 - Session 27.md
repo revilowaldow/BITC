@@ -12,5 +12,9 @@ Old man, wrinkled, stern, very large longbow, impressive arrows, large cave, und
 Older slender bookish figure, near to Kana
 Large dark bearded bandit, flag with black kathkach coin
 Cultist, impressive facial tattoos, smiling and knife
-Voices, 
+Voices, shut out
+
+Cool breeze
+Decay rot sweat
+
 
