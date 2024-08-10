@@ -88,12 +88,52 @@
             "id": "b8f4c680baeb0ed8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/07 28 - Session 27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01565629bdbbb18f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/07 14 - Session 26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e0074181e05f7c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caadb01d571ceb2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Utu Otaka.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -122,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Houndak",
+                "query": "utu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
+                "file": "Factions/Utu Otaka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
+                "file": "Factions/Utu Otaka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md"
+                "file": "Factions/Utu Otaka.md"
               }
             }
           },
@@ -274,9 +314,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5cfc01b76d36151",
+  "active": "caadb01d571ceb2d",
   "lastOpenFiles": [
+    "Factions/Helviti",
+    "Sessions/2023/05 07 - Session 1.md",
+    "Factions/Utu Otaka.md",
+    "Sessions/2024/06 30 - Session 25.md",
+    "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/07 28 - Session 27.md",
+    "Sessions/2023/09 10 - Session 8.md",
     "Locations/Dog Prince Caves.canvas",
     "Pasted image 20240728210302.png",
     "Pasted image 20240728200221.png",
@@ -285,10 +331,8 @@
     "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2024/03 24 - Session 19.md",
-    "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Pasted image 20240630212744.png",
-    "Sessions/2024/06 30 - Session 25.md",
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/02 25 - Session 17.md",
@@ -308,11 +352,8 @@
     "Pasted image 20240714200147.png",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
-    "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Sessions/2024/Caenis Comms with Kana.md",
-    "Factions/Local Arcanists/Vixel.md",
-    "Sessions/2023/06 18 - Session 4.md",
     "Assets/Characters/Pasted image 20240421192129.png",
     "Factions/Local Arcanists",
     "Locations/Lachaka",
