@@ -28,10 +28,10 @@ Kana likely to destroy herself
 They want us to get better
 
 Panther
-2
 7
 7
 6
+2
 2
 13
 
