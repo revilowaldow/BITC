@@ -45,4 +45,4 @@ FDuckinnnn druids
 
 Next session on 1st
 
-
+![[Pasted image 20240811214429.png]]
