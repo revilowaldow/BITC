@@ -11,5 +11,8 @@ Loot big room
 4 bronze shortswords
 4 shortbows
 41 bullets - with notes
-20
+20 arrows
+39 cp
+2 sp
+
 
