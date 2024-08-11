@@ -12,7 +12,7 @@ Loot big room
 4 shortbows
 41 bullets - with notes
 20 arrows
-39 cp
-2 sp
+~~39 cp~~
+~~2 sp~~
 
 
