@@ -32,6 +32,14 @@
             }
           },
           {
+            "id": "2e11ff98ea28ba67",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "588939890135e2f7",
             "type": "leaf",
             "state": {
@@ -39,15 +47,15 @@
               "state": {
                 "file": "Locations/Dog Prince Caves.canvas",
                 "viewState": {
-                  "x": 1482.5012366317014,
-                  "y": -938.5425725879012,
+                  "x": 1906.5074529788908,
+                  "y": -726.5394644143065,
                   "zoom": -0.18878279493516853
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md",
+                "file": "Locations/Dog Prince Caves.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md",
+                "file": "Locations/Dog Prince Caves.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md"
+                "file": "Locations/Dog Prince Caves.canvas"
               }
             }
           },
@@ -228,10 +236,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "583b0a679d9bb2ce",
+  "active": "588939890135e2f7",
   "lastOpenFiles": [
-    "Locations/Dog Prince Caves.canvas",
     "Sessions/2024/07 28 - Session 27.md",
+    "Locations/Dog Prince Caves.canvas",
     "Sessions/2024/08 11 - Session 28.md",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/06 02 - Session 23.md",
