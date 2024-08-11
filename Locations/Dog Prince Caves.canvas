@@ -35,8 +35,8 @@
 		{"id":"64803ec35e192a7d","fromNode":"8e20c7632cb9ead1","fromSide":"top","toNode":"71097c780e9425c1","toSide":"bottom","color":"5"},
 		{"id":"fd72c5e0f541c660","fromNode":"59d7896cbe264f68","fromSide":"right","toNode":"2a560774f62972dd","toSide":"top","label":"Damp, Non-stale air\nDiluted dog smell\n60ft to x shaped juntion"},
 		{"id":"48207aaae0f95696","fromNode":"59d7896cbe264f68","fromSide":"bottom","toNode":"d313e4d527ce6d0c","toSide":"right","label":"Smells like dog\nUrine Faeces"},
-		{"id":"2fa4c5592d7e53e9","fromNode":"2a560774f62972dd","fromSide":"right","toNode":"eddc0bcabea7044c","toSide":"left"},
-		{"id":"e772d28771fd752e","fromNode":"2a560774f62972dd","fromSide":"bottom","toNode":"4682b079d143ca86","toSide":"top"},
-		{"id":"c5b9164f3fd7f24e","fromNode":"2a560774f62972dd","fromSide":"left","toNode":"cc5b58165ccbdd3a","toSide":"right"}
+		{"id":"2fa4c5592d7e53e9","fromNode":"2a560774f62972dd","fromSide":"right","toNode":"eddc0bcabea7044c","toSide":"left","label":"Smell of Ozone"},
+		{"id":"e772d28771fd752e","fromNode":"2a560774f62972dd","fromSide":"bottom","toNode":"4682b079d143ca86","toSide":"top","label":"Faint smell of dog"},
+		{"id":"c5b9164f3fd7f24e","fromNode":"2a560774f62972dd","fromSide":"left","toNode":"cc5b58165ccbdd3a","toSide":"right","label":"Very strong smell of dog"}
 	]
 }
