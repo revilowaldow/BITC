@@ -50,12 +50,44 @@
             "id": "5ce89b46f6a12017",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240630212744.png"
+              }
+            }
+          },
+          {
+            "id": "34efbdfea79a2e6b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Main Chamber 2.png"
+              }
+            }
+          },
+          {
+            "id": "afa2d2fd975c562a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240811191126.png"
+              }
+            }
+          },
+          {
+            "id": "db806bcf5fd3186b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Main Chamber.png"
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Pasted image 20240811191126.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Pasted image 20240811191126.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas"
+                "file": "Pasted image 20240811191126.png"
               }
             }
           },
@@ -236,11 +268,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "588939890135e2f7",
+  "active": "afa2d2fd975c562a",
   "lastOpenFiles": [
+    "Main Chamber 2.png",
+    "Main Chamber.png",
+    "Pasted image 20240630212744.png",
+    "Locations/Dog Prince Caves.canvas",
     "Sessions/2024/08 11 - Session 28.md",
     "Sessions/2024/07 28 - Session 27.md",
-    "Locations/Dog Prince Caves.canvas",
     "Pasted image 20240811191126.png",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/06 02 - Session 23.md",
@@ -255,13 +290,10 @@
     "Utu.md",
     "Factions/Helviti",
     "Sessions/2023/09 10 - Session 8.md",
-    "Pasted image 20240728210302.png",
-    "Pasted image 20240728200221.png",
     "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2024/03 24 - Session 19.md",
-    "Pasted image 20240630212744.png",
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/02 25 - Session 17.md",
