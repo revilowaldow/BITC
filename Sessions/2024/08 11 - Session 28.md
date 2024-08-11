@@ -6,4 +6,10 @@ I am recapping
 
 Loot big room
 
+8 clubs
+8 slings
+4 bronze shortswords
+4 shortbows
+41 bullets - with notes
+20
 
