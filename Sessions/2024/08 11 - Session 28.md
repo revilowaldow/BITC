@@ -7,9 +7,9 @@ I am recapping
 Loot big room
 
 8 clubs
-8 slings
+8 slings - 1 for kaulinana
 4 bronze shortswords
-4 shortbows
+4 shortbows - 1 for caenis
 41 bullets - with notes
 20 arrows
 ~~39 cp~~
