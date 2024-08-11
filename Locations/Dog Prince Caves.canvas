@@ -21,7 +21,7 @@
 		{"id":"eddc0bcabea7044c","x":3351,"y":-580,"width":389,"height":537,"type":"text","text":"Dimly lit by candles\n\nAltar, stone slab\nDismembered body\nman with red hands on altar\n50/40 ft diameter\n\nRitual\nCultist, knows who we are\nName was [[Zetella]]\n\nThey want to see two people go at each other\nKana likely to destroy herself\nThey want us to get better\n\nThodunn took damage on killing the guy"},
 		{"id":"e6008282cedaa072","x":3340,"y":-1200,"width":400,"height":352,"type":"file","file":"Pasted image 20240811191126.png"},
 		{"id":"9837fdb55601767a","x":3840,"y":-820,"width":250,"height":60,"type":"text","text":"."},
-		{"id":"052b0c281aafd4bb","x":4000,"y":-341,"width":250,"height":60,"type":"text","text":"."}
+		{"id":"052b0c281aafd4bb","x":4020,"y":-422,"width":250,"height":221,"type":"text","text":"Dead end\nBronze Mace\nStone Daggers"}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
