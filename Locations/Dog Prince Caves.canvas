@@ -17,12 +17,12 @@
 		{"id":"eddc0bcabea7044c","x":3351,"y":-580,"width":389,"height":537,"type":"text","text":"Dimly lit by candles\n\nAltar, stone slab\nDismembered body\nman with red hands on altar\n50/40 ft diameter\n\nRitual\nCultist, knows who we are\nName was [[Zetella]]\n\nThey want to see two people go at each other\nKana likely to destroy herself\nThey want us to get better\n\nThodunn took damage on killing the guy"},
 		{"id":"052b0c281aafd4bb","x":3920,"y":-592,"width":250,"height":221,"type":"text","text":"Dead end\nBronze Mace\nStone Daggers"},
 		{"id":"e6008282cedaa072","x":3840,"y":-335,"width":400,"height":352,"type":"file","file":"Pasted image 20240811191126.png"},
-		{"id":"9837fdb55601767a","x":3421,"y":-1132,"width":250,"height":250,"type":"text","text":"Cultist Barrakcs\n5 Robed figures\nIndeterminate exits"},
+		{"id":"9837fdb55601767a","x":3421,"y":-1132,"width":250,"height":250,"type":"text","text":"Cultist Barracks\n5 Robed figures\nIndeterminate exits"},
 		{"id":"12c348c0a2c8f31b","x":3421,"y":-1360,"width":250,"height":60,"type":"text","text":"."},
-		{"id":"e4a9bfcf2009871d","type":"text","text":".","x":1490,"y":80,"width":250,"height":60},
-		{"id":"d313e4d527ce6d0c","type":"text","text":".","x":1790,"y":-13,"width":250,"height":58},
+		{"id":"4682b079d143ca86","x":3101,"y":360,"width":250,"height":50,"type":"text","text":"."},
+		{"id":"d313e4d527ce6d0c","type":"text","text":".","x":1915,"y":-13,"width":250,"height":58},
 		{"id":"cc5b58165ccbdd3a","x":1915,"y":140,"width":250,"height":60,"type":"text","text":"."},
-		{"id":"4682b079d143ca86","x":3101,"y":440,"width":250,"height":60,"type":"text","text":"."}
+		{"id":"e4a9bfcf2009871d","type":"text","text":".","x":1580,"y":80,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
@@ -38,7 +38,7 @@
 		{"id":"41286295204e9821","fromNode":"8e20c7632cb9ead1","fromSide":"right","toNode":"0701e14a58de5faa","toSide":"left","label":"10ft wide, goes to bend, then curtain"},
 		{"id":"64803ec35e192a7d","fromNode":"8e20c7632cb9ead1","fromSide":"top","toNode":"71097c780e9425c1","toSide":"bottom","color":"5"},
 		{"id":"fd72c5e0f541c660","fromNode":"59d7896cbe264f68","fromSide":"right","toNode":"2a560774f62972dd","toSide":"top","label":"Damp, Non-stale air\nDiluted dog smell\n60ft to x shaped juntion"},
-		{"id":"48207aaae0f95696","fromNode":"59d7896cbe264f68","fromSide":"bottom","toNode":"d313e4d527ce6d0c","toSide":"right","label":"Smells like dog\nUrine Faeces"},
+		{"id":"48207aaae0f95696","fromNode":"59d7896cbe264f68","fromSide":"bottom","toNode":"d313e4d527ce6d0c","toSide":"top","label":"Smells like dog\nUrine Faeces"},
 		{"id":"2fa4c5592d7e53e9","fromNode":"2a560774f62972dd","fromSide":"right","toNode":"eddc0bcabea7044c","toSide":"left","label":"60ft\nSmell of Ozone\nEnds in wooden door"},
 		{"id":"e772d28771fd752e","fromNode":"2a560774f62972dd","fromSide":"bottom","toNode":"4682b079d143ca86","toSide":"top","label":"60ft Faint smell of dog\nClanging sound\nVoices"},
 		{"id":"c5b9164f3fd7f24e","fromNode":"2a560774f62972dd","fromSide":"left","toNode":"cc5b58165ccbdd3a","toSide":"right","label":"60ft\nVery strong smell of dog\n"},
