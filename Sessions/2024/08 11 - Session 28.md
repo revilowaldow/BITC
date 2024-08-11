@@ -15,6 +15,11 @@ Loot big room
 ~~39 cp~~
 ~~2 sp~~
 
+Killed Cultist
+Red hands on altar
+Reanimated twice
+Gout of blood injured thodunn
+
 
 
 
