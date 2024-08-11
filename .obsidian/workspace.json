@@ -8,6 +8,66 @@
         "type": "tabs",
         "children": [
           {
+            "id": "e4ef90af1bf324e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/08 11 - Session 28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e772e0c5acf0aecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/07 14 - Session 26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00266ed817ffd13f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/06 30 - Session 25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fe3fea0bd7e876e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/06 16 - Session 24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d9478bd72b81842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/06 02 - Session 23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "588939890135e2f7",
             "type": "leaf",
             "state": {
@@ -15,27 +75,14 @@
               "state": {
                 "file": "Locations/Dog Prince Caves.canvas",
                 "viewState": {
-                  "x": 1549.7495343856913,
-                  "y": -964.7958936842494,
+                  "x": 2224.512115239283,
+                  "y": -832.5410185011038,
                   "zoom": -0.18878279493516853
                 }
               }
             }
-          },
-          {
-            "id": "e4ef90af1bf324e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md",
+                "file": "Sessions/2024/08 11 - Session 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md",
+                "file": "Sessions/2024/08 11 - Session 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md"
+                "file": "Sessions/2024/08 11 - Session 28.md"
               }
             }
           },
@@ -218,11 +265,13 @@
   },
   "active": "e4ef90af1bf324e2",
   "lastOpenFiles": [
+    "Sessions/2024/06 02 - Session 23.md",
     "Locations/Dog Prince Caves.canvas",
+    "Sessions/2024/08 11 - Session 28.md",
     "Sessions/2024/07 28 - Session 27.md",
-    "Sessions/2024/07 14 - Session 26.md",
-    "Sessions/2024/06 30 - Session 25.md",
     "Sessions/2024/06 16 - Session 24.md",
+    "Sessions/2024/06 30 - Session 25.md",
+    "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Factions/Helviti/Utu Otaka.md",
     "Factions/Palanda Macav.md",
@@ -234,7 +283,6 @@
     "Sessions/2023/09 10 - Session 8.md",
     "Pasted image 20240728210302.png",
     "Pasted image 20240728200221.png",
-    "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/04 07 - Session 20.md",
@@ -249,7 +297,6 @@
     "Deity/Old/Aepoptosis.md",
     "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
     "Setting Rules/Valid Wild Shapes.md",
-    "Setting Rules/Rules Index.md",
     "Assets/Maps/Coprun Mine Layout.jpg",
     "Assets/Maps/Eyelaine Villa 2.png",
     "Assets/Maps/Eylaine Villa.png",
