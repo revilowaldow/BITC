@@ -18,7 +18,7 @@
 		{"id":"cc5b58165ccbdd3a","x":2070,"y":194,"width":250,"height":60,"type":"text","text":"."},
 		{"id":"2a560774f62972dd","type":"text","text":"x shaped juntion","x":2620,"y":-43,"width":250,"height":60},
 		{"id":"4682b079d143ca86","x":3101,"y":320,"width":250,"height":60,"type":"text","text":"."},
-		{"id":"eddc0bcabea7044c","x":3351,"y":-482,"width":250,"height":240,"type":"text","text":"Dimly lit by candles\n\n"}
+		{"id":"eddc0bcabea7044c","x":3351,"y":-520,"width":329,"height":362,"type":"text","text":"Dimly lit by candles\n\nAltar, stone slab\nDismembered body\nman with red hands on altar\n50/40 ft diameter\n"}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
