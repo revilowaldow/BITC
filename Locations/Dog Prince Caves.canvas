@@ -22,7 +22,7 @@
 		{"id":"d313e4d527ce6d0c","type":"text","text":".","x":1915,"y":-13,"width":250,"height":58},
 		{"id":"cc5b58165ccbdd3a","type":"text","text":".","x":1915,"y":140,"width":250,"height":60},
 		{"id":"e4a9bfcf2009871d","type":"text","text":".","x":1580,"y":80,"width":250,"height":60},
-		{"id":"4682b079d143ca86","type":"text","text":"Sounds of Toil and labour\nhoes striking dirt\nCommoners\nSack Linen Clothes\nRows and rows of mushrooms\nSpores in air\n\nGuards\n- bandi\n\n\n\n","x":3000,"y":260,"width":640,"height":280}
+		{"id":"4682b079d143ca86","type":"text","text":"Sounds of Toil and labour\nhoes striking dirt\nCommoners\nSack Linen Clothes\nRows and rows of mushrooms\nSpores in air\n\nGuards\n- bandits\n- Raiders\n- Tower with armoured guards\n- \n\n\n\n","x":3000,"y":260,"width":640,"height":280}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
