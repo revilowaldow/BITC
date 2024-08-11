@@ -20,6 +20,6 @@ Red hands on altar
 Reanimated twice
 Gout of blood injured thodunn
 
-
+The cultists seem to want us to 
 
 
