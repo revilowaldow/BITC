@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69be4cbc0d2713a1",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
-                "viewState": {
-                  "x": 1332.1541240485024,
-                  "y": -770.1355039120268,
-                  "zoom": -0.3151684672023835
-                }
-              }
-            }
-          },
-          {
             "id": "588939890135e2f7",
             "type": "leaf",
             "state": {
@@ -38,53 +23,6 @@
             }
           },
           {
-            "id": "501aeed4ac859095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b09e91c4cb4b99cb",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
-                "viewState": {
-                  "x": 2328.317682228801,
-                  "y": -114.85133068723408,
-                  "zoom": -0.5504320396133813
-                }
-              }
-            }
-          },
-          {
-            "id": "6cf2cf90dfd28be9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d5cfc01b76d36151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b8f4c680baeb0ed8",
             "type": "leaf",
             "state": {
@@ -95,125 +33,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "01565629bdbbb18f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/07 14 - Session 26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c6f5478959a209d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/06 30 - Session 25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69816014e2440bfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/06 16 - Session 24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e66689d42ed9656d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4e0074181e05f7c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "caadb01d571ceb2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Helviti/Utu Otaka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12b8301dbf98f1b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Palanda Macav.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dece76c5806e4808",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Shaku Toto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9b734fbc1819cce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/The Cooking Association.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fa6694548557827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Aegan Empire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/06 16 - Session 24.md",
+                "file": "Sessions/2024/07 28 - Session 27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/06 16 - Session 24.md",
+                "file": "Sessions/2024/07 28 - Session 27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -335,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/06 16 - Session 24.md"
+                "file": "Sessions/2024/07 28 - Session 27.md"
               }
             }
           },
@@ -394,22 +216,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "b8f4c680baeb0ed8",
   "lastOpenFiles": [
-    "Utu.md",
-    "Sessions/2024/06 16 - Session 24.md",
-    "Sessions/2024/06 30 - Session 25.md",
-    "Sessions/2024/07 14 - Session 26.md",
-    "Sessions/2024/07 28 - Session 27.md",
-    "Factions/Aegan Empire.md",
-    "Factions/The Cooking Association.md",
-    "Factions/Shaku Toto.md",
-    "Factions/Palanda Macav.md",
-    "Factions/Helviti/Utu Otaka.md",
-    "Factions/Helviti",
-    "Sessions/2023/05 07 - Session 1.md",
-    "Sessions/2023/09 10 - Session 8.md",
     "Locations/Dog Prince Caves.canvas",
+    "Sessions/2024/07 28 - Session 27.md",
+    "Sessions/2024/07 14 - Session 26.md",
+    "Sessions/2024/06 30 - Session 25.md",
+    "Sessions/2024/06 16 - Session 24.md",
+    "Sessions/2023/05 07 - Session 1.md",
+    "Factions/Helviti/Utu Otaka.md",
+    "Factions/Palanda Macav.md",
+    "Factions/Shaku Toto.md",
+    "Factions/The Cooking Association.md",
+    "Factions/Aegan Empire.md",
+    "Utu.md",
+    "Factions/Helviti",
+    "Sessions/2023/09 10 - Session 8.md",
     "Pasted image 20240728210302.png",
     "Pasted image 20240728200221.png",
     "Sessions/2024/06 02 - Session 23.md",
@@ -428,7 +250,6 @@
     "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Setting Rules/Rules Index.md",
-    "Setting Rules/Ration Rules.md",
     "Assets/Maps/Coprun Mine Layout.jpg",
     "Assets/Maps/Eyelaine Villa 2.png",
     "Assets/Maps/Eylaine Villa.png",
