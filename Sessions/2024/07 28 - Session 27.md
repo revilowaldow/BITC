@@ -41,10 +41,3 @@ Born anew
 1 hour - 4 turns left on panthers
 Of 8, 1 panther at 6 hp, 1 dead
 
-2
-7
-7
-2
-6
-2
-13
