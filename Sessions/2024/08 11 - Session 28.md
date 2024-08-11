@@ -36,4 +36,6 @@ Panther
 13
 
 Mushrooms
-Grown as c
+Grown as cultivated
+Dark locations with undisturbed soil
+Substitute for protein
