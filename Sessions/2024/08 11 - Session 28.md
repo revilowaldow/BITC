@@ -35,3 +35,5 @@ Panther
 2
 13
 
+Mushrooms
+Grown as c
