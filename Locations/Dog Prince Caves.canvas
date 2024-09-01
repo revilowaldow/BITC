@@ -27,7 +27,7 @@
 		{"id":"1ca4ae7e73289a2b","type":"text","text":"Y-junction","x":3790,"y":590,"width":170,"height":60},
 		{"id":"9adff0718d596348","type":"text","text":"Kana's Quarters\nDoctor?\nModest room, some shelves\nParchment, books, papyrus\nComfortable bed\nChest\n\nWeapons\n\tLongbow - decorated with bands of bronze\n\t\t5 arrows\n\tSpear - Bronze\n\nTable\n\tPile of papers\n\n\n[[Domicilus]] - Aegan Doctor\n\n\n\n\n\n\n","x":4060,"y":915,"width":415,"height":600},
 		{"id":"30244d82e0d1453f","type":"text","text":"Healing pool with moss\nGood vitamins","x":4620,"y":1150,"width":250,"height":130,"color":"5"},
-		{"id":"6400e5d8a88c0d04","type":"text","text":"Dog Prince\nAlone with dogs 4/5\n","x":4475,"y":160,"width":250,"height":180}
+		{"id":"6400e5d8a88c0d04","type":"text","text":"Dog Prince\nAlone with dogs 4/5\n","x":4440,"y":100,"width":250,"height":180}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
@@ -51,7 +51,7 @@
 		{"id":"e772d28771fd752e","fromNode":"2a560774f62972dd","fromSide":"bottom","toNode":"4682b079d143ca86","toSide":"left","label":"60ft Faint smell of dog\nClanging sound\nVoices\nSharp Bend that twists to right"},
 		{"id":"4320b46fa5deb2fa","fromNode":"4682b079d143ca86","fromSide":"right","toNode":"1ca4ae7e73289a2b","toSide":"left","label":"100ft\n10ft wide"},
 		{"id":"6d422b2a4d680711","fromNode":"1ca4ae7e73289a2b","fromSide":"bottom","toNode":"9adff0718d596348","toSide":"left","label":"pleasant cool sensation\n100ft\nSlightly rotted door"},
-		{"id":"5951cbd51d48777a","fromNode":"1ca4ae7e73289a2b","fromSide":"top","toNode":"6400e5d8a88c0d04","toSide":"left","label":"Dog teeth\n100ft to rt"},
+		{"id":"5951cbd51d48777a","fromNode":"1ca4ae7e73289a2b","fromSide":"top","toNode":"6400e5d8a88c0d04","toSide":"left","label":"Dog teeth\n100ft to rags of cloth"},
 		{"id":"3e7db44b6fdadd64","fromNode":"cc5b58165ccbdd3a","fromSide":"bottom","toNode":"32f7a1914cc5f58b","toSide":"top","color":"#000000"},
 		{"id":"905c99de1260f323","fromNode":"38efd21b505cb803","fromSide":"right","toNode":"cc5b58165ccbdd3a","toSide":"left","label":"North East"},
 		{"id":"48207aaae0f95696","fromNode":"59d7896cbe264f68","fromSide":"bottom","toNode":"cc5b58165ccbdd3a","toSide":"top","label":"Smells like dog\nUrine Faeces"},
