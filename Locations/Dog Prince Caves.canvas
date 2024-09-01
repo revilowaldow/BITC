@@ -48,7 +48,7 @@
 		{"id":"f1c49fe51103ae59","fromNode":"9837fdb55601767a","fromSide":"top","toNode":"12c348c0a2c8f31b","toSide":"bottom","label":"exit heading north"},
 		{"id":"82cb65cdefa856ae","fromNode":"4682b079d143ca86","fromSide":"bottom","toNode":"094cb3669995e012","toSide":"top"},
 		{"id":"e772d28771fd752e","fromNode":"2a560774f62972dd","fromSide":"bottom","toNode":"4682b079d143ca86","toSide":"left","label":"60ft Faint smell of dog\nClanging sound\nVoices\nSharp Bend that twists to right"},
-		{"id":"4320b46fa5deb2fa","fromNode":"4682b079d143ca86","fromSide":"right","toNode":"1ca4ae7e73289a2b","toSide":"left","label":"100ft"},
+		{"id":"4320b46fa5deb2fa","fromNode":"4682b079d143ca86","fromSide":"right","toNode":"1ca4ae7e73289a2b","toSide":"left","label":"100ft\n10ft wide"},
 		{"id":"6d422b2a4d680711","fromNode":"1ca4ae7e73289a2b","fromSide":"bottom","toNode":"9adff0718d596348","toSide":"left","label":"pleasant cool sensation"},
 		{"id":"5951cbd51d48777a","fromNode":"1ca4ae7e73289a2b","fromSide":"top","toNode":"6400e5d8a88c0d04","toSide":"left","label":"Dog teeth"},
 		{"id":"3e7db44b6fdadd64","fromNode":"cc5b58165ccbdd3a","fromSide":"bottom","toNode":"32f7a1914cc5f58b","toSide":"top","color":"#000000"},
