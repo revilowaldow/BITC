@@ -35,6 +35,18 @@
             }
           },
           {
+            "id": "82ff79446790958b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Local Arcanists/Vixel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "abf7de231a783fa0",
             "type": "leaf",
             "state": {
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Factions/Local Arcanists/Vixel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Factions/Local Arcanists/Vixel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas"
+                "file": "Factions/Local Arcanists/Vixel.md"
               }
             }
           },
@@ -243,11 +255,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aacead4ff75d355f",
+  "active": "82ff79446790958b",
   "lastOpenFiles": [
     "Sessions/2024/09 01 - Session 29.md",
-    "Locations/Dog Prince Caves.canvas",
     "Sessions/2024/08 11 - Session 28.md",
+    "Locations/Dog Prince Caves.canvas",
     "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/06 30 - Session 25.md",
