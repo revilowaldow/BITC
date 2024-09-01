@@ -27,7 +27,7 @@
 		{"id":"1ca4ae7e73289a2b","type":"text","text":"Y-junction","x":3790,"y":590,"width":170,"height":60},
 		{"id":"9adff0718d596348","type":"text","text":"Kana's Quarters\nDoctor?\nModest room, some shelves\nParchment, books, papyrus\nComfortable bed\nChest\n\nWeapons\n\tLongbow - decorated with bands of bronze\n\t\t5 arrows\n\tSpear - Bronze\n\nTable\n\tPile of papers\n\n\n[[Domicilus]] - Aegan Doctor\n\n\n\n\n\n\n","x":4060,"y":915,"width":415,"height":600},
 		{"id":"30244d82e0d1453f","type":"text","text":"Healing pool with moss\nGood vitamins","x":4620,"y":1150,"width":250,"height":130,"color":"5"},
-		{"id":"6400e5d8a88c0d04","type":"text","text":"Dog Prince\nAlone with dogs 4/5\n\n\nTowers 30ft high\nAll others 15 \n\n","x":4440,"y":100,"width":440,"height":340},
+		{"id":"6400e5d8a88c0d04","type":"text","text":"Dog Prince\nAlone with dogs 4/5\n\n\nTowers 30ft high\nAll others 15ft or base level\n\n\n\n","x":4440,"y":100,"width":440,"height":340},
 		{"id":"ed5bc51af56f7e2d","x":5066,"y":54,"width":1014,"height":813,"type":"file","file":"Pasted image 20240901200422.png"}
 	],
 	"edges":[
