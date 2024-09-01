@@ -14,4 +14,4 @@ Caenis nearly thrown into pit
 Try to convince raider to become a nice person
 
 Rowan 
-Old bandit, leuten
+Old bandit, lieutenant of the 
