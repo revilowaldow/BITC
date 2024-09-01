@@ -15,11 +15,19 @@
               "state": {
                 "file": "Locations/Dog Prince Caves.canvas",
                 "viewState": {
-                  "x": 4223.710840977179,
-                  "y": 924.1602193226722,
+                  "x": 4344.441602459852,
+                  "y": 561.9679348746463,
                   "zoom": -0.3457938945227658
                 }
               }
+            }
+          },
+          {
+            "id": "2f152b7d507dc890",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
