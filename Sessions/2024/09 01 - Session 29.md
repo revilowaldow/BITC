@@ -18,3 +18,6 @@ Old bandit, lieutenant of the dog prince
 
 > "Our partnership is terminated mongrel"
 
+![[Dog Prince.png]]
+
+

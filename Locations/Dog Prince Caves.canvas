@@ -28,7 +28,7 @@
 		{"id":"9adff0718d596348","type":"text","text":"Kana's Quarters\nDoctor?\nModest room, some shelves\nParchment, books, papyrus\nComfortable bed\nChest\n\nWeapons\n\tLongbow - decorated with bands of bronze\n\t\t5 arrows\n\tSpear - Bronze\n\nTable\n\tPile of papers\n\n\n[[Domicilus]] - Aegan Doctor\n\n\n\n\n\n\n","x":4060,"y":915,"width":415,"height":600},
 		{"id":"30244d82e0d1453f","type":"text","text":"Healing pool with moss\nGood vitamins","x":4620,"y":1150,"width":250,"height":130,"color":"5"},
 		{"id":"6400e5d8a88c0d04","type":"text","text":"Dog Prince\nAlone with dogs 4/5\n\n\nTowers 30ft high\nAll others 15ft or base level\n\n\n\n","x":4440,"y":100,"width":440,"height":340},
-		{"id":"9d820de972808f59","x":5037,"y":-9,"width":863,"height":860,"type":"file","file":"Pasted image 20240901201137.png"}
+		{"id":"9d820de972808f59","type":"file","file":"Assets/Maps/Dog Prince.png","x":5037,"y":-9,"width":863,"height":860}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
