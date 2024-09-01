@@ -26,8 +26,12 @@
             "id": "2f152b7d507dc890",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Deity/Old/Aepoptosis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -81,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Sessions/2024/09 01 - Session 29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Sessions/2024/09 01 - Session 29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas"
+                "file": "Sessions/2024/09 01 - Session 29.md"
               }
             }
           },
@@ -262,12 +267,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "129d33d93a58405f",
+  "active": "d94067b0c20366b0",
   "lastOpenFiles": [
+    "Deity/Old/Aepoptosis.md",
+    "Locations/Dog Prince Caves.canvas",
     "Sessions/2024/09 01 - Session 29.md",
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/08 11 - Session 28.md",
-    "Locations/Dog Prince Caves.canvas",
     "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/06 30 - Session 25.md",
@@ -298,8 +304,6 @@
     "Sessions/2024/03 10 - Session 18.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
-    "Deity/Old/Aepoptosis.md",
-    "Locations/Lachaka/JournalEntry.GbxIvNuSOf6usjAy.md",
     "Assets/Maps/Coprun Mine Layout.jpg",
     "Assets/Maps/Eyelaine Villa 2.png",
     "Assets/Maps/Eylaine Villa.png",
