@@ -19,16 +19,14 @@
 		{"id":"e6008282cedaa072","type":"file","file":"Assets/Maps/Cultist Altar.png","x":3840,"y":-335,"width":400,"height":352},
 		{"id":"9837fdb55601767a","type":"text","text":"Cultist Barracks\n5 Robed figures\nIndeterminate exits","x":3421,"y":-1132,"width":250,"height":250},
 		{"id":"12c348c0a2c8f31b","type":"text","text":".","x":3421,"y":-1360,"width":250,"height":60},
-		{"id":"d313e4d527ce6d0c","type":"text","text":".","x":1915,"y":-13,"width":250,"height":58},
-		{"id":"cc5b58165ccbdd3a","type":"text","text":".","x":1915,"y":140,"width":250,"height":60},
-		{"id":"e4a9bfcf2009871d","type":"text","text":".","x":1580,"y":80,"width":250,"height":60},
 		{"id":"094cb3669995e012","type":"text","text":"Large Open Chasm","x":3065,"y":960,"width":250,"height":60},
 		{"id":"ff1653fc3e5aa910","type":"file","file":"Pasted image 20240811211117.png","x":2938,"y":17,"width":505,"height":305},
 		{"id":"4682b079d143ca86","type":"text","text":"Open Chasm\nSounds of Toil and labour\nhoes striking dirt\nCommoners\nSack Linen Clothes\nRows and rows of mushrooms\nSpores in air\n\nGuards\n- bandits\n- Raiders\n- Tower with armoured guards\n- \n\nSend a messenger to the big guy, but footsteps go away\n\n\n","x":2870,"y":380,"width":640,"height":480},
 		{"id":"1ca4ae7e73289a2b","type":"text","text":"fork","x":3940,"y":590,"width":250,"height":60},
-		{"id":"9adff0718d596348","x":4380,"y":380,"width":250,"height":60,"type":"text","text":"Kana's room"},
+		{"id":"9adff0718d596348","x":4380,"y":380,"width":250,"height":120,"type":"text","text":"Kana's Quarters\nDoctor?"},
 		{"id":"6400e5d8a88c0d04","x":4065,"y":860,"width":250,"height":180,"type":"text","text":"Dog Prince\nAlone with dogs 4/5\n"},
-		{"id":"32f7a1914cc5f58b","x":1830,"y":363,"width":250,"height":194,"type":"text","text":"Pens for prisoners are here near kennels"}
+		{"id":"cc5b58165ccbdd3a","type":"text","text":"Kennels (warren)","x":1880,"y":110,"width":250,"height":60,"color":"#000000"},
+		{"id":"32f7a1914cc5f58b","x":1820,"y":380,"width":370,"height":97,"color":"#000000","type":"text","text":"Pens for prisoners are here near kennels\nPrisons\nArenas"}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
@@ -37,14 +35,14 @@
 		{"id":"643b3104d2a20198","fromNode":"f2ad7198516c6b43","fromSide":"bottom","toNode":"38efd21b505cb803","toSide":"left","label":"Long winding rock corridor\nMore trafficked\nBend halfway\nCurtain covers next room\n75ft"},
 		{"id":"68ff5b25b52687e0","fromNode":"20f9f8eab35adc8f","fromSide":"top","toNode":"3edcd918df61822a","toSide":"bottom","label":"50ft then light\nSounds of wind / draft"},
 		{"id":"c26d89306e03ec43","fromNode":"20f9f8eab35adc8f","fromSide":"bottom","toNode":"38efd21b505cb803","toSide":"top","label":"50ft then curtain\nSame sounds of eating etc"},
-		{"id":"905c99de1260f323","fromNode":"38efd21b505cb803","fromSide":"right","toNode":"e4a9bfcf2009871d","toSide":"left","label":"North East"},
+		{"id":"905c99de1260f323","fromNode":"38efd21b505cb803","fromSide":"right","toNode":"cc5b58165ccbdd3a","toSide":"left","label":"North East"},
 		{"id":"ee457a34c5b1db65","fromNode":"3edcd918df61822a","fromSide":"right","toNode":"8e20c7632cb9ead1","toSide":"left","label":"10ft wide 100ft long\nCorridor back into caves\nSome barefoot tracks, only in"},
 		{"id":"f1c7349c62ae7db5","fromNode":"3edcd918df61822a","fromSide":"left","toNode":"f6e28901998a174a","toSide":"right","color":"2","label":"Narrow Ravine"},
 		{"id":"38428e960b199584","fromNode":"8e20c7632cb9ead1","fromSide":"right","toNode":"59d7896cbe264f68","toSide":"top","label":"Curtained exit, goes south 50ft from fork, more trafficed, many more dogs, bare feet, sounds of shouts commands"},
 		{"id":"41286295204e9821","fromNode":"8e20c7632cb9ead1","fromSide":"right","toNode":"0701e14a58de5faa","toSide":"left","label":"10ft wide, goes to bend, then curtain"},
 		{"id":"64803ec35e192a7d","fromNode":"8e20c7632cb9ead1","fromSide":"top","toNode":"71097c780e9425c1","toSide":"bottom","color":"5"},
 		{"id":"fd72c5e0f541c660","fromNode":"59d7896cbe264f68","fromSide":"right","toNode":"2a560774f62972dd","toSide":"top","label":"Damp, Non-stale air\nDiluted dog smell\n60ft to x shaped juntion"},
-		{"id":"48207aaae0f95696","fromNode":"59d7896cbe264f68","fromSide":"bottom","toNode":"d313e4d527ce6d0c","toSide":"top","label":"Smells like dog\nUrine Faeces"},
+		{"id":"48207aaae0f95696","fromNode":"59d7896cbe264f68","fromSide":"bottom","toNode":"cc5b58165ccbdd3a","toSide":"top","label":"Smells like dog\nUrine Faeces"},
 		{"id":"2fa4c5592d7e53e9","fromNode":"2a560774f62972dd","fromSide":"right","toNode":"eddc0bcabea7044c","toSide":"left","label":"60ft\nSmell of Ozone\nEnds in wooden door"},
 		{"id":"c5b9164f3fd7f24e","fromNode":"2a560774f62972dd","fromSide":"left","toNode":"cc5b58165ccbdd3a","toSide":"right","label":"60ft\nVery strong smell of dog\n"},
 		{"id":"4d6325bb1f5efb5f","fromNode":"eddc0bcabea7044c","fromSide":"top","toNode":"9837fdb55601767a","toSide":"bottom","label":"Well lit 50ft\ncurtained exit\nwell carved wall"},
@@ -54,6 +52,7 @@
 		{"id":"e772d28771fd752e","fromNode":"2a560774f62972dd","fromSide":"bottom","toNode":"4682b079d143ca86","toSide":"left","label":"60ft Faint smell of dog\nClanging sound\nVoices\nSharp Bend that twists to right"},
 		{"id":"4320b46fa5deb2fa","fromNode":"4682b079d143ca86","fromSide":"right","toNode":"1ca4ae7e73289a2b","toSide":"left"},
 		{"id":"6d422b2a4d680711","fromNode":"1ca4ae7e73289a2b","fromSide":"right","toNode":"9adff0718d596348","toSide":"left"},
-		{"id":"5951cbd51d48777a","fromNode":"1ca4ae7e73289a2b","fromSide":"bottom","toNode":"6400e5d8a88c0d04","toSide":"top"}
+		{"id":"5951cbd51d48777a","fromNode":"1ca4ae7e73289a2b","fromSide":"bottom","toNode":"6400e5d8a88c0d04","toSide":"top"},
+		{"id":"3e7db44b6fdadd64","fromNode":"cc5b58165ccbdd3a","fromSide":"bottom","toNode":"32f7a1914cc5f58b","toSide":"top","color":"#000000"}
 	]
 }
