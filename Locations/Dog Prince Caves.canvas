@@ -26,7 +26,7 @@
 		{"id":"38efd21b505cb803","type":"text","text":"Smells stuffy\nCooked food\nCurtain blocks room\nTorchlight\nSeveral tables\nfood storage areas\nthree torches\n\n6 bandits sat at tables eating\n1 bandit at table bald and gruff\n\nAt least 5 to 10 more people\n\nNo visible exits or entrances\n\nVisible from north vantage\nCan see 4 additional figures\n\t2 bandits\n\t1 meaty bloke\n\t1 robed cultist figure\n\n\nOverheard hushed conversation between 2 bandits\nWaiting for word from other teams\nI don't like this gonna blow up new recruits, just cultists\nWhen Kana's back everything will be sorted","x":840,"y":-210,"width":360,"height":700},
 		{"id":"1ca4ae7e73289a2b","type":"text","text":"fork","x":3915,"y":590,"width":250,"height":60},
 		{"id":"6400e5d8a88c0d04","type":"text","text":"Dog Prince\nAlone with dogs 4/5\n","x":4280,"y":380,"width":250,"height":180},
-		{"id":"9adff0718d596348","type":"text","text":"Kana's Quarters\nDoctor?","x":4280,"y":840,"width":250,"height":120}
+		{"id":"9adff0718d596348","type":"text","text":"Kana's Quarters\nDoctor?\nModest room, some shelves\nParchment, books, papyrus\nComfortable bed\nChest\n\n\n\n\n\n","x":4280,"y":840,"width":520,"height":380}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
