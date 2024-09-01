@@ -42,10 +42,22 @@
               "state": {
                 "file": "Locations/Dog Prince Caves.canvas",
                 "viewState": {
-                  "x": 4546.044342418986,
-                  "y": 389.10578645443616,
+                  "x": 5045.927918123391,
+                  "y": 453.39552905914826,
                   "zoom": 0.3333333333333334
                 }
+              }
+            }
+          },
+          {
+            "id": "8c6d7c21972bae51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/09 01 - Session 29.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -137,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Sessions/2024/09 01 - Session 29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Sessions/2024/09 01 - Session 29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas"
+                "file": "Sessions/2024/09 01 - Session 29.md"
               }
             }
           },
@@ -318,8 +330,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d94067b0c20366b0",
+  "active": "8c6d7c21972bae51",
   "lastOpenFiles": [
+    "Locations/Dog Prince Caves.canvas",
+    "Pasted image 20240901201137.png",
     "Pasted image 20240901200422.png",
     "Sessions/2024/09 01 - Session 29.md",
     "Sessions/2024/07 28 - Session 27.md",
@@ -327,7 +341,6 @@
     "Sessions/2024/06 30 - Session 25.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Deity/Old/Aepoptosis.md",
-    "Locations/Dog Prince Caves.canvas",
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/08 11 - Session 28.md",
     "Sessions/2024/06 02 - Session 23.md",
@@ -358,8 +371,6 @@
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Assets/Maps/Coprun Mine Layout.jpg",
     "Assets/Maps/Eyelaine Villa 2.png",
-    "Assets/Maps/Eylaine Villa.png",
-    "Assets/Maps/Vineyard Skirmish.png",
     "Factions/Local Arcanists",
     "Locations/Lachaka",
     "Jobs/Level 4",
