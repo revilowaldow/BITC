@@ -24,9 +24,9 @@
 		{"id":"cc5b58165ccbdd3a","type":"text","text":"Kennels (warren)","x":1880,"y":110,"width":250,"height":60,"color":"#000000"},
 		{"id":"32f7a1914cc5f58b","type":"text","text":"Pens for prisoners are here near kennels\nPrisons\nArenas","x":1820,"y":380,"width":370,"height":97,"color":"#000000"},
 		{"id":"38efd21b505cb803","type":"text","text":"Smells stuffy\nCooked food\nCurtain blocks room\nTorchlight\nSeveral tables\nfood storage areas\nthree torches\n\n6 bandits sat at tables eating\n1 bandit at table bald and gruff\n\nAt least 5 to 10 more people\n\nNo visible exits or entrances\n\nVisible from north vantage\nCan see 4 additional figures\n\t2 bandits\n\t1 meaty bloke\n\t1 robed cultist figure\n\n\nOverheard hushed conversation between 2 bandits\nWaiting for word from other teams\nI don't like this gonna blow up new recruits, just cultists\nWhen Kana's back everything will be sorted","x":840,"y":-210,"width":360,"height":700},
-		{"id":"6400e5d8a88c0d04","type":"text","text":"Dog Prince\nAlone with dogs 4/5\n","x":4240,"y":680,"width":250,"height":180},
-		{"id":"9adff0718d596348","type":"text","text":"Kana's Quarters\nDoctor?","x":4240,"y":400,"width":250,"height":120},
-		{"id":"1ca4ae7e73289a2b","type":"text","text":"fork","x":3915,"y":590,"width":250,"height":60}
+		{"id":"1ca4ae7e73289a2b","type":"text","text":"fork","x":3915,"y":590,"width":250,"height":60},
+		{"id":"6400e5d8a88c0d04","type":"text","text":"Dog Prince\nAlone with dogs 4/5\n","x":4280,"y":380,"width":250,"height":180},
+		{"id":"9adff0718d596348","type":"text","text":"Kana's Quarters\nDoctor?","x":4220,"y":840,"width":250,"height":120}
 	],
 	"edges":[
 		{"id":"1456946830c7036e","fromNode":"bab67127ff3d909b","fromSide":"right","toNode":"f2ad7198516c6b43","toSide":"left","color":"5","label":"Tunnel with stream\nflowing through it"},
@@ -48,9 +48,9 @@
 		{"id":"f1c49fe51103ae59","fromNode":"9837fdb55601767a","fromSide":"top","toNode":"12c348c0a2c8f31b","toSide":"bottom","label":"exit heading north"},
 		{"id":"82cb65cdefa856ae","fromNode":"4682b079d143ca86","fromSide":"bottom","toNode":"094cb3669995e012","toSide":"top"},
 		{"id":"e772d28771fd752e","fromNode":"2a560774f62972dd","fromSide":"bottom","toNode":"4682b079d143ca86","toSide":"left","label":"60ft Faint smell of dog\nClanging sound\nVoices\nSharp Bend that twists to right"},
-		{"id":"4320b46fa5deb2fa","fromNode":"4682b079d143ca86","fromSide":"right","toNode":"1ca4ae7e73289a2b","toSide":"left"},
-		{"id":"6d422b2a4d680711","fromNode":"1ca4ae7e73289a2b","fromSide":"top","toNode":"9adff0718d596348","toSide":"left"},
-		{"id":"5951cbd51d48777a","fromNode":"1ca4ae7e73289a2b","fromSide":"bottom","toNode":"6400e5d8a88c0d04","toSide":"left"},
+		{"id":"4320b46fa5deb2fa","fromNode":"4682b079d143ca86","fromSide":"right","toNode":"1ca4ae7e73289a2b","toSide":"left","label":"100ft"},
+		{"id":"6d422b2a4d680711","fromNode":"1ca4ae7e73289a2b","fromSide":"bottom","toNode":"9adff0718d596348","toSide":"left","label":"pleasant cool sensation"},
+		{"id":"5951cbd51d48777a","fromNode":"1ca4ae7e73289a2b","fromSide":"top","toNode":"6400e5d8a88c0d04","toSide":"left","label":"Dog teeth"},
 		{"id":"3e7db44b6fdadd64","fromNode":"cc5b58165ccbdd3a","fromSide":"bottom","toNode":"32f7a1914cc5f58b","toSide":"top","color":"#000000"},
 		{"id":"905c99de1260f323","fromNode":"38efd21b505cb803","fromSide":"right","toNode":"cc5b58165ccbdd3a","toSide":"left","label":"North East"},
 		{"id":"48207aaae0f95696","fromNode":"59d7896cbe264f68","fromSide":"bottom","toNode":"cc5b58165ccbdd3a","toSide":"top","label":"Smells like dog\nUrine Faeces"}
