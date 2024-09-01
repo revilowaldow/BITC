@@ -30,10 +30,22 @@
               "state": {
                 "file": "Locations/Dog Prince Caves.canvas",
                 "viewState": {
-                  "x": 3445.2872360826027,
-                  "y": 507.4340668901556,
+                  "x": 3792.8393267795286,
+                  "y": 727.6469754942219,
                   "zoom": -0.8044607927019816
                 }
+              }
+            }
+          },
+          {
+            "id": "129d33d93a58405f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/09 01 - Session 29.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -65,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Sessions/2024/09 01 - Session 29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Sessions/2024/09 01 - Session 29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas"
+                "file": "Sessions/2024/09 01 - Session 29.md"
               }
             }
           },
@@ -246,10 +258,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c482fabe8a3bf77",
+  "active": "129d33d93a58405f",
   "lastOpenFiles": [
-    "Sessions/2024/09 01 - Session 29.md",
     "Locations/Dog Prince Caves.canvas",
+    "Sessions/2024/09 01 - Session 29.md",
     "Sessions/2024/08 11 - Session 28.md",
     "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/07 14 - Session 26.md",
