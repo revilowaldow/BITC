@@ -16,3 +16,5 @@ Try to convince raider to become a nice person
 Rowan 
 Old bandit, lieutenant of the dog prince
 
+> "Our partnership is terminated mongrel"
+

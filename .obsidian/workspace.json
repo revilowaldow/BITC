@@ -38,11 +38,14 @@
             "id": "d94067b0c20366b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Sessions/2024/09 01 - Session 29.md",
-                "mode": "source",
-                "source": false
+                "file": "Locations/Dog Prince Caves.canvas",
+                "viewState": {
+                  "x": 4145.307389858444,
+                  "y": 269.8865430676751,
+                  "zoom": -1.6666666666666665
+                }
               }
             }
           },
@@ -216,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/09 01 - Session 29.md",
+                "file": "Locations/Dog Prince Caves.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/09 01 - Session 29.md",
+                "file": "Locations/Dog Prince Caves.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/09 01 - Session 29.md"
+                "file": "Locations/Dog Prince Caves.canvas"
               }
             }
           },
@@ -317,11 +320,12 @@
   },
   "active": "d94067b0c20366b0",
   "lastOpenFiles": [
+    "Pasted image 20240901200422.png",
+    "Sessions/2024/09 01 - Session 29.md",
     "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/06 30 - Session 25.md",
     "Sessions/2024/06 16 - Session 24.md",
-    "Sessions/2024/09 01 - Session 29.md",
     "Deity/Old/Aepoptosis.md",
     "Locations/Dog Prince Caves.canvas",
     "Factions/Local Arcanists/Vixel.md",
