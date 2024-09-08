@@ -7,3 +7,4 @@ Shortsword
 Pouch 25gp 
 Round Stone by the bed the same as the marble orb 
 
+Muffled voice echose through room
