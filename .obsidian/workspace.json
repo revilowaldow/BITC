@@ -86,6 +86,18 @@
             }
           },
           {
+            "id": "c5cd08ed87e96296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Rules/Weapon Rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "467dbb57b79ea32e",
             "type": "leaf",
             "state": {
@@ -146,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -228,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Setting Rules/Weapon Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Setting Rules/Weapon Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md"
+                "file": "Setting Rules/Weapon Rules.md"
               }
             }
           },
@@ -326,8 +338,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc212daa936f228e",
+  "active": "c5cd08ed87e96296",
   "lastOpenFiles": [
+    "Sessions/2024/09 08 - Session 30.md",
     "Sessions/2024/09 01 - Session 29.md",
     "Locations/Dog Prince Caves.canvas",
     "Sessions/2024/07 14 - Session 26.md",
@@ -338,7 +351,6 @@
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
-    "Sessions/2024/09 08 - Session 30.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Sessions/2024/06 30 - Session 25.md",
     "Deity/Old/Aepoptosis.md",
