@@ -24,6 +24,8 @@ Kana
 
 They will keep fighting without me and disband as a guerilla force
 
+Collapsed tunnel
+
 
 
 
