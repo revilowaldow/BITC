@@ -31,7 +31,7 @@ Tattoos glowing
 Thodun stone skin scales
 Vrin lots of lightning
 
-Sun seems less bright
+Sun seems less bright, smell of smoke
 
 
 
