@@ -47,6 +47,8 @@ Bonus to attack rolls +1
 
 Kana appears as a Dyvare reincarnation
 
+![[Kana Fight.png]]
+
 
 
 

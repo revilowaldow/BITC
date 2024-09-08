@@ -212,8 +212,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -341,11 +340,14 @@
   },
   "active": "467dbb57b79ea32e",
   "lastOpenFiles": [
+    "Sessions/2023/05 28 - Session 2.md",
+    "Assets/Maps/Kana Fight.png",
+    "Pasted image 20240630212744.png",
+    "Sessions/2024/09 08 - Session 30.md",
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Setting Rules/Weapon Rules.md",
     "Sessions/2024/09 01 - Session 29.md",
-    "Sessions/2024/09 08 - Session 30.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2024/03 24 - Session 19.md",
@@ -356,13 +358,11 @@
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
-    "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Sessions/2024/06 30 - Session 25.md",
     "Deity/Old/Aepoptosis.md",
     "Assets/Maps/Dog Prince.png",
     "Assets/Maps/Farm Cave.png",
-    "Pasted image 20240630212744.png",
     "Pasted image 20240811211117.png",
     "Pasted image 20240901200422.png",
     "Sessions/2024/05 19 - Session 22.md",
@@ -375,12 +375,10 @@
     "Factions/Shaku Toto.md",
     "Factions/The Cooking Association.md",
     "Factions/Aegan Empire.md",
-    "Utu.md",
     "Factions/Helviti",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Assets/Maps/Coprun Mine Layout.jpg",
-    "Assets/Maps/Eyelaine Villa 2.png",
     "Factions/Local Arcanists",
     "Locations/Lachaka",
     "Jobs/Level 4",
