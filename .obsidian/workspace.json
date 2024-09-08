@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "utu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,7 +236,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "d64d57bbfa4524a3",
   "lastOpenFiles": [
     "Sessions/2024/09 01 - Session 29.md",
     "Locations/Dog Prince Caves.canvas",
