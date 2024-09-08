@@ -18,6 +18,10 @@ Others on the orb
 	Strategy
 An alliance of convenience, amused and resigned
 
+Kana
+	Anger and sadness
+	Priests
+	
 
 
 
