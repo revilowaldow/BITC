@@ -33,6 +33,11 @@ Vrin lots of lightning
 
 Sun seems less bright, smell of smoke
 
+Brush fire
+
+Purple hue of air
+
+
 
 
 
