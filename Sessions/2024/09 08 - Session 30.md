@@ -46,6 +46,7 @@ Portal from which magical power and energy is reentering the world
 Bonus to attack rolls +1
 
 Kana appears as a Dyvare reincarnation
+Last Daughter of Lachaka
 
 ![[Kana Fight.png]]
 
