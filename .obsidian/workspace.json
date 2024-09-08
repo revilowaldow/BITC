@@ -93,6 +93,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "541b1bc1cb9f3784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/06 16 - Session 24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -278,11 +290,12 @@
   },
   "active": "dc212daa936f228e",
   "lastOpenFiles": [
-    "Sessions/2024/09 01 - Session 29.md",
-    "Sessions/2024/09 08 - Session 30.md",
+    "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/06 30 - Session 25.md",
-    "Sessions/2024/07 28 - Session 27.md",
+    "Sessions/2024/06 16 - Session 24.md",
+    "Sessions/2024/09 08 - Session 30.md",
+    "Sessions/2024/09 01 - Session 29.md",
     "Sessions/2024/08 11 - Session 28.md",
     "Locations/Dog Prince Caves.canvas",
     "Deity/Old/Aepoptosis.md",
@@ -291,7 +304,6 @@
     "Pasted image 20240630212744.png",
     "Pasted image 20240811211117.png",
     "Pasted image 20240901200422.png",
-    "Sessions/2024/06 16 - Session 24.md",
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/05 19 - Session 22.md",
