@@ -60,7 +60,7 @@ If I lose nothing changes
 
 Deselected as Dyvare
 
-
+Two strong on far side of Katcha, one very weak in City
 
 
 
