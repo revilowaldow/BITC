@@ -320,7 +320,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -338,7 +339,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "467dbb57b79ea32e",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Sessions/2023/05 28 - Session 2.md",
     "Assets/Maps/Kana Fight.png",
