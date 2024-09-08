@@ -45,7 +45,7 @@ Portal from which magical power and energy is reentering the world
 
 Bonus to attack rolls +1
 
-
+Kana reappears banagage
 
 
 
