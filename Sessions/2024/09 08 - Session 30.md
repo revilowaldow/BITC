@@ -52,7 +52,7 @@ Last Daughter of Lachaka
 
 Slight shake of the hand trembling every so often
 
-![[Pasted image 20240908211633.png]]
+![[Kana.png]]
 
 Not me
 
