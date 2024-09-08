@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Factions/Local Arcanists/Vixel.md",
                 "mode": "source",
                 "source": false
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "purple",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,7 +212,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Factions/Local Arcanists/Vixel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Factions/Local Arcanists/Vixel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md"
+                "file": "Factions/Local Arcanists/Vixel.md"
               }
             }
           },
@@ -340,8 +341,11 @@
   },
   "active": "dc212daa936f228e",
   "lastOpenFiles": [
-    "Sessions/2024/09 01 - Session 29.md",
     "Sessions/2024/09 08 - Session 30.md",
+    "Sessions/2024/06 02 - Session 23.md",
+    "Sessions/2024/04 07 - Session 20.md",
+    "Sessions/2024/03 24 - Session 19.md",
+    "Sessions/2024/09 01 - Session 29.md",
     "Setting Rules/Weapon Rules.md",
     "Locations/Dog Prince Caves.canvas",
     "Sessions/2024/07 14 - Session 26.md",
@@ -361,7 +365,6 @@
     "Pasted image 20240811211117.png",
     "Pasted image 20240901200422.png",
     "Factions/Local Arcanists/Vixel.md",
-    "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Assets/Maps/Cultist Altar.png",
@@ -374,8 +377,6 @@
     "Factions/Aegan Empire.md",
     "Utu.md",
     "Factions/Helviti",
-    "Sessions/2023/09 10 - Session 8.md",
-    "Sessions/2024/04 07 - Session 20.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Assets/Maps/Coprun Mine Layout.jpg",
