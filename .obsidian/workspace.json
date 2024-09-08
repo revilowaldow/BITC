@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Factions/Local Arcanists/Vixel.md",
                 "mode": "source",
                 "source": false
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Factions/Local Arcanists/Vixel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Factions/Local Arcanists/Vixel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md"
+                "file": "Factions/Local Arcanists/Vixel.md"
               }
             }
           },
@@ -341,8 +341,8 @@
   },
   "active": "dc212daa936f228e",
   "lastOpenFiles": [
-    "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/09 08 - Session 30.md",
+    "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2024/03 24 - Session 19.md",
