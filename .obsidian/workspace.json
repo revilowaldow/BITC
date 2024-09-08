@@ -45,6 +45,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "467dbb57b79ea32e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -227,7 +235,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc212daa936f228e",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Sessions/2024/09 01 - Session 29.md",
     "Locations/Dog Prince Caves.canvas",
