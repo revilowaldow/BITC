@@ -15,8 +15,8 @@
               "state": {
                 "file": "Locations/Dog Prince Caves.canvas",
                 "viewState": {
-                  "x": 4641.820530743496,
-                  "y": 870.784514246121,
+                  "x": 4945.55370963149,
+                  "y": 534.0092322155006,
                   "zoom": -0.3457938945227658
                 }
               }
@@ -33,81 +33,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c81d3cbf1e3c62df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/09 01 - Session 29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cec9ea178bfd414",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/08 11 - Session 28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d668d320e2d6b1c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "969f46f76155f939",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/07 14 - Session 26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc6c4b4a7ac221a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/06 30 - Session 25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "541b1bc1cb9f3784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/06 16 - Session 24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Locations/Dog Prince Caves.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Locations/Dog Prince Caves.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md"
+                "file": "Locations/Dog Prince Caves.canvas"
               }
             }
           },
@@ -288,15 +215,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc212daa936f228e",
+  "active": "129d33d93a58405f",
   "lastOpenFiles": [
-    "Sessions/2024/07 28 - Session 27.md",
-    "Sessions/2024/07 14 - Session 26.md",
-    "Sessions/2024/06 30 - Session 25.md",
-    "Sessions/2024/06 16 - Session 24.md",
     "Sessions/2024/09 08 - Session 30.md",
-    "Sessions/2024/09 01 - Session 29.md",
+    "Sessions/2024/06 16 - Session 24.md",
+    "Sessions/2024/06 30 - Session 25.md",
+    "Sessions/2024/07 14 - Session 26.md",
+    "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/08 11 - Session 28.md",
+    "Sessions/2024/09 01 - Session 29.md",
     "Locations/Dog Prince Caves.canvas",
     "Deity/Old/Aepoptosis.md",
     "Assets/Maps/Dog Prince.png",
