@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Sessions/2024/03 24 - Session 19.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +212,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Sessions/2024/03 24 - Session 19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Sessions/2024/03 24 - Session 19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md"
+                "file": "Sessions/2024/03 24 - Session 19.md"
               }
             }
           },
@@ -341,17 +342,17 @@
   },
   "active": "467dbb57b79ea32e",
   "lastOpenFiles": [
+    "Sessions/2024/04 07 - Session 20.md",
+    "Sessions/2024/09 08 - Session 30.md",
     "Pasted image 20240908211633.png",
     "Sessions/2023/05 28 - Session 2.md",
     "Assets/Maps/Kana Fight.png",
     "Pasted image 20240630212744.png",
-    "Sessions/2024/09 08 - Session 30.md",
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Setting Rules/Weapon Rules.md",
     "Sessions/2024/09 01 - Session 29.md",
     "Sessions/2024/06 02 - Session 23.md",
-    "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Locations/Dog Prince Caves.canvas",
     "Sessions/2024/07 14 - Session 26.md",
@@ -380,7 +381,6 @@
     "Factions/Helviti",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
-    "Assets/Maps/Coprun Mine Layout.jpg",
     "Factions/Local Arcanists",
     "Locations/Lachaka",
     "Jobs/Level 4",
