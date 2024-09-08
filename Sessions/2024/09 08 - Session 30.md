@@ -58,6 +58,8 @@ Not me
 
 If I lose nothing changes
 
+Deselected as Dyvare
+
 
 
 
