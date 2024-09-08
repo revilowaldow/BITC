@@ -49,7 +49,7 @@ Kana appears as a Dyvare reincarnation
 
 ![[Kana Fight.png]]
 
-
+Slight shake of the hand trembling every so often
 
 
 
