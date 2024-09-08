@@ -10,7 +10,9 @@ Round Stone by the bed the same as the marble orb
 Muffled aristocratic voice echoes through room from orb
 Male voice
 Heard before
-The voice said it would let the others know 
+The voice said it would let the others know the orb is now off limits
+
+
 
 
 
