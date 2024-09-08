@@ -45,7 +45,8 @@ Portal from which magical power and energy is reentering the world
 
 Bonus to attack rolls +1
 
-Kana reappears banagage
+Kana appears as a Dyvare reincarnation
+
 
 
 

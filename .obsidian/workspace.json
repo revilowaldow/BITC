@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Factions/Local Arcanists/Vixel.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
+                "file": "Sessions/2024/09 08 - Session 30.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -339,15 +339,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc212daa936f228e",
+  "active": "467dbb57b79ea32e",
   "lastOpenFiles": [
     "Factions/Local Arcanists/Vixel.md",
+    "Sessions/2023/05 07 - Session 1.md",
+    "Setting Rules/Weapon Rules.md",
+    "Sessions/2024/09 01 - Session 29.md",
     "Sessions/2024/09 08 - Session 30.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2024/03 24 - Session 19.md",
-    "Sessions/2024/09 01 - Session 29.md",
-    "Setting Rules/Weapon Rules.md",
     "Locations/Dog Prince Caves.canvas",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/07 28 - Session 27.md",
@@ -356,7 +357,6 @@
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
-    "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Sessions/2024/06 30 - Session 25.md",
     "Deity/Old/Aepoptosis.md",
