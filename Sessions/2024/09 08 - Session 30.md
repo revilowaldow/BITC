@@ -12,6 +12,11 @@ Male voice
 Heard before
 The voice said it would let the others know the orb is now off limits
 
+Others on the orb
+	Derision
+	Caution
+	Strategy
+An alliance of convenience, amused and resigned
 
 
 
