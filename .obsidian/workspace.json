@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Weapon Rules.md",
+                "file": "Sessions/2024/09 08 - Session 30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Weapon Rules.md",
+                "file": "Sessions/2024/09 08 - Session 30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Weapon Rules.md"
+                "file": "Sessions/2024/09 08 - Session 30.md"
               }
             }
           },
@@ -338,8 +338,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5cd08ed87e96296",
+  "active": "dc212daa936f228e",
   "lastOpenFiles": [
+    "Setting Rules/Weapon Rules.md",
     "Sessions/2024/09 08 - Session 30.md",
     "Sessions/2024/09 01 - Session 29.md",
     "Locations/Dog Prince Caves.canvas",
