@@ -40,6 +40,10 @@ Purple hue of air
 Shimmer is the refraction of light between media
 
 Great purple star
+Strands streaking down from star
+Portal from which magical power and energy is reentering the world
+
+
 
 
 
