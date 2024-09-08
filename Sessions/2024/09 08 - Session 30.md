@@ -64,5 +64,5 @@ Two strong strands on far side of Katcha, one very weak in City
 
 "That was it. That was the trigger. They are coming"
 
-
+[[Harven]] bandit
 
