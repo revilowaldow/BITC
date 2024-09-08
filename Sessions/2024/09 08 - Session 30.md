@@ -37,6 +37,9 @@ Brush fire
 
 Purple hue of air
 
+Shimmer is the refraction of light between media
+
+Great purple star
 
 
 
