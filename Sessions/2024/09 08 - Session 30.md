@@ -22,6 +22,8 @@ Kana
 	Anger and sadness
 	Priests
 
+They will keep fighting without me and disband as a guerilla force
+
 
 
 
