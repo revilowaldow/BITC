@@ -43,7 +43,8 @@ Great purple star
 Strands streaking down from star
 Portal from which magical power and energy is reentering the world
 
-Bonus to attack rolls
+Bonus to attack rolls +1
+
 
 
 
