@@ -54,6 +54,10 @@ Slight shake of the hand trembling every so often
 
 ![[Pasted image 20240908211633.png]]
 
+Not me
+
+If I lose nothing changes
+
 
 
 
