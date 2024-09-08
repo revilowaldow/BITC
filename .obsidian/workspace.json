@@ -66,8 +66,8 @@
               "state": {
                 "file": "Locations/Dog Prince Caves.canvas",
                 "viewState": {
-                  "x": 3457.963111102164,
-                  "y": 299.9494508702977,
+                  "x": 5333.567808303542,
+                  "y": 875.0722929408075,
                   "zoom": -1.2310883889469866
                 }
               }
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Sessions/2024/09 08 - Session 30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
+                "file": "Sessions/2024/09 08 - Session 30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas"
+                "file": "Sessions/2024/09 08 - Session 30.md"
               }
             }
           },
@@ -326,19 +326,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a01da05b9683ac9",
+  "active": "dc212daa936f228e",
   "lastOpenFiles": [
+    "Sessions/2024/09 01 - Session 29.md",
+    "Locations/Dog Prince Caves.canvas",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/08 11 - Session 28.md",
-    "Sessions/2024/09 01 - Session 29.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2024/09 08 - Session 30.md",
-    "Locations/Dog Prince Caves.canvas",
     "Sessions/2024/06 16 - Session 24.md",
     "Sessions/2024/06 30 - Session 25.md",
     "Deity/Old/Aepoptosis.md",
@@ -363,7 +363,6 @@
     "Factions/Helviti",
     "Sessions/2023/09 10 - Session 8.md",
     "Sessions/2024/04 07 - Session 20.md",
-    "Sessions/2024/03 24 - Session 19.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Assets/Maps/Coprun Mine Layout.jpg",
