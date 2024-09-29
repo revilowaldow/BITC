@@ -34,4 +34,5 @@ Travelling with fierce lady
 Death Comanda is temporary basis, join from any comanda
 	Job is to hunt helviti
 
-
+Indigo Commanda year 78 
+chineria
