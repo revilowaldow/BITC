@@ -74,14 +74,14 @@ Kevin
 - City grove
 [[Yayek]]
 - Magical researcher at the pit
-- 
+- Second orb
 [[Larkin]]
 [[Shiendo Kadaon]], [[Uzgrad Khat'on]]
 	Interrogating Aru
 	Member of gold comanda left behind an orphan called [[Aru]], [[Kokarn'o]] 
 	- He died 
 	- Hands a death comanda helmet to Aru, could allow you to be registered as a comanda
-	- Uzgrad killed the pro
+	- Uzgrad killed the prior owner of the helmet
 [[Jokku Troph]]
  - Researcher metallurgy
 [[Angelica Snowsand]]
