@@ -65,7 +65,9 @@ Kevin
 [[Jay Connar]]
 [[Karta]]
 [[Toryk Jamal]]
+- Not sure who you are
 [[Liera Lov]]
+- 
 [[Yayek]]
 [[Larkin]]
 [[Uzgrad Khat'on]]
@@ -74,7 +76,7 @@ Kevin
 
 [[Stealth]], [[Epo]]
 - Been doing scouting around, found heliotropic bronze powder
-- Town of [[Abdos]] called for aid, disa
+- Town of [[Abdos]] called for aid, disappearances
 
 
 

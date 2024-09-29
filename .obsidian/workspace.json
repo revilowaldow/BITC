@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/09 29 - Session 31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29d751f62ca8e788",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Local Arcanists/Mholok Krass.md",
+                "file": "Sessions/2024/02 11 - Session 16.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mhol",
+                "query": "liera",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/09 29 - Session 31.md",
+                "file": "Sessions/2024/02 11 - Session 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/09 29 - Session 31.md",
+                "file": "Sessions/2024/02 11 - Session 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/09 29 - Session 31.md"
+                "file": "Sessions/2024/02 11 - Session 16.md"
               }
             }
           },
@@ -214,8 +203,11 @@
   },
   "active": "e30bd7659bdb73ab",
   "lastOpenFiles": [
-    "Factions/Local Arcanists/Mholok Krass.md",
     "Sessions/2024/09 29 - Session 31.md",
+    "Factions/Local Arcanists/Mholok Krass.md",
+    "Sessions/2023/09 24 - Session 9.md",
+    "Jobs/Level 3/Soirée.md",
+    "Shiendo Kadaon.md",
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Jokku Troph.md",
@@ -242,9 +234,6 @@
     "Sessions/2023/05 28 - Session 2.md",
     "Assets/Maps/Kana Fight.png",
     "Sessions/2023/05 07 - Session 1.md",
-    "Sessions/2023/07 02 - Session 5.md",
-    "Sessions/2023/06 18 - Session 4.md",
-    "Sessions/2023/06 04 - Session 3.md",
     "Assets/Maps/Dog Prince.png",
     "Assets/Maps/Farm Cave.png",
     "Pasted image 20240811211117.png",
