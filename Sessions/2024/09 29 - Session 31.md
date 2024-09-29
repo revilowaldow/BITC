@@ -58,6 +58,7 @@ Virtelle
 [[Brayk Brasshand]]
 [[Utu]]
 [[Mholok Krass]]
+- I thought you were travelling to Chineria imminently
 [[Shiendo Kadaon]]
 [[Jay Connar]]
 [[Karta]]
@@ -71,7 +72,7 @@ Virtelle
 
 [[Stealth]], [[Epo]]
 - Been doing scouting around, found heliotropic bronze powder
-- 
+- Town of [[Abdos]] called for aid
 
 
 

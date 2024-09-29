@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34ce2ceff63db7a5",
+            "id": "a25d82950b62295e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Local Arcanists/Vixel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e30bd7659bdb73ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,20 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a25d82950b62295e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,11 +213,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34ce2ceff63db7a5",
+  "active": "e30bd7659bdb73ab",
   "lastOpenFiles": [
-    "Jokku Troph.md",
-    "Sessions/2024/09 29 - Session 31.md",
+    "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/02 11 - Session 16.md",
+    "Sessions/2024/09 29 - Session 31.md",
+    "Jokku Troph.md",
     "Sessions/2024/02 25 - Session 17.md",
     "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2024/04 21 - Session 21.md",
@@ -234,7 +235,6 @@
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Locations/Dog Prince Caves.canvas",
-    "Factions/Local Arcanists/Vixel.md",
     "Setting Rules/Weapon Rules.md",
     "Pasted image 20240908211633.png",
     "Pasted image 20240630212744.png",
