@@ -74,6 +74,8 @@ Kevin
 [[Larkin]]
 [[Shiendo Kadaon]], [[Uzgrad Khat'on]]
 	Interrogating Aru
+	Member of gold comanda left behind an orphan called [[Aru]], [[Kokarn'o]] 
+	
 [[Jokku Troph]]
  - Researcher metallurgy
 [[Angelica Snowsand]]
@@ -85,7 +87,7 @@ Kevin
 - Been doing scouting around, found heliotropic bronze powder
 - Town of [[Abdos]] called for aid, disappearances
 
-Member of gold comanda left behind an orphan, karnal
+
 
 
 
