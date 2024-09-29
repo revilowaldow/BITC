@@ -75,7 +75,10 @@ Kevin
 [[Uzgrad Khat'on]]
 [[Jokku Troph]]
 [[Angelica Snowsand]]
- - Artist, 
+ - creating mosaic of defeat of [[Kalamsis]]
+ - Drop of blood
+- Vrin must be in it
+- How is it going?
 [[Stealth]], [[Epo]]
 - Been doing scouting around, found heliotropic bronze powder
 - Town of [[Abdos]] called for aid, disappearances
