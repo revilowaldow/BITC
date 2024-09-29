@@ -62,7 +62,7 @@ Kevin
 [[Mholok Krass]]
 - I thought you were travelling to Chineria imminently?
 - Developed any new spells
-[[Shiendo Kadaon]]
+
 [[Jay Connar]]
 [[Karta]]
 [[Toryk Jamal]]
@@ -72,7 +72,8 @@ Kevin
 - City grove
 [[Yayek]]
 [[Larkin]]
-[[Uzgrad Khat'on]]
+[[Shiendo Kadaon]], [[Uzgrad Khat'on]]
+	Interrogating Aru
 [[Jokku Troph]]
 [[Angelica Snowsand]]
  - creating mosaic of defeat of [[Kalamsis]]
