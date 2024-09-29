@@ -75,7 +75,7 @@ Kevin
 [[Uzgrad Khat'on]]
 [[Jokku Troph]]
 [[Angelica Snowsand]]
-
+ - Artist, 
 [[Stealth]], [[Epo]]
 - Been doing scouting around, found heliotropic bronze powder
 - Town of [[Abdos]] called for aid, disappearances

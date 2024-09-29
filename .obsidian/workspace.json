@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "60ab927444557ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/05 19 - Session 22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "43957ca49c38ce6a",
             "type": "leaf",
             "state": {
@@ -42,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8cc5a30dc4902d28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/09 29 - Session 31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jay",
+                "query": "angelic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md",
+                "file": "Sessions/2024/09 29 - Session 31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md",
+                "file": "Sessions/2024/09 29 - Session 31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md"
+                "file": "Sessions/2024/09 29 - Session 31.md"
               }
             }
           },
@@ -225,18 +249,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "8cc5a30dc4902d28",
   "lastOpenFiles": [
     "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/02 11 - Session 16.md",
+    "Sessions/2024/05 19 - Session 22.md",
+    "Sessions/2024/04 21 - Session 21.md",
+    "Sessions/2024/09 29 - Session 31.md",
     "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2024/06 02 - Session 23.md",
-    "Sessions/2024/09 29 - Session 31.md",
     "Jobs/Level 3/Soirée.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Sessions/2024/06 30 - Session 25.md",
     "Sessions/2024/07 14 - Session 26.md",
-    "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Jobs/Level 4/Job for Lady Fara Eylaine.md",
     "Jokku Troph.md",
@@ -251,7 +276,6 @@
     "Sessions/2024/09 01 - Session 29.md",
     "Sessions/2024/08 11 - Session 28.md",
     "Sessions/2024/04 07 - Session 20.md",
-    "Sessions/2024/05 19 - Session 22.md",
     "Locations/Dog Prince Caves.canvas",
     "Setting Rules/Weapon Rules.md",
     "Pasted image 20240908211633.png",
