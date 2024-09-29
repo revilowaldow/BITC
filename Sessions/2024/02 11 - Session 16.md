@@ -40,7 +40,7 @@ Healing:
 
 Middle aged dwarf woman
 Wearing regalia with flowers
-[[Liera Love]] - Head Priestess of Lifegiver
+[[Liera Lov]] - Head Priestess of Lifegiver
 
 Should I need advice opinion favour I can ask
 
