@@ -52,22 +52,11 @@ Recruiting slaves (living under the thumb of oppression), specifically looking f
 
 Speak to Yayek and Jay Konnoar
 
+Attendees:
+Kevin; Virtelle, [[Brayk Brasshand]], [[Utu]], [[Mholok Krass]], [[Shiendo Kadaon]], Jay Connar, Karta, Toryk Jamal, Liera Lov, Yayek, Larkin, Uzgrad Khat'on, Jokku Troph, Angelica Snowsand, Stealth, Epo
 
-KA
-Vit
-Utu
-BB
-Mholok Krass
-Shiendo Kadan
-Karta
-Torik Jamal
-Leoalove
-Yayek
-Uzgradt - half of jaw missing
-Joku troph
-Angelic Snowsand - with art
-Stealth
-Epo
+
+
 
 
 
