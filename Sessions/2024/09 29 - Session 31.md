@@ -38,3 +38,4 @@ Indigo Commanda year 78
 Chineria paid indigo too much and defected from the Helviti Waste overall, were eradicated as punishment.
 
 
+Party at Brayk Brasshand's at nightfall tomorrow
