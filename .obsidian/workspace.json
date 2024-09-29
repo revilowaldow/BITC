@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Sessions/2024/09 29 - Session 31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Sessions/2024/09 29 - Session 31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md"
+                "file": "Sessions/2024/09 29 - Session 31.md"
               }
             }
           },
@@ -237,10 +237,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34ce2ceff63db7a5",
+  "active": "c8d1b6f55e8d8f01",
   "lastOpenFiles": [
-    "Sessions/2024/09 29 - Session 31.md",
     "Sessions/2024/09 08 - Session 30.md",
+    "Sessions/2024/09 29 - Session 31.md",
     "Sessions/2024/09 01 - Session 29.md",
     "Locations/Dog Prince Caves.canvas",
     "Sessions/2024/08 11 - Session 28.md",
