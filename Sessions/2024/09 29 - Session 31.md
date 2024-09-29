@@ -26,5 +26,6 @@ Visit Kev
 Present: 
 	[[Shiendo Kadan]]
 	[[Brayk Brasshand]] - mentioned welcome at his venues
-	[[Uzgrad Khat'on]] - Death Comanda - articulated plates over face, q
-	
+	[[Uzgrad Khat'on]] - Death Comanda - articulated plates over face, quite short
+
+
