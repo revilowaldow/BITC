@@ -58,6 +58,7 @@ Kevin
 - How's you mum
 - How did negotiations with the Huascans go
 [[Brayk Brasshand]]
+- Discuss 
 [[Utu]]
 [[Mholok Krass]]
 - I thought you were travelling to Chineria imminently?
@@ -79,6 +80,7 @@ Kevin
 	Interrogating Aru
 	Member of gold comanda left behind an orphan called [[Aru]], [[Kokarn'o]] 
 	- He died 
+	- Hands a death comanda helmet to Aru
 [[Jokku Troph]]
  - Researcher metallurgy
 [[Angelica Snowsand]]
