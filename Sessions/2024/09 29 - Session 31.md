@@ -13,5 +13,5 @@ Utu + Helviti arrives
 
 [[Rev]] may have already escaped
 
-[[Utu]] does not have a good relationship with Hextan's troops
+[[Utu]] does not have a good relationship with [[Hextan]]'s troops
 
