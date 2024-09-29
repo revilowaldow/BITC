@@ -115,8 +115,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/05 19 - Session 22.md",
+                "file": "Sessions/2024/09 29 - Session 31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/05 19 - Session 22.md",
+                "file": "Sessions/2024/09 29 - Session 31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/05 19 - Session 22.md"
+                "file": "Sessions/2024/09 29 - Session 31.md"
               }
             }
           },
@@ -297,8 +296,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5144a3994250a3f7",
+  "active": "34ce2ceff63db7a5",
   "lastOpenFiles": [
+    "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Sessions/2024/06 30 - Session 25.md",
@@ -327,7 +327,6 @@
     "Assets/Maps/Farm Cave.png",
     "Pasted image 20240811211117.png",
     "Pasted image 20240901200422.png",
-    "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Assets/Maps/Cultist Altar.png",
     "Assets/Maps/Main Chamber 2.png",

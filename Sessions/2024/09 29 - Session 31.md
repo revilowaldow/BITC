@@ -25,6 +25,6 @@ Helviti take jobs as 'oaths' binding contracts
 Visit Kev
 Present: 
 	[[Shiendo Kadan]]
-	[[Brayk Brasshand]]
+	[[Brayk Brasshand]] - mentioned welcome at his venues
 	Another helviti person
 	
