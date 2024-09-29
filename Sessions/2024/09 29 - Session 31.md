@@ -54,11 +54,13 @@ Speak to Yayek and Jay Konnoar
 
 Attendees:
 Kevin
-Virtelle
+[[Virtelle The Silver Blade]]
+- How's you mum
 [[Brayk Brasshand]]
 [[Utu]]
 [[Mholok Krass]]
-- I thought you were travelling to Chineria imminently
+- I thought you were travelling to Chineria imminently?
+- Developed any new spells
 [[Shiendo Kadaon]]
 [[Jay Connar]]
 [[Karta]]
@@ -72,7 +74,7 @@ Virtelle
 
 [[Stealth]], [[Epo]]
 - Been doing scouting around, found heliotropic bronze powder
-- Town of [[Abdos]] called for aid
+- Town of [[Abdos]] called for aid, disa
 
 
 

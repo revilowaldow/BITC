@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a25d82950b62295e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Local Arcanists/Vixel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e30bd7659bdb73ab",
             "type": "leaf",
             "state": {
@@ -30,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29d751f62ca8e788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Local Arcanists/Mholok Krass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,9 +214,10 @@
   },
   "active": "e30bd7659bdb73ab",
   "lastOpenFiles": [
+    "Factions/Local Arcanists/Mholok Krass.md",
+    "Sessions/2024/09 29 - Session 31.md",
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/02 11 - Session 16.md",
-    "Sessions/2024/09 29 - Session 31.md",
     "Jokku Troph.md",
     "Sessions/2024/02 25 - Session 17.md",
     "Sessions/2024/03 10 - Session 18.md",
@@ -245,7 +245,6 @@
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
-    "Deity/Old/Aepoptosis.md",
     "Assets/Maps/Dog Prince.png",
     "Assets/Maps/Farm Cave.png",
     "Pasted image 20240811211117.png",
