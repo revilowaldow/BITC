@@ -64,7 +64,8 @@ Kevin
 - I thought you were travelling to Chineria imminently?
 - Developed any new spells
 - Perfecting autonomous human
-- 
+- Bronze golem?
+- Given away 
 
 [[Jay Connar]]
 - Helviti inquisition
