@@ -15,5 +15,7 @@ Utu + Helviti arrives
 
 [[Utu]] does not have a good relationship with [[Hextan]]'s troops
 
+Helviti take jobs as 'oaths' binding contracts
+
 
 
