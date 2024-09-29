@@ -79,6 +79,7 @@ Kevin
 [[Yayek]]
 - Magical researcher at the pit
 - Second orb
+- Pit is jointly owned with the tower of eyes
 [[Larkin]]
 [[Shiendo Kadaon]], [[Uzgrad Khat'on]]
 	Interrogating Aru
