@@ -56,6 +56,7 @@ Attendees:
 Kevin
 [[Virtelle The Silver Blade]]
 - How's you mum
+- How did negotiations with the go 
 [[Brayk Brasshand]]
 [[Utu]]
 [[Mholok Krass]]
