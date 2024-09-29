@@ -11,6 +11,8 @@ Kana left, took bandages but not spear
 
 Utu + Helviti arrives
 
+[[Rev]] may have already escaped
+
 
 
 

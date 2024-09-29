@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1821171fff4c0d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/06 02 - Session 23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "34ce2ceff63db7a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Sessions/2024/09 29 - Session 31.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/06 02 - Session 23.md",
+                "file": "Sessions/2024/09 29 - Session 31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/06 02 - Session 23.md",
+                "file": "Sessions/2024/09 29 - Session 31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/06 02 - Session 23.md"
+                "file": "Sessions/2024/09 29 - Session 31.md"
               }
             }
           },
@@ -297,17 +285,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d1821171fff4c0d8",
+  "active": "34ce2ceff63db7a5",
   "lastOpenFiles": [
+    "Sessions/2024/09 08 - Session 30.md",
+    "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/09 29 - Session 31.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Sessions/2024/06 30 - Session 25.md",
-    "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/08 11 - Session 28.md",
     "Sessions/2024/09 01 - Session 29.md",
-    "Sessions/2024/09 08 - Session 30.md",
     "Locations/Dog Prince Caves.canvas",
     "Factions/Local Arcanists/Vixel.md",
     "Setting Rules/Weapon Rules.md",
