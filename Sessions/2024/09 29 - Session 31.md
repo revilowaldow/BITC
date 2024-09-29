@@ -19,5 +19,7 @@ Helviti take jobs as 'oaths' binding contracts
 
 "Leader Cobalt"
 
+[[Harven]] the bandit sharing with Thodunn
+
 
 
