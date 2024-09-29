@@ -63,6 +63,8 @@ Kevin
 [[Mholok Krass]]
 - I thought you were travelling to Chineria imminently?
 - Developed any new spells
+- Perfecting autonomous human
+- 
 
 [[Jay Connar]]
 - Helviti inquisition
