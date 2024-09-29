@@ -75,6 +75,7 @@ Kevin
 [[Shiendo Kadaon]], [[Uzgrad Khat'on]]
 	Interrogating Aru
 [[Jokku Troph]]
+ - Researcher metallurgy
 [[Angelica Snowsand]]
  - creating mosaic of defeat of [[Kalamsis]]
  - Drop of blood
@@ -84,6 +85,7 @@ Kevin
 - Been doing scouting around, found heliotropic bronze powder
 - Town of [[Abdos]] called for aid, disappearances
 
+Member of gold comanda left behind an orphan, karnal
 
 
 

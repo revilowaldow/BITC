@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "angelic",
+                "query": "jokku",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -249,7 +250,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8cc5a30dc4902d28",
+  "active": "d64d57bbfa4524a3",
   "lastOpenFiles": [
     "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/02 11 - Session 16.md",
