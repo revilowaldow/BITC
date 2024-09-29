@@ -9,7 +9,7 @@ Level up Caeins
 
 Kana left, took bandages but not spear
 
-Utu + helviti arrives
+Utu + Helviti arrives
 
 
 
