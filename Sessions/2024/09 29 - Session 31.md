@@ -64,6 +64,7 @@ Kevin
 - Developed any new spells
 
 [[Jay Connar]]
+- Helviti inquisition
 [[Karta]]
 [[Toryk Jamal]]
 - Not sure who you are
@@ -75,7 +76,7 @@ Kevin
 [[Shiendo Kadaon]], [[Uzgrad Khat'on]]
 	Interrogating Aru
 	Member of gold comanda left behind an orphan called [[Aru]], [[Kokarn'o]] 
-	
+	- He died 
 [[Jokku Troph]]
  - Researcher metallurgy
 [[Angelica Snowsand]]
