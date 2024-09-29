@@ -22,6 +22,66 @@
             }
           },
           {
+            "id": "476cada138040800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/04 23 - Session 0.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75821676da191342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa6b30c58e9ec344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 28 - Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e47565295bc57401",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/06 18 - Session 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f8e0360d126432a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/06 04 - Session 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "41856db688632289",
             "type": "leaf",
             "state": {
@@ -33,7 +93,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -115,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/09 29 - Session 31.md",
+                "file": "Sessions/2023/06 04 - Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/09 29 - Session 31.md",
+                "file": "Sessions/2023/06 04 - Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/09 29 - Session 31.md"
+                "file": "Sessions/2023/06 04 - Session 3.md"
               }
             }
           },
@@ -214,15 +275,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f7daecd35015d19",
+  "active": "6f8e0360d126432a",
   "lastOpenFiles": [
+    "Sessions/2023/06 18 - Session 4.md",
+    "Sessions/2023/05 28 - Session 2.md",
+    "Sessions/2023/05 07 - Session 1.md",
+    "Sessions/2023/04 23 - Session 0.5.md",
+    "Sessions/2024/09 29 - Session 31.md",
     "Sessions/2024/09 08 - Session 30.md",
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/02 11 - Session 16.md",
-    "Sessions/2024/09 29 - Session 31.md",
     "Jobs/Level 3/Soirée.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Sessions/2023/09 10 - Session 8.md",
@@ -238,10 +303,6 @@
     "Factions/Local Arcanists/Mholok Krass.md",
     "Shiendo Kadaon.md",
     "Sessions/2024/02 25 - Session 17.md",
-    "Sessions/2024/03 10 - Session 18.md",
-    "Sessions/2024/09 01 - Session 29.md",
-    "Sessions/2024/08 11 - Session 28.md",
-    "Sessions/2024/04 07 - Session 20.md",
     "Locations/Dog Prince Caves.canvas",
     "Pasted image 20240908211633.png",
     "Pasted image 20240630212744.png",
