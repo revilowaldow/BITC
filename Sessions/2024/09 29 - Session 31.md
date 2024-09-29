@@ -42,3 +42,6 @@ Party at Brayk Brasshand's at nightfall tomorrow
 
 Need to get dressed up
 
+Madam Hawk
+Her Majesty
+Angelica Snowsand
