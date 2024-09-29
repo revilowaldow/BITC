@@ -81,7 +81,7 @@ Kevin
 - Second orb
 - Pit is jointly owned with the tower of eyes
 - Building a containment sphere, made of rare metals
-- Brought in by calamsis
+- Animate creature brought in by calamsis
 [[Larkin]]
 [[Shiendo Kadaon]], [[Uzgrad Khat'on]]
 	Interrogating Aru
