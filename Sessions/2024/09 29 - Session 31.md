@@ -35,4 +35,6 @@ Death Comanda is temporary basis, join from any comanda
 	Job is to hunt helviti
 
 Indigo Commanda year 78 
-chineria
+chineria paid indigo too much and defected from the Helviti Waste overal, were eradicated as punishment
+
+
