@@ -22,4 +22,9 @@ Helviti take jobs as 'oaths' binding contracts
 [[Harven]] the bandit sharing with Thodunn
 
 
-
+Visit Kev
+Present: 
+	[[Shiendo Kadan]]
+	[[Brayk Brasshand]]
+	Another helviti person
+	
