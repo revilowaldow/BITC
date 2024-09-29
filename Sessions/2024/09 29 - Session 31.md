@@ -39,3 +39,6 @@ Chineria paid indigo too much and defected from the Helviti Waste overall, were 
 
 
 Party at Brayk Brasshand's at nightfall tomorrow
+
+Need to get dressed up
+
