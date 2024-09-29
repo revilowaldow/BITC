@@ -45,128 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8c656beba0ecc22a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a01da05b9683ac9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
-                "viewState": {
-                  "x": 5333.567808303542,
-                  "y": 875.0722929408075,
-                  "zoom": -1.2310883889469866
-                }
-              }
-            }
-          },
-          {
-            "id": "dc212daa936f228e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Local Arcanists/Vixel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5cd08ed87e96296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Weapon Rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "467dbb57b79ea32e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1365bf8994ee07cf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "146f0957b22a2f0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 28 - Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6672943b1899ba7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47d26d5a9edf782a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/06 18 - Session 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e5a71be9e68ee5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Sessions/2024/08 11 - Session 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Sessions/2024/08 11 - Session 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md"
+                "file": "Sessions/2024/08 11 - Session 28.md"
               }
             }
           },
@@ -347,24 +228,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "467dbb57b79ea32e",
+  "active": "6a084730275c0c11",
   "lastOpenFiles": [
+    "Sessions/2024/07 28 - Session 27.md",
     "Locations/Dog Prince Caves.canvas",
+    "Factions/Local Arcanists/Vixel.md",
+    "Setting Rules/Weapon Rules.md",
+    "Pasted image 20240908211633.png",
+    "Pasted image 20240630212744.png",
+    "Sessions/2024/09 08 - Session 30.md",
     "Assets/Characters/Kana.png",
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/04 07 - Session 20.md",
-    "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/03 24 - Session 19.md",
-    "Sessions/2024/09 08 - Session 30.md",
-    "Pasted image 20240908211633.png",
     "Sessions/2023/05 28 - Session 2.md",
     "Assets/Maps/Kana Fight.png",
-    "Pasted image 20240630212744.png",
     "Sessions/2023/05 07 - Session 1.md",
-    "Setting Rules/Weapon Rules.md",
     "Sessions/2024/09 01 - Session 29.md",
     "Sessions/2024/07 14 - Session 26.md",
-    "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/08 11 - Session 28.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/06 18 - Session 4.md",
