@@ -61,7 +61,17 @@ Virtelle
 [[Shiendo Kadaon]]
 [[Jay Connar]]
 [[Karta]]
-[[Toryk Jamal]], [[Liera Lov]], [[Yayek]], [[Larkin]], [[Uzgrad Khat'on]], [[Jokku Troph]], [[Angelica Snowsand]], [[Stealth]], [[Epo]]
+[[Toryk Jamal]]
+[[Liera Lov]]
+[[Yayek]]
+[[Larkin]]
+[[Uzgrad Khat'on]]
+[[Jokku Troph]]
+[[Angelica Snowsand]]
+
+[[Stealth]], [[Epo]]
+- Been doing scouting around, found heliotropic bronze powder
+- 
 
 
 
