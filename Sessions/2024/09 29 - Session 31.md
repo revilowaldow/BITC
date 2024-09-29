@@ -47,4 +47,5 @@ Need to get dressed up
 Her Majesty
 Angelica Snowsand
 
+[[Lionhold]] - Female ruler, lawless bunch
 

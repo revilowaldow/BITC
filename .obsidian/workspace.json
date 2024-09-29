@@ -204,7 +204,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lionh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,7 +229,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -358,8 +359,9 @@
   },
   "active": "34ce2ceff63db7a5",
   "lastOpenFiles": [
-    "Sessions/2024/09 08 - Session 30.md",
+    "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/09 29 - Session 31.md",
+    "Sessions/2024/09 08 - Session 30.md",
     "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2024/09 01 - Session 29.md",
     "Sessions/2024/08 11 - Session 28.md",
@@ -370,7 +372,6 @@
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/04 07 - Session 20.md",
-    "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Locations/Dog Prince Caves.canvas",
     "Factions/Local Arcanists/Vixel.md",
