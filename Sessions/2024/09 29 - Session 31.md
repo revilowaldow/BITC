@@ -26,5 +26,5 @@ Visit Kev
 Present: 
 	[[Shiendo Kadan]]
 	[[Brayk Brasshand]] - mentioned welcome at his venues
-	Another helviti person
+	[[Uzgrad Khat'on]] - Death Comanda - articulated plates over face, q
 	
