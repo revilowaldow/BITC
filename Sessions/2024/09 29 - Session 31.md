@@ -42,6 +42,9 @@ Party at Brayk Brasshand's at nightfall tomorrow
 
 Need to get dressed up
 
-Madam Hawk
+[[Madam Hawk]] 
+[[Kerytoph Myondo]] - high defender of the protector
 Her Majesty
 Angelica Snowsand
+
+
