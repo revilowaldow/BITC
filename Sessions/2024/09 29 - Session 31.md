@@ -28,4 +28,6 @@ Present:
 	[[Brayk Brasshand]] - mentioned welcome at his venues
 	[[Uzgrad Khat'on]] - Death Comanda - articulated plates over face, quite short
 
+Recently East towards Chineria
+Travelling with fierce lady
 
