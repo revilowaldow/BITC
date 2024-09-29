@@ -53,3 +53,12 @@ Recruiting slaves (living under the thumb of oppression), specifically looking f
 Speak to Yayek and Jay Konnoar
 
 
+KA
+Vit
+Utu
+BB
+Mholok Krass
+Shiendo Kadan
+Karta
+Torik Jamal
+Leoalove
