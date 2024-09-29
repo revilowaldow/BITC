@@ -72,6 +72,8 @@ Kevin
 - How are things at the lifegiver's temple
 - City grove
 [[Yayek]]
+- Magical researcher at the pit
+- 
 [[Larkin]]
 [[Shiendo Kadaon]], [[Uzgrad Khat'on]]
 	Interrogating Aru

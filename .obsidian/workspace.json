@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e30bd7659bdb73ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a38b082223809c63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "60ab927444557ff7",
             "type": "leaf",
             "state": {
@@ -73,14 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/09 29 - Session 31.md",
+                "file": "Factions/Local Arcanists/Vixel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tory",
+                "query": "yayek",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/09 29 - Session 31.md",
+                "file": "Sessions/2024/05 19 - Session 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/09 29 - Session 31.md",
+                "file": "Sessions/2024/05 19 - Session 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/09 29 - Session 31.md"
+                "file": "Sessions/2024/05 19 - Session 22.md"
               }
             }
           },
@@ -262,15 +237,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "415e399f41ab7b73",
+  "active": "60ab927444557ff7",
   "lastOpenFiles": [
-    "Jobs/Level 3/Soirée.md",
+    "Factions/Local Arcanists/Vixel.md",
+    "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/09 29 - Session 31.md",
+    "Sessions/2024/01 14 - Session 14.md",
+    "Jobs/Level 3/Soirée.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Sessions/2023/09 10 - Session 8.md",
-    "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2024/07 28 - Session 27.md",
-    "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/06 02 - Session 23.md",
@@ -283,7 +259,6 @@
     "Factions/Liera Lov.md",
     "Factions/Local Arcanists/Mholok Krass.md",
     "Shiendo Kadaon.md",
-    "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/02 25 - Session 17.md",
     "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2024/09 08 - Session 30.md",
