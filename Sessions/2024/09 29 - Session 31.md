@@ -107,7 +107,8 @@ Large roast sheep, aroma of spices
 
 Isle of feasts, race of elves live there
 Powers
-Something came down here, passed by chineria, festallion t
+Something came down here, passed by chineria,
+Chanting and sound to mess with sounds, Festalians trick
 
 
 
