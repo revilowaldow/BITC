@@ -65,7 +65,8 @@ Kevin
 - Developed any new spells
 - Perfecting autonomous human
 - Bronze golem?
-- Given away 
+- Given aways suit to [[Sea Blooded Organisation]]
+- 
 
 [[Jay Connar]]
 - Helviti inquisition
