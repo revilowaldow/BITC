@@ -105,7 +105,9 @@ Kevin
 
 Large roast sheep, aroma of spices
 
-
+Isle of feasts, race of elves live there
+Powers
+Something came down here, passed by chineria, festallion t
 
 
 
