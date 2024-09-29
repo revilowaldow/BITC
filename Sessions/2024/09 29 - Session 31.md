@@ -80,7 +80,8 @@ Kevin
 	Interrogating Aru
 	Member of gold comanda left behind an orphan called [[Aru]], [[Kokarn'o]] 
 	- He died 
-	- Hands a death comanda helmet to Aru
+	- Hands a death comanda helmet to Aru, could allow you to be registered as a comanda
+	- Uzgrad killed the pro
 [[Jokku Troph]]
  - Researcher metallurgy
 [[Angelica Snowsand]]
