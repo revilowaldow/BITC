@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jok",
+                "query": "liera",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/06 16 - Session 24.md",
+                "file": "Sessions/2024/09 29 - Session 31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/06 16 - Session 24.md",
+                "file": "Sessions/2024/09 29 - Session 31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/06 16 - Session 24.md"
+                "file": "Sessions/2024/09 29 - Session 31.md"
               }
             }
           },
@@ -273,14 +274,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da5359efddbfb65a",
+  "active": "d64d57bbfa4524a3",
   "lastOpenFiles": [
+    "Sessions/2024/02 11 - Session 16.md",
+    "Sessions/2024/06 16 - Session 24.md",
     "Sessions/2024/06 30 - Session 25.md",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/09 29 - Session 31.md",
-    "Sessions/2024/02 11 - Session 16.md",
-    "Sessions/2024/06 16 - Session 24.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Jobs/Level 4/Job for Lady Fara Eylaine.md",

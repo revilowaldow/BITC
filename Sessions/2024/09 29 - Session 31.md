@@ -56,7 +56,7 @@ Attendees:
 Kevin
 [[Virtelle The Silver Blade]]
 - How's you mum
-- How did negotiations with the go 
+- How did negotiations with the Huascans go
 [[Brayk Brasshand]]
 [[Utu]]
 [[Mholok Krass]]
@@ -68,7 +68,8 @@ Kevin
 [[Toryk Jamal]]
 - Not sure who you are
 [[Liera Lov]]
-- 
+- How are things at the lifegiver's temple
+- City grove
 [[Yayek]]
 [[Larkin]]
 [[Uzgrad Khat'on]]
