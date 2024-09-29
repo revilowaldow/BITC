@@ -26,8 +26,12 @@ Visit Kev
 Present: 
 	[[Shiendo Kadan]]
 	[[Brayk Brasshand]] - mentioned welcome at his venues
-	[[Uzgrad Khat'on]] - Death Comanda - articulated plates over face, quite short
+	[[Uzgrad Khat'on]] - Permanent Death Comanda (prior) - articulated plates over face, quite short
 
 Recently East towards Chineria
 Travelling with fierce lady
+
+Death Comanda is temporary basis, join from any comanda
+	Job is to hunt helviti
+
 
