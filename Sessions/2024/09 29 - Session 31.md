@@ -48,4 +48,4 @@ Her Majesty
 Angelica Snowsand
 
 [[Lionhold]] - Female ruler, lawless bunch
-
+Recruiting slaves (living under the thumb of oppression), specifically looking for those with tattoos
