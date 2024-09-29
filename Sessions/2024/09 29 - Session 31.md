@@ -65,7 +65,11 @@ Leoalove
 Yayek
 Uzgradt - half of jaw missing
 Joku troph
-Angelic Snowsand
+Angelic Snowsand - with art
+Stealth
+Epo
+
+
 
 
 
