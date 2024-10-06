@@ -24,7 +24,7 @@ Nearby grove, plentiful water
  Ritual to open the grove
 Ancient one: [[Horu]]
 	Predates the new age
-Visits the temples often [[Temple of the Lady of Life]] [[Eternal queen]]
+Visits the temples often [[Temple of the Lady of Life]] [[Eternal Queen]]
 
 City Grove?
 	Walk through Alleys and entrance moves

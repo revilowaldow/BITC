@@ -29,7 +29,7 @@ Carvings in room depict the process of completing the ritual
 Return to HQ with cultist
 
 [[Epo]] report to [[Kevin Aldragosh]]
-[[Yarek]] travelling to [[The Pit]] with an item
+[[Yayek]] travelling to [[The Pit]] with an item
 
 [[Epo]] and [[Kevin Aldragosh]] clearly do not get on
 [[Kevin Aldragosh]] is unhappy at not having access to reports from the pit but has access to the pit itself

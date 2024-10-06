@@ -1,7 +1,7 @@
 
 Adam Recapping
 
-Kaulinan leads with plant growth to assist Utu and troops
+Kaulinan leads with plant growth to assist [[Utu Otaka]] and troops
 Party dart down back alley
 
 ![[Vineyard Skirmish.png]]

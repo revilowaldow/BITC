@@ -22,87 +22,39 @@
             }
           },
           {
-            "id": "476cada138040800",
+            "id": "d0d21a7bd5962eab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/04 23 - Session 0.5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75821676da191342",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 07 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa6b30c58e9ec344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/05 28 - Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e47565295bc57401",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/06 18 - Session 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f8e0360d126432a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b97f64ea14c9a860",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           },
           {
-            "id": "41856db688632289",
+            "id": "3f99d9f8591054d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
+                "file": "Sessions/2024/10 06 - Session 32.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4b1eafb9e160765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Helviti/List of Commanda.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yayek",
+                "query": "Kana",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
+                "file": "Factions/Helviti/List of Commanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
+                "file": "Factions/Helviti/List of Commanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md"
+                "file": "Factions/Helviti/List of Commanda.md"
               }
             }
           },
@@ -283,35 +235,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "f4b1eafb9e160765",
   "lastOpenFiles": [
-    "Sessions/2023/06 18 - Session 4.md",
-    "Sessions/2023/05 28 - Session 2.md",
-    "Sessions/2023/05 07 - Session 1.md",
-    "Sessions/2023/04 23 - Session 0.5.md",
     "Sessions/2024/09 29 - Session 31.md",
-    "Sessions/2024/09 08 - Session 30.md",
-    "Factions/Local Arcanists/Vixel.md",
-    "Sessions/2024/01 14 - Session 14.md",
-    "Sessions/2024/07 28 - Session 27.md",
-    "Sessions/2024/05 19 - Session 22.md",
-    "Sessions/2024/02 11 - Session 16.md",
-    "Jobs/Level 3/Soirée.md",
+    "Factions/Silver Company/Dimicislus Gregorius.md",
+    "Sessions/2024/10 06 - Session 32.md",
+    "Factions/Helviti/Utu Otaka.md",
     "Sessions/2023/09 24 - Session 9.md",
-    "Sessions/2023/09 10 - Session 8.md",
-    "Sessions/2024/04 21 - Session 21.md",
+    "Factions/Brayk Brasshand.md",
+    "Factions/Aegan Empire.md",
     "Sessions/2024/06 02 - Session 23.md",
-    "Sessions/2024/06 16 - Session 24.md",
+    "Factions/Flambard Hawk.md",
+    "Factions/Vermillion Hand/Kana.md",
     "Sessions/2024/06 30 - Session 25.md",
-    "Sessions/2024/07 14 - Session 26.md",
+    "Sessions/2024/07 28 - Session 27.md",
+    "Sessions/2024/09 08 - Session 30.md",
     "Sessions/2024/03 24 - Session 19.md",
+    "Factions/Helviti/Houndak.md",
     "Jobs/Level 4/Job for Lady Fara Eylaine.md",
-    "Jokku Troph.md",
-    "Factions/Liera Lov.md",
-    "Factions/Local Arcanists/Mholok Krass.md",
-    "Shiendo Kadaon.md",
-    "Sessions/2024/02 25 - Session 17.md",
+    "Factions/Silver Company/Harven.md",
     "Locations/Dog Prince Caves.canvas",
+    "Factions/The Cooking Association/Palanda Macav.md",
+    "Factions/The Cooking Association",
+    "Factions/The Cooking Association/The Cooking Association.md",
+    "Factions/Shaku Toto.md",
+    "Factions/Nefros.md",
+    "Factions/Calamxis.md",
+    "Factions/Elder Jimbolee.md",
+    "Factions/Jay Connar.md",
+    "Factions/Kerytoph Myondo.md",
+    "Factions/Lyan Thorp.md",
+    "Factions/Eastern City States/Parche",
+    "Factions/Vermillion Hand",
     "Pasted image 20240908211633.png",
     "Pasted image 20240630212744.png",
     "Assets/Characters/Kana.png",
@@ -332,9 +287,6 @@
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Locations/Kathkach/Abandoned House.canvas",
     "Deity/New",
-    "Deity/Old",
-    "Deity",
-    "Factions/Sea Blooded Org",
-    "Factions/Silver Company"
+    "Deity/Old"
   ]
 }

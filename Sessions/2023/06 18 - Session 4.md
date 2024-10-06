@@ -43,7 +43,7 @@ Now owes us a favour
 
 Dwarf
 
-[[Yarek]] Golden Skinned Dwarf with short black hair and a cap
+[[Yayek]] Golden Skinned Dwarf with short black hair and a cap
 
 "The Pit"? research items
 

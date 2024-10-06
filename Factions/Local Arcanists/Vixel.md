@@ -50,7 +50,7 @@ Fall of gods
 
 "I need to call for help, this is beyond what we can handle, They are coming"
 
-Orb looks the same as the one I gave to Yayek
+Orb looks the same as the one I gave to [[Yayek]]
 Evocation
 
 Ring of Abjuration magic :'(
@@ -65,3 +65,7 @@ Types of reincarnates:
 Kathkachan mess 7-8 NA
 
 Investigation declared cold after 5 years?
+
+
+Signal bounced chambers of the Arcanist [[Vixel]]?
+Half-elf

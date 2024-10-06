@@ -14,27 +14,17 @@ Slave armies, mages vs slaves, ash was left
 
 
 
-- 
 - Shadow Disaster 180NA
 - Helviti Inquisition Formed
 - Second Eastern War Started
 - Fire Slaughter (Year 209 in the New Age)
 - Second Eastern War Ended (Year 210 NA)
-- Parche officially becomes a magocracy 225NA
-- Parche started a new war called the Ash War
-- Rival to the Helviti Inquisition formed as a rival to the HI
+- [[Parche]] officially becomes a magocracy 225NA
+- Parche started a new war called the [[Ash War]]
+- Rival to the [[Helviti Inquisition]] formed as a rival to the HI
 - Then focus moves to Aegan Empire (Green Plague)
 - Founding of Freedom City (240NA by slaves and oppressed individuals)
-- Battle of Looming Rock (246NA)
-
-
-
-Omana - 
-Immortal body immortal soul
-Non-binary
-Alchemical theory,
-combination of halves/opposites
-Light & Dark
+- [[Battle of Looming Rock]] (246NA)
 
 
 Goodbye, quarter bow with hand over heart. 

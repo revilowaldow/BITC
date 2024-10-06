@@ -68,7 +68,7 @@ Attack started at nightfall
 
 Look for sister, 5 years younger shorter, dark hair [[Rev]]
 
-Told Utu to keep a pebble on her
+Told [[Utu Otaka]] to keep a pebble on her
 
 <hr>
 
