@@ -52,6 +52,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39ddf9ed7a8b958b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -136,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Helviti/List of Commanda.md",
+                "file": "Sessions/2024/09 29 - Session 31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Helviti/List of Commanda.md",
+                "file": "Sessions/2024/09 29 - Session 31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Helviti/List of Commanda.md"
+                "file": "Sessions/2024/09 29 - Session 31.md"
               }
             }
           },
@@ -235,7 +243,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4b1eafb9e160765",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Sessions/2024/09 29 - Session 31.md",
     "Factions/Silver Company/Dimicislus Gregorius.md",
