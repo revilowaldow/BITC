@@ -113,6 +113,12 @@ High dignitary of Aegan empire protected by cat from a large seagull
 
 [[Muurak Drass]] - wendigo comanda at Sour Grapes
 
+Wendigo has never successfully hunted one despite taking contracts
+Other expeditions did not go well
+Need multiple people to hunt them successfully
 
+Fast strikes well, ambush
+
+Need cohesion
 
 
