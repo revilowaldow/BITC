@@ -82,6 +82,8 @@ West of city of 7000 stairs
 Don't trust what you hear, imitates things
 Hunts for sport
 
+Can understand and doesn't talk intentionally
+
 
 
 
