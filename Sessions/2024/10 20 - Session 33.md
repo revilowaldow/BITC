@@ -61,7 +61,7 @@ Thodunn's arm has scales, but golden hairs poking out between
 
 <hr>
 
-[[Angelical Snowsand]] is at the platinum pot
+[[Angelica Snowsand]] is at the platinum pot
 
 Ask about the shrike
 Woke her up early
