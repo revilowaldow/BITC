@@ -49,3 +49,5 @@ Gold Clinking
 
 Manufacture > Transport > Sale
 
+Thodunn's arm has scales, but golden hairs poking out between
+
