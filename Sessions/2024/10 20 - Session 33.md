@@ -43,6 +43,13 @@ String up the smugglers
 
 Phlanx - [[Obsidian Comanda]]
 
+[[Hreato]] - Gold comanda
+
+
+
+
+
+
 <hr>
 
 
