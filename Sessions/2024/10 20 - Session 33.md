@@ -52,7 +52,7 @@ Ripped apart, like paper
 Used to hang out with others
 [[Poliatar]] - Retired, city of 7000 stairs, kelpwatch
 [[Maya]] - Left comanada shortly after
-
+[[Shiv]] - only heard in passing
 
 
 
