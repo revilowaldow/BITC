@@ -17,7 +17,8 @@ Thodunn is a spy
 Asking Jokku when the expedition is going
 
 Stealth is finding the cave
-
-
+Then party will be sent
 
 <hr>
+
+
