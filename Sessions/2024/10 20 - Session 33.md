@@ -12,3 +12,5 @@ Craghold
 
 [[Sea Blooded Organisation]] want the purple powder
 
+Thodunn is a spy
+
