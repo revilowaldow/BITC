@@ -33,6 +33,8 @@ Suddenly injured, for no reason
 
 Rescued by crimson keep
 
+Asleep for 3 days
+
 
 
 <hr>
