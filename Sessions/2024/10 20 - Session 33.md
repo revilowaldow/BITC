@@ -25,4 +25,6 @@ Aru and Utu visiting the Crimson Keep
 
 Utu started in the Gold Comanda
 
+[[Gyak Thun]] was Utu's mentor
+
 
