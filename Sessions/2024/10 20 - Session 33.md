@@ -29,4 +29,8 @@ Utu started in the Gold Comanda
 
 Utu saw a Wendigo comanda along the wabar once
 
+Suddenly injured
+
+<hr>
+
 
