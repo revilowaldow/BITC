@@ -121,4 +121,6 @@ Fast strikes well, ambush
 
 Need cohesion
 
+As cheap as 40gp, could go as high as 100gp
 
+[[Noki]]
