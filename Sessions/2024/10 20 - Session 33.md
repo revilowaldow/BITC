@@ -50,6 +50,10 @@ Vanished, found his body a week later
 Ripped apart, like paper
 
 Used to hang out with others
+[[Poliatar]] - Retired
+[[Maya]] - Left comanada shortly after
+
+
 
 
 
