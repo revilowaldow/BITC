@@ -27,4 +27,6 @@ Utu started in the Gold Comanda
 
 [[Gyak Thun]] was Utu's mentor
 
+Utu saw a Wendigo comanda along the wabar once
+
 
