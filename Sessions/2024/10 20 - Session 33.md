@@ -109,7 +109,7 @@ Friends
 
 "If ever you head out there, come see me"
 
-High dignitary of Aegan empire 
+High dignitary of Aegan empire protected by cat from a large seagull
 
 
 
