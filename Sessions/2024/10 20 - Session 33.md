@@ -46,8 +46,7 @@ Phlanx - [[Obsidian Comanda]]
 [[Hreato]] - Gold comanda
 [[Yrite Vett]] - Older Human, Knew [[Burahaburan]] 
 
-
-
+Vanished, found his body a week later
 
 
 <hr>
