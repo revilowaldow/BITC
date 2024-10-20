@@ -123,4 +123,6 @@ Need cohesion
 
 As cheap as 40gp, could go as high as 100gp
 
-[[Noki]]
+[[Noky]] - Wendigo's uzgradt
+
+
