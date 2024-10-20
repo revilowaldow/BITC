@@ -1,5 +1,6 @@
-No helmet,
-
+No helmet
 Tall woman
+Elven ears
 
-El
+Stinger of scorpion comanda
+
