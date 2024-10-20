@@ -49,6 +49,10 @@ Phlanx - [[Obsidian Comanda]]
 Vanished, found his body a week later
 Ripped apart, like paper
 
+Used to hang out with others
+
+
+
 <hr>
 
 
