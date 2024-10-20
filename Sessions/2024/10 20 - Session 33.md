@@ -7,3 +7,6 @@ Alex Recapping
 
 [[Piggy]]
 
+Where is the purple powder cave?
+Craghold
+
