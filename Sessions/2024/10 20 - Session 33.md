@@ -21,4 +21,8 @@ Then party will be sent
 
 <hr>
 
+Aru and Utu visiting the Crimson Keep
+
+Utu started in the Gold Comanda
+
 
