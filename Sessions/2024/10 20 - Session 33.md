@@ -99,6 +99,8 @@ About a month too late
 
 ![[Pasted image 20241020194002.png]]
 
+Migratory?
+
 
 
 
