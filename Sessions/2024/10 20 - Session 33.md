@@ -10,3 +10,5 @@ Alex Recapping
 Where is the purple powder cave?
 Craghold
 
+[[Sea Blooded Organisation]] want the purple powder
+
