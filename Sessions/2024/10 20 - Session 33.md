@@ -94,5 +94,6 @@ Interested in [[Her Majesty]] and [[Jay Connar]]
 
 [[Flambard Hawk]] is in the room opposite [[Angelica Snowsand]]
 
+Flambard failed to hunt it once near waterhold
 
 
