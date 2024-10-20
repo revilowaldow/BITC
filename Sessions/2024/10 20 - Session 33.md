@@ -64,4 +64,8 @@ Thodunn's arm has scales, but golden hairs poking out between
 [[Angelical Snowsand]] is at the platinum pot
 
 Ask about the shrike
+Woke her up early
+
+As far north as northern kingdom, as far south as here
+Shrieks and wails
 
