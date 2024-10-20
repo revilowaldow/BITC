@@ -79,6 +79,9 @@ Sketches produced in unnamed fishing village in helviti wastes near coast
 Show large birds, large claws, large beak, bright eyes
 West of city of 7000 stairs
 
+Don't trust what you hear, imitates things
+Hunts for sport
+
 
 
 
