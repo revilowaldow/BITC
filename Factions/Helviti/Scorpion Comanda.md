@@ -1,0 +1,1 @@
+The vicious Scorpion Comanda guard the pass to the Helvit Waste with orders not to allow any to pass. The walls of their easily defensible fort are adorned with the remains of many who sought to enter without their explicit permission; smugglers and invaders alike. For this reason the keep is colloquially known as the Crimson Keep, though in truth it has no official name.
