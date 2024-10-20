@@ -8,4 +8,4 @@
 [[Indigo Comanda]] - wiped out after collapse, disappearance created Death Coamnda
 [[Red Comanda]]
 [[Scorpion Comanda]]
-[[Obsidian Comanda]] - In Charge of [[Planx]], exit from Helviti Wastes to the North
+[[Obsidian Comanda]] - In Charge of [[Phlanx]], exit from Helviti Wastes to the North
