@@ -44,7 +44,7 @@ String up the smugglers
 Phlanx - [[Obsidian Comanda]]
 
 [[Hreato]] - Gold comanda
-
+[[Yrite Vett]] - Older Human, Knew [[Burahaburan]] 
 
 
 
