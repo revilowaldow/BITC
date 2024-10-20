@@ -96,6 +96,20 @@
             }
           },
           {
+            "id": "da7a933e5418c0c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shree Aton.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shree Aton"
+            }
+          },
+          {
             "id": "21e9cb5cbacf7fda",
             "type": "leaf",
             "state": {
@@ -110,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -317,10 +331,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fdf6e337e8028bb8",
+  "active": "da7a933e5418c0c4",
   "lastOpenFiles": [
-    "Factions/Angelica Snowsand.md",
     "Sessions/2024/10 20 - Session 33.md",
+    "Shree Aton.md",
+    "Factions/Angelica Snowsand.md",
     "Sessions/2024/09 29 - Session 31.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/04 21 - Session 21.md",
@@ -346,7 +361,6 @@
     "Factions/The Cooking Association/Palanda Macav.md",
     "Factions/The Cooking Association",
     "Factions/The Cooking Association/The Cooking Association.md",
-    "Factions/Shaku Toto.md",
     "Factions/Eastern City States/Parche",
     "Factions/Vermillion Hand",
     "Pasted image 20240908211633.png",
