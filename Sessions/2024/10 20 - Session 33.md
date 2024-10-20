@@ -39,7 +39,9 @@ Wound matches vrin's old scar
 
 [[Shree Aton]] - stinger of scorpion comanda
 
-String up 
+String up the smugglers
+
+
 
 <hr>
 
