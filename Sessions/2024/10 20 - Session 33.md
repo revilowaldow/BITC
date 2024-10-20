@@ -29,7 +29,7 @@ Utu started in the Gold Comanda
 
 Utu saw a Wendigo comanda along the wabar once
 
-Suddenly injured
+Suddenly injured, for no reason
 
 Rescued by crimson keep
 
