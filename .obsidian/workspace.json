@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scorpion",
+                "query": "sour gr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,7 +172,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -317,7 +318,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d1f8d9eb43a0e557",
+  "active": "d64d57bbfa4524a3",
   "lastOpenFiles": [
     "Factions/Helviti/List of Commanda.md",
     "Factions/Helviti/Scorpion Comanda.md",
