@@ -59,3 +59,9 @@ Manufacture > Transport > Sale
 
 Thodunn's arm has scales, but golden hairs poking out between
 
+<hr>
+
+[[Angelical Snowsand]] is at the platinum pot
+
+Ask about the shrike
+
