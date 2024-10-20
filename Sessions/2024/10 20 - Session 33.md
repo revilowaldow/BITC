@@ -75,8 +75,12 @@ Only been heard about for 100 years,, nothing earlier
 
 Noises, livestock and animals going missing
 
-Sketches produced in village in helviti wastes near coast
-Show large birds, large c
+Sketches produced in unnamed fishing village in helviti wastes near coast
+Show large birds, large claws, large beak, bright eyes
+West of city of 7000 stairs
+
+
+
 
 
 
