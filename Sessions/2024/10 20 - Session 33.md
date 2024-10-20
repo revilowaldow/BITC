@@ -86,6 +86,7 @@ Can understand and doesn't talk intentionally
 
 [[Wailer]] [[Shreiker]]
 
+Interested in [[Her Majesty]] and [[Jay Connar]]
 
 
 
