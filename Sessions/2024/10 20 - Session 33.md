@@ -35,7 +35,9 @@ Rescued by crimson keep
 
 Asleep for 3 days
 
-[[Shree Aton]] - stinger of scorpion commanda
+Wound matches vrin's old scar
+
+[[Shree Aton]] - stinger of scorpion comanda
 
 <hr>
 
