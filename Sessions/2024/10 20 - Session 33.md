@@ -105,6 +105,11 @@ They like forests, old nest in a cave?
 
 Have a system
 
+Friends 
+
+"If ever you head out there, come see me"
+
+
 
 
 
