@@ -17,7 +17,7 @@ Told them about Kana as a potential Champion of violence
 
 <hr>
 
-4 months downtime
+4 weeks downtime
 
 Side gig 2d6 per week for 4 days of 7 an hour minimum
 
