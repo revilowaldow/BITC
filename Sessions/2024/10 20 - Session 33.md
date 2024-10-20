@@ -39,6 +39,8 @@ Wound matches vrin's old scar
 
 [[Shree Aton]] - stinger of scorpion comanda
 
+
+
 <hr>
 
 
@@ -84,9 +86,11 @@ Hunts for sport
 
 Can understand and doesn't talk intentionally
 
-[[Wailer]] [[Shreiker]]
+[[Wailer]] /[[Shreiker]]? Needs a name
 
 Interested in [[Her Majesty]] and [[Jay Connar]]
+
+[[Flambard Hawk]] is in the room opposite [[Angelica Snowsand]]
 
 
 
