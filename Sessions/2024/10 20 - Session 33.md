@@ -50,7 +50,7 @@ Vanished, found his body a week later
 Ripped apart, like paper
 
 Used to hang out with others
-[[Poliatar]] - Retired
+[[Poliatar]] - Retired, city of 7000 stairs, kelpwatch
 [[Maya]] - Left comanada shortly after
 
 

@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sour gr",
+                "query": "Maya",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -319,8 +319,8 @@
   },
   "active": "fdf6e337e8028bb8",
   "lastOpenFiles": [
-    "Sessions/2024/09 29 - Session 31.md",
     "Sessions/2024/10 20 - Session 33.md",
+    "Sessions/2024/09 29 - Session 31.md",
     "Factions/Helviti/List of Commanda.md",
     "Sessions/2024/10 06 - Session 32.md",
     "Factions/Helviti/Muurak Drass.md",
