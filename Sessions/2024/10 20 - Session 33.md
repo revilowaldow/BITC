@@ -36,4 +36,9 @@ Suddenly injured
 
 [[Marcah]] - purveyor of games
 
+Bought knucklebones
 
+
+<hr>
+
+Thodunn wisdom save
