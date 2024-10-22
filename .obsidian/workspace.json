@@ -113,14 +113,18 @@
             "id": "762e9940893a8ebf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Silver Company/Party/Kaulinan Badag.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kaulinan Badag"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -327,8 +331,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "762e9940893a8ebf",
   "lastOpenFiles": [
+    "Sessions/2024/10 20 - Session 33.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/08 13 - Session 7.md",
@@ -343,7 +348,6 @@
     "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/02 25 - Session 17.md",
     "Sessions/2024/03 10 - Session 18.md",
-    "Sessions/2024/10 20 - Session 33.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2024/09 29 - Session 31.md",
