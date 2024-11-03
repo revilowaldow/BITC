@@ -122,8 +122,10 @@ Need caverns clearing out
 
 Both these need clearing out within three weeks
 
-Reccomended to make contac
+Recommended to make contact with the Denizens of [[Lionhold]]
+Sensible to ensure they won't interfere with task
 
+[[Cuta ]]
 
 
 
