@@ -21,7 +21,7 @@ Then party will be sent
 
 Working on silver rings (30gp)
 
-Had 
+Had dreams of golden wires/transport and constructions
 
 <hr>
 
@@ -63,7 +63,7 @@ Used to hang out with others
 
 [[Marcah]] - purveyor of games
 
-Bought knucklebones
+Bought mammoth knucklebones
 
 
 <hr>
