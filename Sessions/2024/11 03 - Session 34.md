@@ -64,8 +64,9 @@ Blink dog constellation is faded, power has waned, perhaps a representation of d
 Girallon is as strong as normal
 
 Shackle - strong, close and present
-Wizard - sage, looms over potnetly
+Wizard - sage, looms over potently
 Lion - claws, going rawr, near moon
+
 
 
 
