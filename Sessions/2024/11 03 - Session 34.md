@@ -60,7 +60,7 @@ Things to look for guidance on
 - Palantir
 
 
-
+Blink dog constellation is faded 
 
 
 
