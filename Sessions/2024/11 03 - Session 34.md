@@ -147,8 +147,7 @@ Lyberry
 Caenis is to not mess up dating Karta
 
 Caenis messaged Tudor
-
-> "Trapped in box letters happen m"
+> "Trapped in box letters happen mission failed help"
 
 
 
