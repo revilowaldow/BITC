@@ -48,6 +48,18 @@
             }
           },
           {
+            "id": "e2faaf8320ba9edb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/09 29 - Session 31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a0a412233634c526",
             "type": "leaf",
             "state": {
@@ -84,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/10 20 - Session 33.md",
+                "file": "Sessions/2024/09 29 - Session 31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/10 20 - Session 33.md",
+                "file": "Sessions/2024/09 29 - Session 31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/10 20 - Session 33.md"
+                "file": "Sessions/2024/09 29 - Session 31.md"
               }
             }
           },
@@ -266,11 +277,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47a952e8cebae79f",
+  "active": "e2faaf8320ba9edb",
   "lastOpenFiles": [
+    "Sessions/2024/10 20 - Session 33.md",
     "Sessions/2024/11 03 - Session 34.md",
     "Setting Rules/Valid Wild Shapes.md",
-    "Sessions/2024/10 20 - Session 33.md",
     "Sessions/2024/09 29 - Session 31.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Setting Rules/Ration Rules.md",
