@@ -55,7 +55,10 @@ Stargazing
 
 Things to look for guidance on
 - Ombak
--
+- Shriker
+- Dyvarre
+- Palantir
+- 
 
 
 
