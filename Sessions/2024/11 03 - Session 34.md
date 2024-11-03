@@ -51,7 +51,7 @@ Stargazing in Matchaka
 - Chameleon - disguise self, deception
 - Blink Dog - teleport, distance
 - Jaculi - stealth + poison
-- Girallon - spectral arms melee + action economy, 
+- Girallon - spectral arms melee + action economy, climb speed
 - Shackle - restraint, improve to paralysis
 
 Things to look for guidance on
