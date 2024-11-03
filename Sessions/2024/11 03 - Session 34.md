@@ -130,7 +130,9 @@ Sensible to ensure they won't interfere with task
 More like bandits or pirates
 Don't steal from them
 
+Hope they won't view the bronze powder as theft
 
+Stealth has seen 
 
 
 
