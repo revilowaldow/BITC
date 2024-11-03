@@ -58,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1cf168860cf22c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Rules/Weapon Rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "ef72d1b6d53eecf3",
@@ -143,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/11 03 - Session 34.md",
+                "file": "Setting Rules/Weapon Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/11 03 - Session 34.md",
+                "file": "Setting Rules/Weapon Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/11 03 - Session 34.md"
+                "file": "Setting Rules/Weapon Rules.md"
               }
             }
           },
@@ -242,13 +253,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "1cf168860cf22c7b",
   "lastOpenFiles": [
+    "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2024/09 08 - Session 30.md",
     "Sessions/2024/09 29 - Session 31.md",
     "Factions/Kerytoph Myondo.md",
     "Pasted image 20240908211633.png",
-    "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2024/10 20 - Session 33.md",
     "Sessions/2023/08 13 - Session 7.md",
     "Setting Rules/Valid Wild Shapes.md",
