@@ -109,7 +109,12 @@ Two jobs need doing
 
 [[Jokku]] 
 
-Forest to north - Word from town of [[Abdos]]
+Forest to north - Word from town of [[Abdos]] disappearances
+Rumors about a beast that flies over the town
+Townsfolk are not quite right, don;t speak or say strange things
+
+
+
 
 
 
