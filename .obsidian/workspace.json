@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "ef72d1b6d53eecf3",
@@ -241,7 +242,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0a412233634c526",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Sessions/2024/09 08 - Session 30.md",
     "Sessions/2024/09 29 - Session 31.md",
