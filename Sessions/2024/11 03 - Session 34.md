@@ -46,7 +46,7 @@ RULE 2: Rewards are most enjoyed when earnt.
 
 <hr>
 
-Stargazing
+Stargazing in Matchaka
 
 - Chameleon
 - Blink Dog
@@ -58,7 +58,9 @@ Things to look for guidance on
 - Shriker
 - Dyvarre
 - Palantir
-- 
+
+
+
 
 
 
