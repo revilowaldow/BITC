@@ -107,13 +107,15 @@ Tusk of orc and half orc
 
 Two jobs need doing
 
-[[Jokku]] 
-
 Forest to north - Word from town of [[Abdos]] disappearances
 Rumors about a beast that flies over the town
 Townsfolk are not quite right, don't speak or say strange things
 Silver Company can bring stability, whole north region has positive interactions with us
 Disappearances report screams that may be similar to the [[Shreiker]]
+
+
+
+
 
 Caves- [[Stealth]] has been south and discovered things called [[Ziardim Caverns]]
 Heliotropic Bronze discovered locally
@@ -132,7 +134,10 @@ Don't steal from them
 
 Hope they won't view the bronze powder as theft
 
-Stealth has seen 
+Stealth has seen bugs, bandits, and mechanised footprints
+
+
+
 
 
 
