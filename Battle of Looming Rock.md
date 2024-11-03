@@ -18,3 +18,7 @@ Used as a scapegoat
 
 [[Lion Comanda]] was almost entirely wiped out
 
+[[Loon]] retained by aegans 
+
+Northern kingdoms lost a large number of soilders
+
