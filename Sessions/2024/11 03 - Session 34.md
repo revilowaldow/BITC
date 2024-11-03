@@ -23,3 +23,9 @@ Festallions are often the bogeyman in children's tales, often they will consume 
 
 Often referred to as an elf or a half-elf
 
+Did more history research particularly about the [[Battle of Looming Rock]]
+
+<hr>
+
+[[Vrindrilliax]] went missing for a short while
+
