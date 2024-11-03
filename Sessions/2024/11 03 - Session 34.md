@@ -125,7 +125,8 @@ Both these need clearing out within three weeks
 Recommended to make contact with the Denizens of [[Lionhold]]
 Sensible to ensure they won't interfere with task
 
-[[Cuta ]]
+[[Quta Lione]] - menace that doesn't bow down to anywone
+
 
 
 
