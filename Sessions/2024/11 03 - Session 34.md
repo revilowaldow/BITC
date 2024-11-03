@@ -99,7 +99,7 @@ straws
 
 Tusk of orc and half orc
 
-[[Potourise]] - tusk specialist, merchant dis
+[[Potourise]] - tusk specialist, merchant district on "East Wall"
 
 
 
