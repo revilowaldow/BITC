@@ -27,5 +27,9 @@ Did more history research particularly about the [[Battle of Looming Rock]]
 
 <hr>
 
-[[Vrindrilliax]] went missing for a short while
+[[Vrindrilliax]] went missing for a short while with [[Virtelle]]
+
+Vrin has invested
+
+
 
