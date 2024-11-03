@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f99d9f8591054d0",
+            "id": "fdf6e337e8028bb8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/10 06 - Session 32.md",
+                "file": "Sessions/2024/11 03 - Session 34.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,14 +22,34 @@
             }
           },
           {
-            "id": "38a727fa2113e57f",
+            "id": "7715a503dd6fea9e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240630212744.png"
+              }
+            }
+          },
+          {
+            "id": "c6be6801c85d80c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/09 29 - Session 31.md",
+                "file": "Shree Aton.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "daaf1c99b23871de",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20241020194002.png"
               }
             }
           },
@@ -46,65 +66,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f4b1eafb9e160765",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Helviti/List of Commanda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1f8d9eb43a0e557",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Helviti/Muurak Drass.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67c6a1cf020fb913",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/10 06 - Session 32.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdf6e337e8028bb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/10 20 - Session 33.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98446c1d6a42732a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 289.5
   },
   "right": {
     "id": "ef72d1b6d53eecf3",
@@ -186,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Silver Company/Party/Kaulinan Badag.md",
+                "file": "Shree Aton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Silver Company/Party/Kaulinan Badag.md",
+                "file": "Shree Aton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Silver Company/Party/Kaulinan Badag.md"
+                "file": "Shree Aton.md"
               }
             }
           },
@@ -285,9 +249,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "c6be6801c85d80c5",
   "lastOpenFiles": [
+    "Pasted image 20240630212744.png",
+    "Pasted image 20240908211633.png",
+    "Pasted image 20241020194002.png",
+    "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2024/10 20 - Session 33.md",
+    "Sessions/2024/10 06 - Session 32.md",
+    "Factions/Helviti/List of Commanda.md",
+    "Factions/Silver Company/Party/Kaulinan Badag.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/08 13 - Session 7.md",
@@ -305,21 +276,13 @@
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2024/09 29 - Session 31.md",
-    "Factions/Helviti/List of Commanda.md",
-    "Sessions/2024/10 06 - Session 32.md",
     "Factions/Helviti/Muurak Drass.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Factions/Helviti/Scorpion Comanda.md",
-    "Shree Aton.md",
-    "Locations/Kathkach/Platinum Pot.md",
-    "Sessions/2024/04 07 - Session 20.md",
-    "Pasted image 20241020194002.png",
     "Locations/Dog Prince Caves.canvas",
     "Factions/The Cooking Association",
     "Factions/Eastern City States/Parche",
     "Factions/Vermillion Hand",
-    "Pasted image 20240908211633.png",
-    "Pasted image 20240630212744.png",
     "Assets/Characters/Kana.png",
     "Assets/Maps/Kana Fight.png",
     "Assets/Maps/Dog Prince.png",
