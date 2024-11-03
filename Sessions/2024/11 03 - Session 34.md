@@ -60,7 +60,10 @@ Things to look for guidance on
 - Palantir
 
 
-Blink dog constellation is faded 
+Blink dog constellation is faded, power has waned
+Girallon is as strong as normal
+
+
 
 
 
