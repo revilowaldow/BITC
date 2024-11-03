@@ -78,7 +78,9 @@ Dyvarre - shackle, lion, dragon, others not quite able to grasp
 5 gp per week for group on rent
 
 45gp base
-+2d6 per week of side gigs
++8d6 per week of side gigs
+(32)
+
 
 
 
