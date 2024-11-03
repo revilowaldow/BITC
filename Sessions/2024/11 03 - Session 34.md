@@ -13,4 +13,8 @@ Goblin proprietor
 
 Rug Slapper / Carpet Beater - 1 damage , but cleans - 1 gp
 
+Looking for cooking supplies
+
+[[Karta]] invites [[Caenis]] to see a play, Aegaen Troop
+
 
