@@ -50,7 +50,13 @@ Stargazing
 
 - Chameleon
 - Blink Dog
+- Jaculi
+- Girallon
+
+Things to look for guidance on
+- Ombak
 - 
+
 
 
 
