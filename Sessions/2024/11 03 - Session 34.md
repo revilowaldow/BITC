@@ -107,6 +107,8 @@ Tusk of orc and half orc
 
 Two jobs need doing
 
+[[Jokku]] 
+
 
 
 
