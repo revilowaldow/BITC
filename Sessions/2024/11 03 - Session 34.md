@@ -31,5 +31,7 @@ Did more history research particularly about the [[Battle of Looming Rock]]
 
 Vrin has invested
 
+Increasing demand for chinerian leather
+
 
 
