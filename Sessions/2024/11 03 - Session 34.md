@@ -68,6 +68,9 @@ Wizard - sage, looms over potently
 Lion - claws, going rawr, near moon
 
 
+Dyvarre - shackle, lion, dragon, others not quite able to grasp
+
+
 
 
 
