@@ -69,6 +69,8 @@ Lion - claws, going rawr, near moon
 
 
 Dyvarre - shackle, lion, dragon, others not quite able to grasp
+- Constellation of the wizard for others
+
 
 
 
