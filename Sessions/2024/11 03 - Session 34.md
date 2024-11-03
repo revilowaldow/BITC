@@ -115,7 +115,10 @@ Townsfolk are not quite right, don't speak or say strange things
 Silver Company can bring stability, whole north region has positive interactions with us
 Disappearances report screams that may be similar to the [[Shreiker]]
 
-Caves- [[Stealth]] has been south and dis 
+Caves- [[Stealth]] has been south and discovered things called [[Ziardim Caverns]]
+Heliotropic Bronze discovered locally
+Need caverns clearing out
+
 
 
 
