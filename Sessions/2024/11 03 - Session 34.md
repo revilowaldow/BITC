@@ -138,7 +138,9 @@ Stealth has seen bugs, bandits, and mechanised footprints
 
 [[Yayek]] to organise tour of [[The Pit]] after we complete both jobs
 
-Libra
+Library has been completed
+
+Gives advantage on advantage or survival checks
 
 
 
