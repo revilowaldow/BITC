@@ -23,6 +23,14 @@ Working on silver rings (30gp)
 
 Had dreams of golden wires/transport and constructions
 
+Sounds of whirring and clicking in head
+Wheels, wool, getting job done
+Gold Clinking
+
+Manufacture > Transport > Sale
+
+Thodunn's arm has scales, but golden hairs poking out between
+
 <hr>
 
 Aru and Utu visiting the Crimson Keep
@@ -64,19 +72,6 @@ Used to hang out with others
 [[Marcah]] - purveyor of games
 
 Bought mammoth knucklebones
-
-
-<hr>
-
-Thodunn wisdom save
-
-Sounds of whirring and clicking in head
-Wheels, wool, getting job done
-Gold Clinking
-
-Manufacture > Transport > Sale
-
-Thodunn's arm has scales, but golden hairs poking out between
 
 <hr>
 
