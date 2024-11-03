@@ -7,4 +7,7 @@ Aru returns from Crimson Keep
 
 [[Caenis]] acquiring a 10ftx10ft rug
 
-8gp, eastern city state
+8gp, eastern city state origin [[Yayoi]]
+
+Goblin proprietor
+
