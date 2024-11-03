@@ -29,9 +29,12 @@ Did more history research particularly about the [[Battle of Looming Rock]]
 
 [[Vrindrilliax]] went missing for a short while with [[Virtelle]]
 
-Vrin has invested 5gp b
+Vrin has invested 5gp plus a random money pouch
 
-Increasing demand for chinerian leather [[Bluesails]]
+Increasing demand for Chinerian leather [[Bluesails]]
+
+RULE 2: Rewards are most enjoyed when earnt.
+
 
 
 
