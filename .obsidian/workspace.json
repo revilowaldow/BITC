@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "horse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -277,7 +278,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ede0d8e76b4542ca",
+  "active": "d64d57bbfa4524a3",
   "lastOpenFiles": [
     "Factions/Eastern City States/Parche/Parche.md",
     "Battle of Looming Rock.md",

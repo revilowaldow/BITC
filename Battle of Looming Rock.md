@@ -22,3 +22,6 @@ Used as a scapegoat
 
 Northern kingdoms lost a large number of soilders
 
+[[Topaz Comanda]]
+[[Horsehair Commanda]]
+[[Whistle ]]
