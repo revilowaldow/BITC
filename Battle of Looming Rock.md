@@ -9,3 +9,8 @@ Helviti saw this abandonment as a threat
 
 Northern Kingdoms viewed the battle as a defeat
 
+Helviti saw this as a victory and demonstrates their essential nature
+
+Aegan Commander [[General Duty]] 
+Now disgraced
+Reopneed dicsussion 
