@@ -63,6 +63,7 @@ Things to look for guidance on
 Blink dog constellation is faded, power has waned, perhaps a representation of dog prince
 Girallon is as strong as normal
 
+Shackle - strong, close and present
 
 
 
