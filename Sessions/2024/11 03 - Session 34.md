@@ -114,7 +114,7 @@ Silver Company can bring stability, whole north region has positive interactions
 Disappearances report screams that may be similar to the [[Shreiker]]
 [[Vredd]] - Town Mayor in Abdos
 [[Utu]] will be sent there as well
-[[Rev]]
+[[Rev]] has been seen here
 
 
 Caves- [[Stealth]] has been south and discovered things called [[Ziardim Caverns]]
