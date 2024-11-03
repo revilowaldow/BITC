@@ -48,10 +48,11 @@ RULE 2: Rewards are most enjoyed when earnt.
 
 Stargazing in Matchaka
 
-- Chameleon - disguise self
-- Blink Dog - teleport
+- Chameleon - disguise self, deception
+- Blink Dog - teleport, distance
 - Jaculi - stealth + poison
-- Girallon - spectral arms + action economy
+- Girallon - spectral arms melee + action economy, 
+- Shackle - restraint, improve to paralysis
 
 Things to look for guidance on
 - Ombak
