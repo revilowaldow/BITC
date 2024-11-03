@@ -14,3 +14,4 @@ salted pork
 
 
 
+![[Pasted image 20241103194605.png]]
