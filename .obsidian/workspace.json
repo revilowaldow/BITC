@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Ration Rules.md",
+                "file": "Sessions/2024/11 03 - Session 34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Ration Rules.md",
+                "file": "Sessions/2024/11 03 - Session 34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Ration Rules.md"
+                "file": "Sessions/2024/11 03 - Session 34.md"
               }
             }
           },
@@ -265,8 +265,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4779b4610f3c1a5",
+  "active": "a0a412233634c526",
   "lastOpenFiles": [
+    "Setting Rules/Ration Rules.md",
     "Pasted image 20241103194605.png",
     "Sessions/2024/11 03 - Session 34.md",
     "Setting Rules/Weapon Rules.md",
@@ -306,7 +307,6 @@
     "Assets/Maps/Farm Cave.png",
     "Pasted image 20240811211117.png",
     "Pasted image 20240901200422.png",
-    "Assets/Maps/Cultist Altar.png",
     "Factions/Helviti",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",

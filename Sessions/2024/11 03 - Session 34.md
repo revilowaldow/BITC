@@ -90,6 +90,13 @@ Dyvarre - shackle, lion, dragon, others not quite able to grasp
 | Total             |     |     | 116.5gp  |
 | 90% Resale        |     |     | 104.85gp |
 
+<hr>
+
+Visit to the baths
+
+Bubbles m'lord?
+straws
+
 
 
 
