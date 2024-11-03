@@ -142,6 +142,8 @@ Library has been completed
 
 Gives advantage on advantage or survival checks
 
+Lyberry
+
 
 
 
