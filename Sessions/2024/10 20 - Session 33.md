@@ -19,6 +19,10 @@ Asking Jokku when the expedition is going
 Stealth is finding the cave
 Then party will be sent
 
+Working on silver rings (30gp)
+
+Had 
+
 <hr>
 
 Aru and Utu visiting the Crimson Keep
