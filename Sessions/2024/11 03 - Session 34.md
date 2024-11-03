@@ -144,7 +144,9 @@ Gives advantage on advantage or survival checks
 
 Lyberry
 
-Caenis is to not me
+Caenis is to not mess up dating Karta
+
+
 
 
 
