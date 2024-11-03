@@ -47,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Helviti/Shree Aton.md",
+                "file": "Sessions/2024/11 03 - Session 34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Helviti/Shree Aton.md",
+                "file": "Sessions/2024/11 03 - Session 34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Helviti/Shree Aton.md"
+                "file": "Sessions/2024/11 03 - Session 34.md"
               }
             }
           },
@@ -229,12 +228,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "46bc02fd42db79ed",
+  "active": "fdf6e337e8028bb8",
   "lastOpenFiles": [
-    "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2024/10 20 - Session 33.md",
-    "Pasted image 20240630212744.png",
     "Factions/Helviti/Shree Aton.md",
+    "Sessions/2024/11 03 - Session 34.md",
+    "Pasted image 20240630212744.png",
     "Pasted image 20240908211633.png",
     "Pasted image 20241020194002.png",
     "Sessions/2024/10 06 - Session 32.md",
