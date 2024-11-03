@@ -80,7 +80,14 @@ Dyvarre - shackle, lion, dragon, others not quite able to grasp
 
 77gp total
 
-
+| Name              | Q   | E   | T       |
+| ----------------- | --- | --- | ------- |
+| Club              | 8   | 0.1 | 0.8     |
+| Sling             | 7   | 0.1 | 0.7     |
+| Shortbow          | 3   | 25  | 75      |
+| Bronze Shortsword | 4   | 10  | 40      |
+|                   |     |     |         |
+| Total             |     |     | 116.5gp |
 
 
 
