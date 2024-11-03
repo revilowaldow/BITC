@@ -11,4 +11,6 @@ Aru returns from Crimson Keep
 
 Goblin proprietor
 
-Rug Slapper / Carpet Beater - 1 dam
+Rug Slapper / Carpet Beater - 1 damage , but cleans - 1 gp
+
+
