@@ -136,7 +136,9 @@ Hope they won't view the bronze powder as theft
 
 Stealth has seen bugs, bandits, and mechanised footprints
 
-[[Yayek]] to organise tour of [[The Pit]]
+[[Yayek]] to organise tour of [[The Pit]] after we complete both jobs
+
+Libra
 
 
 
