@@ -15,6 +15,10 @@ Rug Slapper / Carpet Beater - 1 damage , but cleans - 1 gp
 
 Looking for cooking supplies
 
+- Wheel of Cheese
+- Flatbread
+- Potato and Eggplant
+
 [[Karta]] invites [[Caenis]] to see a play, Aegaen Troop
 
 <hr>
