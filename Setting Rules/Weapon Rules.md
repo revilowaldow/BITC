@@ -18,7 +18,8 @@ Steel - flexible, light, negligible maintenance
 | Organic  | -1  | +1  |                | Replace               |                      |       |
 | Steel    | +1  |     |                |                       |                      | +50%  |
 
-Buyback of loot is at 90
+Buyback of loot is at 90%
+
 Weapon bends on a miss by 5 lower than the armor class
 
 
