@@ -109,7 +109,7 @@ Two jobs need doing
 
 [[Jokku]] 
 
-
+Forest to north - Word from town of [[Abdos]]
 
 
 
