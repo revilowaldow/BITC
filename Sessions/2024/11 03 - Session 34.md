@@ -11,5 +11,4 @@ Aru returns from Crimson Keep
 
 Goblin proprietor
 
-Rug Slapper - 
-Carpet Beater - 
+Rug Slapper / Carpet Beater - 
