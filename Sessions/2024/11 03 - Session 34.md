@@ -29,9 +29,11 @@ Did more history research particularly about the [[Battle of Looming Rock]]
 
 [[Vrindrilliax]] went missing for a short while with [[Virtelle]]
 
-Vrin has invested
+Vrin has invested 5gp b
 
-Increasing demand for chinerian leather
+Increasing demand for chinerian leather [[Bluesails]]
+
+
 
 
 
