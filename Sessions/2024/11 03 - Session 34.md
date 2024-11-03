@@ -21,4 +21,5 @@ Looking for cooking supplies
 
 Festallions are often the bogeyman in children's tales, often they will consume you
 
-Often reffered to as an elf or a half
+Often referred to as an elf or a half-elf
+
