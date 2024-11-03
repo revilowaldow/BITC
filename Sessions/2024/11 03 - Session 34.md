@@ -113,7 +113,9 @@ Forest to north - Word from town of [[Abdos]] disappearances
 Rumors about a beast that flies over the town
 Townsfolk are not quite right, don't speak or say strange things
 Silver Company can bring stability, whole north region has positive interactions with us
-Disappearances 
+Disappearances report screams that may be similar to the [[Shreiker]]
+
+Caves- [[Stealth]] has been south and dis 
 
 
 
