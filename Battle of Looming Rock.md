@@ -13,4 +13,8 @@ Helviti saw this as a victory and demonstrates their essential nature
 
 Aegan Commander [[General Duty]] 
 Now disgraced
-Reopneed dicsussion 
+Reopened discussions with the Helviti
+Used as a scapegoat
+
+[[Lion Comanda]] was almost entirely wiped out
+
