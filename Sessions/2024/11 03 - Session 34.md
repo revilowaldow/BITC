@@ -44,7 +44,12 @@ Increasing demand for Chinerian leather [[Bluesails]]
 RULE 2: Rewards are most enjoyed when earnt.
 
 
+<hr>
 
+Stargazing
+
+- Chameleon
+- 
 
 
 
