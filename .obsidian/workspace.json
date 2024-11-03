@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2024/11 03 - Session 34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md",
+                "file": "Sessions/2024/11 03 - Session 34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting Rules/Valid Wild Shapes.md"
+                "file": "Sessions/2024/11 03 - Session 34.md"
               }
             }
           },
@@ -265,10 +265,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa53762c0888a715",
+  "active": "a0a412233634c526",
   "lastOpenFiles": [
-    "Sessions/2024/11 03 - Session 34.md",
     "Setting Rules/Valid Wild Shapes.md",
+    "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2023/08 13 - Session 7.md",
     "Factions/Silver Company/Karta.md",
     "Sessions/2024/10 20 - Session 33.md",

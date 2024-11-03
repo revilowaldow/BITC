@@ -49,6 +49,7 @@ RULE 2: Rewards are most enjoyed when earnt.
 Stargazing
 
 - Chameleon
+- Blink Dog
 - 
 
 
