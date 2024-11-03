@@ -49,6 +49,8 @@ Asleep for 3 days
 
 Wound matches vrin's old scar
 
+[[Doko Thrakk]] - Head of medical work at scrimson keep
+
 [[Shree Aton]] - stinger of scorpion comanda
 
 String up the smugglers
