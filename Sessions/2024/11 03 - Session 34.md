@@ -148,6 +148,7 @@ Caenis is to not mess up dating Karta
 
 Caenis messaged Tudor
 > "Trapped in box letters happen mission failed help"
+> "Never Give up, Never Surrender"
 
 
 
