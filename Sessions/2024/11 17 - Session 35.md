@@ -66,4 +66,6 @@ Arrive at [[Crutan]]
 Small wooden pallisade
 Reduced number of Chimera Comanda
 
-[[Dellilah]]
+[[Delylah]]
+	Sells large parsnips
+	
