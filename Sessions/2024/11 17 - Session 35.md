@@ -75,5 +75,9 @@ Head to militia office
 
 [[Commander Retal]]
 
-[[Kilo]] - 
+[[Kilo]] - chimera
+
+
+
+
 
