@@ -75,4 +75,5 @@ Head to militia office
 
 [[Commander Retal]]
 
+[[Kilo]] - 
 
