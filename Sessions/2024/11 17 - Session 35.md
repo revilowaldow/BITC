@@ -80,8 +80,10 @@ Bald, shaven head
 
 [[Kilo]] - chimera
 
-[[Arach]] sighted in the area in Matchaka and got into a fight there
+[[Arach]] sighted in the area in Matchaka and got into a fight there with Flambard hawk
 Public nuisance
+
+
 
 
 
