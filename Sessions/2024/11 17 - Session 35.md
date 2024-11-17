@@ -14,9 +14,9 @@ Chimera Outpost in Crutan
 
 Ambushed by a tall orc
 
-[[Arash]]
+[[Arach]]
 
 On the way to Lionhold to do mercenary work for Quta Leon
 Shortsword 
 
-![[Arash.png]]
+![[Arach.png]]
