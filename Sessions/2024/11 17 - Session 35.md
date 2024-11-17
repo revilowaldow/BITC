@@ -101,7 +101,7 @@ Piggy
 	Previously illegal, now legal, bounty rescinded
 
 Someone spotted us arrive, ran to tavern
-Goign to tavern
+Going to tavern
 
 
 
