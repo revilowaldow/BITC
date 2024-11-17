@@ -46,6 +46,9 @@ Koboldcap
 	Reliving memories of time at crimson keep
 [[Vrindrilliax]]
 	Black room with mirror just looking at self in mirror and at wound
-
+[[Thodunn]]
+	Walking over crest of hill, looking over Abdos, in ruin
+	Shriker causing chaos
+	Pulled bac
 
 
