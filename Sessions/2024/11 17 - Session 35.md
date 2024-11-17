@@ -96,7 +96,9 @@ Last passerby from Lionhold
 	Altercation with lionhold scouts, killed one
 	Evidence of his dispatch, old piece of armour (Chinerian Breastplate)
 
-
+Piggy 
+	Mercenary Barbakan, Warthog
+		
 
 
 
