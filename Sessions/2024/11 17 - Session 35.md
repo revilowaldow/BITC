@@ -22,11 +22,14 @@ Shortsword
 
 ![[Arach.png]]
 
+Poisonous
 
-Black Rotter
+Black Rotter 
+	Inhaled spore, caused pain
 Whimsical Cap
 Dark Tube
 Red Belch
 Venom Stalk
 Koboldcap
+	
 
