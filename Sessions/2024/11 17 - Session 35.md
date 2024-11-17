@@ -86,6 +86,8 @@ Public nuisance
 Last passerby from Lionhold
 
 [[Manticar Viole]] 
+Freedom City allies
+
 
 
 
