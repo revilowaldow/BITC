@@ -16,7 +16,7 @@ Ambushed by a tall orc
 
 [[Arash]]
 
-On the way to Lionhold to do mercenary work for Quta Le
+On the way to Lionhold to do mercenary work for Quta Leon
 Shortsword 
 
-![[Pasted image 20241117192450.png]]
+![[Arash.png]]

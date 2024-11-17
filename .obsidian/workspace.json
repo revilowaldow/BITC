@@ -122,9 +122,23 @@
               "icon": "lucide-file",
               "title": "11 17 - Session 35"
             }
+          },
+          {
+            "id": "b4c08a60206daf97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arash"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -216,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/11 17 - Session 35.md",
+                "file": "Arash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +240,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 11 17 - Session 35"
+              "title": "Backlinks for Arash"
             }
           },
           {
@@ -235,12 +249,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/11 17 - Session 35.md",
+                "file": "Arash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 11 17 - Session 35"
+              "title": "Outgoing links from Arash"
             }
           },
           {
@@ -262,10 +276,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/11 17 - Session 35.md"
+                "file": "Arash.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 11 17 - Session 35"
+              "title": "Outline of Arash"
             }
           },
           {
@@ -331,12 +345,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7338121d4573c341",
+  "active": "b4c08a60206daf97",
   "lastOpenFiles": [
-    "Pasted image 20241117192450.png",
+    "Assets/Characters/Arash.png",
+    "Arash.md",
+    "Sessions/2024/11 17 - Session 35.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2024/05 19 - Session 22.md",
-    "Sessions/2024/11 17 - Session 35.md",
     "Setting Rules/Weapon Rules.md",
     "Setting Rules/Rules Index.md",
     "Setting Rules/Ration Rules.md",
@@ -362,7 +377,6 @@
     "Factions/Silver Company/Party/Kaulinan Badag.md",
     "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2023/07 16 - Session 6.md",
-    "Sessions/2023/09 10 - Session 8.md",
     "Locations/Dog Prince Caves.canvas",
     "Factions/The Cooking Association",
     "Factions/Eastern City States/Parche",
@@ -372,7 +386,6 @@
     "Assets/Maps/Dog Prince.png",
     "Assets/Maps/Farm Cave.png",
     "Pasted image 20240811211117.png",
-    "Pasted image 20240901200422.png",
     "Factions/Helviti",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
