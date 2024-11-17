@@ -63,3 +63,6 @@ Lionhold arena, beat each other up
 
 
 Arrive at [[Crutan]]
+Small wooden pallisade
+Reduced number of Chimera Comanda
+
