@@ -34,10 +34,12 @@ Koboldcap
 	Increases constitution
 
 
-Larry
+[[Larry]]
 	Hope I don't have to carry that elephant tomorrow
 [[Kridehsh]]
 	Dreaming about eating a fish head
+[[Eugene]]
+	Fondue and grass
 
 
 
