@@ -53,5 +53,5 @@ Koboldcap
 	Blackness as part of that dream, empty of stimulus
 
 
-
-
+Caught tribal warrior stealing rations
+Disappearances ar
