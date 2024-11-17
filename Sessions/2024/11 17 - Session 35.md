@@ -21,3 +21,12 @@ Most recently from
 Shortsword 
 
 ![[Arach.png]]
+
+
+Black Rotter
+Whimsical Cap
+Dark Tube
+Red Belch
+Venom Stalk
+Koboldcap
+
