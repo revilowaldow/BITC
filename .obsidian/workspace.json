@@ -39,7 +39,8 @@
               "title": "11 03 - Session 34"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2024/11 17 - Session 35.md",
+                "file": "Sessions/2024/11 03 - Session 34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 11 17 - Session 35"
+              "title": "Backlinks for 11 03 - Session 34"
             }
           },
           {
@@ -150,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/11 17 - Session 35.md",
+                "file": "Sessions/2024/11 03 - Session 34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 11 17 - Session 35"
+              "title": "Outgoing links from 11 03 - Session 34"
             }
           },
           {
@@ -177,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/11 17 - Session 35.md"
+                "file": "Sessions/2024/11 03 - Session 34.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 11 17 - Session 35"
+              "title": "Outline of 11 03 - Session 34"
             }
           },
           {
@@ -246,10 +247,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb66e2cb6f470bcd",
+  "active": "e9628b3891a110e7",
   "lastOpenFiles": [
-    "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2024/11 17 - Session 35.md",
+    "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2024/10 20 - Session 33.md",
     "Sessions/2024/10 06 - Session 32.md",
     "Sessions/2024/09 29 - Session 31.md",
