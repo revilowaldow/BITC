@@ -17,6 +17,7 @@ Ambushed by a tall orc
 [[Arach]]
 
 On the way to Lionhold to do mercenary work for Quta Leon
+Most recently from 
 Shortsword 
 
 ![[Arach.png]]
