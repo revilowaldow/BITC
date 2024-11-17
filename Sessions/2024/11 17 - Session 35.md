@@ -98,7 +98,11 @@ Last passerby from Lionhold
 
 Piggy 
 	Mercenary Barbakan, Warthog
-	Previously illegal, now 
+	Previously illegal, now legal, bounty rescinded
+
+
+
+
 
 
 
