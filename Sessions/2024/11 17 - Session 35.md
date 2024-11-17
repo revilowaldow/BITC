@@ -34,4 +34,8 @@ Koboldcap
 	Increases constitution
 
 
+Larry
+	Hope I don't have to carry that elephant tomorrow
+	
+
 
