@@ -90,7 +90,11 @@ Last passerby from Lionhold
 
 [[Agent Veronica]] passed by 3 days ago
 
-
+[[Ergoloch]]
+	Orc
+	Potential Target
+	Altercation with lionhold scouts, killed one
+	Evidence of his disp
 
 
 
