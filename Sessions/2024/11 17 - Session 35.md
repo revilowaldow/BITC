@@ -31,5 +31,7 @@ Dark Tube
 Red Belch
 Venom Stalk
 Koboldcap
-	
+	Increases constitution
+
+
 
