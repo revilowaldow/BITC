@@ -13,11 +13,13 @@ Chimera Outpost in Crutan
 [[Kridehsh]] & [[Larry]] spitlizards
 
 Ambushed by a tall orc
+Spore Berserker
+![[Spore Berserker.png]]
+
 
 [[Arach]]
 
 On the way to Lionhold to do mercenary work for Quta Leon
-Most recently from 
 Shortsword 
 
 ![[Arach.png]]
@@ -59,3 +61,5 @@ Disappearances around Crutan
 Lionhold arena, beat each other up
 [[Quta Leone]] - The Queen lion
 
+
+Arrive at [[Crutan]]
