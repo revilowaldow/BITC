@@ -42,6 +42,8 @@ Koboldcap
 	Fondue and grass
 [[Caenis]]
 	How much money could be made from selling the drugs
-
+[[Aru]]
+	Reliving memories of time at crimson keep
+[[]]
 
 
