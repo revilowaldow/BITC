@@ -98,7 +98,7 @@ Last passerby from Lionhold
 
 Piggy 
 	Mercenary Barbakan, Warthog
-		
+	Previously illegal, now 
 
 
 
