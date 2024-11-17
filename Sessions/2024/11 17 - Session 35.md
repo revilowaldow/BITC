@@ -44,6 +44,8 @@ Koboldcap
 	How much money could be made from selling the drugs
 [[Aru]]
 	Reliving memories of time at crimson keep
-[[]]
+[[Vrindrilliax]]
+	Black room with mirror just looking at self in mirror and at wound
+
 
 
