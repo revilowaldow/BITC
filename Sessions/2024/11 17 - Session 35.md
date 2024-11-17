@@ -56,4 +56,6 @@ Koboldcap
 Caught tribal warrior stealing rations
 Disappearances around Crutan
 
+Lionhold arena, beat each other up
+[[Quta Leone]] - The Queen lion
 
