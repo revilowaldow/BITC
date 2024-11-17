@@ -40,6 +40,8 @@ Koboldcap
 	Dreaming about eating a fish head
 [[Eugene]]
 	Fondue and grass
+[[Caenis]]
+	How much money could be made from selling the drugs
 
 
 
