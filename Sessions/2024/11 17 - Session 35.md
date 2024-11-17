@@ -49,6 +49,6 @@ Koboldcap
 [[Thodunn]]
 	Walking over crest of hill, looking over Abdos, in ruin
 	Shriker causing chaos
-	Pulled bac
+	Pulled back by Piggy "don't forget about the bronze"
 
 
