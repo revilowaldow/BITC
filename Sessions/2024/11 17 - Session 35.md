@@ -73,5 +73,6 @@ Lots of rejected mercenaries from lion hold
 
 Head to militia office
 
-Commander Raetal
+[[Commander Retal]]
+
 
