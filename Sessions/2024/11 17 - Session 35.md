@@ -101,9 +101,9 @@ Piggy
 	Previously illegal, now legal, bounty rescinded
 
 Someone spotted us arrive, ran to tavern
-Going to tavern
+Going to tavern, reedsqueeze with [[Commander Retal]]
 
-
+DO THE HOMEBREW
 
 
 
