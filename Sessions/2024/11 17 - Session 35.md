@@ -74,6 +74,9 @@ Lots of rejected mercenaries from lion hold
 Head to militia office
 
 [[Commander Retal]]
+Tall Human
+Middle aged
+Bald, shaven head
 
 [[Kilo]] - chimera
 
