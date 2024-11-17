@@ -12,3 +12,5 @@ Chimera Outpost in Crutan
 
 [[Kridehsh]] & [[Larry]] spitlizards
 
+Ambushed by a tall orc
+
