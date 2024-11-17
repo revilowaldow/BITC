@@ -69,4 +69,9 @@ Reduced number of Chimera Comanda
 [[Delylah]]
 	Sells large parsnips
 
+Lots of rejected mercenaries from lion hold
+
+Head to militia office
+
+Commander Raetal
 
