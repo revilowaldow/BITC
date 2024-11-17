@@ -54,4 +54,6 @@ Koboldcap
 
 
 Caught tribal warrior stealing rations
-Disappearances ar
+Disappearances around Crutan
+
+
