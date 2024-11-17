@@ -94,7 +94,13 @@ Last passerby from Lionhold
 	Orc
 	Potential Target
 	Altercation with lionhold scouts, killed one
-	Evidence of his disp
+	Evidence of his dispatch, old piece of armour (Chinerian Breastplate)
+
+
+
+
+
+
 
 
 
