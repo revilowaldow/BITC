@@ -50,5 +50,8 @@ Koboldcap
 	Walking over crest of hill, looking over Abdos, in ruin
 	Shriker causing chaos
 	Pulled back by Piggy "don't forget about the bronze"
+	Blackness as part of that dream, empty of stimulus
+
+
 
 
