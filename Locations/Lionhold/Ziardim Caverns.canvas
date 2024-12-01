@@ -7,21 +7,18 @@
 		{"id":"8223afabb3de2783","type":"text","text":"Y junction","x":320,"y":-560,"width":250,"height":60},
 		{"id":"d5b581851b6a7a26","type":"text","text":"SE","x":1080,"y":-79,"width":250,"height":60},
 		{"id":"fdcfe4477af615e4","type":"text","text":"Clanging sound of hammer on bronze plate\nRotting wooden crates\nAlchemical components\n30ft\n","x":700,"y":-360,"width":360,"height":150},
-		{"id":"da5e963d6c7d3093","type":"text","text":"","x":360,"y":40,"width":250,"height":60},
-		{"id":"b00c7aa4e5ad69b5","type":"text","text":"","x":630,"y":-49,"width":250,"height":60},
-		{"id":"c5c2a321b1a18f42","type":"text","text":"","x":280,"y":-270,"width":250,"height":60},
-		{"id":"869f9afb4784770d","type":"text","text":"","x":630,"y":240,"width":250,"height":60}
+		{"id":"869f9afb4784770d","type":"text","text":"","x":630,"y":240,"width":250,"height":60},
+		{"id":"b00c7aa4e5ad69b5","type":"text","text":"Junction","x":630,"y":-40,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long From NW"},
 		{"id":"02a6364c335f4767","fromNode":"248c54c6139f32e0","fromSide":"top","toNode":"8223afabb3de2783","toSide":"bottom","label":"NE\n60ft to junction"},
-		{"id":"fe489271fe269390","fromNode":"248c54c6139f32e0","fromSide":"right","toNode":"da5e963d6c7d3093","toSide":"top","label":"SE"},
 		{"id":"643544d4c28c354d","fromNode":"248c54c6139f32e0","fromSide":"bottom","toNode":"ac1487992f8d53b4","toSide":"top","label":"SW"},
 		{"id":"652db96322c3455d","fromNode":"8223afabb3de2783","fromSide":"right","toNode":"fdcfe4477af615e4","toSide":"top","label":"SE\n60ft"},
 		{"id":"017fb50eb36b8700","fromNode":"8223afabb3de2783","fromSide":"top","toNode":"d686ee9d54581390","toSide":"bottom","label":"N\n60 ft"},
 		{"id":"aaf09ed2f1b0f2bd","fromNode":"fdcfe4477af615e4","fromSide":"bottom","toNode":"b00c7aa4e5ad69b5","toSide":"top","label":"SW\n60ft to junction"},
 		{"id":"c880786fac89b6a4","fromNode":"fdcfe4477af615e4","fromSide":"right","toNode":"d5b581851b6a7a26","toSide":"top","label":"SE"},
 		{"id":"6d0a8126cb78f7c2","fromNode":"b00c7aa4e5ad69b5","fromSide":"bottom","toNode":"869f9afb4784770d","toSide":"top","label":"S\nOzone smell"},
-		{"id":"9df78dce9d3a930c","fromNode":"b00c7aa4e5ad69b5","fromSide":"left","toNode":"c5c2a321b1a18f42","toSide":"right","label":"NW"}
+		{"id":"f97dcfb734d97806","fromNode":"248c54c6139f32e0","fromSide":"right","toNode":"b00c7aa4e5ad69b5","toSide":"left","label":"SE\n60ft"}
 	]
 }
