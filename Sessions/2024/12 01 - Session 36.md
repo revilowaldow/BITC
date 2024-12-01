@@ -55,3 +55,6 @@ Order:
 
 
 Code spoken
+
+Lab built on top of vein of purple ore
+
