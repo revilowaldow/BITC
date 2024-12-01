@@ -45,5 +45,6 @@ Cast darkvision on both myself and caenis
 Order:
 - Thodunn
 - Aru and Vrin
-- 
+- Caenis
+- Kaulinan
 

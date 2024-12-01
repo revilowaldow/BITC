@@ -47,7 +47,7 @@
               "state": {
                 "file": "Locations/Lionhold/Ziardim Caverns.canvas",
                 "viewState": {
-                  "x": -28,
+                  "x": 65,
                   "y": -14,
                   "zoom": 0
                 }
@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,10 +264,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b38610fb3db52d9f",
+  "active": "a3e083d94a674fd3",
   "lastOpenFiles": [
-    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2024/12 01 - Session 36.md",
+    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2023/06 04 - Session 3.md",
