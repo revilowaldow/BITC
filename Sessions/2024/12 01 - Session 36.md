@@ -15,3 +15,6 @@ Slaves of chineria
 Scarring from whips
 
 
+>"If I have my way Chineria will be razed"
+>- Manticar Viole
+
