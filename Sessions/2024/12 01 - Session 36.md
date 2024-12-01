@@ -18,5 +18,11 @@ Scarring from whips
 >"If I have my way Chineria will be razed"
 >- Manticar Viole
 
+Wants to
+
 Sweetened reedsqueeze
 
+Passwithout trace
+
+
+Hexagonal/Pentagonal rocks

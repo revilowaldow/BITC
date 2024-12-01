@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -305,10 +305,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "348ba920f1e353bb",
+  "active": "a3e083d94a674fd3",
   "lastOpenFiles": [
-    "Sessions/2024/12 01 - Session 36.md",
     "Sessions/2024/11 17 - Session 35.md",
+    "Sessions/2024/12 01 - Session 36.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2024/10 20 - Session 33.md",
     "Sessions/2024/11 03 - Session 34.md",
