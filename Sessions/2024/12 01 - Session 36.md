@@ -42,4 +42,8 @@ Cast darkvision on both myself and caenis
 
 ![[Ziardim Caverns.canvas]]
 
+Order:
+- Thodunn
+- Aru and Vrin
+- 
 
