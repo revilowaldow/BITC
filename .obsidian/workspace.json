@@ -24,29 +24,13 @@
             }
           },
           {
-            "id": "34ff2cf255e1465c",
+            "id": "271e66ac3251cb1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Party/Vrindrilliax.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Vrindrilliax"
-            }
-          },
-          {
-            "id": "d71bf90f84f2b28d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "New tab"
             }
           },
           {
@@ -189,8 +173,7 @@
               "title": "Release Notes 1.7.6"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -397,8 +380,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d71bf90f84f2b28d",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
+    "Factions/Silver Company/Party/Vrindrilliax.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2024/11 17 - Session 35.md",
     "Factions/Eastern City States/Parche/Parche.md",
@@ -430,7 +414,6 @@
     "Pasted image 20240630212744.png",
     "Pasted image 20241020194002.png",
     "Factions/Helviti/List of Commanda.md",
-    "Factions/Silver Company/Party/Kaulinan Badag.md",
     "Locations/Dog Prince Caves.canvas",
     "Factions/The Cooking Association",
     "Factions/Eastern City States/Parche",
