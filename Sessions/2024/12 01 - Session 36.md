@@ -29,3 +29,5 @@ Pass without trace, through reeds
 
 Hexagonal/Pentagonal rocks
 
+Set up camp in a secluded area
+
