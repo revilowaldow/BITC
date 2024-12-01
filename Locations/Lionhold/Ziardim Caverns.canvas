@@ -1,9 +1,11 @@
 {
 	"nodes":[
 		{"id":"4db6b5bde4a604a5","x":-380,"y":-100,"width":120,"height":60,"color":"2","type":"text","text":"Outside"},
-		{"id":"248c54c6139f32e0","x":140,"y":-100,"width":250,"height":60,"type":"text","text":"Slopes upwards"}
+		{"id":"88876ef5ef5ce27d","x":146,"y":-333,"width":250,"height":60,"type":"text","text":"Water"},
+		{"id":"248c54c6139f32e0","x":111,"y":-140,"width":320,"height":140,"type":"text","text":"Flattened out chamber\nWater dripping from ceiling\nAir smells of salt"}
 	],
 	"edges":[
-		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long"}
+		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long"},
+		{"id":"8387546d5d81ec71","fromNode":"88876ef5ef5ce27d","fromSide":"bottom","toNode":"248c54c6139f32e0","toSide":"top","color":"5","label":"Ceiling"}
 	]
 }
