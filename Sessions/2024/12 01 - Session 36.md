@@ -33,4 +33,5 @@ Set up camp in a secluded area
 Divebombing death pidgeon
 Local bird of prey, dive bomb fast under trees
 
+Vrin scratching carpet
 
