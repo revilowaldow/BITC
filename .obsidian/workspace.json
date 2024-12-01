@@ -24,6 +24,16 @@
             }
           },
           {
+            "id": "b38610fb3db52d9f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
             "id": "e9628b3891a110e7",
             "type": "leaf",
             "pinned": true,
@@ -260,7 +270,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb66e2cb6f470bcd",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Sessions/2024/12 01 - Session 36.md",
     "Sessions/2024/10 20 - Session 33.md",
