@@ -18,7 +18,7 @@
 		{"id":"652db96322c3455d","fromNode":"8223afabb3de2783","fromSide":"right","toNode":"fdcfe4477af615e4","toSide":"top","label":"SE\n60ft"},
 		{"id":"017fb50eb36b8700","fromNode":"8223afabb3de2783","fromSide":"top","toNode":"d686ee9d54581390","toSide":"bottom","label":"N\n60 ft"},
 		{"id":"aaf09ed2f1b0f2bd","fromNode":"fdcfe4477af615e4","fromSide":"bottom","toNode":"b00c7aa4e5ad69b5","toSide":"top","label":"SW\n60ft"},
-		{"id":"c880786fac89b6a4","fromNode":"fdcfe4477af615e4","fromSide":"right","toNode":"d5b581851b6a7a26","toSide":"top","label":"SE"},
+		{"id":"c880786fac89b6a4","fromNode":"fdcfe4477af615e4","fromSide":"right","toNode":"d5b581851b6a7a26","toSide":"top","label":"SE\nuphil"},
 		{"id":"6d0a8126cb78f7c2","fromNode":"b00c7aa4e5ad69b5","fromSide":"bottom","toNode":"869f9afb4784770d","toSide":"top","label":"S\nOzone smell\n60ft"},
 		{"id":"f97dcfb734d97806","fromNode":"248c54c6139f32e0","fromSide":"right","toNode":"b00c7aa4e5ad69b5","toSide":"left","label":"SE\n60ft"},
 		{"id":"bb59806b106c420c","fromNode":"869f9afb4784770d","fromSide":"right","toNode":"fd0a90f1bdadf1a3","toSide":"left","label":"SE\nnarrow\nunstable"}
