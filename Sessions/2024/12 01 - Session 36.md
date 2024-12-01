@@ -8,3 +8,6 @@ Group of cloaked people
 Long hooked chain blackened mac head
 [[Manticar Viole]] 
 Agents of Fredom City
+
+Caenis plays music
+
