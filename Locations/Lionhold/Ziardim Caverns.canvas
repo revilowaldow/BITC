@@ -8,7 +8,7 @@
 		{"id":"b00c7aa4e5ad69b5","type":"text","text":"Junction","x":630,"y":-40,"width":250,"height":60},
 		{"id":"fdcfe4477af615e4","type":"text","text":"Clanging sound of hammer on bronze plate\nRotting wooden crates\nAlchemical components\n30ft\n","x":570,"y":-360,"width":360,"height":150},
 		{"id":"8223afabb3de2783","type":"text","text":"Y junction","x":235,"y":-520,"width":250,"height":60},
-		{"id":"869f9afb4784770d","type":"text","text":"20ft diameter\nClear smoothed floor\nElevated dais, 10ft diameter, circle and pedestal with carved symbols\nMaterials, assembly","x":555,"y":200,"width":390,"height":200}
+		{"id":"869f9afb4784770d","type":"text","text":"20ft diameter\nClear smoothed floor\nElevated dais, 10ft diameter, circle and pedestal with carved symbols\nMaterials, assembly\nMagical effect circle\nRecently carved","x":555,"y":200,"width":390,"height":200}
 	],
 	"edges":[
 		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long From NW"},
