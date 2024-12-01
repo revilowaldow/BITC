@@ -160,20 +160,9 @@
               "icon": "lucide-file",
               "title": "06 04 - Session 3"
             }
-          },
-          {
-            "id": "8c95ea4440b1bd82",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -380,11 +369,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "57a3d3f6f443011d",
   "lastOpenFiles": [
+    "Sessions/2024/11 17 - Session 35.md",
     "Factions/Silver Company/Party/Vrindrilliax.md",
     "Sessions/2023/06 04 - Session 3.md",
-    "Sessions/2024/11 17 - Session 35.md",
     "Factions/Eastern City States/Parche/Parche.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Factions/Eastern City States/Eastern City States.md",
