@@ -103,12 +103,17 @@ Piggy
 Someone spotted us arrive, ran to tavern
 Going to tavern, reedsqueeze with [[Commander Retal]]
 
+
+<hr>
+
 DO THE HOMEBREW
 
 
+Blink Dog. A constellation of a [Blink Dog](https://5e.tools/bestiary.html#blink%20dog_mm) appears on you. When you activate this form and as a [Bonus Action](https://5e.tools/variantrules.html#bonus%20action_xphb) on your subsequent turns while it lasts, you can [Teleport](https://5e.tools/variantrules.html#teleportation_xphb) up to 20 feet to an unoccupied space.
 
+Girallon. A constellation of a [Girallon](https://5e.tools/bestiary.html#girallon_mpmm) appears on you, with two additional ethereal arms extending from your torso. When you activate this form and as a [Bonus Action](https://5e.tools/variantrules.html#bonus%20action_xphb) on your subsequent turns while it lasts, you can make a melee spell attack with your additional limbs targeting one creature within 5 feet of yourself. On a hit, the attack deals Radiant damage equal to 1d8 plus your Wisdom modifier.
 
-
+While the [Girallon](https://5e.tools/bestiary.html#girallon_mpmm) is active you can make two melee spell attacks as a [Bonus Action](https://5e.tools/variantrules.html#bonus%20action_xphb) rather than one. When you use the [Teleportation](https://5e.tools/variantrules.html#teleportation_xphb) feature of the [Blink Dog](https://5e.tools/bestiary.html#blink%20dog_mm) you can bring one willing creature with you, if the creature is unwilling it must make a save against your Spell Save DC.
 
 
 
