@@ -5,8 +5,10 @@
 		{"id":"ac1487992f8d53b4","x":-45,"y":120,"width":250,"height":60,"type":"text","text":""},
 		{"id":"d686ee9d54581390","x":320,"y":-760,"width":250,"height":60,"type":"text","text":""},
 		{"id":"8223afabb3de2783","x":320,"y":-560,"width":250,"height":60,"type":"text","text":"Y junction"},
-		{"id":"fdcfe4477af615e4","x":620,"y":-370,"width":360,"height":260,"type":"text","text":"Clanging sound of hammer on bronze plate"},
-		{"id":"da5e963d6c7d3093","x":400,"y":90,"width":250,"height":60,"type":"text","text":""}
+		{"id":"fdcfe4477af615e4","x":620,"y":-370,"width":360,"height":190,"type":"text","text":"Clanging sound of hammer on bronze plate\nRotting wooden crates\n30ft"},
+		{"id":"da5e963d6c7d3093","x":400,"y":90,"width":250,"height":60,"type":"text","text":""},
+		{"id":"d5b581851b6a7a26","x":1080,"y":-79,"width":250,"height":60,"type":"text","text":"SE"},
+		{"id":"b00c7aa4e5ad69b5","x":600,"y":-70,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long From NW"},
@@ -14,6 +16,8 @@
 		{"id":"fe489271fe269390","fromNode":"248c54c6139f32e0","fromSide":"right","toNode":"da5e963d6c7d3093","toSide":"top","label":"SE"},
 		{"id":"643544d4c28c354d","fromNode":"248c54c6139f32e0","fromSide":"bottom","toNode":"ac1487992f8d53b4","toSide":"top","label":"SW"},
 		{"id":"652db96322c3455d","fromNode":"8223afabb3de2783","fromSide":"right","toNode":"fdcfe4477af615e4","toSide":"top","label":"SE\n60ft"},
-		{"id":"017fb50eb36b8700","fromNode":"8223afabb3de2783","fromSide":"top","toNode":"d686ee9d54581390","toSide":"bottom","label":"N\n60 ft"}
+		{"id":"017fb50eb36b8700","fromNode":"8223afabb3de2783","fromSide":"top","toNode":"d686ee9d54581390","toSide":"bottom","label":"N\n60 ft"},
+		{"id":"aaf09ed2f1b0f2bd","fromNode":"fdcfe4477af615e4","fromSide":"bottom","toNode":"b00c7aa4e5ad69b5","toSide":"top","label":"SW"},
+		{"id":"c880786fac89b6a4","fromNode":"fdcfe4477af615e4","fromSide":"right","toNode":"d5b581851b6a7a26","toSide":"top","label":"SE"}
 	]
 }
