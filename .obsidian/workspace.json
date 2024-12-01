@@ -26,6 +26,7 @@
           {
             "id": "b38610fb3db52d9f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,6 +34,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "12 01 - Session 36"
             }
