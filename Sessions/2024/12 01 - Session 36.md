@@ -38,6 +38,8 @@ Caenis mended carpet
 
 Rabbit stolen by dive bombing bird
 
+Cast darkvision on both myself and caenis
+
 ![[Ziardim Caverns.canvas]]
 
 
