@@ -2,14 +2,12 @@
 	"nodes":[
 		{"id":"da5e963d6c7d3093","x":480,"y":120,"width":250,"height":60,"type":"text","text":"SE"},
 		{"id":"ac1487992f8d53b4","x":-10,"y":175,"width":250,"height":60,"type":"text","text":""},
-		{"id":"248c54c6139f32e0","x":111,"y":-140,"width":320,"height":140,"type":"text","text":"Flattened out chamber\nWater dripping from ceiling\nAir smells of salt\n30ft diameter"},
-		{"id":"4db6b5bde4a604a5","x":-360,"y":-460,"width":120,"height":60,"color":"2","type":"text","text":"Outside"},
-		{"id":"fdcfe4477af615e4","x":431,"y":-430,"width":250,"height":120,"type":"text","text":"Clanging sound\nHammer on bronze plate"},
-		{"id":"88876ef5ef5ce27d","x":60,"y":-430,"width":250,"height":60,"type":"text","text":"Water"}
+		{"id":"4db6b5bde4a604a5","x":-340,"y":-460,"width":120,"height":60,"color":"2","type":"text","text":"Outside"},
+		{"id":"248c54c6139f32e0","x":80,"y":-180,"width":320,"height":140,"color":"5","type":"text","text":"Flattened out chamber\nWater dripping from ceiling\nAir smells of salt\n30ft diameter"},
+		{"id":"fdcfe4477af615e4","x":320,"y":-460,"width":250,"height":120,"type":"text","text":"Clanging sound of hammer on bronze plate"}
 	],
 	"edges":[
 		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long From NW"},
-		{"id":"8387546d5d81ec71","fromNode":"88876ef5ef5ce27d","fromSide":"bottom","toNode":"248c54c6139f32e0","toSide":"top","color":"5","label":"Ceiling"},
 		{"id":"02a6364c335f4767","fromNode":"248c54c6139f32e0","fromSide":"top","toNode":"fdcfe4477af615e4","toSide":"bottom","label":"NE"},
 		{"id":"fe489271fe269390","fromNode":"248c54c6139f32e0","fromSide":"right","toNode":"da5e963d6c7d3093","toSide":"top","label":"SE"},
 		{"id":"643544d4c28c354d","fromNode":"248c54c6139f32e0","fromSide":"bottom","toNode":"ac1487992f8d53b4","toSide":"top","label":"SW"}
