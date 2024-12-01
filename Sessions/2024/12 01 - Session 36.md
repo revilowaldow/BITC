@@ -31,3 +31,5 @@ Hexagonal/Pentagonal rocks
 
 Set up camp in a secluded area
 
+Local bird of prey, dive bomb fast under trees
+
