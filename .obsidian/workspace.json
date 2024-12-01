@@ -1,0 +1,380 @@
+{
+  "main": {
+    "id": "44978a4043084248",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfca46ffd5c5b55b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb66e2cb6f470bcd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/11 17 - Session 35.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "11 17 - Session 35"
+            }
+          },
+          {
+            "id": "9ff6958c96541840",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/12 01 - Session 36.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "12 01 - Session 36"
+            }
+          },
+          {
+            "id": "a3e083d94a674fd3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Lionhold/Ziardim Caverns.canvas",
+                "viewState": {
+                  "x": 1265.7077732826053,
+                  "y": -178.06320653626796,
+                  "zoom": -0.3333333333333334
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Ziardim Caverns"
+            }
+          },
+          {
+            "id": "fe91d56476658438",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/11 17 - Session 35.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11 17 - Session 35"
+            }
+          },
+          {
+            "id": "6ded6b1fc1c8e7bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/09 29 - Session 31.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09 29 - Session 31"
+            }
+          },
+          {
+            "id": "1c7043c62c3997eb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Lionhold/Ziardim Caverns.canvas",
+                "viewState": {
+                  "x": 1082.8216397225062,
+                  "y": -33.16289270016226,
+                  "zoom": -0.4601331881798831
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Ziardim Caverns"
+            }
+          },
+          {
+            "id": "39689a5dec085734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/12 01 - Session 36.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12 01 - Session 36"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d438bd85228a2e56",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1342e0cc95d5636",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d6430cf8b2ed580",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d64d57bbfa4524a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Veron",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "46f10c95815399d4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9ab1ba8618b399f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "right": {
+    "id": "ef72d1b6d53eecf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3381e611acaf9210",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1c0b9b6efd09be3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "2f0a23ccafd7788a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/2024/11 17 - Session 35.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 11 17 - Session 35"
+            }
+          },
+          {
+            "id": "c6e8e54d34d317f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sessions/2024/11 17 - Session 35.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 11 17 - Session 35"
+            }
+          },
+          {
+            "id": "8619727874e9070e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0396fa5c7bd5155d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sessions/2024/11 17 - Session 35.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 11 17 - Session 35"
+            }
+          },
+          {
+            "id": "e94228e425415f02",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "274b73124f714b42",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "21c0e989a8ccb76b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dice-roller-icon",
+              "title": "Dice Roller"
+            }
+          },
+          {
+            "id": "1469a83cc3a6e842",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1c7043c62c3997eb",
+  "lastOpenFiles": [
+    "Sessions/2024/12 01 - Session 36.md",
+    "Locations/Lionhold/Ziardim Caverns.canvas",
+    "Sessions/2024/11 17 - Session 35.md",
+    "Sessions/2024/09 29 - Session 31.md",
+    "Sessions/2024/10 20 - Session 33.md",
+    "Sessions/2024/10 06 - Session 32.md",
+    "Sessions/2024/11 03 - Session 34.md",
+    "Sessions/2024/09 08 - Session 30.md",
+    "Sessions/2023/06 04 - Session 3.md",
+    "Locations/Lionhold",
+    "Setting Rules/Rules Index.md",
+    "Setting Rules/Valid Wild Shapes.md",
+    "Setting Rules/Weapon Rules.md",
+    "Setting Rules/Ration Rules.md",
+    "Factions/Eastern City States/Parche/Parche.md",
+    "Factions/Silver Company/Party/Vrindrilliax.md",
+    "Sessions/2024/03 24 - Session 19.md",
+    "Factions/Eastern City States/Eastern City States.md",
+    "Assets/Characters/Spore Berserker.png",
+    "Pasted image 20241103194605.png",
+    "Arach.md",
+    "Assets/Characters/Arach.png",
+    "Sessions/2024/05 19 - Session 22.md",
+    "Sessions/2023/06 18 - Session 4.md",
+    "Factions/Kerytoph Myondo.md",
+    "Pasted image 20240908211633.png",
+    "Sessions/2023/08 13 - Session 7.md",
+    "Factions/Silver Company/Karta.md",
+    "Factions/Helviti/Shree Aton.md",
+    "Battle of Looming Rock.md",
+    "Factions/Helviti/Devil Comanda.md",
+    "Pasted image 20240630212744.png",
+    "Pasted image 20241020194002.png",
+    "Locations/Dog Prince Caves.canvas",
+    "Factions/The Cooking Association",
+    "Factions/Eastern City States/Parche",
+    "Factions/Vermillion Hand",
+    "Assets/Characters/Kana.png",
+    "Assets/Maps/Kana Fight.png",
+    "Assets/Maps/Dog Prince.png",
+    "Assets/Maps/Farm Cave.png",
+    "Factions/Helviti",
+    "Locations/Coprun/Mine Layout.canvas",
+    "Locations/Lachaka/Lachaka Bandit Base.canvas",
+    "Factions/Local Arcanists",
+    "Locations/Lachaka",
+    "Jobs/Level 4",
+    "Sessions/2024",
+    "Locations/Kathkach/Abandoned Arena Basement.canvas",
+    "Locations/Kathkach/Abandoned House.canvas",
+    "Deity/New"
+  ]
+}
