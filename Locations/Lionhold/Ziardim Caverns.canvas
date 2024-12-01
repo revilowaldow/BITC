@@ -9,7 +9,8 @@
 		{"id":"869f9afb4784770d","type":"text","text":"20ft diameter\nClear smoothed floor\nElevated dais, 10ft diameter, circle and pedestal with carved symbols\nMaterials, assembly\nMagical effect circle\nRecently carved","x":555,"y":200,"width":390,"height":320},
 		{"id":"fd0a90f1bdadf1a3","type":"text","text":"","x":1160,"y":330,"width":250,"height":60},
 		{"id":"fdcfe4477af615e4","type":"text","text":"**Old Storage Chamber**\nClanging sound of hammer on bronze plate\nRotting wooden crates\nAlchemical components\n30ft\n","x":575,"y":-360,"width":360,"height":170},
-		{"id":"d5b581851b6a7a26","type":"text","text":"Wooden archway\nMechanical whirring clicks\n75ft x 55ft\nTable with 3 wooden chairs\nDried up withered plant, has been watered\nCarpet\nOven and cooking stove\nBed, bathtub desk\nCrates\nHumanoid bronze creature\n\"Effervescent Greetings\"\nPrior master\nVal\n15 years old\nMiner units may be hostiile","x":1120,"y":-160,"width":420,"height":430}
+		{"id":"d5b581851b6a7a26","type":"text","text":"Wooden archway\nMechanical whirring clicks\n75ft x 55ft\nTable with 3 wooden chairs\nDried up withered plant, has been watered\nCarpet\nOven and cooking stove\nBed, bathtub desk\nCrates\nHumanoid bronze creature\n\"Effervescent Greetings\"\nPrior master\nVal\n15 years old\nMiner units may be hostiile","x":1120,"y":-160,"width":420,"height":430},
+		{"id":"01d33b7e7224da26","x":1779,"y":337,"width":250,"height":60,"type":"text","text":"Mine"}
 	],
 	"edges":[
 		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long From NW"},
@@ -21,6 +22,7 @@
 		{"id":"c880786fac89b6a4","fromNode":"fdcfe4477af615e4","fromSide":"right","toNode":"d5b581851b6a7a26","toSide":"top","label":"SE\nuphill 40°\nslippery\n80ft"},
 		{"id":"6d0a8126cb78f7c2","fromNode":"b00c7aa4e5ad69b5","fromSide":"bottom","toNode":"869f9afb4784770d","toSide":"top","label":"S\nOzone smell\n60ft"},
 		{"id":"f97dcfb734d97806","fromNode":"248c54c6139f32e0","fromSide":"right","toNode":"b00c7aa4e5ad69b5","toSide":"left","label":"SE\n60ft"},
-		{"id":"bb59806b106c420c","fromNode":"869f9afb4784770d","fromSide":"right","toNode":"fd0a90f1bdadf1a3","toSide":"left","label":"SE\nnarrow\nunstable"}
+		{"id":"bb59806b106c420c","fromNode":"869f9afb4784770d","fromSide":"right","toNode":"fd0a90f1bdadf1a3","toSide":"left","label":"SE\nnarrow\nunstable"},
+		{"id":"cfbbd52fa5521f56","fromNode":"d5b581851b6a7a26","fromSide":"right","toNode":"01d33b7e7224da26","toSide":"left","label":"SE"}
 	]
 }
