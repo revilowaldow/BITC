@@ -13,7 +13,8 @@
 		{"id":"ac1487992f8d53b4","type":"text","text":"Hear voices\nCampfire smoke\n\nLarge corridor, pillar like structure\n\n60/80ft wide\n\n","x":-15,"y":100,"width":405,"height":320},
 		{"id":"ee65440c25aa5bad","x":2296,"y":100,"width":250,"height":60,"type":"text","text":""},
 		{"id":"342858da7e5aaf4a","x":1285,"y":690,"width":250,"height":60,"type":"text","text":""},
-		{"id":"01d33b7e7224da26","type":"text","text":"Large chamber\nMine\n60x75ft\nLarge pillar of rock in middle with scaffolds\n\n","x":1720,"y":225,"width":400,"height":330}
+		{"id":"01d33b7e7224da26","type":"text","text":"Large chamber\nMine\n60x75ft\nLarge pillar of rock in middle with scaffolds\n\nBronze Golem","x":1720,"y":225,"width":400,"height":330},
+		{"id":"02f06da160f0e604","x":2105,"y":722,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long From NW"},
@@ -29,6 +30,7 @@
 		{"id":"cfbbd52fa5521f56","fromNode":"d5b581851b6a7a26","fromSide":"right","toNode":"01d33b7e7224da26","toSide":"top","label":"SE\n70ft flat"},
 		{"id":"e768eba62e551f12","fromNode":"d686ee9d54581390","fromSide":"top","toNode":"e558c2d594c2636a","toSide":"bottom","label":"Series of hexagonal ledges that wind upwards"},
 		{"id":"b9ed07a75609103f","fromNode":"01d33b7e7224da26","fromSide":"right","toNode":"ee65440c25aa5bad","toSide":"left","label":"NE"},
-		{"id":"b7fb11f417300db3","fromNode":"01d33b7e7224da26","fromSide":"left","toNode":"342858da7e5aaf4a","toSide":"right","label":"SW"}
+		{"id":"b7fb11f417300db3","fromNode":"01d33b7e7224da26","fromSide":"left","toNode":"342858da7e5aaf4a","toSide":"right","label":"SW"},
+		{"id":"14593e25f622a7de","fromNode":"01d33b7e7224da26","fromSide":"bottom","toNode":"02f06da160f0e604","toSide":"top","label":"SE"}
 	]
 }
