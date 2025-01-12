@@ -10,7 +10,7 @@
 		{"id":"fdcfe4477af615e4","type":"text","text":"**Old Storage Chamber**\nClanging sound of hammer on bronze plate\nRotting wooden crates\nAlchemical components\n30ft\n","x":575,"y":-380,"width":360,"height":200},
 		{"id":"8223afabb3de2783","type":"text","text":"Y junction","x":235,"y":-520,"width":250,"height":60},
 		{"id":"01d33b7e7224da26","type":"text","text":"Large chamber\nMine\n","x":1700,"y":225,"width":250,"height":90},
-		{"id":"d686ee9d54581390","type":"text","text":"Entryway, narrows\nSticky humid air\nMuddy Earth floor\n40ft diameter\nSeries of ledges that wind upwards\nDomed ceiling stagmites/tights","x":80,"y":-1040,"width":560,"height":320}
+		{"id":"d686ee9d54581390","type":"text","text":"Entryway, narrows\nSticky humid air\nMuddy Earth floor\n40ft diameter\nSeries of ledges that wind upwards\nDomed ceiling stagmites/tights\n3 ochre jellies\n","x":80,"y":-1040,"width":560,"height":320}
 	],
 	"edges":[
 		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long From NW"},
