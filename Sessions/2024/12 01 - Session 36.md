@@ -40,6 +40,8 @@ Rabbit stolen by dive bombing bird
 
 Cast darkvision on both myself and caenis
 
+Enter the [[Ziardim Caverns]]
+
 ![[Ziardim Caverns.canvas]]
 
 Order:
