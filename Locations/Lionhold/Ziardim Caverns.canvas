@@ -14,8 +14,8 @@
 		{"id":"342858da7e5aaf4a","x":1205,"y":670,"width":310,"height":130,"type":"text","text":"Small room\nMining equipment for 2 people\nBronze limbs\nFound the Bronze Mining Grinder"},
 		{"id":"fd0a90f1bdadf1a3","type":"text","text":"","x":1205,"y":880,"width":250,"height":60},
 		{"id":"869f9afb4784770d","type":"text","text":"20ft diameter\nClear smoothed floor\nElevated dais, 10ft diameter, circle and pedestal with carved symbols\nMaterials, assembly\nMagical effect circle\nRecently carved","x":485,"y":395,"width":390,"height":320},
-		{"id":"02f06da160f0e604","x":2000,"y":740,"width":410,"height":320,"type":"text","text":"Sounds of chittering and clanging\n115x90x100 ft\n\n> The Prototype must be defended"},
-		{"id":"e818e59cd62fc1fb","x":2445,"y":720,"width":400,"height":360,"type":"file","file":"Pasted image 20250112200629.png"}
+		{"id":"02f06da160f0e604","x":2000,"y":620,"width":443,"height":320,"type":"text","text":"Sounds of chittering and clanging\n115x90x100 ft\n\n> The Prototype must be defended"},
+		{"id":"f81d2c7c648cc52f","x":2000,"y":980,"width":443,"height":320,"type":"file","file":"Pasted image 20250112212349.png"}
 	],
 	"edges":[
 		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long From NW"},
@@ -32,6 +32,6 @@
 		{"id":"e768eba62e551f12","fromNode":"d686ee9d54581390","fromSide":"top","toNode":"e558c2d594c2636a","toSide":"bottom","label":"Series of hexagonal ledges that wind upwards"},
 		{"id":"b9ed07a75609103f","fromNode":"01d33b7e7224da26","fromSide":"right","toNode":"ee65440c25aa5bad","toSide":"left","label":"NE\nwinding\nupwards"},
 		{"id":"b7fb11f417300db3","fromNode":"01d33b7e7224da26","fromSide":"left","toNode":"342858da7e5aaf4a","toSide":"right","label":"SW\nWooden Door in rock face"},
-		{"id":"14593e25f622a7de","fromNode":"01d33b7e7224da26","fromSide":"bottom","toNode":"02f06da160f0e604","toSide":"top","label":"SE\nupwards slope"}
+		{"id":"14593e25f622a7de","fromNode":"01d33b7e7224da26","fromSide":"bottom","toNode":"02f06da160f0e604","toSide":"left","label":"SE\nupwards slope"}
 	]
 }
