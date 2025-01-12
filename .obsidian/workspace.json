@@ -87,6 +87,16 @@
               "icon": "lucide-file",
               "title": "Vrindrilliax"
             }
+          },
+          {
+            "id": "ea1d46f1d1b8d6d8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 3
