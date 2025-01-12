@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Lionhold/Ziardim Caverns.canvas"
+                "file": "Sessions/2024/12 01 - Session 36.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ziardim Caverns"
+              "title": "Outline of 12 01 - Session 36"
             }
           },
           {
@@ -266,7 +266,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3e083d94a674fd3",
+  "active": "9ff6958c96541840",
   "lastOpenFiles": [
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Setting Rules/Rules Index.md",
