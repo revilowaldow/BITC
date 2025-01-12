@@ -11,7 +11,7 @@
 		{"id":"8223afabb3de2783","type":"text","text":"Y junction","x":235,"y":-540,"width":250,"height":60},
 		{"id":"248c54c6139f32e0","type":"text","text":"Flattened out chamber\nWater dripping from ceiling\nAir smells of salt\n30ft diameter","x":110,"y":-200,"width":280,"height":140,"color":"5"},
 		{"id":"ac1487992f8d53b4","type":"text","text":"Hear voices\nCampfire smoke\n\nLarge corridor, pillar like structure\n\n60/80ft wide\n\n","x":-15,"y":100,"width":405,"height":320},
-		{"id":"01d33b7e7224da26","type":"text","text":"Large chamber\nMine\n60x75ft\nLarge pillar of rock","x":1700,"y":225,"width":400,"height":330}
+		{"id":"01d33b7e7224da26","type":"text","text":"Large chamber\nMine\n60x75ft\nLarge pillar of rock\n\n","x":1720,"y":225,"width":400,"height":330}
 	],
 	"edges":[
 		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long From NW"},
