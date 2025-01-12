@@ -109,7 +109,7 @@ Interested in [[Her Majesty]] and [[Jay Connar]]
 Flambard failed to hunt it once near waterhold in the helviti wastes
 About a month too late
 
-![[Pasted image 20241020194002.png]]
+![[Wastes.png]]
 
 Migratory?
 
