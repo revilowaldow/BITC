@@ -57,20 +57,6 @@
             }
           },
           {
-            "id": "fe91d56476658438",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/11 17 - Session 35.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11 17 - Session 35"
-            }
-          },
-          {
             "id": "6ded6b1fc1c8e7bf",
             "type": "leaf",
             "state": {
@@ -83,54 +69,9 @@
               "icon": "lucide-file",
               "title": "09 29 - Session 31"
             }
-          },
-          {
-            "id": "1c7043c62c3997eb",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Lionhold/Ziardim Caverns.canvas",
-                "viewState": {
-                  "x": 699.0100409896949,
-                  "y": -33.16289270016226,
-                  "zoom": -0.4601331881798831
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ziardim Caverns"
-            }
-          },
-          {
-            "id": "1c19b9fff1918137",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/12 01 - Session 36.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12 01 - Session 36"
-            }
-          },
-          {
-            "id": "39689a5dec085734",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/12 01 - Session 36.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12 01 - Session 36"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -337,10 +278,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3e083d94a674fd3",
+  "active": "6ded6b1fc1c8e7bf",
   "lastOpenFiles": [
-    "Sessions/2024/12 01 - Session 36.md",
     "Locations/Lionhold/Ziardim Caverns.canvas",
+    "Sessions/2024/12 01 - Session 36.md",
     "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2024/09 29 - Session 31.md",
     "Sessions/2024/10 20 - Session 33.md",
