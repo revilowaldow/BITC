@@ -14,11 +14,11 @@
 		{"id":"342858da7e5aaf4a","x":1205,"y":670,"width":310,"height":130,"type":"text","text":"Small room\nMining equipment for 2 people\nBronze limbs\nFound the Bronze Mining Grinder"},
 		{"id":"fd0a90f1bdadf1a3","type":"text","text":"","x":1205,"y":880,"width":250,"height":60},
 		{"id":"869f9afb4784770d","type":"text","text":"20ft diameter\nClear smoothed floor\nElevated dais, 10ft diameter, circle and pedestal with carved symbols\nMaterials, assembly\nMagical effect circle\nRecently carved","x":485,"y":395,"width":390,"height":320},
-		{"id":"02f06da160f0e604","x":2000,"y":620,"width":443,"height":320,"type":"text","text":"Sounds of chittering and clanging\n115x90x100 ft\n\n> The Prototype must be defended\n\nDestroy enemies of the emperor, begone, begone, begone\n\n"},
 		{"id":"4260faf8c34282ef","x":2392,"y":383,"width":250,"height":60,"type":"text","text":""},
 		{"id":"0c592c1ff343b1bd","x":1720,"y":1160,"width":250,"height":60,"type":"text","text":""},
-		{"id":"f81d2c7c648cc52f","x":2171,"y":1120,"width":443,"height":320,"type":"file","file":"Pasted image 20250112212349.png"},
-		{"id":"93badba837eb2646","x":2677,"y":1015,"width":250,"height":60,"type":"text","text":""}
+		{"id":"93badba837eb2646","x":2680,"y":1070,"width":250,"height":60,"type":"text","text":""},
+		{"id":"02f06da160f0e604","x":2002,"y":655,"width":443,"height":220,"type":"text","text":"Sounds of chittering and clanging\n115x90x100 ft\n\n> The Prototype must be defended\n\n> Destroy enemies of the emperor, begone, begone, begone, confer nobles, administrators. Cave Dangerous\n\n"},
+		{"id":"f81d2c7c648cc52f","x":2099,"y":1060,"width":443,"height":320,"type":"file","file":"Pasted image 20250112212349.png"}
 	],
 	"edges":[
 		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long From NW"},
@@ -38,6 +38,6 @@
 		{"id":"14593e25f622a7de","fromNode":"01d33b7e7224da26","fromSide":"bottom","toNode":"02f06da160f0e604","toSide":"left","label":"SE\nupwards slope"},
 		{"id":"8d6fda19b76afabf","fromNode":"02f06da160f0e604","fromSide":"top","toNode":"4260faf8c34282ef","toSide":"bottom","label":"Crawlers leave"},
 		{"id":"3ad5cdd822042884","fromNode":"02f06da160f0e604","fromSide":"bottom","toNode":"0c592c1ff343b1bd","toSide":"top","label":"Golems"},
-		{"id":"8f09b034a5f88d55","fromNode":"02f06da160f0e604","fromSide":"right","toNode":"93badba837eb2646","toSide":"left","label":"Assa"}
+		{"id":"8f09b034a5f88d55","fromNode":"02f06da160f0e604","fromSide":"right","toNode":"93badba837eb2646","toSide":"left","label":"Assassin Golem"}
 	]
 }
