@@ -1,3 +1,6 @@
 {
-  "accentColor": "#f06c00"
+  "accentColor": "#f06c00",
+  "enabledCssSnippets": [
+    "justify"
+  ]
 }

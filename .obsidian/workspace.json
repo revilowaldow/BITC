@@ -67,37 +67,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "214242f550a2f5bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Rules Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rules Index"
-            }
-          },
-          {
-            "id": "4c889025d202873d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Vermillion Hand/Kana.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kana"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,11 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Factions/Vermillion Hand/Kana.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Kana"
+              "title": "Outline"
             }
           },
           {
@@ -303,12 +273,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c889025d202873d",
+  "active": "1c430415ff35426a",
   "lastOpenFiles": [
-    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Setting Rules/Rules Index.md",
-    "Sessions/2024/12 01 - Session 36.md",
     "Factions/Vermillion Hand/Kana.md",
+    "Locations/Lionhold/Ziardim Caverns.canvas",
+    "Sessions/2024/12 01 - Session 36.md",
     "Sessions/2024/07 14 - Session 26.md",
     "Wesken.md",
     "Factions/Arach.md",
