@@ -14,7 +14,7 @@
 		{"id":"fd0a90f1bdadf1a3","type":"text","text":"","x":1160,"y":525,"width":250,"height":60},
 		{"id":"ee65440c25aa5bad","x":2320,"y":100,"width":250,"height":60,"type":"text","text":""},
 		{"id":"02f06da160f0e604","x":2120,"y":740,"width":250,"height":60,"type":"text","text":""},
-		{"id":"342858da7e5aaf4a","x":1160,"y":640,"width":250,"height":200,"type":"text","text":"Small room\nMining equipment for 2 people\nBronze limbs\n"}
+		{"id":"342858da7e5aaf4a","x":1160,"y":640,"width":250,"height":200,"type":"text","text":"Small room\nMining equipment for 2 people\nBronze limbs\nLarge geared hammer"}
 	],
 	"edges":[
 		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long From NW"},
