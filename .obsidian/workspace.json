@@ -57,9 +57,25 @@
               "icon": "lucide-layout-dashboard",
               "title": "Ziardim Caverns"
             }
+          },
+          {
+            "id": "6f59845e48f22702",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025/01 12 - Session 37.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "01 12 - Session 37"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,10 +213,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2024/12 01 - Session 36.md"
+                "file": "Sessions/2025/01 12 - Session 37.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 12 01 - Session 36"
+              "title": "Outline of 01 12 - Session 37"
             }
           },
           {
@@ -266,10 +282,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ff6958c96541840",
+  "active": "6f59845e48f22702",
   "lastOpenFiles": [
-    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2024/12 01 - Session 36.md",
+    "Sessions/2025/01 12 - Session 37.md",
+    "Sessions/2025",
+    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2024/11 17 - Session 35.md",
     "Setting Rules/Rules Index.md",
     "Factions/Vermillion Hand/Kana.md",
@@ -317,7 +335,6 @@
     "Jobs/Level 4",
     "Sessions/2024",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
-    "Locations/Kathkach/Abandoned House.canvas",
-    "Deity/New"
+    "Locations/Kathkach/Abandoned House.canvas"
   ]
 }
