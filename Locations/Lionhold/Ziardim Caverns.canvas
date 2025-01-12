@@ -10,14 +10,14 @@
 		{"id":"fdcfe4477af615e4","type":"text","text":"**Old Storage Chamber**\nClanging sound of hammer on bronze plate\nRotting wooden crates\nAlchemical components\n30ft\n","x":575,"y":-380,"width":360,"height":200},
 		{"id":"8223afabb3de2783","type":"text","text":"Y junction","x":235,"y":-520,"width":250,"height":60},
 		{"id":"01d33b7e7224da26","type":"text","text":"Large chamber\nMine\n","x":1700,"y":225,"width":250,"height":90},
-		{"id":"d686ee9d54581390","type":"text","text":"Entryway, narrows\nSticky humid air\n\n","x":80,"y":-1000,"width":560,"height":300}
+		{"id":"d686ee9d54581390","type":"text","text":"Entryway, narrows\nSticky humid air\nMuddy Earth floor\n\n","x":80,"y":-1000,"width":560,"height":300}
 	],
 	"edges":[
 		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long From NW"},
 		{"id":"02a6364c335f4767","fromNode":"248c54c6139f32e0","fromSide":"top","toNode":"8223afabb3de2783","toSide":"bottom","label":"NE\n60ft to junction"},
 		{"id":"643544d4c28c354d","fromNode":"248c54c6139f32e0","fromSide":"bottom","toNode":"ac1487992f8d53b4","toSide":"top","label":"SW"},
 		{"id":"652db96322c3455d","fromNode":"8223afabb3de2783","fromSide":"right","toNode":"fdcfe4477af615e4","toSide":"top","label":"SE\n60ft"},
-		{"id":"017fb50eb36b8700","fromNode":"8223afabb3de2783","fromSide":"top","toNode":"d686ee9d54581390","toSide":"bottom","label":"N\n60 ft"},
+		{"id":"017fb50eb36b8700","fromNode":"8223afabb3de2783","fromSide":"top","toNode":"d686ee9d54581390","toSide":"bottom","label":"N\n60 ft\n5ft wide"},
 		{"id":"aaf09ed2f1b0f2bd","fromNode":"fdcfe4477af615e4","fromSide":"bottom","toNode":"b00c7aa4e5ad69b5","toSide":"top","label":"SW\n60ft"},
 		{"id":"c880786fac89b6a4","fromNode":"fdcfe4477af615e4","fromSide":"right","toNode":"d5b581851b6a7a26","toSide":"top","label":"SE\nuphill 40°\nslippery\n80ft"},
 		{"id":"6d0a8126cb78f7c2","fromNode":"b00c7aa4e5ad69b5","fromSide":"bottom","toNode":"869f9afb4784770d","toSide":"top","label":"S\nOzone smell\n60ft"},
