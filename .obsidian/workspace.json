@@ -89,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,10 +227,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Silver Company/Party/Vrindrilliax.md"
+                "file": "Locations/Lionhold/Ziardim Caverns.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Vrindrilliax"
+              "title": "Outline of Ziardim Caverns"
             }
           },
           {
@@ -296,8 +296,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "17fce407e69f2c5c",
+  "active": "a3e083d94a674fd3",
   "lastOpenFiles": [
+    "Factions/Silver Company/Party/Vrindrilliax.md",
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2025/01 12 - Session 37.md",
     "Sessions/2024/11 17 - Session 35.md",
@@ -325,7 +326,6 @@
     "Setting Rules/Weapon Rules.md",
     "Setting Rules/Ration Rules.md",
     "Factions/Eastern City States/Parche/Parche.md",
-    "Factions/Silver Company/Party/Vrindrilliax.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Factions/Eastern City States/Eastern City States.md",
     "Assets/Characters/Spore Berserker.png",
