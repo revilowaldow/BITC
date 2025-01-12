@@ -6,12 +6,12 @@
 		{"id":"fd0a90f1bdadf1a3","type":"text","text":"","x":1160,"y":330,"width":250,"height":60},
 		{"id":"d5b581851b6a7a26","type":"text","text":"Wooden archway\nMechanical whirring clicks\n75ft x 55ft\nTable with 3 wooden chairs\nDried up withered plant, has been watered\nCarpet\nOven and cooking stove\nBed, bathtub desk\nCrates\nHumanoid bronze creature\n\"Effervescent Greetings\"\nPrior master\nVal\n15 years old\nMiner units may be hostiile","x":1120,"y":-160,"width":420,"height":430},
 		{"id":"fdcfe4477af615e4","type":"text","text":"**Old Storage Chamber**\nClanging sound of hammer on bronze plate\nRotting wooden crates\nAlchemical components\n30ft\n","x":575,"y":-380,"width":360,"height":200},
-		{"id":"01d33b7e7224da26","type":"text","text":"Large chamber\nMine\n","x":1700,"y":225,"width":250,"height":90},
 		{"id":"d686ee9d54581390","type":"text","text":"Entryway, narrows\nSticky humid air\nMuddy Earth floor\n40ft diameter\nDomed ceiling stagmites/tights\n3 ochre jellies\n","x":190,"y":-960,"width":340,"height":240},
 		{"id":"e558c2d594c2636a","x":175,"y":-1320,"width":370,"height":160,"color":"2","type":"text","text":"Fresh air\nNo ceiling\nSmall grass patch + flowers\nElevated terrace\nCan just see the Crutaban"},
 		{"id":"8223afabb3de2783","type":"text","text":"Y junction","x":235,"y":-540,"width":250,"height":60},
 		{"id":"248c54c6139f32e0","type":"text","text":"Flattened out chamber\nWater dripping from ceiling\nAir smells of salt\n30ft diameter","x":110,"y":-200,"width":280,"height":140,"color":"5"},
-		{"id":"ac1487992f8d53b4","type":"text","text":"Hear voices\nCampfire smoke\n\nLarge corridor, pillar like structure\n\n60/80ft wide\n\n","x":-15,"y":100,"width":405,"height":320}
+		{"id":"ac1487992f8d53b4","type":"text","text":"Hear voices\nCampfire smoke\n\nLarge corridor, pillar like structure\n\n60/80ft wide\n\n","x":-15,"y":100,"width":405,"height":320},
+		{"id":"01d33b7e7224da26","type":"text","text":"Large chamber\nMine\n","x":2000,"y":10,"width":250,"height":90}
 	],
 	"edges":[
 		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long From NW"},
@@ -24,7 +24,7 @@
 		{"id":"6d0a8126cb78f7c2","fromNode":"b00c7aa4e5ad69b5","fromSide":"bottom","toNode":"869f9afb4784770d","toSide":"top","label":"S\nOzone smell\n60ft"},
 		{"id":"f97dcfb734d97806","fromNode":"248c54c6139f32e0","fromSide":"right","toNode":"b00c7aa4e5ad69b5","toSide":"left","label":"SE\n60ft"},
 		{"id":"bb59806b106c420c","fromNode":"869f9afb4784770d","fromSide":"right","toNode":"fd0a90f1bdadf1a3","toSide":"left","label":"SE\nnarrow\nunstable"},
-		{"id":"cfbbd52fa5521f56","fromNode":"d5b581851b6a7a26","fromSide":"right","toNode":"01d33b7e7224da26","toSide":"top","label":"SE\n70ft flat"},
+		{"id":"cfbbd52fa5521f56","fromNode":"d5b581851b6a7a26","fromSide":"right","toNode":"01d33b7e7224da26","toSide":"left","label":"SE\n70ft flat"},
 		{"id":"e768eba62e551f12","fromNode":"d686ee9d54581390","fromSide":"top","toNode":"e558c2d594c2636a","toSide":"bottom","label":"Series of hexagonal ledges that wind upwards"}
 	]
 }
