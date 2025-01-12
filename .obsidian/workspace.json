@@ -69,6 +69,16 @@
               "icon": "lucide-file",
               "title": "09 29 - Session 31"
             }
+          },
+          {
+            "id": "7f49dfe9aca58eda",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 3
@@ -278,7 +288,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ded6b1fc1c8e7bf",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Factions/Helviti/Shiendo Kadan.md",
     "Sessions/2024/09 29 - Session 31.md",
