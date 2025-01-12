@@ -48,8 +48,8 @@
               "state": {
                 "file": "Locations/Lionhold/Ziardim Caverns.canvas",
                 "viewState": {
-                  "x": 883.7341601691164,
-                  "y": -60.89054889604472,
+                  "x": 750.3924718037877,
+                  "y": -19.618121544871542,
                   "zoom": -0.6666666666666667
                 }
               },
@@ -57,19 +57,9 @@
               "icon": "lucide-layout-dashboard",
               "title": "Ziardim Caverns"
             }
-          },
-          {
-            "id": "1c430415ff35426a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,9 +196,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Locations/Lionhold/Ziardim Caverns.canvas"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ziardim Caverns"
             }
           },
           {
@@ -273,11 +265,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c430415ff35426a",
+  "active": "a3e083d94a674fd3",
   "lastOpenFiles": [
+    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Setting Rules/Rules Index.md",
     "Factions/Vermillion Hand/Kana.md",
-    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2024/12 01 - Session 36.md",
     "Sessions/2024/07 14 - Session 26.md",
     "Wesken.md",
