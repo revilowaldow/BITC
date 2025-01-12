@@ -1,3 +1,6 @@
+
+**Alias: The Last Daughter of Lachaka**
+
 Many bandages
 	Fighting style very similar to Helviti fighting styles
 
@@ -35,7 +38,7 @@ Raised as a soldier
 Likes the dogs
 Like the people who you live with
 
-The Last Daughter of Lachaka
+Alias: The Last Daughter of Lachaka
 
 Father found allies who want to see a change in power
 
@@ -46,3 +49,5 @@ Kathkachan coin made of tree bark
 Dog Prince base is caves
 
 [[Caenis]] was given a bark coin by [[Kana]] allowing access to the base
+
+Briefly in consideration as a [[Dyvare]] but defeated by the Party
