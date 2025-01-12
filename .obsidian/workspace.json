@@ -40,25 +40,6 @@
             }
           },
           {
-            "id": "a3e083d94a674fd3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Lionhold/Ziardim Caverns.canvas",
-                "viewState": {
-                  "x": 541.6492334699697,
-                  "y": 108.66372596730876,
-                  "zoom": -0.6666666666666667
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Ziardim Caverns"
-            }
-          },
-          {
             "id": "6f59845e48f22702",
             "type": "leaf",
             "pinned": true,
@@ -72,6 +53,25 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "01 12 - Session 37"
+            }
+          },
+          {
+            "id": "a3e083d94a674fd3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Lionhold/Ziardim Caverns.canvas",
+                "viewState": {
+                  "x": 1279.7907226351824,
+                  "y": 108.66372596730876,
+                  "zoom": -0.6666666666666667
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Ziardim Caverns"
             }
           }
         ],
@@ -213,10 +213,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2025/01 12 - Session 37.md"
+                "file": "Locations/Lionhold/Ziardim Caverns.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of 01 12 - Session 37"
+              "title": "Outline of Ziardim Caverns"
             }
           },
           {
@@ -264,7 +264,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -282,13 +282,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f59845e48f22702",
+  "active": "a3e083d94a674fd3",
   "lastOpenFiles": [
-    "Sessions/2024/12 01 - Session 36.md",
     "Sessions/2025/01 12 - Session 37.md",
+    "Sessions/2024/11 17 - Session 35.md",
+    "Sessions/2024/12 01 - Session 36.md",
+    "Sessions/2024/10 20 - Session 33.md",
+    "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2025",
     "Locations/Lionhold/Ziardim Caverns.canvas",
-    "Sessions/2024/11 17 - Session 35.md",
     "Setting Rules/Rules Index.md",
     "Factions/Vermillion Hand/Kana.md",
     "Sessions/2024/07 14 - Session 26.md",
@@ -301,9 +303,7 @@
     "Assets/Table/Pasted image 20241103194605.png",
     "Sessions/2024/09 29 - Session 31.md",
     "Factions/Helviti/Shiendo Kadan.md",
-    "Sessions/2024/10 20 - Session 33.md",
     "Sessions/2024/10 06 - Session 32.md",
-    "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2024/09 08 - Session 30.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Locations/Lionhold",
