@@ -80,8 +80,8 @@
               "state": {
                 "file": "Locations/Lionhold/Ziardim Caverns.canvas",
                 "viewState": {
-                  "x": 2993.9554232740425,
-                  "y": 882.1862747521184,
+                  "x": 2159.887688243636,
+                  "y": 972.9005903445492,
                   "zoom": -0.3333333333333334
                 }
               },
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -354,10 +354,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "a3e083d94a674fd3",
   "lastOpenFiles": [
-    "Sessions/2024/09 01 - Session 29.md",
     "Factions/Local Arcanists/Ziardim Notes.md",
+    "Sessions/2024/09 01 - Session 29.md",
     "Factions/Local Arcanists/Vixel.md",
     "Factions/Local Arcanists/Torniar Maluka.md",
     "Factions/Local Arcanists/Mholok Krass.md",
