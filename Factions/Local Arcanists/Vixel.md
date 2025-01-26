@@ -12,7 +12,7 @@ Killed by stabbing and defenestrating
 Nearby militia man killed with ritual dagger of [[Aepoptosis cult]]
 
 Kathkachians
-From Parch, but happy to be out from under their yoke
+From Parche, but happy to be out from under their yoke
 
 
 According to Kev:
