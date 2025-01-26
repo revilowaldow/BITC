@@ -8,3 +8,5 @@ Examine thodunn & assassin
 > "I'm not dealing with this. A true Aegan remembers her debts."
 > Agent Veronica
 
+Killed by [[Manticar Viole]]
+
