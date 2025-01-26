@@ -21,7 +21,7 @@
 		{"id":"0c592c1ff343b1bd","type":"text","text":"Large chamber\n70 x 80 ft egg shaped\n\nLong tables with ores being ground by golems\nOne damaged\nOne lethargic movement","x":1480,"y":1190,"width":440,"height":350},
 		{"id":"f81d2c7c648cc52f","type":"file","file":"Pasted image 20250112212349.png","x":2224,"y":960,"width":443,"height":320},
 		{"id":"e461e447cdd9b8d7","x":1120,"y":1165,"width":343,"height":400,"type":"file","file":"Pasted image 20250126193649.png"},
-		{"id":"ffba2775abccbaa3","x":1483,"y":1818,"width":250,"height":60,"type":"text","text":""}
+		{"id":"ffba2775abccbaa3","x":1439,"y":1680,"width":522,"height":420,"type":"text","text":"Large Chamber\n\nSquashed Ball\n\n70"}
 	],
 	"edges":[
 		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long From NW"},
@@ -39,9 +39,9 @@
 		{"id":"b9ed07a75609103f","fromNode":"01d33b7e7224da26","fromSide":"right","toNode":"ee65440c25aa5bad","toSide":"left","label":"NE\nwinding\nupwards"},
 		{"id":"b7fb11f417300db3","fromNode":"01d33b7e7224da26","fromSide":"left","toNode":"342858da7e5aaf4a","toSide":"right","label":"SW\nWooden Door in rock face"},
 		{"id":"14593e25f622a7de","fromNode":"01d33b7e7224da26","fromSide":"bottom","toNode":"02f06da160f0e604","toSide":"left","label":"SE\nupwards slope"},
-		{"id":"8d6fda19b76afabf","fromNode":"02f06da160f0e604","fromSide":"top","toNode":"4260faf8c34282ef","toSide":"bottom","label":"Crawlers leave"},
+		{"id":"8d6fda19b76afabf","fromNode":"02f06da160f0e604","fromSide":"top","toNode":"4260faf8c34282ef","toSide":"bottom","label":"NE\nCrawlers leave"},
 		{"id":"3ad5cdd822042884","fromNode":"02f06da160f0e604","fromSide":"bottom","toNode":"0c592c1ff343b1bd","toSide":"top","label":"SW Golems\nSounds of slow clanging and grinding\n10ft wide"},
 		{"id":"8f09b034a5f88d55","fromNode":"02f06da160f0e604","fromSide":"right","toNode":"93badba837eb2646","toSide":"left","label":"SE\nAssassin Golem\nSlope upwards\n"},
-		{"id":"8c7a642188e58f7e","fromNode":"0c592c1ff343b1bd","fromSide":"bottom","toNode":"ffba2775abccbaa3","toSide":"top","label":"South"}
+		{"id":"8c7a642188e58f7e","fromNode":"0c592c1ff343b1bd","fromSide":"bottom","toNode":"ffba2775abccbaa3","toSide":"top","label":"S\nMore Clanking"}
 	]
 }
