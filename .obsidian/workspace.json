@@ -185,6 +185,16 @@
               "icon": "lucide-file",
               "title": "01 26 - Session 38"
             }
+          },
+          {
+            "id": "5f593b010f940f7c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 11
@@ -394,7 +404,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "399a225ad73b1420",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/05 19 - Session 22.md",
