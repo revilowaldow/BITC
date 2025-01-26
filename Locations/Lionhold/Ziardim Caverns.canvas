@@ -21,7 +21,8 @@
 		{"id":"0c592c1ff343b1bd","type":"text","text":"Large chamber\n70 x 80 ft egg shaped\n\nLong tables with ores being ground by golems\nOne damaged\nOne lethargic movement","x":1480,"y":1190,"width":440,"height":350},
 		{"id":"f81d2c7c648cc52f","type":"file","file":"Pasted image 20250112212349.png","x":2224,"y":960,"width":443,"height":320},
 		{"id":"e461e447cdd9b8d7","x":1120,"y":1165,"width":343,"height":400,"type":"file","file":"Pasted image 20250126193649.png"},
-		{"id":"ffba2775abccbaa3","x":1439,"y":1680,"width":522,"height":420,"type":"text","text":"Large Chamber\nSquashed Ball\n70 x 80 ft\n\nAltar\nHuman Body on it\nSigil on floor\n"}
+		{"id":"ffba2775abccbaa3","x":1439,"y":1680,"width":522,"height":300,"type":"text","text":"Large Chamber\nSquashed Ball\n70 x 80 ft\n\nAltar\nHuman Body on it\nSigil on floor\n"},
+		{"id":"4055dd00932a1d19","x":1005,"y":1656,"width":400,"height":348,"type":"file","file":"Pasted image 20250126201134.png"}
 	],
 	"edges":[
 		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long From NW"},
