@@ -64,8 +64,8 @@
               "state": {
                 "file": "Locations/Lionhold/Ziardim Caverns.canvas",
                 "viewState": {
-                  "x": 2261.6112946342896,
-                  "y": 710.4409797992062,
+                  "x": 2263.1986956862575,
+                  "y": 713.6157819031425,
                   "zoom": -0.6666666666666667
                 }
               },
@@ -87,19 +87,9 @@
               "icon": "lucide-file",
               "title": "Vrindrilliax"
             }
-          },
-          {
-            "id": "ea1d46f1d1b8d6d8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -306,15 +296,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3e083d94a674fd3",
+  "active": "6f59845e48f22702",
   "lastOpenFiles": [
+    "Factions/Silver Company/Party/Vrindrilliax.md",
+    "Sessions/2025/01 12 - Session 37.md",
+    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Pasted image 20250112212349.png",
     "Pasted image 20250112200629.png",
     "Pasted image 20250112200044.png",
-    "Sessions/2025/01 12 - Session 37.md",
     "Pasted image 20250112192828.png",
-    "Locations/Lionhold/Ziardim Caverns.canvas",
-    "Factions/Silver Company/Party/Vrindrilliax.md",
     "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2024/12 01 - Session 36.md",
     "Sessions/2024/10 20 - Session 33.md",
@@ -350,7 +340,6 @@
     "Factions/The Cooking Association",
     "Factions/Eastern City States/Parche",
     "Factions/Vermillion Hand",
-    "Assets/Characters/Kana.png",
     "Factions/Helviti",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
