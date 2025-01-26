@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -354,10 +354,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77b396d535a36831",
+  "active": "c0039ffd61abc541",
   "lastOpenFiles": [
-    "Factions/Local Arcanists/Torniar Maluka.md",
+    "Factions/Local Arcanists/Vixel.md",
     "Factions/Local Arcanists/Mholok Krass.md",
+    "Factions/Local Arcanists/Torniar Maluka.md",
     "Factions/Local Arcanists/Ziardim Notes.md",
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2025/01 26 - Session 38.md",
@@ -390,7 +391,6 @@
     "Assets/Table/Pasted image 20241103194605.png",
     "Sessions/2024/09 29 - Session 31.md",
     "Factions/Helviti/Shiendo Kadan.md",
-    "Sessions/2024/10 06 - Session 32.md",
     "Locations/Lionhold",
     "Assets/Characters/Spore Berserker.png",
     "Assets/Characters/Arach.png",
