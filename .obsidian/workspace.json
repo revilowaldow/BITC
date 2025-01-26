@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -312,10 +312,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0039ffd61abc541",
+  "active": "a3e083d94a674fd3",
   "lastOpenFiles": [
-    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Factions/Local Arcanists/Ziardim Notes.md",
+    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2025/01 26 - Session 38.md",
     "Sessions/2024/12 01 - Session 36.md",
     "Sessions/2025/01 12 - Session 37.md",

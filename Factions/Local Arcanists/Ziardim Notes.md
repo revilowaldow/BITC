@@ -32,3 +32,18 @@ Note: the purple powders in the walls seem effective at stabilising fluid matter
 
 <hr>
 
+# Partial Success
+
+Of twenty-eight specimens from across the valley, I was able to reduce the number of viable candidates to six, which I deem sufficient for distillation. Following the liquification process the specimens were harvested and distilled, prior to insertion into the crude clay container prepared.
+
+I am glad to report partial success; whilst the container itself decayed rapidly following the insertion of the distilled fluid, the magical properties were greatly enhanced. Follow-up experiments revealed to me several key factors:
+
+- Identity fluidity is a factor to be considered when identifying dyvarran reincarnates. I posit that this is due to their identities being 'weaker', they are more easily overridden by the outer forces imposing themselves on the candidate.
+- Dyvarran reincarnates draw magic energy from a non-Golian source as well as from the immediate surrounding. The stronger the reincarnate, the more energy is drawn from the surrounding cosmos.
+- A stronger container is required to continue experimentation on the creation of artificial dyvares.
+
+This bears great significance to me. My ambitions can be made real if sufficient dyvares are harnessed to draw magic back into the world of Gol.
+
+As my new laboratory is being completed, I fear I must abandon this early location. I sense that other powers will be drawn here soon, and all will be for naught if I am exposed too soon. It is a shame I was not able to experiment on the mongrel's pup; by all appearances, it would have made an excellent subject for study.
+
+As time is of the essence I may have to leave some of my samples here. I doubt any normal individual could survive the Dyvarran golem, however, even if its complete immunity to physical damage was compromised by the flawed procedure.
