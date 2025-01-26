@@ -9,7 +9,7 @@
 		{"id":"8223afabb3de2783","type":"text","text":"Y junction","x":235,"y":-540,"width":250,"height":60},
 		{"id":"248c54c6139f32e0","type":"text","text":"Flattened out chamber\nWater dripping from ceiling\nAir smells of salt\n30ft diameter","x":110,"y":-200,"width":280,"height":140,"color":"5"},
 		{"id":"ac1487992f8d53b4","type":"text","text":"Hear voices\nCampfire smoke\n\nLarge corridor, pillar like structure\n\n60/80ft wide\n\nBandits, long term hideout","x":-15,"y":100,"width":405,"height":320},
-		{"id":"01d33b7e7224da26","type":"text","text":"Large chamber\nMine\n60x75ft\nLarge pillar of rock in middle with scaffolds\n\nBronze Golem","x":1720,"y":225,"width":400,"height":330},
+		{"id":"01d33b7e7224da26","type":"text","text":"Large chamber\nMine\n60x75ft\nLarge pillar of rock in middle with scaffolds\n\nBronze Golem\nNow dead","x":1720,"y":225,"width":400,"height":330},
 		{"id":"342858da7e5aaf4a","type":"text","text":"Small room\nMining equipment for 2 people\nBronze limbs\nFound the Bronze Mining Grinder","x":1205,"y":670,"width":310,"height":130},
 		{"id":"fd0a90f1bdadf1a3","type":"text","text":"","x":1205,"y":880,"width":250,"height":60},
 		{"id":"869f9afb4784770d","type":"text","text":"20ft diameter\nClear smoothed floor\nElevated dais, 10ft diameter, circle and pedestal with carved symbols\n\n> Materials, assembly\n\nMagical effect circle\nRecently carved","x":485,"y":395,"width":390,"height":320},
@@ -22,7 +22,7 @@
 		{"id":"ffba2775abccbaa3","x":1439,"y":1680,"width":522,"height":380,"type":"text","text":"Large Chamber\nSquashed Ball\n70 x 80 ft\n\nAltar\nHuman Body on it\nBurn in fire body screamed\nSigil on floor\n\n> Materials, Living\n\nAn Eye, Observer of things that require solving\n\n"},
 		{"id":"4055dd00932a1d19","x":1005,"y":1656,"width":400,"height":348,"type":"file","file":"Pasted image 20250126201134.png"},
 		{"id":"4260faf8c34282ef","type":"text","text":"Large hole in center\n\n11 deep crawlers\n\nLarge deep crawler (Royal)\nGrowth on back of head\n\nCast Detect Thoughts\n\nI'm interested in collective understanding\n\nThere is another\n\nThose who dwell below\n\n","x":2640,"y":20,"width":548,"height":353},
-		{"id":"ee65440c25aa5bad","type":"text","text":"","x":2300,"y":162,"width":250,"height":60}
+		{"id":"ee65440c25aa5bad","type":"text","text":"","x":2160,"y":-117,"width":334,"height":275}
 	],
 	"edges":[
 		{"id":"0699a9afa339c38e","fromNode":"4db6b5bde4a604a5","fromSide":"right","toNode":"248c54c6139f32e0","toSide":"left","label":"Corridor 1\n15ft entrance\n10ft wide\nSlopes upwards at 30°\n150ft long From NW"},
