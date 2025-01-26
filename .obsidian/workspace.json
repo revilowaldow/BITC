@@ -80,8 +80,8 @@
               "state": {
                 "file": "Locations/Lionhold/Ziardim Caverns.canvas",
                 "viewState": {
-                  "x": 2263.1986956862575,
-                  "y": 713.6157819031425,
+                  "x": 2222.751251148656,
+                  "y": 830.3694532974008,
                   "zoom": -0.6666666666666667
                 }
               },
@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 257.5
   },
   "right": {
     "id": "ef72d1b6d53eecf3",
@@ -298,8 +298,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f59845e48f22702",
+  "active": "a3e083d94a674fd3",
   "lastOpenFiles": [
+    "Sessions/2024/12 01 - Session 36.md",
+    "Sessions/2025/01 12 - Session 37.md",
     "Sessions/2024/11 17 - Session 35.md",
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2024/03 10 - Session 18.md",
@@ -310,12 +312,10 @@
     "Sessions/2024/06 02 - Session 23.md",
     "Factions/Silver Company/Party/Vrindrilliax.md",
     "Sessions/2025/01 26 - Session 38.md",
-    "Sessions/2025/01 12 - Session 37.md",
     "Pasted image 20250112212349.png",
     "Pasted image 20250112200629.png",
     "Pasted image 20250112200044.png",
     "Pasted image 20250112192828.png",
-    "Sessions/2024/12 01 - Session 36.md",
     "Sessions/2024/10 20 - Session 33.md",
     "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2025",
@@ -350,4 +350,6 @@
     "Jobs/Level 4",
     "Sessions/2024",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
-    "Locations/Kathkach/Aban
+    "Locations/Kathkach/Abandoned House.canvas"
+  ]
+}
