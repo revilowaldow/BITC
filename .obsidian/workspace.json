@@ -89,9 +89,23 @@
               "icon": "lucide-layout-dashboard",
               "title": "Ziardim Caverns"
             }
+          },
+          {
+            "id": "c0039ffd61abc541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Local Arcanists/Ziardim Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ziardim Notes"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -298,10 +312,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3e083d94a674fd3",
+  "active": "c0039ffd61abc541",
   "lastOpenFiles": [
-    "Sessions/2025/01 26 - Session 38.md",
     "Locations/Lionhold/Ziardim Caverns.canvas",
+    "Factions/Local Arcanists/Ziardim Notes.md",
+    "Sessions/2025/01 26 - Session 38.md",
     "Sessions/2024/12 01 - Session 36.md",
     "Sessions/2025/01 12 - Session 37.md",
     "Sessions/2024/11 17 - Session 35.md",
@@ -333,7 +348,6 @@
     "Factions/Helviti/Shiendo Kadan.md",
     "Sessions/2024/10 06 - Session 32.md",
     "Sessions/2024/09 08 - Session 30.md",
-    "Sessions/2023/06 04 - Session 3.md",
     "Locations/Lionhold",
     "Assets/Characters/Spore Berserker.png",
     "Assets/Characters/Arach.png",
