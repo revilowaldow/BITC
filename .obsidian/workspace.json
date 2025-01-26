@@ -75,6 +75,16 @@
             }
           },
           {
+            "id": "ef8fa9885e684255",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
             "id": "17fce407e69f2c5c",
             "type": "leaf",
             "state": {
@@ -89,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -296,10 +306,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f59845e48f22702",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
-    "Factions/Silver Company/Party/Vrindrilliax.md",
     "Sessions/2025/01 12 - Session 37.md",
+    "Factions/Silver Company/Party/Vrindrilliax.md",
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Pasted image 20250112212349.png",
     "Pasted image 20250112200629.png",
