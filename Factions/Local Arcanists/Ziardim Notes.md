@@ -47,3 +47,8 @@ This bears great significance to me. My ambitions can be made real if sufficient
 As my new laboratory is being completed, I fear I must abandon this early location. I sense that other powers will be drawn here soon, and all will be for naught if I am exposed too soon. It is a shame I was not able to experiment on the mongrel's pup; by all appearances, it would have made an excellent subject for study.
 
 As time is of the essence I may have to leave some of my samples here. I doubt any normal individual could survive the Dyvarran golem, however, even if its complete immunity to physical damage was compromised by the flawed procedure.
+
+<hr>
+
+Compare handwriting with Vixel's notes
+
