@@ -5,7 +5,9 @@ Iron from north - traded by Helveti mercenaries
 Organic - stone, bone, wood
 
 Bronze - bendy
-Iron - hip crack shatter (long maintenance), require a Whetstone to maintain
+
+Iron - chip crack shatter (long maintenance), require a Whetstone to maintain
+
 Organic - fragile but brutal
 
 Steel - flexible, light, negligible maintenance
