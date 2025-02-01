@@ -146,9 +146,9 @@
               "state": {
                 "file": "Locations/Lionhold/Ziardim Caverns.canvas",
                 "viewState": {
-                  "x": 1304.2580370537526,
-                  "y": -248.7367290747739,
-                  "zoom": -0.3333333333333334
+                  "x": 2040.9087258708842,
+                  "y": 461.20740850987056,
+                  "zoom": -1.4760772840976717
                 }
               },
               "pinned": true,
@@ -213,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -295,8 +295,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -363,8 +363,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -373,8 +373,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -383,8 +383,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dice-roller-icon",
-              "title": "Dice Roller"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -400,9 +400,29 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "82baeb53a1de149d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dice-roller-icon",
+              "title": "Dice Roller"
+            }
+          },
+          {
+            "id": "fee2dd2e58e9211e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -420,8 +440,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "a3e083d94a674fd3",
   "lastOpenFiles": [
+    "Setting Rules/Weapon Rules.md",
     "Sessions/2025/01 26 - Session 38.md",
     "Wesken.md",
     "Sessions/2023/06 18 - Session 4.md",
@@ -432,7 +453,6 @@
     "Factions/Local Arcanists/Torniar Maluka.md",
     "Factions/Local Arcanists/Mholok Krass.md",
     "Locations/Lionhold/Ziardim Caverns.canvas",
-    "Setting Rules/Weapon Rules.md",
     "Factions/Local Arcanists/Ziardim Notes.md",
     "Pasted image 20250126201134.png",
     "Pasted image 20250126193649.png",
