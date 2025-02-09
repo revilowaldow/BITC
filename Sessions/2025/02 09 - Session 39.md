@@ -15,5 +15,5 @@ Val remembers being on an altar
 
 Remove chest plates to touch golden threads inside val
 
-Tall spires with rounded tops, clinking of chain mail, sounds of water, light tunics, 
+Tall spires with rounded tops, clinking of chain mail, sounds of water, light tunics, tired, can't go to sleep
 
