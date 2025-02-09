@@ -60,4 +60,4 @@ Mark of status, historically, golden armor.
 Golden eyes
 > where are you granddaughter?!
 
- voice
+Guttural voice
