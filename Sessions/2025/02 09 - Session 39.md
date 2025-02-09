@@ -36,4 +36,6 @@ Jiu-Len fell in battle and the weapon claimed the warriors name
 Sentient weapon, attunement, alignment
 Attacks feel much easier
 Makes its own attacks
+Cold damage
+Dark reputation
 
