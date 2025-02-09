@@ -9,4 +9,7 @@ Three figures
 
 Purple Star effect engages again
 
+> "I will be the destined one" - Manticar Viole
+
+
 
