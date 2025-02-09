@@ -79,6 +79,7 @@ Captured by the aegan empire
 Used to be an elf in a northern grove
 
 Victim of a cave in during the [[battle of looming rock]]
+Worked for steelmongers, work as spy in kathkach
 
 
 
