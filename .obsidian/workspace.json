@@ -201,9 +201,163 @@
               "icon": "lucide-file",
               "title": "Vixel"
             }
+          },
+          {
+            "id": "d58e8746c2f66a87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025/02 09 - Session 39.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 09 - Session 39"
+            }
+          },
+          {
+            "id": "51a408a052388a52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/06 30 - Session 25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06 30 - Session 25"
+            }
+          },
+          {
+            "id": "36286c9a7f4402af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/07 14 - Session 26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07 14 - Session 26"
+            }
+          },
+          {
+            "id": "1a7624aebd525e1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/07 28 - Session 27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07 28 - Session 27"
+            }
+          },
+          {
+            "id": "61ccb81349b6cf74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/08 11 - Session 28.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08 11 - Session 28"
+            }
+          },
+          {
+            "id": "bcfcc78785c62185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/09 01 - Session 29.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09 01 - Session 29"
+            }
+          },
+          {
+            "id": "88208e21cee86c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/09 08 - Session 30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09 08 - Session 30"
+            }
+          },
+          {
+            "id": "1e634f31aeff5deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/09 29 - Session 31.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09 29 - Session 31"
+            }
+          },
+          {
+            "id": "a91d23aa3e3c13c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/10 06 - Session 32.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 06 - Session 32"
+            }
+          },
+          {
+            "id": "22806c86bf1ba989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/10 20 - Session 33.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 20 - Session 33"
+            }
+          },
+          {
+            "id": "76f98610f1548e90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/11 03 - Session 34.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11 03 - Session 34"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -413,7 +567,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -431,16 +585,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77b396d535a36831",
+  "active": "d58e8746c2f66a87",
   "lastOpenFiles": [
+    "Sessions/2024/11 17 - Session 35.md",
+    "Sessions/2024/11 03 - Session 34.md",
+    "Sessions/2024/10 20 - Session 33.md",
+    "Sessions/2024/10 06 - Session 32.md",
+    "Sessions/2024/09 29 - Session 31.md",
+    "Sessions/2024/09 08 - Session 30.md",
+    "Sessions/2024/09 01 - Session 29.md",
+    "Sessions/2024/08 11 - Session 28.md",
+    "Sessions/2024/07 28 - Session 27.md",
+    "Sessions/2024/07 14 - Session 26.md",
+    "Sessions/2024/06 30 - Session 25.md",
+    "Sessions/2025/02 09 - Session 39.md",
+    "Sessions/2025/01 26 - Session 38.md",
+    "Factions/Local Arcanists/Vixel.md",
     "Sessions/2025/01 12 - Session 37.md",
     "Setting Rules/Weapon Rules.md",
     "Locations/Lionhold/Ziardim Caverns.canvas",
-    "Sessions/2025/01 26 - Session 38.md",
     "Wesken.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
-    "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/12 01 - Session 36.md",
     "Factions/Local Arcanists/Torniar Maluka.md",
     "Factions/Local Arcanists/Mholok Krass.md",
@@ -448,26 +614,15 @@
     "Pasted image 20250126201134.png",
     "Pasted image 20250126193649.png",
     "Pasted image 20250126193345.png",
-    "Sessions/2024/09 01 - Session 29.md",
     "Pasted image 20250126185323.png",
-    "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/04 07 - Session 20.md",
-    "Sessions/2024/04 21 - Session 21.md",
-    "Sessions/2024/05 19 - Session 22.md",
-    "Sessions/2024/06 02 - Session 23.md",
-    "Factions/Silver Company/Party/Vrindrilliax.md",
     "Pasted image 20250112212349.png",
     "Pasted image 20250112200629.png",
     "Pasted image 20250112200044.png",
     "Pasted image 20250112192828.png",
-    "Sessions/2024/10 20 - Session 33.md",
-    "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2025",
-    "Setting Rules/Rules Index.md",
-    "Factions/Vermillion Hand/Kana.md",
-    "Sessions/2024/07 14 - Session 26.md",
     "Pasted image 20240630212744.png",
     "Assets/Maps/Wastes.png",
     "Locations/Lionhold",
