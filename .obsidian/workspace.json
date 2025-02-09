@@ -94,9 +94,9 @@
               "state": {
                 "file": "Locations/Lionhold/Ziardim Caverns.canvas",
                 "viewState": {
-                  "x": 1693.1110812648872,
-                  "y": 498.20445493529735,
-                  "zoom": -0.8649036306540223
+                  "x": 1544.7406792092238,
+                  "y": 119.54544132951662,
+                  "zoom": -0.5315702973206891
                 }
               },
               "pinned": true,
@@ -119,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -347,16 +347,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cc2f5dfbc486ac0",
+  "active": "a3e083d94a674fd3",
   "lastOpenFiles": [
-    "Locations/Lionhold/Ziardim Caverns.canvas",
+    "Setting Rules/Weapon Rules.md",
     "Sessions/2025/02 09 - Session 39.md",
+    "Locations/Lionhold/Ziardim Caverns.canvas",
+    "Pasted image 20250209173050.png",
     "Factions/Local Arcanists/Ziardim Notes.md",
     "Sessions/2024/12 01 - Session 36.md",
     "Sessions/2025/01 12 - Session 37.md",
     "Sessions/2025/01 26 - Session 38.md",
     "Sessions/2024/11 17 - Session 35.md",
-    "Setting Rules/Weapon Rules.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Wesken.md",
@@ -385,7 +386,6 @@
     "Pasted image 20250112192828.png",
     "Sessions/2025",
     "Pasted image 20240630212744.png",
-    "Assets/Maps/Wastes.png",
     "Locations/Lionhold",
     "Locations/Dog Prince Caves.canvas",
     "Factions/The Cooking Association",
