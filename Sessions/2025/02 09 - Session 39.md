@@ -65,5 +65,7 @@ Guttural voice
 ### [[Thodunn]]
 
 Dream, sat on rock with blade he made
-
 Familiar Elf
+[[Whilspar]]
+
+
