@@ -81,5 +81,7 @@ Used to be an elf in a northern grove
 Victim of a cave in during the [[battle of looming rock]]
 Worked for steelmongers, work as spy in kathkach
 
+Kill Piggy, tell kev about this
+
 
 
