@@ -22,4 +22,4 @@ Hoping for the dyvare, slave of chineria
 
 <hr>
 
-Persade Veronica to join the 
+Persuade Veronica to join the Silver Company.
