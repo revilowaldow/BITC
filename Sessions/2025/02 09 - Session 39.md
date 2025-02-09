@@ -26,5 +26,8 @@ Persuade Veronica to join the Silver Company.
 
 Practice teleportation
 
+<hr>
 
+Wildspar - weapon
 
+Made in Eastern City States during 
