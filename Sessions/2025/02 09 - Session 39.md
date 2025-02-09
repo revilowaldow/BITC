@@ -50,4 +50,4 @@ Attune via overnight discussion with the weapon
 
 Orc in golden armour and a familiar cloak
 
-
+Mark of status, historically, golden armor.
