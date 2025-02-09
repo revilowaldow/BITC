@@ -7,4 +7,6 @@ Three figures
 - [[Manticar Viole]]
 - Agents of Freedom City
 
+Purple Star effect engages again
+
 
