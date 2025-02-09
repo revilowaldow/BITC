@@ -20,3 +20,4 @@ Tall spires with rounded tops, clinking of chain mail, sounds of water, light tu
 [[Conrad]] - Hoping Manticar Viole would be soldier against the chinerians
 Hoping for the dyvare, slave of chineria
 
+
