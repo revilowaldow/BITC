@@ -72,102 +72,6 @@
             }
           },
           {
-            "id": "c54f3270bc19bae3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Abandoned Living Quarters.png"
-              },
-              "icon": "lucide-image",
-              "title": "Abandoned Living Quarters"
-            }
-          },
-          {
-            "id": "5f2958c16bd6707b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250126201134.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250126201134"
-            }
-          },
-          {
-            "id": "e962504af1b28ce0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250126193649.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250126193649"
-            }
-          },
-          {
-            "id": "f6c71d7f9d0258d3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250126193345.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250126193345"
-            }
-          },
-          {
-            "id": "df78e5db9ea3faf7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250112212349.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250112212349"
-            }
-          },
-          {
-            "id": "465007123aa2b3fc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250112200629.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250112200629"
-            }
-          },
-          {
-            "id": "94efeffc3cc3eabe",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250112200044.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250112200044"
-            }
-          },
-          {
-            "id": "8983fcb73eda0cf1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250112192828.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250112192828"
-            }
-          },
-          {
             "id": "a3e083d94a674fd3",
             "type": "leaf",
             "pinned": true,
@@ -215,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -443,16 +347,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "6cc2f5dfbc486ac0",
   "lastOpenFiles": [
+    "Assets/Maps/Abandoned Living Quarters.png",
+    "Assets/Maps/Pasted image 20250126201134.png",
+    "Assets/Maps/Pasted image 20250126193649.png",
+    "Assets/Maps/Pasted image 20250126193345.png",
+    "Assets/Maps/Pasted image 20250112212349.png",
+    "Assets/Maps/Pasted image 20250112200629.png",
+    "Assets/Maps/Pasted image 20250112200044.png",
+    "Pasted image 20240630212744.png",
     "Pasted image 20250112192828.png",
-    "Pasted image 20250112200044.png",
-    "Pasted image 20250112200629.png",
-    "Pasted image 20250112212349.png",
-    "Pasted image 20250126193345.png",
-    "Pasted image 20250126193649.png",
-    "Pasted image 20250126201134.png",
-    "Abandoned Living Quarters.png",
     "Sessions/2025/02 09 - Session 39.md",
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Setting Rules/Weapon Rules.md",
@@ -477,11 +382,10 @@
     "Sessions/2024/10 06 - Session 32.md",
     "Sessions/2024/10 20 - Session 33.md",
     "Sessions/2024/11 03 - Session 34.md",
-    "Pasted image 20250126185323.png",
+    "Assets/Maps/Pasted image 20250126185323.png",
     "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2025",
-    "Pasted image 20240630212744.png",
     "Locations/Lionhold",
     "Locations/Dog Prince Caves.canvas",
     "Factions/The Cooking Association",
