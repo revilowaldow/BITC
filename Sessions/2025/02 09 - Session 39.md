@@ -76,4 +76,9 @@ Trained Helviti killer
 
 Captured by the aegan empire
 
-Used to be an elf in a nor
+Used to be an elf in a northern grove
+
+Victim of a cave in during the [[battle of looming rock]]
+
+
+
