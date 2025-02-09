@@ -201,21 +201,9 @@
               "icon": "lucide-file",
               "title": "Vixel"
             }
-          },
-          {
-            "id": "862e751f9004a741",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -443,7 +431,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "862e751f9004a741",
+  "active": "77b396d535a36831",
   "lastOpenFiles": [
     "Sessions/2025/01 12 - Session 37.md",
     "Setting Rules/Weapon Rules.md",
