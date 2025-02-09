@@ -73,3 +73,7 @@ Trained Helviti killer
 
 <hr>
 
+
+Captured by the aegan empire
+
+Used to be an elf in a nor
