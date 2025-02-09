@@ -86,16 +86,6 @@
             }
           },
           {
-            "id": "afa1e9ddcf98047d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "3768a3613b9ba06d",
             "type": "leaf",
             "state": {
@@ -146,9 +136,9 @@
               "state": {
                 "file": "Locations/Lionhold/Ziardim Caverns.canvas",
                 "viewState": {
-                  "x": 2040.9087258708842,
-                  "y": 461.20740850987056,
-                  "zoom": -1.4760772840976717
+                  "x": 2275.4490390970514,
+                  "y": 683.403581396831,
+                  "zoom": -1.1982369639873556
                 }
               },
               "pinned": true,
@@ -211,9 +201,21 @@
               "icon": "lucide-file",
               "title": "Vixel"
             }
+          },
+          {
+            "id": "862e751f9004a741",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -232,7 +234,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -440,19 +443,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3e083d94a674fd3",
+  "active": "862e751f9004a741",
   "lastOpenFiles": [
+    "Sessions/2025/01 12 - Session 37.md",
     "Setting Rules/Weapon Rules.md",
+    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2025/01 26 - Session 38.md",
     "Wesken.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/12 01 - Session 36.md",
-    "Sessions/2025/01 12 - Session 37.md",
     "Factions/Local Arcanists/Torniar Maluka.md",
     "Factions/Local Arcanists/Mholok Krass.md",
-    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Factions/Local Arcanists/Ziardim Notes.md",
     "Pasted image 20250126201134.png",
     "Pasted image 20250126193649.png",
@@ -477,7 +480,6 @@
     "Setting Rules/Rules Index.md",
     "Factions/Vermillion Hand/Kana.md",
     "Sessions/2024/07 14 - Session 26.md",
-    "Factions/Arach.md",
     "Pasted image 20240630212744.png",
     "Assets/Maps/Wastes.png",
     "Locations/Lionhold",
