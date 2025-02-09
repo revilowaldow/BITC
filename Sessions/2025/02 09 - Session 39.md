@@ -39,5 +39,6 @@ Makes its own attacks
 Cold damage
 Dark reputation
 Can't give it up after wielding it
+Attune via overnight discussion with the weapon
 
 
