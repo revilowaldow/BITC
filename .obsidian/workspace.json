@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -403,10 +403,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0507031dee8b142b",
+  "active": "6cc2f5dfbc486ac0",
   "lastOpenFiles": [
-    "Sessions/2025/02 09 - Session 39.md",
     "Factions/Local Arcanists/Ziardim Notes.md",
+    "Sessions/2025/02 09 - Session 39.md",
+    "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2024/12 01 - Session 36.md",
     "Sessions/2024/11 03 - Session 34.md",
@@ -425,7 +426,6 @@
     "Setting Rules/Weapon Rules.md",
     "Sessions/2025/01 12 - Session 37.md",
     "Sessions/2025/01 26 - Session 38.md",
-    "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Wesken.md",
     "Factions/Local Arcanists/Mholok Krass.md",
