@@ -10,3 +10,4 @@ Main States:
 - Newcomer:
 	- [[Freedom City]]
 
+![[Topographic Map.png]]
