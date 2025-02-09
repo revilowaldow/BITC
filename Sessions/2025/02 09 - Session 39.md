@@ -33,9 +33,11 @@ Whilspar - Flail
 Made in Eastern City States during war between Yaoi and Chineria 75 years ago, wielded by [[Jiu-Len Whilspar]]
 Gifted by arcanists
 Jiu-Len fell in battle and the weapon claimed the warriors name
-Sentient weapon, attunement, alignment
+Sentient weapon, attunement, alignment - likes killers
 Attacks feel much easier
 Makes its own attacks
 Cold damage
 Dark reputation
+Can't give it up after wielding it
+
 
