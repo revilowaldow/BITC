@@ -94,9 +94,9 @@
               "state": {
                 "file": "Locations/Lionhold/Ziardim Caverns.canvas",
                 "viewState": {
-                  "x": 2275.4490390970514,
-                  "y": 683.403581396831,
-                  "zoom": -1.1982369639873556
+                  "x": 2609.1837398645,
+                  "y": 691.2535639045993,
+                  "zoom": -0.8649036306540223
                 }
               },
               "pinned": true,
@@ -119,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -347,18 +347,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cc2f5dfbc486ac0",
+  "active": "a3e083d94a674fd3",
   "lastOpenFiles": [
+    "Sessions/2025/01 26 - Session 38.md",
+    "Factions/Local Arcanists/Ziardim Notes.md",
+    "Sessions/2025/02 09 - Session 39.md",
     "Sessions/2024/12 01 - Session 36.md",
     "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2025/01 12 - Session 37.md",
-    "Sessions/2025/01 26 - Session 38.md",
-    "Sessions/2025/02 09 - Session 39.md",
     "Setting Rules/Weapon Rules.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Wesken.md",
-    "Factions/Local Arcanists/Ziardim Notes.md",
     "Factions/Local Arcanists/Mholok Krass.md",
     "Factions/Local Arcanists/Torniar Maluka.md",
     "Factions/Local Arcanists/Vixel.md",
