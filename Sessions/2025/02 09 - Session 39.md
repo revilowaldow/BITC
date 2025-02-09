@@ -28,6 +28,8 @@ Practice teleportation
 
 <hr>
 
-Wildspar - weapon
+Whilspar - Flail
 
-Made in Eastern City States during 
+Made in Eastern City States during war between Yaoi and Chineria 75 years ago, wielded by [[Jiu-Len Whilspar]]
+Gifted by arcanists
+
