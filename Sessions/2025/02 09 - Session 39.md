@@ -42,3 +42,7 @@ Can't give it up after wielding it
 Attune via overnight discussion with the weapon
 
 
+<hr>
+
+[[Caenis]]
+Orc wearing cloak in desert
