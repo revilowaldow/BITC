@@ -136,7 +136,7 @@
               "state": {
                 "file": "Locations/Lionhold/Ziardim Caverns.canvas",
                 "viewState": {
-                  "x": 197.53310246132267,
+                  "x": 331.9647597977548,
                   "y": 378.2902441598539,
                   "zoom": -0.5315702973206891
                 }
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -403,11 +403,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3e083d94a674fd3",
+  "active": "6cc2f5dfbc486ac0",
   "lastOpenFiles": [
+    "Sessions/2023/06 04 - Session 3.md",
+    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2025/02 09 - Session 39.md",
     "Factions/Local Arcanists/Ziardim Notes.md",
-    "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2024/12 01 - Session 36.md",
     "Sessions/2024/11 03 - Session 34.md",
@@ -422,7 +423,6 @@
     "Assets/Maps/Pasted image 20250112200044.png",
     "Pasted image 20240630212744.png",
     "Pasted image 20250112192828.png",
-    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Setting Rules/Weapon Rules.md",
     "Sessions/2025/01 12 - Session 37.md",
     "Sessions/2025/01 26 - Session 38.md",
@@ -441,7 +441,6 @@
     "Sessions/2024/10 06 - Session 32.md",
     "Sessions/2024/10 20 - Session 33.md",
     "Assets/Maps/Pasted image 20250126185323.png",
-    "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2025",
     "Locations/Lionhold",
     "Locations/Dog Prince Caves.canvas",

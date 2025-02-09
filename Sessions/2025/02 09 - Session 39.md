@@ -24,3 +24,7 @@ Hoping for the dyvare, slave of chineria
 
 Persuade Veronica to join the Silver Company.
 
+Practice teleportation
+
+
+
