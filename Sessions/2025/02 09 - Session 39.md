@@ -67,7 +67,7 @@ Guttural voice
 Dream, sat on rock with blade he made
 Familiar Elf
 [[Whilspar]]
-Chose a familiar form to bring him comfrot
+Chose a familiar form to bring him comfort
 Trained Helviti killer
 
 
