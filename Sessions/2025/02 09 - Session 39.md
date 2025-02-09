@@ -44,5 +44,10 @@ Attune via overnight discussion with the weapon
 
 <hr>
 
-[[Caenis]]
-Orc wearing cloak in desert
+[[Caenis]] Orc wearing cloak in desert
+
+> Those who follow me, know not what they do.
+
+Orc in golden armour and a familiar cloak
+
+
