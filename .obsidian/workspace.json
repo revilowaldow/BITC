@@ -136,8 +136,8 @@
               "state": {
                 "file": "Locations/Lionhold/Ziardim Caverns.canvas",
                 "viewState": {
-                  "x": 1644.4802959427057,
-                  "y": 107.98142779519992,
+                  "x": 1028.696575240339,
+                  "y": 391.2997593859602,
                   "zoom": -0.5315702973206891
                 }
               },
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -403,10 +403,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cc2f5dfbc486ac0",
+  "active": "a3e083d94a674fd3",
   "lastOpenFiles": [
-    "Factions/Local Arcanists/Ziardim Notes.md",
     "Sessions/2025/02 09 - Session 39.md",
+    "Factions/Local Arcanists/Ziardim Notes.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2024/12 01 - Session 36.md",
