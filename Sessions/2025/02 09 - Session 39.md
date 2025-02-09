@@ -18,4 +18,5 @@ Remove chest plates to touch golden threads inside val
 Tall spires with rounded tops, clinking of chain mail, sounds of water, light tunics, tired, can't go to sleep
 
 [[Conrad]] - Hoping Manticar Viole would be soldier against the chinerians
-Hoping for the dyvare
+Hoping for the dyvare, slave of chineria
+
