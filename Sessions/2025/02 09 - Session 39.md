@@ -13,5 +13,7 @@ Purple Star effect engages again
 
 Val remembers being on an altar
 
-Remove chest plates
+Remove chest plates to touch golden threads inside val
+
+
 
