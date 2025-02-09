@@ -11,6 +11,7 @@ Purple Star effect engages again
 
 > "I will be the destined one" - Manticar Viole
 
+Val remembers being on an altar
 
-
+Remove chest plates
 
