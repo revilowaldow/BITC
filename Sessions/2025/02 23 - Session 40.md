@@ -61,6 +61,8 @@ He was corrupted by the axe's power
 Some stars go out and come back
 Bad Omen
 Hypothesised blockek by dragon, or shreiker
+Stars are a gateway to magic into this world, the occlusion of them, is bad
+
 
 
 
