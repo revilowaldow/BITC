@@ -71,6 +71,8 @@ Cobalt commanda / Sea-blooded organisation
 
 In lionhold
 
+Drew a cock and balls on the map
+
 
 
 
