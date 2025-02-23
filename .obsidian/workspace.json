@@ -85,191 +85,9 @@
               "icon": "lucide-file",
               "title": "02 23 - Session 40"
             }
-          },
-          {
-            "id": "0e118d39c5debe6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09 10 - Session 8"
-            }
-          },
-          {
-            "id": "31dd08430e9928d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/09 24 - Session 9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09 24 - Session 9"
-            }
-          },
-          {
-            "id": "a91650e080714fd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/10 22 - Session 10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10 22 - Session 10"
-            }
-          },
-          {
-            "id": "c32c4e49c3d722c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/11 05 - Session 11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11 05 - Session 11"
-            }
-          },
-          {
-            "id": "1fc8d242f9ea037b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/11 19 - Session 12.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11 19 - Session 12"
-            }
-          },
-          {
-            "id": "5e5b057a4e25cd7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/12 17 - Session 13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12 17 - Session 13"
-            }
-          },
-          {
-            "id": "f7bd6ac7b3588105",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/02 25 - Session 17.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 25 - Session 17"
-            }
-          },
-          {
-            "id": "6a0b757cdecafd95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/02 11 - Session 16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 11 - Session 16"
-            }
-          },
-          {
-            "id": "9e82a7e6c45c5a6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Local Arcanists/Torniar Maluka.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Torniar Maluka"
-            }
-          },
-          {
-            "id": "33b00fd7d57188d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/Level 3/Soirée.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Soirée"
-            }
-          },
-          {
-            "id": "647104c84f7f8f46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/03 10 - Session 18.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 10 - Session 18"
-            }
-          },
-          {
-            "id": "455ceffe34b5f15e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/Platinum Pot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Platinum Pot"
-            }
-          },
-          {
-            "id": "0f77f980446b5b50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/09 29 - Session 31.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09 29 - Session 31"
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -498,22 +316,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33b00fd7d57188d3",
+  "active": "f3a4fa5dbaade6e3",
   "lastOpenFiles": [
-    "Factions/Local Arcanists/Mholok Krass.md",
-    "Factions/Local Arcanists/Torniar Maluka.md",
-    "Sessions/2024/02 11 - Session 16.md",
-    "Sessions/2024/03 10 - Session 18.md",
-    "Sessions/2024/02 25 - Session 17.md",
-    "Sessions/2023/12 17 - Session 13.md",
-    "Sessions/2023/11 19 - Session 12.md",
-    "Sessions/2023/11 05 - Session 11.md",
-    "Sessions/2023/10 22 - Session 10.md",
-    "Sessions/2023/09 24 - Session 9.md",
     "Sessions/2023/09 10 - Session 8.md",
+    "Sessions/2023/09 24 - Session 9.md",
+    "Sessions/2023/10 22 - Session 10.md",
+    "Sessions/2023/11 05 - Session 11.md",
+    "Sessions/2023/11 19 - Session 12.md",
+    "Sessions/2023/12 17 - Session 13.md",
+    "Sessions/2024/02 25 - Session 17.md",
+    "Sessions/2024/02 11 - Session 16.md",
+    "Locations/Kathkach/Platinum Pot.md",
+    "Factions/Local Arcanists/Torniar Maluka.md",
+    "Jobs/Level 3/Soirée.md",
+    "Factions/Local Arcanists/Mholok Krass.md",
+    "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2025/02 23 - Session 40.md",
     "Sessions/2024/09 29 - Session 31.md",
-    "Locations/Kathkach/Platinum Pot.md",
     "Sessions/2025/02 09 - Session 39.md",
     "Pasted image 20250223184136.png",
     "Sessions/2025/01 12 - Session 37.md",
@@ -529,7 +348,6 @@
     "Locations/The Pit.md",
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2024/11 17 - Session 35.md",
-    "Sessions/2024/11 03 - Session 34.md",
     "Assets/Maps/Abandoned Living Quarters.png",
     "Assets/Maps/Pasted image 20250126201134.png",
     "Assets/Maps/Pasted image 20250126193649.png",
