@@ -17,6 +17,8 @@ Estates of [[Toryk Jamal]] are nearby, better ones further from the river
 8cp each to use a house
 [[Crugaz]] steward
 
+Tabella wine
+
 
 
 
