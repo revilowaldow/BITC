@@ -66,7 +66,8 @@ Stars are a gateway to magic into this world, the occlusion of them is bad
 <hr>
 
 
-
+Exotic Fruit at bazaar
+Cobalt comanada
 
 
 
