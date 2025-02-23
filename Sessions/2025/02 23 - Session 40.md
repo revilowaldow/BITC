@@ -55,7 +55,8 @@ Very old elf wooden staff
 Other sentient magic items:
 Axe fearsome - [[Mercy]], conjured by a weak sickly man
 Avenge those unjustly harmed, kind
-He was corrupted by the axe'
+He was corrupted by the axe's power
+
 
 
 
