@@ -33,6 +33,13 @@ regain 1d4 hp and poisoned - kobold cap
 
 ![[Pasted image 20250223184136.png]]
 
-Kaulinan has a
+Kaulinan has a dream of jungle
+Cacophany of animal noise
+Near water
+
+
+
+
+
 
 
