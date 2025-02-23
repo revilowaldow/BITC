@@ -67,7 +67,9 @@ Stars are a gateway to magic into this world, the occlusion of them is bad
 
 
 Exotic Fruit at bazaar
-Cobalt comanada
+Cobalt commanda / Sea-blooded organisation
+
+
 
 
 
