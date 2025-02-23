@@ -69,6 +69,8 @@ Stars are a gateway to magic into this world, the occlusion of them is bad
 Exotic Fruit at bazaar
 Cobalt commanda / Sea-blooded organisation
 
+In lionhold
+
 
 
 
