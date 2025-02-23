@@ -52,7 +52,7 @@ Very old elf wooden staff
 > 
 > There is also, at the back of his mind, a slight regret and the idea of procreation if he still has time, but I think he'd also be content with a more spiritual or magical legacy. His grove dying is a threat to that legacy and may be the source of his regret.
 
-
+Other sentient magic ite
 
 
 
