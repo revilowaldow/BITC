@@ -22,6 +22,10 @@ Tabella wine
 Tipped the young orc [[Tomap]]
 
 Caenis conjures a cow
+Kaulinan conjures 8 cows via song
+
+
+
 
 
 
