@@ -12,5 +12,7 @@ Some of theme are rented out by the custodians.
 
 [[Piggy]] was seen yesterday in the food hall but has not been seen today
 
-Estates of [[Toryk Jamal]]
+Estates of [[Toryk Jamal]] are nearby, better ones further from the river
+
+
 
