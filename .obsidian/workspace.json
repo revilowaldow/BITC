@@ -72,16 +72,6 @@
             }
           },
           {
-            "id": "4a9254fee39130fd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "b0af567b02af7ea7",
             "type": "leaf",
             "state": {
@@ -213,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -441,7 +431,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a9254fee39130fd",
+  "active": "6cc2f5dfbc486ac0",
   "lastOpenFiles": [
     "Sessions/2025/02 09 - Session 39.md",
     "Factions/Local Arcanists/Ziardim Notes.md",
