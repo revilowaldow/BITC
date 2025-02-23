@@ -1,3 +1,4 @@
 Oliver Recapping
 
-[[Thodunn]] can't speek elvi
+[[Thodunn]] can't speak elvish
+
