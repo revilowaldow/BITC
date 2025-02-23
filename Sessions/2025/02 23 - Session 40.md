@@ -58,6 +58,8 @@ Avenge those unjustly harmed, kind
 He was corrupted by the axe's power
 
 
+Some stars go out and come back
+
 
 
 
