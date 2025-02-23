@@ -28,6 +28,9 @@ Kaulinan conjures 8 cows via song
 
 There is a crossing across the [[Cabar]]
 
+Drugs from Tomap
+regain 1d4 hp and poisoned - kobold cap
+
 
 
 
