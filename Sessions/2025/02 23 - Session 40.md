@@ -73,6 +73,22 @@ In lionhold
 
 Drew a cock and balls on the map
 
+<hr>
+
+Shopping:
+
+- Black Rotter: Inhaled spore, caused pain, illegal
+- Whimsical Cap: Illegal
+- Dark Tube
+- Red Belch: Illegal
+- Venom Stalk
+- Koboldcap: Increases constitution, illegal
+
+Sell 3x Gold Nuggets
+Sell 3x Copper Ore
+
+
+
 
 
 
