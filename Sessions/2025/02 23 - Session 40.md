@@ -6,3 +6,7 @@ Caenis cast aid on the party
 
 Lodgings available in the food hall
 Lots of the farming estates remain unoccupied at this time of year. 
+Some of theme are rented out by the custodians.
+
+[[Jerri]] the travel agent
+
