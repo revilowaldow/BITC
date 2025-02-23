@@ -72,90 +72,6 @@
             }
           },
           {
-            "id": "b0af567b02af7ea7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Battle of Looming Rock.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Battle of Looming Rock"
-            }
-          },
-          {
-            "id": "0b5926c8a8198d99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/The Pit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Pit"
-            }
-          },
-          {
-            "id": "0507031dee8b142b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/06 04 - Session 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06 04 - Session 3"
-            }
-          },
-          {
-            "id": "668ad6269fe3ef2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/11 17 - Session 35.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11 17 - Session 35"
-            }
-          },
-          {
-            "id": "c7df7d46544204c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Eastern City States/Freedom City.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Freedom City"
-            }
-          },
-          {
-            "id": "6e6ac7f0bed5db8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Eastern City States/Eastern City States.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eastern City States"
-            }
-          },
-          {
             "id": "a3e083d94a674fd3",
             "type": "leaf",
             "pinned": true,
@@ -164,28 +80,14 @@
               "state": {
                 "file": "Locations/Lionhold/Ziardim Caverns.canvas",
                 "viewState": {
-                  "x": 331.9647597977548,
-                  "y": 378.2902441598539,
+                  "x": 650.2642499751079,
+                  "y": -582.968579389674,
                   "zoom": -0.5315702973206891
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Ziardim Caverns"
-            }
-          },
-          {
-            "id": "97405bccf69c0d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Weapon Rules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Weapon Rules"
             }
           },
           {
@@ -203,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -431,19 +333,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cc2f5dfbc486ac0",
+  "active": "6f59845e48f22702",
   "lastOpenFiles": [
-    "Sessions/2025/02 09 - Session 39.md",
+    "Sessions/2024/12 01 - Session 36.md",
+    "Locations/Lionhold/Ziardim Caverns.canvas",
+    "Pasted image 20250112192828.png",
+    "Pasted image 20240630212744.png",
     "Factions/Local Arcanists/Ziardim Notes.md",
+    "Setting Rules/Weapon Rules.md",
+    "Sessions/2025/02 09 - Session 39.md",
+    "Factions/Eastern City States/Eastern City States.md",
     "Locations/Battle of Looming Rock.md",
     "Locations/The Pit.md",
     "Sessions/2023/06 04 - Session 3.md",
-    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2024/11 17 - Session 35.md",
-    "Sessions/2024/12 01 - Session 36.md",
     "Sessions/2024/11 03 - Session 34.md",
     "Factions/Eastern City States/Freedom City.md",
-    "Factions/Eastern City States/Eastern City States.md",
     "Assets/Maps/Abandoned Living Quarters.png",
     "Assets/Maps/Pasted image 20250126201134.png",
     "Assets/Maps/Pasted image 20250126193649.png",
@@ -451,9 +356,6 @@
     "Assets/Maps/Pasted image 20250112212349.png",
     "Assets/Maps/Pasted image 20250112200629.png",
     "Assets/Maps/Pasted image 20250112200044.png",
-    "Pasted image 20240630212744.png",
-    "Pasted image 20250112192828.png",
-    "Setting Rules/Weapon Rules.md",
     "Sessions/2025/01 12 - Session 37.md",
     "Sessions/2025/01 26 - Session 38.md",
     "Sessions/2023/06 18 - Session 4.md",
@@ -468,7 +370,6 @@
     "Sessions/2024/09 01 - Session 29.md",
     "Sessions/2024/09 08 - Session 30.md",
     "Sessions/2024/09 29 - Session 31.md",
-    "Sessions/2024/10 06 - Session 32.md",
     "Assets/Maps/Pasted image 20250126185323.png",
     "Sessions/2025",
     "Locations/Lionhold",
