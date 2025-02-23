@@ -31,6 +31,8 @@ There is a crossing across the [[Cabar]]
 Drugs from Tomap
 regain 1d4 hp and poisoned - kobold cap
 
+![[Pasted image 20250223184136.png]]
 
+Kaulinan has a
 
 
