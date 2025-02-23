@@ -63,6 +63,9 @@ Bad Omen
 Hypothesised blockek by dragon, or shreiker
 Stars are a gateway to magic into this world, the occlusion of them is bad
 
+<hr>
+
+
 
 
 
