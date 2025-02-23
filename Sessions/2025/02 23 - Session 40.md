@@ -26,7 +26,7 @@ Kaulinan conjures 8 cows via song
 
 [[Veronica]] goes to look for Piggy
 
-There is a 
+There is a crossing across the [[Cabar]]
 
 
 
