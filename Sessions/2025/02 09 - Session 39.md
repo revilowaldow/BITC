@@ -54,8 +54,7 @@ Orc wearing cloak in desert
 Orc in golden armour and a familiar cloak
 Mark of status, historically, golden armor.
 
-
-### [[Aru]]
+### [[Aru of the Sands]]
 
 Golden eyes
 > where are you granddaughter?!
