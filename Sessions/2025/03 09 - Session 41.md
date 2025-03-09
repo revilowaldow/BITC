@@ -23,3 +23,6 @@ loathing that lurks
 Locations:
 	Geographical assumptions to south of kathkach
 
+Automatons
+	Diagrams similar to val
+	
