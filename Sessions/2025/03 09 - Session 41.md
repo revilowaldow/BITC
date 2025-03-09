@@ -26,4 +26,4 @@ Locations:
 Automatons
 	Diagrams similar to val
 
-No simila
+No similarity in handwriting from Torniar and Mholok to the handwriting in 
