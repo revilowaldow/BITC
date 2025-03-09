@@ -15,3 +15,8 @@ Kaulinan Downtime:
 	- Sell 3x Copper Ore
 
 
+Vixel's notes:
+
+loathing that lurks
+	not city grove
+
