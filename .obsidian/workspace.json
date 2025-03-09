@@ -92,16 +92,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2025/03 09 - Session 41.md",
+                "file": "Factions/Silver Company/Employee List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 09 - Session 41"
+              "title": "Employee List"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -329,8 +329,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3a4fa5dbaade6e3",
+  "active": "b7d72bc6dc727a8e",
   "lastOpenFiles": [
+    "Factions/Silver Company/Asset List.md",
+    "Factions/Silver Company/Employee List.md",
+    "Factions/Silver Company/Asset Roster.md",
     "Sessions/2025/03 09 - Session 41.md",
     "Sessions/2025/02 23 - Session 40.md",
     "Sessions/2025/02 09 - Session 39.md",
@@ -358,9 +361,6 @@
     "Pasted image 20240630212744.png",
     "Setting Rules/Weapon Rules.md",
     "Factions/Eastern City States/Eastern City States.md",
-    "Locations/Battle of Looming Rock.md",
-    "Locations/The Pit.md",
-    "Sessions/2023/06 04 - Session 3.md",
     "Assets/Maps/Abandoned Living Quarters.png",
     "Assets/Maps/Pasted image 20250126201134.png",
     "Assets/Maps/Pasted image 20250126193649.png",
