@@ -17,13 +17,15 @@ Kaulinan Downtime:
 
 Vixel's notes:
 
-loathing that lurks
-	not city grove
+	loathing that lurks
+		not city grove
+	
+	Locations:
+		Geographical assumptions to south of kathkach
+	
+	Automatons
+		Diagrams similar to val
+	
+	No similarity in handwriting from Torniar and Mholok to the handwriting in 
 
-Locations:
-	Geographical assumptions to south of kathkach
 
-Automatons
-	Diagrams similar to val
-
-No similarity in handwriting from Torniar and Mholok to the handwriting in 
