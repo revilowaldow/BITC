@@ -5,7 +5,7 @@ Kaulinan Downtime:
 - Exotic Fruit at bazaar
 - Visit [[Vixel]]'s equipment at Cobalt barracks
 - Shopping:
-	- Black Rotter: Inhaled spore, caused pain, illegal - 9gp
+	- ~~Black Rotter: Inhaled spore, caused pain, illegal - 9gp~~
 	- Whimsical Cap: Illegal
 	- Dark Tube
 	- Red Belch: Illegal
@@ -30,6 +30,9 @@ Vixel's notes:
 
 
 [[Karta]] to investigate getting the Ring of Evasion out of evidence locker
+
+Sold Black rotter for 9gp
+
 
 
 
