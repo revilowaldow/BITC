@@ -38,3 +38,5 @@ Potion of Watchful Rest
 
 Various drakes and dragons have left kobold town in the last month
 
+Old keep nestled at start of wastes
+Old lady named 
