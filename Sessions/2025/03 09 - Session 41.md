@@ -25,4 +25,5 @@ Locations:
 
 Automatons
 	Diagrams similar to val
-	
+
+No simila
