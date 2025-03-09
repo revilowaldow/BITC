@@ -2,6 +2,7 @@ Vixel was interested in:
 	Astrology
 		Keen on topic of communicating with the beyond
 
+Half Elf
 Murdered
 
 Not a personal associate
