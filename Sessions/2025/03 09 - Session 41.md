@@ -5,7 +5,7 @@ Kaulinan Downtime:
 - Exotic Fruit at bazaar
 - Visit [[Vixel]]'s equipment at Cobalt barracks
 - Shopping:
-	- Black Rotter: Inhaled spore, caused pain, illegal
+	- Black Rotter: Inhaled spore, caused pain, illegal - 9gp
 	- Whimsical Cap: Illegal
 	- Dark Tube
 	- Red Belch: Illegal
