@@ -43,3 +43,7 @@ Old lady named Heldrexil - dragon
 "The Storm"
 "The Moving Tornado"
 
+Don't talk to Sheev
+Here 300 years ago
+
+
