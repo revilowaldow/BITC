@@ -34,5 +34,5 @@ Vixel's notes:
 Sold Black rotter for 9gp
 
 Potion of Stone Giant Strength
-
+Potion of Watchful Rest
 
