@@ -20,3 +20,6 @@ Vixel's notes:
 loathing that lurks
 	not city grove
 
+Locations:
+	Geographical assumptions to south of kathkach
+		
