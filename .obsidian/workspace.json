@@ -189,7 +189,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quarter",
+                "query": "arcanis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,7 +220,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -385,7 +386,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1da4e1c7f06a45ca",
+  "active": "d64d57bbfa4524a3",
   "lastOpenFiles": [
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2025/03 09 - Session 41.md",
