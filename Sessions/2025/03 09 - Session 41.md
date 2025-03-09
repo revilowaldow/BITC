@@ -36,3 +36,5 @@ Sold Black rotter for 9gp
 Potion of Stone Giant Strength
 Potion of Watchful Rest
 
+Various drakes and dragons have left kobold town in the last month
+
