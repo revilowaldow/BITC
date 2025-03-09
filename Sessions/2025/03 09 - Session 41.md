@@ -22,4 +22,4 @@ loathing that lurks
 
 Locations:
 	Geographical assumptions to south of kathkach
-		
+
