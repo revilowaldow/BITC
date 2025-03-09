@@ -3,6 +3,7 @@ Alex recapping
 
 Kaulinan Downtime:
 - Exotic Fruit at bazaar
+- Visit [[Vixel]]'s equipment at Cobalt barracks
 - Shopping:
 	- Black Rotter: Inhaled spore, caused pain, illegal
 	- Whimsical Cap: Illegal
@@ -12,3 +13,5 @@ Kaulinan Downtime:
 	- Koboldcap: Increases constitution, illegal
 	- Sell 3x Gold Nuggets
 	- Sell 3x Copper Ore
+
+
