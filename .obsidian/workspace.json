@@ -148,12 +148,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2025/03 09 - Session 41.md",
+                "file": "Sessions/2024/10 20 - Session 33.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 09 - Session 41"
+              "title": "10 20 - Session 33"
             }
           },
           {
@@ -217,7 +217,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Flambard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -248,7 +248,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -415,8 +416,11 @@
   },
   "active": "aee0a53f86e63a3c",
   "lastOpenFiles": [
-    "Sessions/2024/09 01 - Session 29.md",
+    "Sessions/2024/11 17 - Session 35.md",
+    "Sessions/2024/09 29 - Session 31.md",
+    "Factions/Flambard Hawk.md",
     "Sessions/2025/03 09 - Session 41.md",
+    "Sessions/2024/09 01 - Session 29.md",
     "Factions/Silver Company/Karta.md",
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2025/02 23 - Session 40.md",
@@ -438,11 +442,8 @@
     "Jobs/Level 3/Soirée.md",
     "Factions/Local Arcanists/Mholok Krass.md",
     "Sessions/2024/03 10 - Session 18.md",
-    "Sessions/2024/09 29 - Session 31.md",
     "Pasted image 20250223184136.png",
-    "Sessions/2025/01 12 - Session 37.md",
     "Locations/Lionhold/Ziardim Caverns.canvas",
-    "Factions/Local Arcanists/Ziardim Notes.md",
     "Pasted image 20250112192828.png",
     "Pasted image 20240630212744.png",
     "Assets/Maps/Abandoned Living Quarters.png",
