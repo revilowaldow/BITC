@@ -220,8 +220,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -386,7 +385,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d64d57bbfa4524a3",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2025/03 09 - Session 41.md",
