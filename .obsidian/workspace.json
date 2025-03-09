@@ -99,9 +99,37 @@
               "icon": "lucide-file",
               "title": "Employee List"
             }
+          },
+          {
+            "id": "20d535ae6c91fd13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Silver Company/Asset Roster.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asset Roster"
+            }
+          },
+          {
+            "id": "8b69677b7c117521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Silver Company/Asset List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asset List"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -329,11 +357,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b7d72bc6dc727a8e",
+  "active": "8b69677b7c117521",
   "lastOpenFiles": [
-    "Factions/Silver Company/Asset List.md",
-    "Factions/Silver Company/Employee List.md",
     "Factions/Silver Company/Asset Roster.md",
+    "Factions/Silver Company/Employee List.md",
+    "Factions/Silver Company/Asset List.md",
     "Sessions/2025/03 09 - Session 41.md",
     "Sessions/2025/02 23 - Session 40.md",
     "Sessions/2025/02 09 - Session 39.md",
