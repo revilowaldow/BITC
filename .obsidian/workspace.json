@@ -85,19 +85,9 @@
               "icon": "lucide-file",
               "title": "02 23 - Session 40"
             }
-          },
-          {
-            "id": "b396483ab7c0bdad",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -325,7 +315,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b396483ab7c0bdad",
+  "active": "f3a4fa5dbaade6e3",
   "lastOpenFiles": [
     "Sessions/2025/02 23 - Session 40.md",
     "Sessions/2023/09 10 - Session 8.md",
