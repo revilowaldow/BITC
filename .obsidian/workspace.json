@@ -94,16 +94,6 @@
             }
           },
           {
-            "id": "d10522c254d8f435",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "4b8867aaeb7dadad",
             "type": "leaf",
             "state": {
@@ -146,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -374,7 +364,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d10522c254d8f435",
+  "active": "e640bf2e4b0d91dd",
   "lastOpenFiles": [
     "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2024/02 25 - Session 17.md",
