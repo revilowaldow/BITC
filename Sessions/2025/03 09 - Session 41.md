@@ -29,5 +29,7 @@ Vixel's notes:
 	No similarity in handwriting from Torniar and Mholok to the handwriting in 
 
 
+[[Karta]] to investigate getting the Ring of Evasion out of evidence locker
+
 
 
