@@ -69,4 +69,3 @@ Investigation declared cold after 5 years?
 
 
 Signal bounced chambers of the Arcanist [[Vixel]]?
-Half-elf
