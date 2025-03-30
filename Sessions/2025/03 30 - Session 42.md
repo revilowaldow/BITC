@@ -73,7 +73,8 @@ Day 4
 	Abdos
 	Houses made of packed earth
 	Small resting place
-	Helviti came by recently, knuckles or nova
+	Guard [[Minsar Tye]]
+	Helviti came by recently, "knuckles" or "nova", wendigo 
 	Refugee, no past, female, dark hair, potentially [[Rev]]
 	Tattooed Dwarf - [[Kaitan Nour]]
-	Disappearances in forest north of Abdos, shephe
+	Disappearances in forest north of Abdos, shepherd and sheep missing
