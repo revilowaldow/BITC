@@ -63,5 +63,7 @@ Day 3
 	Friend is [[Urch]], little repute
 	Travelled through forest
 	Vivid recollection of particularly large tree with a standard size door
+	Faerie wings and crown of flowers
+	
 
 
