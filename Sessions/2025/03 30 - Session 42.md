@@ -60,6 +60,7 @@ Day 3
 	Compelled to enter tree
 	[[Incas]] from Coprun
 	Visiting a family Member in Abdos
+	Friend is [[Urch]], little repute
 	
 
 
