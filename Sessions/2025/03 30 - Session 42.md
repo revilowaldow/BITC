@@ -58,5 +58,6 @@ Day 3
 	Grove within tree
 	Fey goddess needs aid
 	Compelled to enter tree
+	
 
 
