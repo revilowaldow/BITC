@@ -53,6 +53,7 @@ Day 3
 	Just heading to Eabar
 	See a bedraggled erratic shambling figure in the grasses
 	Human male
-	Miner's outfit 
+	Miner's outfit similar to coprun
+	
 
 
