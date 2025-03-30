@@ -22,6 +22,11 @@ Day 2
 			In the sky
 			Hut constricting
 		Aru
+			Grey Wasteland
+			Plumes of smoke
+			High up wall
+			Old woman being rude to Aru
+		Thodunn
 			Enormous Spitlizard
 			Huge Elephant Man
 			Scorpion PoV
