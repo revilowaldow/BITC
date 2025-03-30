@@ -41,6 +41,6 @@ Day 2
 			No Dream
 		Lubbi
 			Respected for more than being big
-		Frak the Unperterbed
+		Frak the Unperturbed
 			
 
