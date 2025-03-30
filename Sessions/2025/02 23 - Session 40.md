@@ -24,7 +24,7 @@ Tipped the young orc [[Tomap]]
 Caenis conjures a cow
 Kaulinan conjures 8 cows via song
 
-[[Veronica]] goes to look for Piggy
+[[Veronica Ascillan]] goes to look for Piggy
 
 There is a crossing across the [[Cabar]]
 

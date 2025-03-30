@@ -72,7 +72,7 @@ Single Chimera Comanda
 [[Arwa Wen]] Comanda at the mine, does sparring
 
 
-[[Officer Veronica]]
+[[Veronica Ascillan]]
 
 1st Floor
 Key Needed OR freezing water bypass

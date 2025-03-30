@@ -3,10 +3,10 @@ Adam recapping
 
 Examine thodunn & assassin
 
-[[Agent Veronica]] turns up
+[[Veronica Ascillan]] turns up
 
 > "I'm not dealing with this. A true Aegan remembers her debts."
-> Agent Veronica
+> [[Veronica Ascillan]]
 
 Killed by [[Manticar Viole]]
 

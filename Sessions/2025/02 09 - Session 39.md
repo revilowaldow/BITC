@@ -22,7 +22,7 @@ Hoping for the dyvare, slave of chineria
 
 <hr>
 
-Persuade Veronica to join the Silver Company.
+Persuade [[Veronica Ascillan]] to join the Silver Company.
 
 Practice teleportation
 

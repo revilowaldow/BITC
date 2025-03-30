@@ -8,7 +8,7 @@ Tunnel
 Sleep
 Rescued by three fighters
 
-[[Agent Veronica]]
+[[Veronica Ascillan]]
 	Sea blooded organisation
 	Scimitar and dagger
 	Studded Leather

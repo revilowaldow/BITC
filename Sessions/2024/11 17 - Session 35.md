@@ -87,7 +87,7 @@ Last passerby from Lionhold:
 [[Manticar Viole]] 
 	Was hanging out with [[Freedom City]] allies
 
-[[Agent Veronica]] passed by 3 days ago
+[[Veronica Ascillan]] passed by 3 days ago
 
 [[Ergoloch]]
 	Orc
