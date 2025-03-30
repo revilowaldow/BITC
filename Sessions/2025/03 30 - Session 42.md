@@ -52,5 +52,6 @@ Day 3
 	Check tracks of man from night before
 	Just heading to Eabar
 	See a bedraggled shambling figure in the grasses
+	
 
 
