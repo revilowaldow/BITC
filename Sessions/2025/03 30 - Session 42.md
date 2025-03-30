@@ -42,7 +42,8 @@ Day 2
 		Lubbi
 			Respected for more than being big
 		Frak the Unperturbed
-			Complete inner peace
+			Complete inner and outer peace
 			Kaulinan floating limp and still
+			15 damage from an arrow
 			
 
