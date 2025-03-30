@@ -137,12 +137,14 @@
             "id": "5b20cd042dfe15ab",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Characters/Pasted image 20240421192129.png"
+                "file": "Sessions/2024/04 21 - Session 21.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240421192129"
+              "icon": "lucide-file",
+              "title": "04 21 - Session 21"
             }
           }
         ],
@@ -178,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sister",
+                "query": "20240421192129",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,7 +211,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -396,6 +399,7 @@
   },
   "active": "5b20cd042dfe15ab",
   "lastOpenFiles": [
+    "Assets/Characters/Pasted image 20240421192129.png",
     "Assets/Characters/Pasted image 20240211211148.png",
     "Kaitan Nour.md",
     "Sessions/2025/03 30 - Session 42.md",
@@ -434,7 +438,6 @@
     "Assets/Maps/Abandoned Living Quarters.png",
     "Assets/Maps/Pasted image 20250126201134.png",
     "Assets/Maps/Pasted image 20250126193649.png",
-    "Assets/Maps/Pasted image 20250126193345.png",
     "Sessions/2025",
     "Locations/Lionhold",
     "Locations/Dog Prince Caves.canvas",
