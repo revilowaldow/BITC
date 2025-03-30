@@ -7,7 +7,7 @@ Level up Caeins
 	Average HP
 	Prefer to keep 2014 healer
 
-Kana left, took bandages but not spear
+[[Kana]] left, took bandages but not spear
 
 [[Utu Otaka]] + Helviti arrives
 

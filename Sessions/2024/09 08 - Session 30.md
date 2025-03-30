@@ -18,7 +18,7 @@ Others on the orb
 	Strategy
 An alliance of convenience, amused and resigned
 
-Kana
+[[Kana]]
 	Anger and sadness
 	Priests
 
@@ -45,7 +45,7 @@ Portal from which magical power and energy is reentering the world
 
 Bonus to attack rolls +1
 
-Kana appears as a Dyvare reincarnation
+[[Kana]] appears as a Dyvare reincarnation
 Last Daughter of Lachaka
 
 ![[Kana Fight.png]]

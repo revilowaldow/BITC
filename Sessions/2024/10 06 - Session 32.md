@@ -12,7 +12,7 @@ Cult is dangerous, misinterpretation of what the god should be negatively impact
 Should we learn about the cult's motivations, an act of healing is being prepared
 Not as mysterious as it seems
 
-Told them about Kana as a potential Champion of violence
+Told them about [[Kana]] as a potential Champion of violence
 
 
 <hr>
