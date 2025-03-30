@@ -72,4 +72,5 @@ Day 3
 Day 4
 	Abdos
 	Houses made of packed earth
+	Small resting place
 	
