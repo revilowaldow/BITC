@@ -35,5 +35,11 @@ Day 2
 			Barbarian Caenis
 			Buff, long hair
 		Eugene
-			Caddle on Caenis
+			Saddle on Caenis
+			Playing a song
+		Chaff
+			No Dream
+		Lubbi
+			Respected for more than being big
+			
 
