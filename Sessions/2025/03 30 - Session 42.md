@@ -45,5 +45,10 @@ Day 2
 			Complete inner and outer peace
 			Kaulinan floating limp and still
 			15 damage from an arrow
-			
+
+Day 3
+	Check tracks of man from night before
+	Just heading to Eabar
+
+
 
