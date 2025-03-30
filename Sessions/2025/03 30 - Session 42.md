@@ -84,3 +84,5 @@ Day 4
 	Tavern 
 		Wendigo Comanda
 		Dwarf - Facial Tattoos, Aepoptosian
+
+![[486443875_1028855015759183_5197123617173993923_n.png]]
