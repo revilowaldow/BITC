@@ -62,6 +62,6 @@ Day 3
 	Visiting a family Member in Abdos
 	Friend is [[Urch]], little repute
 	Travelled through forest
-	
+	Vivid recollection of particularly large tree with a standard size door
 
 
