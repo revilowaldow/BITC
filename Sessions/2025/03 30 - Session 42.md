@@ -43,5 +43,6 @@ Day 2
 			Respected for more than being big
 		Frak the Unperturbed
 			Complete inner peace
-			Kaulinan floating 
+			Kaulinan floating limp and still
+			
 
