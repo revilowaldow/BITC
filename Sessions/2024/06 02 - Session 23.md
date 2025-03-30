@@ -97,7 +97,7 @@ Crisis of faith, goign after Kathkach
 Went back to Lady Eylaine
 
 Memory of woman screaming for looking like a monster
-Kana is now a solider self-described
+[[Kana]] is now a solider self-described
 Has my target
 Eylaine still in power, replaced Houndak
 
@@ -139,10 +139,10 @@ Nomad Civilisation
 Helviti Nomads
 Showed way to City of Seven thousand steps
 
-Kana's wound is not healing right
+[[Kana]]'s wound is not healing right
 Virtelle's wound is fully healed
 
-Virtelle and Kana have a resemblance
+[[Virtelle The Silver Blade]] and [[Kana]] have a resemblance
 
 
 

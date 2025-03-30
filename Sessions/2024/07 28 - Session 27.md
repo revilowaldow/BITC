@@ -9,7 +9,7 @@ Small cave, stone altar, cultists
 
 Old man, wrinkled, stern, very large longbow, impressive arrows, large cave, underground ancient ruins, barking, keep out sign, cool air, different corridor
 
-Older slender bookish figure, near to Kana
+Older slender bookish figure, near to [[Kana]]
 Large dark bearded bandit, flag with black kathkach coin
 Cultist, impressive facial tattoos, smiling and knife
 Voices, shut out
@@ -21,7 +21,7 @@ Mushrooms damp
 Sparring in large room, dozen bandits sparring training
 
 Voices in his head, repressed, recollection of large chamber, buried towers, dog feet
-Kana is in the pool with her doctor
+[[Kana]] is in the pool with her doctor
 Voices speaking through water or a wall
 
 One sounds older, gravellier, malicious

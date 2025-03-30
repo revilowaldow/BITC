@@ -24,7 +24,7 @@ Gout of blood injured thodunn
 Cultist, knows who we are
 Name was [[Zetella]]
 They want to see two people go at each other
-Kana likely to destroy herself
+[[Kana]] likely to destroy herself
 They want us to get better
 
 Panther
