@@ -41,10 +41,10 @@ Dreams:
 	Thodunn
 		Elves fighting in rocks
 		killed in rockfall
-		kana killing vrin
+		[[Kana]] killing vrin
 		injuries sustained
 		kaulinan on floor
-		Kana and fighting what could he have done better
+		[[Kana]] and fighting what could he have done better
 	Aru
 		Vrin being tossed off podium, anger hatred sadness fear
 		Vrin being held, dread of loss and warmth glowing as Vrin is healed
@@ -55,16 +55,16 @@ Dreams:
 		boat upside down in barbakn
 		looking for ores
 		clawed grip grasps his shoulder
-		eyes of kana
+		eyes of [[Kana]]
 		cruel violet glint in her eyes
 		eyes fixate on me
 		something else wearing the body 
 
-Attempt to push into Kana's mind
+Attempt to push into [[Kana]]'s mind
 Physically painful to push deeper
 Burning purple star
 Think I've seen this before but can't tell where
-Overwhelmed with not just Kana, things battles and wars I don't recognise
+Overwhelmed with not just [[Kana]], things battles and wars I don't recognise
 
 Report to Kev, immediately travel to see [[Shiendo Kadan]]
 

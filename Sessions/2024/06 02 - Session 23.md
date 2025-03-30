@@ -2,7 +2,7 @@ Alex recapping
 
 Kaulinan mentions purple star
 
-Caenis comes clean re Kana comms
+Caenis comes clean re [[Kana]] comms
 
 <hr>
 
@@ -75,7 +75,7 @@ Told [[Utu Otaka]] to keep a pebble on her
 Tree on hill radius 400ft
 
 
-Kana
+[[Kana]]
 
 I was a baby when they burned it
 
@@ -91,7 +91,7 @@ Leader of Cobalt Comanda
 
 [[JournalEntry.GbxIvNuSOf6usjAy]]
 
-Houndak took Kana 
+Houndak took [[Kana]] 
 Crisis of faith, goign after Kathkach
 
 Went back to Lady Eylaine

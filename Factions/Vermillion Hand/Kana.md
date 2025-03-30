@@ -1,5 +1,5 @@
-
 **Alias: The Last Daughter of Lachaka**
+![[Kana.png]]
 
 Many bandages
 	Fighting style very similar to Helviti fighting styles
