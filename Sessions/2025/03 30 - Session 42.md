@@ -74,7 +74,8 @@ Day 4
 	Houses made of packed earth
 	Small resting place
 	Guard [[Minsar Tye]]
-	Helviti came by recently, "knuckles" or "nova", wendigo 
+	Helviti came by recently, "knuckles" or "nova", wendigo commando
 	Refugee, no past, female, dark hair, potentially [[Rev]]
 	Tattooed Dwarf - [[Kaitan Nour]]
 	Disappearances in forest north of Abdos, shepherd and sheep missing
+	Mayor - [[Biff]]
