@@ -22,4 +22,5 @@ Day 2
 			In the sky
 			Hut constricting
 		Aru
-			
+			Enormous Spitlizard
+			Huge Elephant Man
