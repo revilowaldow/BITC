@@ -22,8 +22,19 @@
               "icon": "lucide-file",
               "title": "03 30 - Session 42"
             }
+          },
+          {
+            "id": "df3df66e820733f1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,10 +282,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e81668d8135ede7f",
+  "active": "df3df66e820733f1",
   "lastOpenFiles": [
-    "Sessions/2025/02 09 - Session 39.md",
     "Sessions/2025/03 30 - Session 42.md",
+    "Sessions/2025/02 09 - Session 39.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Factions/Vermillion Hand/Kana.md",
     "Factions/Helviti/Hundak.md",
