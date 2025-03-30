@@ -34,4 +34,6 @@ Day 2
 		Caenis
 			Barbarian Caenis
 			Buff, long hair
+		Eugene
+			Caddle on Caenis
 
