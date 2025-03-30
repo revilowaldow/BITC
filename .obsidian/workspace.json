@@ -108,171 +108,17 @@
             }
           },
           {
-            "id": "d8aa46311e4da491",
+            "id": "fd252621da014304",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Brayk Brasshand.md",
+                "file": "Kaitan Nour.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brayk Brasshand"
-            }
-          },
-          {
-            "id": "33732dfc590b9a27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Calamxis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Calamxis"
-            }
-          },
-          {
-            "id": "00c29edbda3aa974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Elder Jimbolee.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elder Jimbolee"
-            }
-          },
-          {
-            "id": "29412f3c924fa89e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Flambard Hawk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Flambard Hawk"
-            }
-          },
-          {
-            "id": "f55a0973d9934a99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Jay Connar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jay Connar"
-            }
-          },
-          {
-            "id": "126bd87f97fe5ce5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Kerytoph Myondo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kerytoph Myondo"
-            }
-          },
-          {
-            "id": "4a325cd0bf912bfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Liera Lov.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Liera Lov"
-            }
-          },
-          {
-            "id": "a06624bab0dfe5e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Lyan Thorp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lyan Thorp"
-            }
-          },
-          {
-            "id": "0db2535a33ea607c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Melinda Palov.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Melinda Palov"
-            }
-          },
-          {
-            "id": "ff7550424d1130de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Nefros.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nefros"
-            }
-          },
-          {
-            "id": "9e9b33588bc7194c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Shaku Toto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shaku Toto"
-            }
-          },
-          {
-            "id": "87f91db4a7768719",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Arach.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arach"
+              "title": "Kaitan Nour"
             }
           },
           {
@@ -360,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -608,8 +454,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e9b33588bc7194c",
+  "active": "fd252621da014304",
   "lastOpenFiles": [
+    "Factions/Arach.md",
+    "Kaitan Nour.md",
+    "Factions/Shaku Toto.md",
     "Factions/Nefros.md",
     "Factions/Melinda Palov.md",
     "Factions/Lyan Thorp.md",
@@ -620,10 +469,10 @@
     "Factions/Elder Jimbolee.md",
     "Factions/Calamxis.md",
     "Factions/Brayk Brasshand.md",
+    "Sessions/2025/03 30 - Session 42.md",
+    "Factions/Aepoptosian Cult",
     "Factions/Aegan Empire.md",
     "Factions/Angelica Snowsand.md",
-    "Factions/Arach.md",
-    "Sessions/2025/03 30 - Session 42.md",
     "486443875_1028855015759183_5197123617173993923_n.png",
     "Sessions/2025/03 09 - Session 41.md",
     "Sessions/2024/07 28 - Session 27.md",
@@ -636,8 +485,6 @@
     "Setting Rules/Untitled",
     "Setting Rules/Ration Rules.md",
     "Setting Rules/Rules Index.md",
-    "Sessions/2025/01 12 - Session 37.md",
-    "Sessions/2025/01 26 - Session 38.md",
     "Assets/Maps/Topographic Map.png",
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Pasted image 20250223184136.png",
@@ -659,7 +506,6 @@
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Factions/Local Arcanists",
     "Locations/Lachaka",
-    "Jobs/Level 4",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Locations/Kathkach/Abandoned House.canvas"
   ]
