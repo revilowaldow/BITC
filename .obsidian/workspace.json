@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2025/03 30 - Session 42.md",
+                "file": "Sessions/2024/06 02 - Session 23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 30 - Session 42"
+              "title": "06 02 - Session 23"
             }
           },
           {
@@ -182,7 +182,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sister",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,7 +213,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -400,8 +401,8 @@
   },
   "active": "fd413b569feb6c3e",
   "lastOpenFiles": [
-    "Sessions/2025/03 09 - Session 41.md",
     "Sessions/2025/03 30 - Session 42.md",
+    "Sessions/2025/03 09 - Session 41.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Setting Rules/Weapon Rules.md",
     "Sessions/2025/02 23 - Session 40.md",
