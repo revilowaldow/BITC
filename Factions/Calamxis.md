@@ -4,8 +4,7 @@ Top gladiator worldwide
 Vain and arrogant
 
 ![[Calamxis2_Token.png]]
-
-
+![[Calamxis_Token.png]]
 
 
 [[Red Serpent]] is a different opponent but has always refused to duel

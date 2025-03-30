@@ -88,7 +88,7 @@ Attendees:
 - Second orb
 - Pit is jointly owned with the tower of eyes
 - Building a containment sphere, made of rare metals
-- Animate creature brought in by calamsis
+- Animate creature brought in by [[Calamxis]]
 [[Larkin]]
 [[Shiendo Kadaon]], [[Uzgrad Khat'on]]
 - Interrogating Aru
