@@ -51,7 +51,8 @@ Day 2
 Day 3
 	Check tracks of man from night before
 	Just heading to Eabar
-	See a bedraggled shambling figure in the grasses
-	
+	See a bedraggled erratic shambling figure in the grasses
+	Human male
+	Miner's outfit 
 
 
