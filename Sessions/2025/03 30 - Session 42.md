@@ -27,4 +27,6 @@ Day 2
 			Scorpion PoV
 			Falls into dusty abyss
 		Caenis
+			Barbarian Caenis
+			Buff, long hair
 			
