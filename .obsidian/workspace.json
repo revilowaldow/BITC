@@ -134,6 +134,90 @@
             }
           },
           {
+            "id": "8ec95501a778c27d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/KaulinanTokenLarge.png"
+              },
+              "icon": "lucide-image",
+              "title": "KaulinanTokenLarge"
+            }
+          },
+          {
+            "id": "1511ca68cb39e078",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/Kana.png"
+              },
+              "icon": "lucide-image",
+              "title": "Kana"
+            }
+          },
+          {
+            "id": "6d74ec97a0b850c9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/Arach.png"
+              },
+              "icon": "lucide-image",
+              "title": "Arach"
+            }
+          },
+          {
+            "id": "e96125d74fd3156e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/Kaitan Nour.png"
+              },
+              "icon": "lucide-image",
+              "title": "Kaitan Nour"
+            }
+          },
+          {
+            "id": "f7c163e4e2bed47c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/Virtelle.png"
+              },
+              "icon": "lucide-image",
+              "title": "Virtelle"
+            }
+          },
+          {
+            "id": "9489cb3f859b012d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/Spore Berserker.png"
+              },
+              "icon": "lucide-image",
+              "title": "Spore Berserker"
+            }
+          },
+          {
+            "id": "5c9c97f128740706",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/Pasted image 20240421192129.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240421192129"
+            }
+          },
+          {
             "id": "5b20cd042dfe15ab",
             "type": "leaf",
             "state": {
@@ -148,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -211,8 +295,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -397,17 +480,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b20cd042dfe15ab",
+  "active": "1511ca68cb39e078",
   "lastOpenFiles": [
-    "Assets/Characters/Pasted image 20240421192129.png",
+    "Assets/Characters/Arach.png",
+    "Assets/Characters/Kana.png",
+    "Assets/Characters/Kaitan Nour.png",
+    "Assets/Characters/KaulinanRolls.png",
+    "Assets/Characters/KaulinanTokenLarge.png",
     "Assets/Characters/Pasted image 20240211211148.png",
+    "Assets/Characters/Pasted image 20240421192129.png",
+    "Assets/Characters/Spore Berserker.png",
+    "Assets/Characters/Virtelle.png",
+    "Assets/Characters/Vrindrilliax.png",
+    "Sessions/2024/04 21 - Session 21.md",
     "Kaitan Nour.md",
     "Sessions/2025/03 30 - Session 42.md",
     "Pasted image 20250223184136.png",
-    "Pasted image 20250112192828.png",
     "Setting Rules/Weapon Rules.md",
-    "Assets/Characters/Kaitan Nour.png",
-    "Assets/Characters/Arach.png",
     "Sessions/2025/02 23 - Session 40.md",
     "Setting Rules/Hirelings & Mounts.md",
     "Setting Rules/Ration Rules.md",
@@ -430,14 +519,8 @@
     "Sessions/2025/03 09 - Session 41.md",
     "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/06 02 - Session 23.md",
-    "Setting Rules/Valid Wild Shapes.md",
     "Setting Rules/Untitled",
-    "Assets/Maps/Topographic Map.png",
     "Locations/Lionhold/Ziardim Caverns.canvas",
-    "Pasted image 20240630212744.png",
-    "Assets/Maps/Abandoned Living Quarters.png",
-    "Assets/Maps/Pasted image 20250126201134.png",
-    "Assets/Maps/Pasted image 20250126193649.png",
     "Sessions/2025",
     "Locations/Lionhold",
     "Locations/Dog Prince Caves.canvas",
