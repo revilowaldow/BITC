@@ -24,3 +24,7 @@ Day 2
 		Aru
 			Enormous Spitlizard
 			Huge Elephant Man
+			Scorpion PoV
+			Falls into dusty abyss
+		Caenis
+			
