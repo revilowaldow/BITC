@@ -61,6 +61,7 @@ Day 3
 	[[Incas]] from Coprun
 	Visiting a family Member in Abdos
 	Friend is [[Urch]], little repute
+	Travelled through forest
 	
 
 
