@@ -13,11 +13,11 @@ Purple Star effect engages again
 
 Val remembers being on an altar
 
-Remove chest plates to touch golden threads inside val
+Remove chest plates to touch golden threads inside [[Val]]
 
 Tall spires with rounded tops, clinking of chain mail, sounds of water, light tunics, tired, can't go to sleep
 
-[[Conrad]] - Hoping Manticar Viole would be soldier against the chinerians
+[[Conrad]] - Hoping [[Manticar Viole]] would be soldier against the chinerians
 Hoping for the dyvare, slave of chineria
 
 <hr>
@@ -28,7 +28,7 @@ Practice teleportation
 
 <hr>
 
-Whilspar - Flail
+[[Whilspar]] - Flail
 
 Made in Eastern City States during war between Yaoi and Chineria 75 years ago, wielded by [[Jiu-Len Whilspar]]
 Gifted by arcanists
