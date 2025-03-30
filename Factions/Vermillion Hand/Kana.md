@@ -6,7 +6,7 @@ Many bandages
 
 [[Caenis]] was given a bark coin by Kana allowing access to the base
 
-Virtelle and Kana have a resemblance
+[[Virtelle The Silver Blade]] and Kana have a resemblance
 
 I was a baby when they burned it
 
