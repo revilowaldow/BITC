@@ -15,7 +15,6 @@ Day 2
 	Tiny Hut
 	Individual Human Male
 	Bandit?
-	
 	Dreams
 		Vrin
 			Shoal of fish
@@ -25,7 +24,8 @@ Day 2
 			Grey Wasteland
 			Plumes of smoke
 			High up wall
-			Old woman being rude to Aru
+			Old woman with a cane, half aru's height
+			Being rude to Aru
 		Thodunn
 			Enormous Spitlizard
 			Huge Elephant Man
@@ -34,4 +34,4 @@ Day 2
 		Caenis
 			Barbarian Caenis
 			Buff, long hair
-			
+
