@@ -120,9 +120,33 @@
               "icon": "lucide-file",
               "title": "Kaitan Nour"
             }
+          },
+          {
+            "id": "010ecf56cf386872",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/Pasted image 20240211211148.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240211211148"
+            }
+          },
+          {
+            "id": "5b20cd042dfe15ab",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/Pasted image 20240421192129.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240421192129"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -370,10 +394,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd252621da014304",
+  "active": "5b20cd042dfe15ab",
   "lastOpenFiles": [
-    "Sessions/2025/03 30 - Session 42.md",
+    "Assets/Characters/Pasted image 20240211211148.png",
     "Kaitan Nour.md",
+    "Sessions/2025/03 30 - Session 42.md",
     "Pasted image 20250223184136.png",
     "Pasted image 20250112192828.png",
     "Setting Rules/Weapon Rules.md",
