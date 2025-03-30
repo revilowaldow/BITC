@@ -80,6 +80,48 @@
             }
           },
           {
+            "id": "5558cdc2dc23de5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Rules/Rules Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rules Index"
+            }
+          },
+          {
+            "id": "9c309fcc48cb2116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Rules/Ration Rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ration Rules"
+            }
+          },
+          {
+            "id": "d10a5e1293848475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/11 17 - Session 35.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11 17 - Session 35"
+            }
+          },
+          {
             "id": "e9fd5562e0c52efc",
             "type": "leaf",
             "state": {
@@ -94,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -126,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "spitliz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +199,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -342,16 +385,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2934573facd75bcc",
+  "active": "d10a5e1293848475",
   "lastOpenFiles": [
     "Sessions/2025/03 30 - Session 42.md",
+    "Sessions/2024/11 17 - Session 35.md",
+    "Setting Rules/Weapon Rules.md",
+    "Setting Rules/Ration Rules.md",
+    "Setting Rules/Rules Index.md",
     "Sessions/2025/03 09 - Session 41.md",
     "Sessions/2025/01 12 - Session 37.md",
     "Sessions/2025/01 26 - Session 38.md",
     "Sessions/2025/02 09 - Session 39.md",
     "Sessions/2025/02 23 - Session 40.md",
     "Sessions/2024/10 20 - Session 33.md",
-    "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2024/10 06 - Session 32.md",
     "Sessions/2024/09 29 - Session 31.md",
     "Sessions/2024/11 03 - Session 34.md",
@@ -369,9 +415,6 @@
     "Factions/Silver Company/Asset Roster.md",
     "Factions/Silver Company/Asset List.md",
     "Sessions/2024/09 01 - Session 29.md",
-    "Factions/Local Arcanists/Vixel.md",
-    "Factions/Silver Company/Karta.md",
-    "Deity/Eternal Queen.md",
     "Pasted image 20250223184136.png",
     "Pasted image 20250112192828.png",
     "Pasted image 20240630212744.png",
