@@ -74,5 +74,6 @@ Day 4
 	Houses made of packed earth
 	Small resting place
 	Helviti came by recently, knuckles or nova
-	Refugee, no past, female
+	Refugee, no past, female, dark hair, potentially [[Rev]]
 	Tattooed Dwarf - [[Kaitan Nour]]
+	Disappearances in forest north of Abdos, shephe
