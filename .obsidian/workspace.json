@@ -120,90 +120,6 @@
               "icon": "lucide-file",
               "title": "Kaitan Nour"
             }
-          },
-          {
-            "id": "9fe651473481eec1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Angelica Snowsand.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Angelica Snowsand"
-            }
-          },
-          {
-            "id": "7b574b33e9602c45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Aegan Empire.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aegan Empire"
-            }
-          },
-          {
-            "id": "5558cdc2dc23de5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Rules Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rules Index"
-            }
-          },
-          {
-            "id": "9c309fcc48cb2116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Ration Rules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ration Rules"
-            }
-          },
-          {
-            "id": "d10a5e1293848475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Hirelings & Mounts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hirelings & Mounts"
-            }
-          },
-          {
-            "id": "e9fd5562e0c52efc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2025/02 23 - Session 40.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 23 - Session 40"
-            }
           }
         ],
         "currentTab": 7
@@ -456,8 +372,20 @@
   },
   "active": "fd252621da014304",
   "lastOpenFiles": [
-    "Factions/Arach.md",
+    "Pasted image 20250223184136.png",
+    "Pasted image 20250112192828.png",
+    "Setting Rules/Weapon Rules.md",
+    "Assets/Characters/Kaitan Nour.png",
+    "Assets/Characters/Arach.png",
     "Kaitan Nour.md",
+    "Sessions/2025/03 30 - Session 42.md",
+    "Sessions/2025/02 23 - Session 40.md",
+    "Setting Rules/Hirelings & Mounts.md",
+    "Setting Rules/Ration Rules.md",
+    "Setting Rules/Rules Index.md",
+    "Factions/Aegan Empire.md",
+    "Factions/Angelica Snowsand.md",
+    "Factions/Arach.md",
     "Factions/Shaku Toto.md",
     "Factions/Nefros.md",
     "Factions/Melinda Palov.md",
@@ -469,32 +397,19 @@
     "Factions/Elder Jimbolee.md",
     "Factions/Calamxis.md",
     "Factions/Brayk Brasshand.md",
-    "Sessions/2025/03 30 - Session 42.md",
     "Factions/Aepoptosian Cult",
-    "Factions/Aegan Empire.md",
-    "Factions/Angelica Snowsand.md",
-    "486443875_1028855015759183_5197123617173993923_n.png",
     "Sessions/2025/03 09 - Session 41.md",
     "Sessions/2024/07 28 - Session 27.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Setting Rules/Valid Wild Shapes.md",
-    "Setting Rules/Weapon Rules.md",
-    "Sessions/2025/02 23 - Session 40.md",
-    "Setting Rules/Hirelings & Mounts.md",
-    "Sessions/2024/11 17 - Session 35.md",
     "Setting Rules/Untitled",
-    "Setting Rules/Ration Rules.md",
-    "Setting Rules/Rules Index.md",
     "Assets/Maps/Topographic Map.png",
     "Locations/Lionhold/Ziardim Caverns.canvas",
-    "Pasted image 20250223184136.png",
-    "Pasted image 20250112192828.png",
     "Pasted image 20240630212744.png",
     "Assets/Maps/Abandoned Living Quarters.png",
     "Assets/Maps/Pasted image 20250126201134.png",
     "Assets/Maps/Pasted image 20250126193649.png",
     "Assets/Maps/Pasted image 20250126193345.png",
-    "Assets/Maps/Pasted image 20250112212349.png",
     "Sessions/2025",
     "Locations/Lionhold",
     "Locations/Dog Prince Caves.canvas",
