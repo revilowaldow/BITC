@@ -54,6 +54,9 @@ Day 3
 	See a bedraggled erratic shambling figure in the grasses
 	Human male
 	Miner's outfit similar to coprun
+	Eastern side of northern lake edge
+	Grove within tree
+	Fey goddess needs aid
 	
 
 
