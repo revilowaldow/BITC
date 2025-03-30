@@ -44,9 +44,9 @@ Ponti dead
 Crushing and gashing
 Necrosis
 
+![[Huascan_Token.png]]![]()
 
 
-![[Pasted image 20240421192129.png]]
 
 
 Sent letter to Fara Eylaine

@@ -151,10 +151,22 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Assets/Characters/Kana.png"
+                "file": "Assets/Characters/Vrindrilliax.png"
               },
               "icon": "lucide-image",
-              "title": "Kana"
+              "title": "Vrindrilliax"
+            }
+          },
+          {
+            "id": "34e43de8a3edef7f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/Virtelle_Token.png"
+              },
+              "icon": "lucide-image",
+              "title": "Virtelle_Token"
             }
           },
           {
@@ -191,6 +203,54 @@
               },
               "icon": "lucide-image",
               "title": "Virtelle"
+            }
+          },
+          {
+            "id": "14d61a6dc8aed746",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/Calamxis2_Token.png"
+              },
+              "icon": "lucide-image",
+              "title": "Calamxis2_Token"
+            }
+          },
+          {
+            "id": "689b035197c1c9f2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/ChikitanMiasmar_Token.png"
+              },
+              "icon": "lucide-image",
+              "title": "ChikitanMiasmar_Token"
+            }
+          },
+          {
+            "id": "6d0bd739533c0357",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/DamagedDyvarranGolem_Token.png"
+              },
+              "icon": "lucide-image",
+              "title": "DamagedDyvarranGolem_Token"
+            }
+          },
+          {
+            "id": "8067562f62f60655",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/Huascan_Token.png"
+              },
+              "icon": "lucide-image",
+              "title": "Huascan_Token"
             }
           },
           {
@@ -232,7 +292,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -264,7 +324,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20240421192129",
+                "query": "Pasted image 20240421192129",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -480,20 +540,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1511ca68cb39e078",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
+    "Assets/Characters/Pasted image 20240421192129.png",
+    "Sessions/2024/04 21 - Session 21.md",
     "Assets/Characters/Huascan_Token.png",
     "Assets/Characters/DamagedDyvarranGolem_Token.png",
     "Assets/Characters/ChikitanMiasmar_Token.png",
     "Assets/Characters/Calamxis2_Token.png",
-    "Assets/Characters/Arach.png",
+    "Assets/Characters/Virtelle.png",
+    "Assets/Characters/Vrindrilliax.png",
+    "Assets/Characters/Virtelle_Token.png",
     "Assets/Characters/Kana.png",
-    "Assets/Characters/Kaitan Nour.png",
-    "Assets/Characters/KaulinanRolls.png",
-    "Assets/Characters/KaulinanTokenLarge.png",
-    "Assets/Characters/Pasted image 20240211211148.png",
-    "Assets/Characters/Pasted image 20240421192129.png",
-    "Sessions/2024/04 21 - Session 21.md",
+    "Assets/Characters/VeronicaAscillan_Token.png",
     "Kaitan Nour.md",
     "Sessions/2025/03 30 - Session 42.md",
     "Setting Rules/Weapon Rules.md",
