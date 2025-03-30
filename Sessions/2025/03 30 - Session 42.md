@@ -12,6 +12,8 @@ Day 1
 	Saw Helviti patrol
 
 Day 2
+	Encountered a poisonous scorpion
+	Useful for wild shape
 	Tiny Hut
 	Individual Human Male
 	Bandit?
@@ -49,6 +51,6 @@ Day 2
 Day 3
 	Check tracks of man from night before
 	Just heading to Eabar
-
+	See a bedraggled shambling figure in the grasses
 
 
