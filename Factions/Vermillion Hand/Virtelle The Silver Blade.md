@@ -1,4 +1,5 @@
 ![[Virtelle.png]]
+![[Virtelle_Token.png]]
 
 Very ornate weapon, steel, rapier, engraving and fine basket hilt
 
