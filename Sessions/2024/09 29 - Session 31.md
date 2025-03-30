@@ -52,7 +52,7 @@ Attendees:
 - Virtelle has hardened rapidly of late
 - Virtelle has been wincing more from the scars lately
 - [[Ploikk]] Huascan envoy, going to set up a sequestered embassy
-- Discussion on fate of [[Houndak]]
+- Discussion on fate of [[Hundak]]
 [[Virtelle The Silver Blade]],
 - Virtelle is the new Lady Eylaine
 - Fara is unwell

@@ -86,12 +86,12 @@ Thought a rebellious element
 Investigation found no evidence
 No weapons
 
-[[Houndak]] Missing Human, 70s, male
+[[Hundak]] Missing Human, 70s, male
 Leader of Cobalt Comanda
 
 [[JournalEntry.GbxIvNuSOf6usjAy]]
 
-Houndak took [[Kana]] 
+[[Hundak]] took [[Kana]] 
 Crisis of faith, goign after Kathkach
 
 Went back to Lady Eylaine
@@ -99,7 +99,7 @@ Went back to Lady Eylaine
 Memory of woman screaming for looking like a monster
 [[Kana]] is now a solider self-described
 Has my target
-Eylaine still in power, replaced Houndak
+Eylaine still in power, replaced [[Hundak]]
 
 Helviti are an invading force for many
 
@@ -123,7 +123,7 @@ Dog Prince base is caves
 
 <hr>
 
-Told [[Hex'tan]] the Dog Prince is [[Houndak]]
+Told [[Hex'tan]] the Dog Prince is [[Hundak]]
 
 Helviti Horn
 

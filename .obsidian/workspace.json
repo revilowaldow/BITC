@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Helviti/Houndak.md",
+                "file": "Sessions/2024/06 16 - Session 24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Houndak"
-            }
-          },
-          {
-            "id": "2a9ec3e85d1013bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Vermillion Hand/Kana.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kana"
+              "title": "06 16 - Session 24"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kana",
+                "query": "Houndak",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -299,10 +285,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a9ec3e85d1013bc",
+  "active": "548525e67ed86321",
   "lastOpenFiles": [
-    "Factions/Helviti/Houndak.md",
     "Factions/Vermillion Hand/Kana.md",
+    "Factions/Helviti/Hundak.md",
+    "Sessions/2024/06 02 - Session 23.md",
     "Locations/Dog Prince Caves.canvas",
     "Factions/Silver Company/Dimicislus Gregorius.md",
     "Sessions/2024/10 06 - Session 32.md",
@@ -311,7 +298,6 @@
     "Sessions/2024/07 28 - Session 27.md",
     "Assets/Characters/Hundak_Token.png",
     "Sessions/2024/08 11 - Session 28.md",
-    "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2025/02 23 - Session 40.md",
     "Sessions/2025/02 09 - Session 39.md",

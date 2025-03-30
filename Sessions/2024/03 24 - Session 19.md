@@ -81,7 +81,7 @@ On the wall of [[Shiendo Kadan]]'s office is an emblem of a skull with a halo un
 Temporary emblem for specialist hunting other comanda
 Was hunting renegades near freedom city
 
-[[Houndak]] last commander of cobalt commanda
+[[Hundak]] last commander of cobalt commanda
 Missing Human, 70s, male
 
 Sending message to [[Uzgrad Khat'on]]  - Death

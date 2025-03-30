@@ -9,7 +9,7 @@ Option is if the forces are already out of the caves?
 Distraction
 
 Use [[Utu]]?
-Houndak has never been identified as having left base?
+[[Hundak]] has never been identified as having left base?
 
 Thodunn training militia
 
