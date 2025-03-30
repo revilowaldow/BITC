@@ -42,5 +42,6 @@ Day 2
 		Lubbi
 			Respected for more than being big
 		Frak the Unperturbed
-			
+			Complete inner peace
+			Kaulinan floating 
 
