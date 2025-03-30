@@ -9,7 +9,10 @@ Kaulinan got "Frak the Unperturbed"
 4 days 
 
 Day 1
-	Saw Hpatrol
+	Saw Helviti patrol
 
 Day 2
-
+	Tiny Hut
+	Individual Human Male
+	Bandit?
+	
