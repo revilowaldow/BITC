@@ -64,6 +64,7 @@ Day 3
 	Travelled through forest
 	Vivid recollection of particularly large tree with a standard size door
 	Faerie wings and crown of flowers
+	Loud flapping sound, monsters in Abdos
 	
 
 
