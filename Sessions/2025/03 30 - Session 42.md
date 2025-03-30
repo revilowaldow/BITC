@@ -57,6 +57,6 @@ Day 3
 	Eastern side of northern lake edge
 	Grove within tree
 	Fey goddess needs aid
-	
+	Compelled to enter tree
 
 
