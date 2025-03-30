@@ -65,6 +65,7 @@ Day 3
 	Vivid recollection of particularly large tree with a standard size door
 	Faerie wings and crown of flowers
 	Loud flapping sound, monsters in Abdos
-	
+	Whenever in Coprun can call upon [[Incas]] for aid
+	Hot
 
 
