@@ -1,7 +1,7 @@
 last commander of cobalt commanda
 Missing Human, 70s, male
 
-Houndak took Kana 
+Houndak took [[Kana]] 
 
 Went back to Lady Eylaine
 

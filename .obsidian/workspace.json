@@ -25,17 +25,14 @@
             "id": "548525e67ed86321",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
-                "viewState": {
-                  "x": 4106.483592530783,
-                  "y": 1013.9356046914386,
-                  "zoom": 0.3333333333333334
-                }
+                "file": "Factions/Helviti/Houndak.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dog Prince Caves"
+              "icon": "lucide-file",
+              "title": "Houndak"
             }
           },
           {
@@ -53,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -302,8 +299,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "548525e67ed86321",
+  "active": "2a9ec3e85d1013bc",
   "lastOpenFiles": [
+    "Factions/Helviti/Houndak.md",
+    "Factions/Vermillion Hand/Kana.md",
+    "Locations/Dog Prince Caves.canvas",
     "Factions/Silver Company/Dimicislus Gregorius.md",
     "Sessions/2024/10 06 - Session 32.md",
     "Sessions/2024/09 29 - Session 31.md",
@@ -313,7 +313,6 @@
     "Sessions/2024/08 11 - Session 28.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/03 24 - Session 19.md",
-    "Factions/Vermillion Hand/Kana.md",
     "Sessions/2025/02 23 - Session 40.md",
     "Sessions/2025/02 09 - Session 39.md",
     "Sessions/2025/01 26 - Session 38.md",
@@ -340,12 +339,10 @@
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Factions/Silver Company/Asset Roster.md",
-    "Setting Rules/Weapon Rules.md",
     "Factions/Aepoptosian Cult",
     "Setting Rules/Untitled",
     "Sessions/2025",
     "Locations/Lionhold",
-    "Locations/Dog Prince Caves.canvas",
     "Factions/The Cooking Association",
     "Factions/Eastern City States/Parche",
     "Factions/Vermillion Hand",

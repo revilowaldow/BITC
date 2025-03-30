@@ -4,7 +4,7 @@
 Many bandages
 	Fighting style very similar to Helviti fighting styles
 
-[[Caenis]] was given a bark coin by [[Kana]] allowing access to the base
+[[Caenis]] was given a bark coin by Kana allowing access to the base
 
 Virtelle and Kana have a resemblance
 
