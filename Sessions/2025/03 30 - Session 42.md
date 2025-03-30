@@ -66,6 +66,7 @@ Day 3
 	Faerie wings and crown of flowers
 	Loud flapping sound, monsters in Abdos
 	Whenever in Coprun can call upon [[Incas]] for aid
-	Hot
+	Hot-diggity
+	
 
 
