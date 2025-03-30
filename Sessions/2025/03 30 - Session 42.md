@@ -73,6 +73,6 @@ Day 4
 	Abdos
 	Houses made of packed earth
 	Small resting place
-	Helviti came by recently
+	Helviti came by recently, knuckles or nova
 	Refugee
-	Tattooed Dwarf
+	Tattooed Dwarf - [[Kaitan Nour]]
