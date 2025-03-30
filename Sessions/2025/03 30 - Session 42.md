@@ -80,3 +80,7 @@ Day 4
 	Disappearances in forest north of Abdos, shepherd and sheep missing
 	Mayor - [[Biff]]
 	Left spitlizards in Abdos with 12 feed units
+
+	Tavern 
+		Wendigo Comanda
+		Dwarf
