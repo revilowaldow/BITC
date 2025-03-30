@@ -6,5 +6,7 @@ Frak, Chaff, & Lubbi
 
 Kaulinan got "Frak the Unperturbed"
 
+4 days 
 
+Day 2
 
