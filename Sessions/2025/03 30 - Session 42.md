@@ -73,4 +73,6 @@ Day 4
 	Abdos
 	Houses made of packed earth
 	Small resting place
-	
+	Helviti came by recently
+	Refugee
+	Tattooed Dwarf
