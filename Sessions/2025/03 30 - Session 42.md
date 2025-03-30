@@ -58,6 +58,7 @@ Day 3
 	Grove within tree
 	Fey goddess needs aid
 	Compelled to enter tree
-	
+	[[Incas]] from Coprun
+	Visiting a family Member in abdos
 
 
