@@ -79,3 +79,4 @@ Day 4
 	Tattooed Dwarf - [[Kaitan Nour]]
 	Disappearances in forest north of Abdos, shepherd and sheep missing
 	Mayor - [[Biff]]
+	Left spitlizards in Abdos with 12 feed units
