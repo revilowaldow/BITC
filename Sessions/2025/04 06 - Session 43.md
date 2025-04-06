@@ -89,6 +89,8 @@ Bipedal draconic creature with wings, white
 Abishai, Fiend
 
 
+600gp reward, 100gp paid up front
+
 
 
 
