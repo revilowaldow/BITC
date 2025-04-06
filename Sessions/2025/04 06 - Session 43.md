@@ -92,7 +92,7 @@ Abishai, Fiend
 600gp reward, 100gp paid up front
 Rest OR magic item on return.
 
-
+![](https://5e.tools/img/bestiary/MPMM/White%20Abishai.webp)
 
 
 
