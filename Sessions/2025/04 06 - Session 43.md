@@ -83,16 +83,16 @@ Caenis failed save and went through the door first
 Green tinged glow
 Walls and varnished decked wood
 
-Teleported to the Bar [[Mariana]]
+Teleported to the Bar 
+[[Mariana]] fey godess
 A dangerous renegade has escaped into your world
 Bipedal draconic creature with wings, white
 Abishai, Fiend
-
+![](https://5e.tools/img/bestiary/MPMM/White%20Abishai.webp)
 
 600gp reward, 100gp paid up front
 Rest OR magic item on return.
 
-![](https://5e.tools/img/bestiary/MPMM/White%20Abishai.webp)
 
 
 
