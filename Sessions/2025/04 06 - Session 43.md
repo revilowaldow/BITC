@@ -71,7 +71,13 @@ Asking for assistance with the [[Shrike]]
 
 Kaulinan and Caenis talk to [[Chikitan Miasmar]]
 
-He leaves, happy with the explanation g
+He leaves, happy with the explanation given of Rev
+
+Kaulinan hires Noky for 250gp
+
+
+
+
 
 
 
