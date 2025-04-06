@@ -85,10 +85,17 @@
             "id": "b1ee8d83f4625c23",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Sessions/2025/Abdos Woodland.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Abdos Woodland"
             }
           }
         ],
@@ -342,6 +349,7 @@
   },
   "active": "b1ee8d83f4625c23",
   "lastOpenFiles": [
+    "Sessions/2025/Abdos Woodland.canvas",
     "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2025/03 30 - Session 42.md",
     "Factions/Helviti/Noky.md",
@@ -367,7 +375,6 @@
     "Factions/Aepoptosian Cult/Rev.md",
     "Factions/Aepoptosian Cult/Chikitan Miasmar.md",
     "Sessions/2024/07 28 - Session 27.md",
-    "Factions/Aepoptosian Cult/Grandmaster.md",
     "Pasted image 20250112192828.png",
     "Pasted image 20250223184136.png",
     "Locations/Dog Prince Caves.canvas",

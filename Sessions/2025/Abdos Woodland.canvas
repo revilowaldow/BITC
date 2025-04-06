@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"67e0aa940122f87d","x":-200,"y":140,"width":250,"height":60,"type":"text","text":"Southern Entrance"},
+		{"id":"c5600e6b3d95d695","x":240,"y":-200,"width":250,"height":60,"type":"text","text":"Eastern Entrance"},
+		{"id":"f5af5ea568df66b0","x":-200,"y":-20,"width":250,"height":60,"type":"text","text":"Stinging Nettles"},
+		{"id":"d6b84983fbdb8470","x":-39,"y":-189,"width":250,"height":60,"type":"text","text":"W"}
+	],
+	"edges":[
+		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
+		{"id":"da46b9e71de8f30b","fromNode":"f5af5ea568df66b0","fromSide":"top","toNode":"d6b84983fbdb8470","toSide":"bottom"}
+	]
+}
