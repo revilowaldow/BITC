@@ -40,6 +40,7 @@ Sold Thodunn the Birdslayer dagger
 [[Dravis]] weaver leader
 Surprised when asked about [[Rev]]
 
-
+[[Rev]] split personalisties
+The villager are helping me
 
 
