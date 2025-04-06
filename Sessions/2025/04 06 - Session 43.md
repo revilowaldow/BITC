@@ -37,6 +37,7 @@ Wendigo Comanada is [[Noky]]
 Will provide proof of killing the shrike
 Sold Thodunn the Birdslayer dagger
 
-
+[[Dravis]] weaver leader
+Surprised when asked about []
 
 
