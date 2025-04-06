@@ -66,6 +66,9 @@ Aru and Thodunn talk to [[Noky]]
 Asking for assistance with the [[Shrike]]
 250gp
 
+
+
+
 Kaulinan and Caenis talk to [[Chikitan Miasmar]]
 
 
