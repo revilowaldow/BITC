@@ -66,7 +66,7 @@ Aru and Thodunn talk to [[Noky]]
 Asking for assistance with the [[Shrike]]
 250gp
 
-
+20gp for up to two alchemist's fire
 
 
 Kaulinan and Caenis talk to [[Chikitan Miasmar]]
