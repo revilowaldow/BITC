@@ -95,7 +95,7 @@ Rest OR magic item on return.
 
 Heading to the Shrike
 
-
+Took southern entrance into 
 
 
 
