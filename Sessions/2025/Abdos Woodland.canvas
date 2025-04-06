@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"16e4e3af3175b989","x":-360,"y":-280,"width":250,"height":151,"type":"text","text":"L (NW)\n\n"},
-		{"id":"f5af5ea568df66b0","x":-200,"y":10,"width":250,"height":60,"type":"text","text":"Stinging Nettles"},
-		{"id":"c5600e6b3d95d695","x":380,"y":240,"width":250,"height":60,"type":"text","text":"Eastern Entrance"},
-		{"id":"d6b84983fbdb8470","x":70,"y":-440,"width":250,"height":131,"type":"text","text":"R (NE)\nTall dense trees"},
-		{"id":"67e0aa940122f87d","x":-200,"y":180,"width":250,"height":60,"type":"text","text":"Southern Entrance"},
-		{"id":"901d6dd2c9397b81","x":320,"y":-25,"width":250,"height":130,"type":"text","text":"SE"},
-		{"id":"5e09361c6fe2eb4e","x":-110,"y":-740,"width":250,"height":130,"type":"text","text":"NW"},
-		{"id":"4b01fd53dc35df24","x":285,"y":-795,"width":320,"height":185,"type":"text","text":"NE\n(Darkest)\n\nAmbushed by large taloned creature"},
-		{"id":"1634d9b0e0be2b5e","x":630,"y":-880,"width":295,"height":400,"type":"file","file":"Assets/Maps/Wailer Map.png"}
+		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\n","x":-360,"y":-280,"width":250,"height":151},
+		{"id":"f5af5ea568df66b0","type":"text","text":"Stinging Nettles","x":-200,"y":10,"width":250,"height":60},
+		{"id":"c5600e6b3d95d695","type":"text","text":"Eastern Entrance","x":380,"y":240,"width":250,"height":60},
+		{"id":"d6b84983fbdb8470","type":"text","text":"R (NE)\nTall dense trees","x":70,"y":-440,"width":250,"height":131},
+		{"id":"67e0aa940122f87d","type":"text","text":"Southern Entrance","x":-200,"y":180,"width":250,"height":60},
+		{"id":"901d6dd2c9397b81","type":"text","text":"SE","x":320,"y":-25,"width":250,"height":130},
+		{"id":"5e09361c6fe2eb4e","type":"text","text":"NW","x":-110,"y":-740,"width":250,"height":130},
+		{"id":"4b01fd53dc35df24","type":"text","text":"NE\n(Darkest)\n\nAmbushed by large taloned creature","x":285,"y":-795,"width":320,"height":185},
+		{"id":"1634d9b0e0be2b5e","type":"file","file":"Assets/Maps/Wailer Map.png","x":630,"y":-880,"width":295,"height":400}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
