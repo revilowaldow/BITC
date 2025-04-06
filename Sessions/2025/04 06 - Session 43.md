@@ -16,7 +16,7 @@ Secondary transformation
 Cult has a [[Grandmaster]]
 Communicate via the Orbs
 - Cleric/Arcanist
-- Military Leader
+- Military Leader, not Rowan
 - Dog Prince
 - Grandmaster
 
