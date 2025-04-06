@@ -83,7 +83,10 @@ Caenis failed save and went through the door first
 Green tinged glow
 Walls and varnished decked wood
 
-Teleported to the Bar
+Teleported to the Bar [[Mariana]]
+A dangerous renegade has escaped into your world
+
+
 
 
 
