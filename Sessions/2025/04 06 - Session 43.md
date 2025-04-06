@@ -13,3 +13,4 @@ Both [[Minsar Tye]] and the barkeep make gestures as if they were talking but cu
 Has been following [[Rev]] who also experienced the purple star
 Secondary transformation
 
+Cult has a [[Grandmaster]]
