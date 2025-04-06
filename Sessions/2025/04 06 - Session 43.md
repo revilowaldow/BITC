@@ -8,3 +8,6 @@ Disappearances northern forest
 
 Both [[Minsar Tye]] and the barkeep make gestures as if they were talking but cut off
 
+
+[[Kaitan Nour]] has been following [[Rev]]
+Secondary transformation

@@ -207,8 +207,7 @@
               "title": "Hirelings & Mounts"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -456,9 +455,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "65d955b3b74a6eab",
+  "active": "9a0bce52d53f7eeb",
   "lastOpenFiles": [
+    "Setting Rules/Hirelings & Mounts.md",
+    "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2024/06 30 - Session 25.md",
+    "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/05 19 - Session 22.md",
@@ -467,10 +469,8 @@
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2024/02 25 - Session 17.md",
-    "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2025/03 30 - Session 42.md",
     "Factions/Biff Bumble.md",
-    "Setting Rules/Hirelings & Mounts.md",
     "Factions/Aepoptosian Cult/Kaitan Nour.md",
     "Factions/Silver Company/Veronica Ascillan.md",
     "Sessions/2025/02 09 - Session 39.md",
@@ -479,7 +479,6 @@
     "Pasted image 20250112192828.png",
     "Pasted image 20250223184136.png",
     "Wesken.md",
-    "Sessions/2024/07 14 - Session 26.md",
     "Factions/Vermillion Hand/Kana.md",
     "Factions/Helviti/Hundak.md",
     "Locations/Dog Prince Caves.canvas",
