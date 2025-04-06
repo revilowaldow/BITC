@@ -88,6 +88,8 @@ A dangerous renegade has escaped into your world
 Bipedal draconic creature with wings, white
 Abishai, Fiend
 
+(https://5e.tools/img/bestiary/MPMM/White Abishai.webp]
+
 
 
 
