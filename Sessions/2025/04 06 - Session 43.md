@@ -51,5 +51,6 @@ Disappearances
 	Small suppressed nugget of rage and hatred
 	
 Other monsters
-	
+
+Biolumin
 
