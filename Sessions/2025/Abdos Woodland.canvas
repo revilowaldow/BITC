@@ -3,11 +3,11 @@
 		{"id":"16e4e3af3175b989","x":-360,"y":-280,"width":250,"height":151,"type":"text","text":"L (NW)\n\n"},
 		{"id":"f5af5ea568df66b0","x":-200,"y":10,"width":250,"height":60,"type":"text","text":"Stinging Nettles"},
 		{"id":"c5600e6b3d95d695","x":380,"y":240,"width":250,"height":60,"type":"text","text":"Eastern Entrance"},
-		{"id":"4b01fd53dc35df24","x":347,"y":-787,"width":250,"height":135,"type":"text","text":"NE\n(Darkest)"},
-		{"id":"5e09361c6fe2eb4e","x":-133,"y":-787,"width":250,"height":130,"type":"text","text":"NW"},
-		{"id":"d6b84983fbdb8470","x":70,"y":-460,"width":250,"height":151,"type":"text","text":"R (NE)\nTall dense trees"},
+		{"id":"d6b84983fbdb8470","x":70,"y":-440,"width":250,"height":131,"type":"text","text":"R (NE)\nTall dense trees"},
 		{"id":"67e0aa940122f87d","x":-200,"y":180,"width":250,"height":60,"type":"text","text":"Southern Entrance"},
-		{"id":"901d6dd2c9397b81","x":320,"y":-25,"width":250,"height":130,"type":"text","text":"SE"}
+		{"id":"901d6dd2c9397b81","x":320,"y":-25,"width":250,"height":130,"type":"text","text":"SE"},
+		{"id":"4b01fd53dc35df24","x":280,"y":-740,"width":250,"height":135,"type":"text","text":"NE\n(Darkest)"},
+		{"id":"5e09361c6fe2eb4e","x":-110,"y":-740,"width":250,"height":130,"type":"text","text":"NW"}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
