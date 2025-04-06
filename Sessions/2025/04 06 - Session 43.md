@@ -64,6 +64,8 @@ Light from the purple star is still affecting [[Rev]] who was allowed to break f
 
 Aru and Thodunn talk to [[Noky]]
 Asking for assistance with the [[Shrike]]
+250gp
+
 
 
 
