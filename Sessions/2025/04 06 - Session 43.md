@@ -59,7 +59,9 @@ Other monsters
 
 Dust
 
-Light from the purple star is still affecting [[Rev]] who was allowed to break free of Aepoptosis
+Light from the purple star is still affecting [[Rev]] who was allowed to break free of Aepoptosis.
 
+
+Aru and Thodunn talk to [[Noky]]
 
 
