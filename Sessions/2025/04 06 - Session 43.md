@@ -46,7 +46,7 @@ The villagers are helping me
 
 Disappearances
 	Dark Shadow, from tree to tree
+	Noises when deeper in the forest
+Other monsters
 	
-
-
 
