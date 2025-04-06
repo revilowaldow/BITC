@@ -18,3 +18,10 @@ Communicate via the Orbs
 - Cleric/Arcanist
 - Military Leader
 - Dog Prince
+- Grandmaster
+
+Orbs
+
+2 at pit
+1 on Kaulinana
+1 in Helviiti Lockdown
