@@ -47,6 +47,7 @@ The villagers are helping me
 Disappearances
 	Dark Shadow, from tree to tree
 	Noises when deeper in the forest
+	Rev heard them when 'going for a walk'
 Other monsters
 	
 
