@@ -97,6 +97,8 @@ Heading to the Shrike
 
 Took southern entrance into forest 
 
+Hacked apart stinging nettles
+
 
 
 
