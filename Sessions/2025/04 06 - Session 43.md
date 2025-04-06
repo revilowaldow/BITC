@@ -31,6 +31,8 @@ Orbs
 	Dismember people
 Cult is fascinated with us
 
+Doesn't recall [[Rev]] ever introducing herself
+
 
 
 
