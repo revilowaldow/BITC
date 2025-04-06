@@ -85,7 +85,7 @@ Walls and varnished decked wood
 
 Teleported to the Bar [[Mariana]]
 A dangerous renegade has escaped into your world
-
+Bipedal draconic creature with wings, white
 
 
 
