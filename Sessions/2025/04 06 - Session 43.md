@@ -71,7 +71,7 @@ Asking for assistance with the [[Shrike]]
 
 Kaulinan and Caenis talk to [[Chikitan Miasmar]]
 
-
+He leaves, happy with the explanation g
 
 
 
