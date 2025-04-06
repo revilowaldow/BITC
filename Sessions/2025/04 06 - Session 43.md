@@ -10,6 +10,6 @@ Both [[Minsar Tye]] and the barkeep make gestures as if they were talking but cu
 
 
 [[Chikitan Miasmar]] left the cult in the presence of the purple star
-
-has been following [[Rev]]
+Has been following [[Rev]] who also experienced the purple star
 Secondary transformation
+

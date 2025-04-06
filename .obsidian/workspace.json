@@ -221,8 +221,7 @@
               "title": "Hirelings & Mounts"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -470,10 +469,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "46c1c0d61ad892ab",
+  "active": "9a0bce52d53f7eeb",
   "lastOpenFiles": [
-    "Sessions/2025/04 06 - Session 43.md",
     "Setting Rules/Hirelings & Mounts.md",
+    "Sessions/2025/04 06 - Session 43.md",
+    "Factions/Aepoptosian Cult/Chikitan Miasmar.md",
     "Sessions/2024/06 30 - Session 25.md",
     "Sessions/2024/07 14 - Session 26.md",
     "Sessions/2024/06 16 - Session 24.md",
@@ -486,7 +486,6 @@
     "Sessions/2024/02 25 - Session 17.md",
     "Sessions/2025/03 30 - Session 42.md",
     "Factions/Biff Bumble.md",
-    "Factions/Aepoptosian Cult/Chikitan Miasmar.md",
     "Factions/Silver Company/Veronica Ascillan.md",
     "Sessions/2025/02 09 - Session 39.md",
     "Sessions/2025/02 23 - Session 40.md",
