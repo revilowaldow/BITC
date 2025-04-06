@@ -78,7 +78,7 @@ Day 4
 	Refugee, no past, female, dark hair, potentially [[Rev]]
 	Tattooed Dwarf - [[Kaitan Nour]]
 	Disappearances in forest north of Abdos, shepherd and sheep missing
-	Mayor - [[Biff]]
+	Mayor - [[Biff Bumble]]
 	Left spitlizards in Abdos with 12 feed units
 
 	Tavern 

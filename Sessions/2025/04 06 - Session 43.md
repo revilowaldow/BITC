@@ -4,5 +4,5 @@ Any rumors
 
 [[Kaitan Nour]] has been 'helping out around the fisheries'
 
-Disapperances northern forest
+Disappearances northern forest
 
