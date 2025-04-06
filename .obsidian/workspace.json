@@ -27,6 +27,18 @@
             }
           },
           {
+            "id": "e2c0679fed589fa5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250406211313.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250406211313"
+            }
+          },
+          {
             "id": "9a0bce52d53f7eeb",
             "type": "leaf",
             "pinned": true,
@@ -58,7 +70,8 @@
               "title": "03 30 - Session 42"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -306,11 +319,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b1ee8d83f4625c23",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
+    "Pasted image 20250223184136.png",
+    "Sessions/2025/Abdos Woodland.canvas",
     "Pasted image 20250406211313.png",
     "Sessions/2025/04 06 - Session 43.md",
-    "Sessions/2025/Abdos Woodland.canvas",
     "Factions/Helviti/Noki.md",
     "Sessions/2025/03 30 - Session 42.md",
     "Sessions/2024/11 17 - Session 35.md",
@@ -336,7 +350,6 @@
     "Factions/Aepoptosian Cult/Chikitan Miasmar.md",
     "Sessions/2024/07 28 - Session 27.md",
     "Pasted image 20250112192828.png",
-    "Pasted image 20250223184136.png",
     "Locations/Dog Prince Caves.canvas",
     "Assets/Characters/Hundak_Token.png",
     "Locations/Lionhold/Ziardim Caverns.canvas",
@@ -346,7 +359,6 @@
     "Assets/Characters/Kaitan Nour.png",
     "Assets/Characters/Kana.png",
     "Assets/Characters/Calamxis_Token.png",
-    "Assets/Characters/Pasted image 20240211211148.png",
     "Factions/Aepoptosian Cult",
     "Setting Rules/Untitled",
     "Sessions/2025",
