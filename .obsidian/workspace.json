@@ -66,6 +66,20 @@
               "icon": "lucide-file",
               "title": "09 29 - Session 31"
             }
+          },
+          {
+            "id": "2d1d837dbe5d7f1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uzgrad Khat'on.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uzgrad Khat'on"
+            }
           }
         ],
         "currentTab": 3
@@ -320,6 +334,7 @@
   "active": "e1ee1da9460b0eed",
   "lastOpenFiles": [
     "Uzgrad Khat'on.md",
+    "Sessions/2024/09 29 - Session 31.md",
     "Factions/Helviti/Noky.md",
     "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2024/10 20 - Session 33.md",
@@ -344,7 +359,6 @@
     "Factions/Aepoptosian Cult/Grandmaster.md",
     "Deity/Aepoptosis.md",
     "Factions/Helviti/Lion Comanda.md",
-    "Factions/Helviti/List of Commanda.md",
     "Pasted image 20250112192828.png",
     "Pasted image 20250223184136.png",
     "Locations/Dog Prince Caves.canvas",
