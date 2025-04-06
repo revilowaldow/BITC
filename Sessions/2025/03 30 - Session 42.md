@@ -76,7 +76,7 @@ Day 4
 	Guard [[Minsar Tye]]
 	Helviti came by recently, "knuckles" or "nova", wendigo commando
 	Refugee, no past, female, dark hair, potentially [[Rev]]
-	Tattooed Dwarf - [[Kaitan Nour]]
+	Tattooed Dwarf - [[Chikitan Miasmar]]
 	Disappearances in forest north of Abdos, shepherd and sheep missing
 	Mayor - [[Biff Bumble]]
 	Left spitlizards in Abdos with 12 feed units
