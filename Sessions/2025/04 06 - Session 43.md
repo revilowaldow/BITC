@@ -25,3 +25,7 @@ Orbs
 - 1 on Kaulinana
 - 1 in Helviiti Lockdown
 
+[[Kevin Aldragosh]]
+	Reputation
+	Mercenary
+	
