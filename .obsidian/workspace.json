@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -302,8 +302,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb16526fd313c963",
+  "active": "e81668d8135ede7f",
   "lastOpenFiles": [
+    "Setting Rules/Hirelings & Mounts.md",
     "Sessions/2025/03 30 - Session 42.md",
     "Sessions/2025/04 06 - Session 43.md",
     "Factions/Aepoptosian Cult/Kaitan Nour.md",
@@ -341,7 +342,6 @@
     "Jobs/Level 3/Soirée.md",
     "Assets/Characters/Pasted image 20240211211148.png",
     "Factions/Vermillion Hand/Virtelle The Silver Blade.md",
-    "Sessions/2024/11 17 - Session 35.md",
     "Factions/Aepoptosian Cult",
     "Setting Rules/Untitled",
     "Sessions/2025",
