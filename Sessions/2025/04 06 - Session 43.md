@@ -33,7 +33,7 @@ Cult is fascinated with us
 
 Doesn't recall [[Rev]] ever introducing herself
 
-Wendigo Comanada is [[Noky]]
+Wendigo Comanada is [[Noki]]
 Will provide proof of killing the [[shrike]]
 Sold Thodunn the Birdslayer dagger
 
@@ -62,7 +62,7 @@ Dust
 Light from the purple star is still affecting [[Rev]] who was allowed to break free of Aepoptosis.
 
 
-Aru and Thodunn talk to [[Noky]]
+Aru and Thodunn talk to [[Noki]]
 Asking for assistance with the [[Shrike]]
 250gp
 

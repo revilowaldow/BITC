@@ -135,7 +135,7 @@ Need cohesion
 
 As cheap as 40gp, could go as high as 100gp
 
-[[Noky]] - Wendigo's uzgradt
+[[Noki]] - Wendigo's uzgradt
 
 Lurker in the water
 Loathing in the water
