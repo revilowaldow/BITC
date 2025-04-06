@@ -16,8 +16,8 @@
               "state": {
                 "file": "Sessions/2025/Abdos Woodland.canvas",
                 "viewState": {
-                  "x": 288.92769659530137,
-                  "y": -294.83310840040235,
+                  "x": 144.03677585739098,
+                  "y": -260.8152400532408,
                   "zoom": -0.3333333333333334
                 }
               },
@@ -58,8 +58,7 @@
               "title": "03 30 - Session 42"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -307,11 +306,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a0bce52d53f7eeb",
+  "active": "b1ee8d83f4625c23",
   "lastOpenFiles": [
+    "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2025/Abdos Woodland.canvas",
     "Factions/Helviti/Noki.md",
-    "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2025/03 30 - Session 42.md",
     "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2024/11 03 - Session 34.md",
