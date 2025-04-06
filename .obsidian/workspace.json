@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biff Bumble.md",
+                "file": "Factions/Biff Bumble.md",
                 "mode": "source",
                 "source": false
               },
@@ -67,8 +67,7 @@
               "title": "Hirelings & Mounts"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -316,10 +315,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "343db20882fb5141",
+  "active": "9a0bce52d53f7eeb",
   "lastOpenFiles": [
-    "Biff Bumble.md",
     "Sessions/2025/03 30 - Session 42.md",
+    "Factions/Biff Bumble.md",
     "Sessions/2025/04 06 - Session 43.md",
     "Setting Rules/Hirelings & Mounts.md",
     "Factions/Aepoptosian Cult/Kaitan Nour.md",
