@@ -41,6 +41,7 @@ Sold Thodunn the Birdslayer dagger
 Surprised when asked about [[Rev]]
 
 [[Rev]] split personalisties
-The villager are helping me
+The villagers are helping me
+
 
 
