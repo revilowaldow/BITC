@@ -50,7 +50,7 @@ Koboldcap
 	Black room with mirror just looking at self in mirror and at wound
 [[Thodunn]]
 	Walking over crest of hill, looking over Abdos, in ruin
-	Shriker causing chaos
+	[[Shrike]] causing chaos
 	Pulled back by Piggy "don't forget about the bronze"
 	Blackness as part of that dream, empty of stimulus
 

@@ -1,3 +1,3 @@
 Wendigo's [[Uzgrad Khat'on]]
 
-Will provide proof of killing the SHrike if he does so 
+Will provide proof of killing the [[Shrike]] if he does so 

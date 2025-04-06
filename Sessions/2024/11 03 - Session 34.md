@@ -56,7 +56,7 @@ Stargazing in Matchaka
 
 Things to look for guidance on
 - Ombak
-- Shriker
+- [[Shrike]]
 - Dyvarre
 - Palantir
 
