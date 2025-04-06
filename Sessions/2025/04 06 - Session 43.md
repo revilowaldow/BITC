@@ -34,7 +34,9 @@ Cult is fascinated with us
 Doesn't recall [[Rev]] ever introducing herself
 
 Wendigo Comanada is [[Noky]]
-Will provide proof of killing the shrike 
+Will provide proof of killing the shrike
+Sold Thodunn the Birdslayer dagger
+
 
 
 
