@@ -48,6 +48,8 @@ Disappearances
 	Dark Shadow, from tree to tree
 	Noises when deeper in the forest
 	Rev heard them when 'going for a walk'
+	Small suppressed nugget of rage and hatred
+	
 Other monsters
 	
 
