@@ -79,6 +79,8 @@ Kaulinan hires Noky for 250gp
 
 Headed to the Grove
 
+Caenis failed save and went through the door first
+Green tinged glow
 
 
 
