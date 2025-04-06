@@ -14,3 +14,7 @@ Has been following [[Rev]] who also experienced the purple star
 Secondary transformation
 
 Cult has a [[Grandmaster]]
+Communicate via the Orbs
+- Cleric/Arcanist
+- Military Leader
+- Dog Prince
