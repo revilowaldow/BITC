@@ -53,8 +53,7 @@
               "title": "Hirelings & Mounts"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -302,10 +301,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e81668d8135ede7f",
+  "active": "9a0bce52d53f7eeb",
   "lastOpenFiles": [
-    "Setting Rules/Hirelings & Mounts.md",
     "Sessions/2025/03 30 - Session 42.md",
+    "Setting Rules/Hirelings & Mounts.md",
     "Sessions/2025/04 06 - Session 43.md",
     "Factions/Aepoptosian Cult/Kaitan Nour.md",
     "Factions/Silver Company/Veronica Ascillan.md",
