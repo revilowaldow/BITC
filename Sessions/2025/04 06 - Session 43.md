@@ -93,6 +93,8 @@ Abishai, Fiend
 600gp reward, 100gp paid up front
 Rest OR magic item on return.
 
+Heading to the Shrike
+
 
 
 
