@@ -56,6 +56,8 @@ Other monsters
 	Trolls
 	Long tain, leathery wings
 	Small creature
-	
+
+Dust
+
 
 
