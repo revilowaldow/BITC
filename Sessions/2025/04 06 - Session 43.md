@@ -21,8 +21,7 @@ Communicate via the Orbs
 - Grandmaster
 
 Orbs
-
-2 at pit
-1 on Kaulinana
-1 in Helviiti Lockdown
+- 2 at pit
+- 1 on Kaulinana
+- 1 in Helviiti Lockdown
 
