@@ -59,5 +59,5 @@ Other monsters
 
 Dust
 
-
+Light from the purple star is still affecting [[Rev]]
 
