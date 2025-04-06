@@ -28,4 +28,7 @@ Orbs
 [[Kevin Aldragosh]]
 	Reputation
 	Mercenary
-	
+	Dismember people
+
+Cult is fascinated with us
+
