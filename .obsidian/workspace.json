@@ -8,6 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9a0bce52d53f7eeb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025/04 06 - Session 43.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "04 06 - Session 43"
+            }
+          },
+          {
             "id": "e81668d8135ede7f",
             "type": "leaf",
             "pinned": true,
@@ -22,103 +38,8 @@
               "icon": "lucide-file",
               "title": "03 30 - Session 42"
             }
-          },
-          {
-            "id": "37534a54f911467e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2025/03 09 - Session 41.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 09 - Session 41"
-            }
-          },
-          {
-            "id": "5c37e9c6b14796d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2025/02 23 - Session 40.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 23 - Session 40"
-            }
-          },
-          {
-            "id": "cc56b79976049019",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2025/02 09 - Session 39.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 09 - Session 39"
-            }
-          },
-          {
-            "id": "df3df66e820733f1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "5d6eb07783d3c057",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Veronica Ascillan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Veronica Ascillan"
-            }
-          },
-          {
-            "id": "e297c33ce68fbb64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Aepoptosian Cult/Kaitan Nour.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kaitan Nour"
-            }
-          },
-          {
-            "id": "9a0bce52d53f7eeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2025/04 06 - Session 43.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 06 - Session 43"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -366,19 +287,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc56b79976049019",
+  "active": "9a0bce52d53f7eeb",
   "lastOpenFiles": [
+    "Sessions/2025/03 30 - Session 42.md",
+    "Factions/Aepoptosian Cult/Kaitan Nour.md",
+    "Factions/Silver Company/Veronica Ascillan.md",
+    "Sessions/2025/02 09 - Session 39.md",
     "Sessions/2025/02 23 - Session 40.md",
     "Sessions/2025/03 09 - Session 41.md",
-    "Sessions/2025/03 30 - Session 42.md",
     "Sessions/2025/04 06 - Session 43.md",
-    "Factions/Aepoptosian Cult/Kaitan Nour.md",
     "Pasted image 20250112192828.png",
     "Pasted image 20250223184136.png",
-    "Factions/Silver Company/Veronica Ascillan.md",
     "Wesken.md",
     "Sessions/2024/07 14 - Session 26.md",
-    "Sessions/2025/02 09 - Session 39.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Factions/Vermillion Hand/Kana.md",
     "Factions/Helviti/Hundak.md",
