@@ -99,7 +99,14 @@ Took southern entrance into forest
 
 Hacked apart stinging nettles
 
+
 ![[Abdos Woodland.canvas]]
+
+Marching order
+- Thodunn
+- Kaulinan
+- Caenis
+- 
 
 
 
