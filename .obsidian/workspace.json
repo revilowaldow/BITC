@@ -16,26 +16,14 @@
               "state": {
                 "file": "Sessions/2025/Abdos Woodland.canvas",
                 "viewState": {
-                  "x": 471.61624883005794,
-                  "y": -317.51168729851014,
+                  "x": 329.2451701919373,
+                  "y": -277.1942137018742,
                   "zoom": -0.3333333333333334
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Abdos Woodland"
-            }
-          },
-          {
-            "id": "e2c0679fed589fa5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250406211313.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250406211313"
             }
           },
           {
@@ -70,8 +58,7 @@
               "title": "03 30 - Session 42"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -319,11 +306,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "b1ee8d83f4625c23",
   "lastOpenFiles": [
+    "Assets/Maps/Wailer Map.png",
     "Pasted image 20250223184136.png",
     "Sessions/2025/Abdos Woodland.canvas",
-    "Pasted image 20250406211313.png",
     "Sessions/2025/04 06 - Session 43.md",
     "Factions/Helviti/Noki.md",
     "Sessions/2025/03 30 - Session 42.md",

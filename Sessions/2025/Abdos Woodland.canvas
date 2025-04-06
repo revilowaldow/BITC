@@ -8,7 +8,7 @@
 		{"id":"901d6dd2c9397b81","x":320,"y":-25,"width":250,"height":130,"type":"text","text":"SE"},
 		{"id":"5e09361c6fe2eb4e","x":-110,"y":-740,"width":250,"height":130,"type":"text","text":"NW"},
 		{"id":"4b01fd53dc35df24","x":285,"y":-795,"width":320,"height":185,"type":"text","text":"NE\n(Darkest)\n\nAmbushed by large taloned creature"},
-		{"id":"1634d9b0e0be2b5e","x":630,"y":-880,"width":295,"height":400,"type":"file","file":"Wailer Map.png"}
+		{"id":"1634d9b0e0be2b5e","x":630,"y":-880,"width":295,"height":400,"type":"file","file":"Assets/Maps/Wailer Map.png"}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
