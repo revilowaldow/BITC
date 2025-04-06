@@ -40,8 +40,13 @@ Sold Thodunn the Birdslayer dagger
 [[Dravis]] weaver leader
 Surprised when asked about [[Rev]]
 
-[[Rev]] split personalisties
+[[Rev]] split personalities
 The villagers are helping me
+
+
+Disappearances
+	Dark Shadow, from tree to tree
+	
 
 
 
