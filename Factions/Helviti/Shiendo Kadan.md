@@ -1,4 +1,4 @@
-Leader of Cobolt Comanda
+Leader of Cobalt Comanda
 Formal Armored individual with facial cuts, human
 
 Disaster
