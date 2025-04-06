@@ -4,7 +4,7 @@
 		{"id":"16e4e3af3175b989","x":-360,"y":-280,"width":250,"height":151,"type":"text","text":"L (NW)\n\n"},
 		{"id":"f5af5ea568df66b0","x":-200,"y":10,"width":250,"height":60,"type":"text","text":"Stinging Nettles"},
 		{"id":"d6b84983fbdb8470","x":0,"y":-280,"width":250,"height":151,"type":"text","text":"R (NE)\nTall dense trees"},
-		{"id":"c5600e6b3d95d695","x":340,"y":10,"width":250,"height":60,"type":"text","text":"Eastern Entrance"}
+		{"id":"c5600e6b3d95d695","x":250,"y":10,"width":250,"height":60,"type":"text","text":"Eastern Entrance"}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
