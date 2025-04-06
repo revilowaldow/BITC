@@ -106,7 +106,8 @@ Marching order
 - Thodunn
 - Kaulinan
 - Caenis
-- 
+- Noky
+- Aru + Vrin
 
 
 
