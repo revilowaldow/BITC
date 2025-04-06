@@ -52,5 +52,10 @@ Disappearances
 	
 Other monsters
 
-Biolumin
+	Bioluminescent Grove
+	Trolls
+	Long tain, leathery wings
+	Small creature
+	
+
 
