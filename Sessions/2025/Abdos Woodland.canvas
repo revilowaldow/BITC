@@ -1,17 +1,17 @@
 {
 	"nodes":[
-		{"id":"67e0aa940122f87d","x":-200,"y":140,"width":250,"height":60,"type":"text","text":"Southern Entrance"},
 		{"id":"16e4e3af3175b989","x":-360,"y":-280,"width":250,"height":151,"type":"text","text":"L (NW)\n\n"},
 		{"id":"f5af5ea568df66b0","x":-200,"y":10,"width":250,"height":60,"type":"text","text":"Stinging Nettles"},
-		{"id":"d6b84983fbdb8470","x":100,"y":-460,"width":250,"height":151,"type":"text","text":"R (NE)\nTall dense trees"},
-		{"id":"4b01fd53dc35df24","x":347,"y":-755,"width":250,"height":60,"type":"text","text":"NE"},
-		{"id":"5e09361c6fe2eb4e","x":-133,"y":-750,"width":250,"height":60,"type":"text","text":"NW"},
-		{"id":"901d6dd2c9397b81","x":320,"y":10,"width":250,"height":60,"type":"text","text":"SE"},
-		{"id":"c5600e6b3d95d695","x":380,"y":240,"width":250,"height":60,"type":"text","text":"Eastern Entrance"}
+		{"id":"c5600e6b3d95d695","x":380,"y":240,"width":250,"height":60,"type":"text","text":"Eastern Entrance"},
+		{"id":"4b01fd53dc35df24","x":347,"y":-787,"width":250,"height":135,"type":"text","text":"NE\n(Darkest)"},
+		{"id":"5e09361c6fe2eb4e","x":-133,"y":-787,"width":250,"height":130,"type":"text","text":"NW"},
+		{"id":"d6b84983fbdb8470","x":70,"y":-460,"width":250,"height":151,"type":"text","text":"R (NE)\nTall dense trees"},
+		{"id":"67e0aa940122f87d","x":-200,"y":180,"width":250,"height":60,"type":"text","text":"Southern Entrance"},
+		{"id":"901d6dd2c9397b81","x":320,"y":-25,"width":250,"height":130,"type":"text","text":"SE"}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
-		{"id":"da46b9e71de8f30b","fromNode":"f5af5ea568df66b0","fromSide":"top","toNode":"d6b84983fbdb8470","toSide":"bottom"},
+		{"id":"da46b9e71de8f30b","fromNode":"f5af5ea568df66b0","fromSide":"top","toNode":"d6b84983fbdb8470","toSide":"bottom","label":"5 minutes"},
 		{"id":"e1a77f2d82026738","fromNode":"f5af5ea568df66b0","fromSide":"top","toNode":"16e4e3af3175b989","toSide":"bottom"},
 		{"id":"b8757eac0dd78903","fromNode":"d6b84983fbdb8470","fromSide":"top","toNode":"4b01fd53dc35df24","toSide":"bottom"},
 		{"id":"47ccedddd086cf15","fromNode":"d6b84983fbdb8470","fromSide":"bottom","toNode":"901d6dd2c9397b81","toSide":"top"},
