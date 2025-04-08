@@ -60,13 +60,11 @@ Each contestant is a powerful personality—volatile, secretive, or ruthless. Th
 <hr>
 ### _The Cellar Showdown_
 
-The party tracks the pepper to the **Fermentation Cellar**—a damp, mystical chamber where flavour is aged in a great number of experimental vats, some long forgotten.
+Following the trail of clues—tempered vault seals, a counterfeit ingredient requisition form, and suspicious activity around the cellar—the party is led to the **Fermentation Cellar**, a shadowy, cavernous undercroft of ancient barrels, glass tubes, and pungent arcane vapors.
 
-They find the thief: **Sousette Vorn**, working with an outsider—a spice-spirited homunculus—trying to **infuse herself** with the Aether Pepper to create a dish only she can make.
+There, they find **Sousette Vorn**, not alone, but flanked by **agents of the Merrowstone Consortium**—a powerful merchant faction that supplies rare ingredients, controls several food markets, and has long desired more influence in the Cooking Association.
 
-**Combat Setup**:
+Sousette, clever and calculating, isn’t trying to keep the Aether Pepper—she’s **staging its dramatic “discovery”**, timed to coincide with her **final trial dish**, hoping to present herself as the savior of the competition and curry favor with Palanda Macav.
 
-- **Sousette**, who uses culinary magic in battle—scalding soufflés, binding noodle whips, flavor-based enchantments.
-- **The Homunculus**, a spice-elemental creature with area-of-effect "aroma bursts" and spice-based conditions (blind, cough, hallucinate).
-- Environmental hazards: tipping barrels, volatile fermentation gas, boiling vats.
+> Her true goal: become the new Sous Chef and broker an exclusive supply contract with the Merrowstone Consortium, which would grant them inside control over the guild’s procurement and distribution chains.
 
