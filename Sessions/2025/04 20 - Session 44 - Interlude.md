@@ -58,7 +58,7 @@ Each contestant is a powerful personality—volatile, secretive, or ruthless. Th
 5. **Fayne Lurrek** – Alchemical cook, obsessed with culinary purity. Found burned notes in her locker.
 
 <hr>
-### _The Cellar Showdown_
+### _The Cellar Showdown / “Spoiled Ambitions”_
 
 Following the trail of clues—tempered vault seals, a counterfeit ingredient requisition form, and suspicious activity around the cellar—the party is led to the **Fermentation Cellar**, a shadowy, cavernous undercroft of ancient barrels, glass tubes, and pungent arcane vapors.
 
@@ -76,3 +76,14 @@ Sousette, clever and calculating, isn’t trying to keep the Aether Pepper—she
 - **Fermentation fumes**: Fire or sparks may cause minor explosions.
 - **Slippery walkways**: Dexterity saves to avoid spills or be knocked into brewing vats.
 - **Reactive mushrooms**: If damaged, release confusion-inducing spores (Con saves or hallucinations).
+
+<hr>
+
+### _The Trials End_
+
+Whether or not they recover the Aether Pepper intact, the party returns to Palanda Macav as the trials conclude.
+
+- **If successful**, the pepper is added to the final ceremony.
+- **If they fail**, the trials are marred, and Macav may blame them or turn the fallout into a lesson on adaptability.
+
+> A touching or climactic moment may centre around the party’s **Saucier**, who gets a secret offer from Macav: mentorship, a signature recipe, or even a coveted kitchen knife artifact.
