@@ -15,11 +15,11 @@ Should the party succeed they will be handsomely rewarded, though the Head Chef 
 <hr>
 ### ### Scene 1: _A Summons to the Kitchen_
 
-**The party arrives** at [[The Cooking Association]]'s grand hall in late evening, a squat campus of packed earth and polished stone, kitchens, gardens, and vaults. [[Palanda Macav]] meets them privately in his smoke-swirled office.
+**The party arrives** at [[The Cooking Association]]'s grand hall just before dawn, a squat campus of packed earth and polished stone, kitchens, gardens, and vaults. [[Palanda Macav]] meets them privately in his smoke-swirled office.
 
 - He informs them the **Aether Pepper** is missing from the **Vault of Infusions**.
 - The **trials are already underway**, and the participants cannot know of the theft—maintaining morale and the legitimacy of the process is paramount.
 - They are authorized to **investigate, interview (carefully), and report** any misconduct.
-- The trials conclude  **four hours**—a strict deadline.
+- The trials are to conclude that evening after a day of meals have been served—a strict deadline.
 
 > "A pepper can burn, or it can elevate. Let's see which way this mystery will go. Return the Aether Pepper before the feast bell, and you’ll have earned more than my gratitude."
