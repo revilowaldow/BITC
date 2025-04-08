@@ -81,9 +81,9 @@ Sousette, clever and calculating, isn’t trying to keep the Aether Pepper—she
 
 ### _The Trials End_
 
-Whether or not they recover the Aether Pepper intact, the party returns to Palanda Macav as the trials conclude.
+Whether or not they recover the Aether Pepper intact, the party returns to [[Palanda Macav]] as the trials conclude.
 
-- **If successful**, the pepper is added to the final ceremony.
-- **If they fail**, the trials are marred, and Macav may blame them or turn the fallout into a lesson on adaptability.
+- **If successful**, the pepper is added to the final ceremony, Sousette does not compete.
+- **If they fail**, the trials are marred, and Macav may blame them damaging relations between the guild and the silver company or turn the fallout into a lesson on adaptability.
 
-> A touching or climactic moment may centre around the party’s **Saucier**, who gets a secret offer from Macav: mentorship, a signature recipe, or even a coveted kitchen knife artifact.
+> Reward for [[Caenis]] 
