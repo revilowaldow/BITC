@@ -68,7 +68,7 @@ Sousette, clever and calculating, isn’t trying to keep the Aether Pepper—she
 
 > Her true goal: become the new Sous Chef and broker an exclusive supply contract with the , which would grant them inside control over the guild’s procurement and distribution chains.
 
-
+[[Candaria Malain]]
 #### Combat
 - Sousette: Goblin Hexer 2025 MM
 - Two Bugbear Lieutenants TftYP (reflavour race)
