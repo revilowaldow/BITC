@@ -47,26 +47,12 @@ From here, the party can explore the building to gather more clues:
 ### _Interviewing the Chefs_
 
 Each contestant is a powerful personality—volatile, secretive, or ruthless. They each:
-
 - Have something to hide (even if not the theft)
 - Are under pressure
 - May try to **manipulate the party**
 
-**Sample Contestants** (you can expand or swap):
-
-1. **Chef Ezzar Brinn** – Cloud-cooking wizard. Eccentric, forgetful, aloof. (Dust clue)
-    
+1. **Ezzar Brinn** – Cloud-cooking wizard. Eccentric, forgetful, aloof. (Dust clue)
 2. **Sousette Vorn** – Sharp, political, and cunning. Possibly orchestrating sabotage… but not this theft.
-    
 3. **Brogg Mauldine** – Orc butcher, surprisingly gentle. Hates liars and is oddly philosophical.
-    
 4. **Mirl Saffra** – Spicesmith bard who’s been missing a vial of dreamroot (a mild hallucinogen).
-    
 5. **Fayne Lurrek** – Alchemical cook, obsessed with culinary purity. Found burned notes in her locker.
-    
-6. **Tib the Tiny** – Gnome, enormous ego. Claims “someone” is stealing _his_ ingredients, too.
-    
-
-Some contestants may start turning on each other if the party slips up or plants the idea of sabotage.
-
-> Roleplay checks (Insight, Deception, Persuasion) help extract information without blowing the secret.
