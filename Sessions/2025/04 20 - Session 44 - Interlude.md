@@ -60,7 +60,7 @@ Each contestant is a powerful personality—volatile, secretive, or ruthless. Th
 <hr>
 ### _The Cellar Showdown_
 
-Following the clues, the party tracks the pepper to the **Fermentation Cellar**—a damp, mystical chamber where flavor is aged magically.
+The party tracks the pepper to the **Fermentation Cellar**—a damp, mystical chamber where flavour is aged in a great number of experimental vats, some long forgotten.
 
 They find the **true thief**: **Sousette Vorn**, working with an outsider—a spice-spirited homunculus—trying to **infuse herself** with the Aether Pepper to create a dish only she can make.
 
