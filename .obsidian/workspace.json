@@ -12,18 +12,11 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Sessions/2025/Abdos Woodland.canvas",
-                "viewState": {
-                  "x": 329.2451701919373,
-                  "y": -277.1942137018742,
-                  "zoom": -0.3333333333333334
-                }
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Abdos Woodland"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -351,16 +344,16 @@
   },
   "active": "b96a72d616ab01d6",
   "lastOpenFiles": [
-    "Locations/Battle of Looming Rock.md",
-    "Sessions/2025/04 20 - Session 44 - Interlude.md",
-    "Factions/The Cooking Association/Palanda Macav.md",
     "Factions/The Cooking Association/The Cooking Association.md",
+    "Factions/The Cooking Association/Palanda Macav.md",
+    "Sessions/2025/03 30 - Session 42.md",
+    "Sessions/2025/04 20 - Session 44 - Interlude.md",
+    "Locations/Battle of Looming Rock.md",
     "Locations/Abdos Woodland.canvas",
     "Assets/Maps/Wailer Map.png",
     "Pasted image 20250223184136.png",
     "Sessions/2025/04 06 - Session 43.md",
     "Factions/Helviti/Noki.md",
-    "Sessions/2025/03 30 - Session 42.md",
     "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2024/09 29 - Session 31.md",
