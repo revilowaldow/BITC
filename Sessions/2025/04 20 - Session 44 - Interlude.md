@@ -52,7 +52,7 @@ Each contestant is a powerful personality—volatile, secretive, or ruthless. Th
 - May try to **manipulate the party**
 
 1. **Ezzar Brinn** – Cloud-cooking wizard. Eccentric, forgetful, aloof. (Dust clue)
-2. **Sousette Vorn** – Sharp, political, and cunning. Possibly orchestrating sabotage… 
+2. [[**Sousette Vorn**]] – Sharp, political, and cunning. Possibly orchestrating sabotage… 
 3. **Brogg Mauldine** – Orc butcher, surprisingly gentle. Hates liars and is oddly philosophical.
 4. **Mirl Saffra** – Spicesmith bard who’s been missing a vial of dreamroot (a mild hallucinogen).
 5. **Fayne Lurrek** – Alchemical cook, obsessed with culinary purity. Found burned notes in her locker.
@@ -62,9 +62,11 @@ Each contestant is a powerful personality—volatile, secretive, or ruthless. Th
 
 Following the trail of clues—tempered vault seals, a counterfeit ingredient requisition form, and suspicious activity around the cellar—the party is led to the **Fermentation Cellar**, a shadowy, cavernous undercroft of ancient barrels, glass tubes, and pungent arcane vapors.
 
-There, they find **Sousette Vorn**, not alone, but flanked by **agents of the [[Merrowstone Consortium]]**—a powerful merchant faction that supplies rare ingredients, controls several food markets, and has long desired more influence in the Cooking Association.
+There, they find [[**Sousette Vorn**]], not alone, but flanked by **agents of the [[Merrowstone Consortium]]**—a powerful merchant faction that supplies rare ingredients, controls several food markets, and has long desired more influence in the Cooking Association.
 
 Sousette, clever and calculating, isn’t trying to keep the Aether Pepper—she’s **staging its dramatic “discovery”**, timed to coincide with her **final trial dish**, hoping to present herself as the saviour of the competition and curry flavour with [[Palanda Macav]].
 
 > Her true goal: become the new Sous Chef and broker an exclusive supply contract with the Merrowstone Consortium, which would grant them inside control over the guild’s procurement and distribution chains.
+
+#### Combat
 
