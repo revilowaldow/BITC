@@ -13,7 +13,7 @@ Use [[Utu]]?
 
 Thodunn training militia
 
-Aru learning to ride a horse
+[[Aru of the Sands]]  learning to ride a horse
 Horse is called Cloud
 Belongs to [[Virtelle]]
 

@@ -6,4 +6,4 @@ Head Chef Master [[Palanda Macav]] is holding trials for his immediate followers
 
 But trouble is brewing, opportunists seek to sabotage their competitors, and worse yet, the mark of station that is to be bestowed; the Aether Pepper, has been stolen.
 
-The Silver Company find their downtime urgently interrupted, with no time to recall Kaulinan from his stargazing, [[Kevin Aldragosh]] directs [[Aru of the Sands]] [[Aru]]
+The Silver Company find their downtime urgently interrupted, with no time to recall Kaulinan from his stargazing, [[Kevin Aldragosh]] directs [[Aru of the Sands]] 

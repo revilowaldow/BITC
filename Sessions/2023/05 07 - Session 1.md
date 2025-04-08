@@ -83,7 +83,7 @@ Key held by Jovil
 Half Orc Comanda - disillusioned with leadership
 
 
-Aru given Falx by Jovil
+[[Aru of the Sands]]  given Falx by Jovil
 
 Enter into the [[Mine Layout.canvas]]
 

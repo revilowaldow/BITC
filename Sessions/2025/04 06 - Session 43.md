@@ -107,7 +107,7 @@ Marching order
 - Kaulinan
 - Caenis
 - Noky
-- Aru + Vrin
+- [[Aru of the Sands]]  + Vrin
 
 
 

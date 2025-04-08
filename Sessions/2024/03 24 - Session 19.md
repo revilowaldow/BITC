@@ -45,7 +45,7 @@ Dreams:
 		injuries sustained
 		kaulinan on floor
 		[[Kana]] and fighting what could he have done better
-	Aru
+	[[Aru of the Sands]] 
 		Vrin being tossed off podium, anger hatred sadness fear
 		Vrin being held, dread of loss and warmth glowing as Vrin is healed
 		"But those who understand the bond that tie two comrades"

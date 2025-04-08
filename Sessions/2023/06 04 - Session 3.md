@@ -41,7 +41,7 @@ Deep crawlers do not attack if you keep your distance
 
 
 Resting:
-- [[Aru]] has a nice night
+- [[Aru of the Sands]] has a nice night
 - [[Amaranth Hand]] slept well
 - [[Kaulinan]] bad night dreams
 	- Grove leaves are black and dried up

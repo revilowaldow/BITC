@@ -26,7 +26,7 @@ Chimeria unhappy about being summoned, waiting for leaders to return
 
 Search through [[Vixel]]'s belongings with THodunn
 
-Aru gone to baths and to see [[Elder Jimbolee]]
+[[Aru of the Sands]]  gone to baths and to see [[Elder Jimbolee]]
 Man from last time was a dragon
 
 Wendigo Comanda kill if dragon
