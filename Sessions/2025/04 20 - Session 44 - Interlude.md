@@ -52,7 +52,7 @@ Each contestant is a powerful personality—volatile, secretive, or ruthless. Th
 - May try to **manipulate the party**
 
 1. **Ezzar Brinn** – Cloud-cooking wizard. Eccentric, forgetful, aloof. (Dust clue)
-2. **Sousette Vorn** – Sharp, political, and cunning. Possibly orchestrating sabotage… but not this theft.
+2. **Sousette Vorn** – Sharp, political, and cunning. Possibly orchestrating sabotage… 
 3. **Brogg Mauldine** – Orc butcher, surprisingly gentle. Hates liars and is oddly philosophical.
 4. **Mirl Saffra** – Spicesmith bard who’s been missing a vial of dreamroot (a mild hallucinogen).
 5. **Fayne Lurrek** – Alchemical cook, obsessed with culinary purity. Found burned notes in her locker.
@@ -62,7 +62,7 @@ Each contestant is a powerful personality—volatile, secretive, or ruthless. Th
 
 The party tracks the pepper to the **Fermentation Cellar**—a damp, mystical chamber where flavour is aged in a great number of experimental vats, some long forgotten.
 
-They find the **true thief**: **Sousette Vorn**, working with an outsider—a spice-spirited homunculus—trying to **infuse herself** with the Aether Pepper to create a dish only she can make.
+They find the thief: **Sousette Vorn**, working with an outsider—a spice-spirited homunculus—trying to **infuse herself** with the Aether Pepper to create a dish only she can make.
 
 **Combat Setup**:
 
