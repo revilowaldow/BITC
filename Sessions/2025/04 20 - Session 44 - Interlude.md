@@ -71,3 +71,5 @@ Sousette, clever and calculating, isn’t trying to keep the Aether Pepper—she
 #### Combat
 
 Sousette: Goblin Hexer 2025 MM
+Two Bugbear Lieutenants TftYP (reflavour race)
+Poison Weird from disturbed barrel
