@@ -66,7 +66,8 @@ There, they find [[**Sousette Vorn**]], not alone, but flanked by **agents of th
 
 Sousette, clever and calculating, isn’t trying to keep the Aether Pepper—she’s **staging its dramatic “discovery”**, timed to coincide with her **final trial dish**, hoping to present herself as the saviour of the competition and curry flavour with [[Palanda Macav]].
 
-> Her true goal: become the new Sous Chef and broker an exclusive supply contract with the Merrowstone Consortium, which would grant them inside control over the guild’s procurement and distribution chains.
+> Her true goal: become the new Sous Chef and broker an exclusive supply contract with the , which would grant them inside control over the guild’s procurement and distribution chains.
+
 
 #### Combat
 - Sousette: Goblin Hexer 2025 MM
