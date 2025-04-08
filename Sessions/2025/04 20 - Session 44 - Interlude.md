@@ -13,7 +13,7 @@ The Silver Company find their downtime urgently interrupted, with no time to rec
 Should the party succeed they will be handsomely rewarded, though the Head Chef has something special to offer for the young *Saucier* in the party.
 
 <hr>
-### ### Scene 1: _A Summons to the Kitchen_
+###  _A Summons to the Kitchen_
 
 **The party arrives** at [[The Cooking Association]]'s grand hall just before dawn, a squat campus of packed earth and polished stone, kitchens, gardens, and vaults. [[Palanda Macav]] meets them privately in his smoke-swirled office.
 
@@ -24,3 +24,20 @@ Should the party succeed they will be handsomely rewarded, though the Head Chef 
 
 > "A pepper can elevate, or it can spoil a promising dish. Return the *Aether Pepper* before the feast bell, and you’ll have earned more than my gratitude."
 
+<hr>
+
+### _The Vault & The Clues_
+
+**The Vault of Infusions** shows no signs of brute force entry. Magical security is intact. But:
+
+- **Arcana Check**: Someone used **minor planar manipulation magic** to phase through briefly.
+- **Investigation**: A stray speck of a strange, iridescent flour—common in **Chef Ezzar's "Cloud Bread" technique**.
+- **Footprints**: Traces of spice dust lead through a **service corridor**, connecting to the contestants’ lounge and kitchens.
+
+The party discover the **contestants’ personal ingredients** are stored in magically-sealed lockers—one locker is tampered with.
+
+From here, the party can explore the building to gather more clues:
+- **The Experimental Kitchens**
+- **The Tea Garden (a place of quiet meditation)**
+- **The Fermentation Cellar**
+- **Observation Gallery**, where VIPs and sponsors watch
