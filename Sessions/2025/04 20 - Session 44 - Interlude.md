@@ -86,4 +86,5 @@ Whether or not they recover the Aether Pepper intact, the party returns to [[Pal
 - **If successful**, the pepper is added to the final ceremony, Sousette does not compete.
 - **If they fail**, the trials are marred, and Macav may blame them damaging relations between the guild and the silver company or turn the fallout into a lesson on adaptability.
 
-> Reward for [[Caenis]] 
+> Reward for [[Caenis]]? Jacket of Prestige? Guild Rank? Restaurant?
+> Reward for party - meal vouchers
