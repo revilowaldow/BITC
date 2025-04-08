@@ -56,3 +56,17 @@ Each contestant is a powerful personality—volatile, secretive, or ruthless. Th
 3. **Brogg Mauldine** – Orc butcher, surprisingly gentle. Hates liars and is oddly philosophical.
 4. **Mirl Saffra** – Spicesmith bard who’s been missing a vial of dreamroot (a mild hallucinogen).
 5. **Fayne Lurrek** – Alchemical cook, obsessed with culinary purity. Found burned notes in her locker.
+
+<hr>
+### _The Cellar Showdown_
+
+Following the clues, the party tracks the pepper to the **Fermentation Cellar**—a damp, mystical chamber where flavor is aged magically.
+
+They find the **true thief**: **Sousette Vorn**, working with an outsider—a spice-spirited homunculus—trying to **infuse herself** with the Aether Pepper to create a dish only she can make.
+
+**Combat Setup**:
+
+- **Sousette**, who uses culinary magic in battle—scalding soufflés, binding noodle whips, flavor-based enchantments.
+- **The Homunculus**, a spice-elemental creature with area-of-effect "aroma bursts" and spice-based conditions (blind, cough, hallucinate).
+- Environmental hazards: tipping barrels, volatile fermentation gas, boiling vats.
+
