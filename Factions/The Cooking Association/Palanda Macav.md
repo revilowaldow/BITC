@@ -1,4 +1,4 @@
-Human male in ornamented armor
+Human male in ornamented armour
 
-Head Chef Master
+Head Chef Master of [[The Cooking Association]]
 

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1ee8d83f4625c23",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "0b10456ec10680f4",
             "type": "leaf",
             "state": {
@@ -94,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -344,10 +332,10 @@
   },
   "active": "b96a72d616ab01d6",
   "lastOpenFiles": [
-    "Factions/The Cooking Association/The Cooking Association.md",
     "Factions/The Cooking Association/Palanda Macav.md",
-    "Sessions/2025/03 30 - Session 42.md",
     "Sessions/2025/04 20 - Session 44 - Interlude.md",
+    "Factions/The Cooking Association/The Cooking Association.md",
+    "Sessions/2025/03 30 - Session 42.md",
     "Locations/Battle of Looming Rock.md",
     "Locations/Abdos Woodland.canvas",
     "Assets/Maps/Wailer Map.png",
