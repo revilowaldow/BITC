@@ -1,3 +1,3 @@
 
-Lead by the [[Paladar Macav]] Head Chef Master 
+Lead by the [[Palanda Macav]] Head Chef Master 
 

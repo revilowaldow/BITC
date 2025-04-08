@@ -24,6 +24,7 @@
           {
             "id": "b96a72d616ab01d6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -31,6 +32,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "04 20 - Session 44 - Interlude"
             }
@@ -63,22 +65,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "04 06 - Session 43"
-            }
-          },
-          {
-            "id": "e81668d8135ede7f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2025/03 30 - Session 42.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03 30 - Session 42"
             }
           }
         ],
@@ -332,15 +318,15 @@
   },
   "active": "b96a72d616ab01d6",
   "lastOpenFiles": [
-    "Factions/The Cooking Association/Palanda Macav.md",
-    "Sessions/2025/04 20 - Session 44 - Interlude.md",
     "Factions/The Cooking Association/The Cooking Association.md",
+    "Sessions/2025/04 20 - Session 44 - Interlude.md",
+    "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2025/03 30 - Session 42.md",
+    "Factions/The Cooking Association/Palanda Macav.md",
     "Locations/Battle of Looming Rock.md",
     "Locations/Abdos Woodland.canvas",
     "Assets/Maps/Wailer Map.png",
     "Pasted image 20250223184136.png",
-    "Sessions/2025/04 06 - Session 43.md",
     "Factions/Helviti/Noki.md",
     "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2024/11 03 - Session 34.md",
