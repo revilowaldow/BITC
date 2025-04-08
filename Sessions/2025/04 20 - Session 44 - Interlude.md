@@ -52,7 +52,7 @@ Each contestant is a powerful personality—volatile, secretive, or ruthless. Th
 - May try to **manipulate the party**
 
 1. **Ezzar Brinn** – Cloud-cooking wizard. Eccentric, forgetful, aloof. (Dust clue)
-2. [[**Sousette Vorn**]] – Sharp, political, and cunning. Possibly orchestrating sabotage… 
+2. [[**Sousette Vorn**]] – Sharp, political, and cunning goblin. Possibly orchestrating sabotage… 
 3. **Brogg Mauldine** – Orc butcher, surprisingly gentle. Hates liars and is oddly philosophical.
 4. **Mirl Saffra** – Spicesmith bard who’s been missing a vial of dreamroot (a mild hallucinogen).
 5. **Fayne Lurrek** – Alchemical cook, obsessed with culinary purity. Found burned notes in her locker.
@@ -70,3 +70,4 @@ Sousette, clever and calculating, isn’t trying to keep the Aether Pepper—she
 
 #### Combat
 
+Sousette: Goblin Hexer 2025 MM
