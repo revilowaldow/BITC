@@ -15,7 +15,7 @@ Should the party succeed they will be handsomely rewarded, though the Head Chef 
 <hr>
 ###  _A Summons to the Kitchen_
 
-The party, having been woken by [[Larkin]], arrives at [[The Cooking Association]]'s grand hall just before dawn , a squat campus of packed earth and polished stone, kitchens, gardens, and vaults. [[Palanda Macav]] meets them privately in his smoke-swirled office.
+The party, having been woken by [[Larkin]], and addressed by [[Kevin Aldragosh]], arrives at [[The Cooking Association]]'s grand hall just before dawn, a squat campus of packed earth and polished stone, kitchens, gardens, and vaults. [[Palanda Macav]] meets them privately in his smoke-swirled office.
 
 - He informs them the **Aether Pepper** is missing from the **Vault of Infusions**.
 - The **trials are already underway**, and the participants cannot know of the theft—maintaining morale and the legitimacy of the process is paramount.
