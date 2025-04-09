@@ -51,7 +51,7 @@ Each contestant is a powerful personality—volatile, secretive, or ruthless. Th
 - Are under pressure
 - May try to **manipulate the party**
 
-1. **Ezzar Brinn** – Cloud-cooking wizard. Eccentric, forgetful, aloof. (Dust clue)
+1. **Ezzar Brinn** – Cloud-cooking baker. Eccentric, forgetful, aloof. (Dust clue, but suppliers)
 2. [[**Sousette Vorn**]] – Sharp, political, and cunning goblin. Possibly orchestrating sabotage… 
 3. **Brogg Mauldine** – Orc butcher, surprisingly gentle. Hates liars and is oddly philosophical.
 4. **Mirl Saffra** – Spicesmith who’s been missing a vial of dreamroot (a mild hallucinogen).
