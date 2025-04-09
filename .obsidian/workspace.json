@@ -128,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Palanda",
+                "query": "drug",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -347,8 +347,11 @@
   },
   "active": "b96a72d616ab01d6",
   "lastOpenFiles": [
-    "Candaria Malain.md",
+    "Sessions/2024/11 17 - Session 35.md",
+    "Sessions/2025/02 23 - Session 40.md",
+    "Setting Rules/Ration Rules.md",
     "Sessions/2025/04 20 - Session 44 - Interlude.md",
+    "Candaria Malain.md",
     "Assets/Characters/Caenis_token.png",
     "Assets/Characters/Aru_token_2.png",
     "Assets/Characters/Thodunn_Token_res.png",
@@ -373,8 +376,6 @@
     "Factions/Vermillion Hand/Lady Fara Eyelaine.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Sessions/2023/06 04 - Session 3.md",
-    "Sessions/2023/05 07 - Session 1.md",
-    "Sessions/2024/04 07 - Session 20.md",
     "Locations/Abdos Woodland.canvas",
     "Assets/Maps/Wailer Map.png",
     "Pasted image 20250223184136.png",
