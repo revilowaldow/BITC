@@ -57,6 +57,9 @@ Each contestant is a powerful personality—volatile, secretive, or ruthless. Th
 4. **Mirl Saffra** – Spicesmith who’s been missing a vial of dreamroot (a mild hallucinogen).
 5. **Fayne Lurrek** – Alchemical cook, obsessed with culinary purity. Found burned notes in her locker.
 
+
+
+
 <hr>
 ### _The Cellar Showdown / “Spoiled Ambitions”_
 
