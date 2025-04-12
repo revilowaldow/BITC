@@ -94,51 +94,9 @@
               "icon": "lucide-file",
               "title": "Toryk Jamal"
             }
-          },
-          {
-            "id": "75d411aed2606c57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/09 24 - Session 9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09 24 - Session 9"
-            }
-          },
-          {
-            "id": "7b4204033f97c059",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Malain Enforcer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Malain Enforcer"
-            }
-          },
-          {
-            "id": "de4d44ff608c84c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Party/Vrindrilliax.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vrindrilliax"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -386,29 +344,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "b96a72d616ab01d6",
   "lastOpenFiles": [
-    "Assets/Characters/Malain Enforcer.png",
+    "Sousette Vorn.md",
+    "Candaria Malain.md",
+    "Factions/Toryk Jamal.md",
+    "Sessions/2023/09 24 - Session 9.md",
     "Factions/Silver Company/Party/Vrindrilliax.md",
     "Factions/Malain Enforcer.md",
+    "Assets/Characters/Malain Enforcer 2.png",
+    "Assets/Characters/Malain Enforcer.png",
     "Sessions/2025/04 20 - Session 44 - Interlude.md",
-    "Sousette Vorn.md",
     "Assets/Characters/Sousette Full.png",
     "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2025/02 23 - Session 40.md",
     "Setting Rules/Ration Rules.md",
-    "Candaria Malain.md",
     "Assets/Characters/Caenis_token.png",
     "Assets/Characters/Aru_token_2.png",
     "Assets/Characters/Thodunn_Token_res.png",
-    "Sessions/2023/09 24 - Session 9.md",
     "Jobs/Level 3/Soirée.md",
     "Factions/The Cooking Association/The Cooking Association.md",
     "Factions/Melinda Palov.md",
     "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/09 29 - Session 31.md",
-    "Factions/Toryk Jamal.md",
     "Factions/Kerytoph Myondo.md",
     "Factions/Shaku Toto.md",
     "Factions/Lyan Thorp.md",
@@ -425,8 +384,6 @@
     "Locations/Dog Prince Caves.canvas",
     "Assets/Characters/Hundak_Token.png",
     "Locations/Lionhold/Ziardim Caverns.canvas",
-    "Assets/Characters/ChikitanMiasmar_Token.png",
-    "Assets/Characters/DamagedDyvarranGolem_Token.png",
     "Factions/Aepoptosian Cult",
     "Setting Rules/Untitled",
     "Sessions/2025",

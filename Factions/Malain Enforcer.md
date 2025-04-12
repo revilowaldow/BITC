@@ -1,4 +1,4 @@
-![[Malain Enforcer.png]]
+![[Malain Enforcer.png]]![[Malain Enforcer 2.png]]
 ```ad-statblock
 title: Malain Enforcer
 >*Medium Humanoid (Goblinoid), chaotic evil*
@@ -17,9 +17,9 @@ title: Malain Enforcer
 >- **Challenge** 1 (200 XP)
 >- **Proficiency Bonus** +2
 >___
->***Brute.*** A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).  
+>***Brute.*** A melee weapon deals one extra die of its damage when the enforcer hits with it (included in the attack).  
 >
->***Surprise Attack.*** If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.  
+>***Surprise Attack.*** If the enforcer surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.  
 >
 >### Actions
 >***Longsword.*** *Melee Weapon Attack:*  +4 to hit, reach 10 ft., one target. *Hit:* 11 (2d8 + 2) slashing damage, or 13 (2d10 + 2) slashing damage if used with both hands.  
