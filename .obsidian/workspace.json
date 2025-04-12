@@ -110,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -358,10 +358,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "b96a72d616ab01d6",
   "lastOpenFiles": [
-    "Assets/Characters/Sousette Full.png",
     "Sousette Vorn.md",
+    "Assets/Characters/Sousette Full.png",
     "Sessions/2025/04 20 - Session 44 - Interlude.md",
     "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2025/02 23 - Session 40.md",
@@ -398,7 +398,6 @@
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Assets/Characters/ChikitanMiasmar_Token.png",
     "Assets/Characters/DamagedDyvarranGolem_Token.png",
-    "Assets/Characters/Huascan_Token.png",
     "Factions/Aepoptosian Cult",
     "Setting Rules/Untitled",
     "Sessions/2025",
