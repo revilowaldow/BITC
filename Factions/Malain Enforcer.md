@@ -1,9 +1,6 @@
-
+![[Malain Enforcer.png]]
 ```ad-statblock
-title: Vrindrilliax
-![](Vrindrilliax.png)
-___
->## Bugbear Lieutenant
+title: Malain Enforcer
 >*Medium Humanoid (Goblinoid), chaotic evil*
 >___
 >- **Armor Class** 16 (*hide armor*, *shield*)
