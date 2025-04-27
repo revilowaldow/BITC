@@ -55,7 +55,7 @@ Each contestant is a powerful personality—volatile, secretive, or ruthless. Th
 2. [[Sousette Vorn]] – Sharp, political, and cunning goblin. Possibly orchestrating sabotage… 
 3. **Brogg Mauldine** – Orc butcher, surprisingly gentle. Hates liars and is oddly philosophical.
 4. **Mirl Saffra** – Spicesmith who’s been missing a vial of dreamroot (a mild hallucinogen).
-5. **Fayne Lurrek** – Alchemical cook, obsessed with culinary purity. Found burned notes in her locker.
+5. **Fayne Lurrek** – Alchemical sommelier, obsessed with culinary purity. Found burned notes in her locker.
 
 
 
@@ -69,7 +69,7 @@ There, they find [[Sousette Vorn]], not alone, but flanked by **agents of [[Cand
 
 Sousette, clever and calculating, isn’t trying to keep the Aether Pepper—she’s **staging its dramatic “discovery”**, timed to coincide with her **final trial dish**, hoping to present herself as the saviour of the competition and curry flavour with [[Palanda Macav]].
 
-> Her true goal: become the new Sous Chef and broker an exclusive supply contract with the , which would grant them inside control over the guild’s procurement and distribution chains.
+> Her true goal: become the new Sous Chef and broker an exclusive supply contract with [[The Cooking Association]], which would grant the Malain faction inside control over the guild’s procurement and distribution chains.
 #### Combat
 - Sousette: Goblin Hexer 2025 MM
 - Two Bugbear Lieutenants TftYP (reflavour race) - [[Malain Enforcer]]
