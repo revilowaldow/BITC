@@ -63,7 +63,7 @@ Each contestant is a powerful personality—volatile, secretive, or ruthless. Th
 <hr>
 ### _The Cellar Showdown / “Spoiled Ambitions”_
 
-Following the trail of clues—tempered vault seals, a counterfeit ingredient requisition form, and suspicious activity around the cellar—the party is led to the **Fermentation Cellar**, a shadowy, cavernous undercroft of ancient barrels, glass tubes, and pungent arcane vapors.
+Following the trail of clues—tempered vault seals, a counterfeit ingredient requisition form, and suspicious activity around the cellar—the party is led to the **Fermentation Cellar**, a shadowy, cavernous under-croft of ancient barrels, glass tubes, and pungent arcane vapours.
 
 There, they find [[Sousette Vorn]], not alone, but flanked by **agents of [[Candaria Malain]]—a powerful merchant leader that supplies rare ingredients, controls several food markets, and has long desired more influence in the Cooking Association. 
 
