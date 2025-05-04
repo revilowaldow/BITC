@@ -194,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -287,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
+                "file": "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +297,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Proving Grounds"
+              "title": "Backlinks for The Smoked Hall"
             }
           },
           {
@@ -335,13 +335,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
+                "file": "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Proving Grounds"
+              "title": "Outline of The Smoked Hall"
             }
           },
           {
@@ -392,12 +392,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ece19eb4ab9eaa98",
+  "active": "26b5f6a4192e8d9f",
   "lastOpenFiles": [
+    "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
     "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
     "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
     "Sessions/2025/05 04 - Session 44 - Interlude.md",
-    "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
     "Locations/Kathkach/The Cooking Association/The Seasonarium.md",
     "Candaria Malain.md",
     "Factions/Toryk Jamal.md",
