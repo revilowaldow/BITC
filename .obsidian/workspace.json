@@ -194,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -287,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
+                "file": "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +297,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Smoked Hall"
+              "title": "Backlinks for The Proving Grounds"
             }
           },
           {
@@ -335,13 +335,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
+                "file": "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Smoked Hall"
+              "title": "Outline of The Proving Grounds"
             }
           },
           {
@@ -392,19 +392,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26b5f6a4192e8d9f",
+  "active": "ece19eb4ab9eaa98",
   "lastOpenFiles": [
-    "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
+    "Locations/Kathkach/The Cooking Association/The Seasonarium.md",
+    "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
     "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
+    "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
     "Candaria Malain.md",
     "Factions/Toryk Jamal.md",
     "Sessions/2025/05 04 - Session 44 - Interlude.md",
     "Factions/The Cooking Association/Palanda Macav.md",
     "Sessions/2025/Session 44 - GM Notes.md",
     "Pasted image 20250504162620.png",
-    "Locations/Kathkach/The Cooking Association/The Seasonarium.md",
     "Sousette Vorn.md",
-    "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
     "Locations/Kathkach/The Cooking Association/Mise En Place.md",
     "Locations/Kathkach/The Cooking Association/The Bloodmarble Butchery.md",
     "Locations/Kathkach/The Cooking Association/The Tea Garden.md",
