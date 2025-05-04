@@ -3,3 +3,5 @@ A locked, pristine chamber only accessible to guildmasters and senior sous chefs
 **Hooks**:
 - A spoon is missing. Not just any spoon—the First Spoon.
 - A ghostly chef whispers mise en guidance to those who enter alone.
+- Engraving on the door: "Take only what you replace."
+
