@@ -38,9 +38,16 @@ The party discover the **contestants’ personal ingredients** are stored in sea
 
 From here, the party can explore the building to gather more clues:
 - **The Experimental Kitchens**
-- [[**The Tea Garden]] (a place of quiet meditation)**
+- [[The Tea Garden]] (a place of quiet meditation)
 - ~~**The Fermentation Cellar**~~
 - **Observation Gallery**, where VIPs and sponsors watch
+- [[Mise En Place]]
+- [[The Brine Vaults]]
+- [[The Proving Grounds]]
+- [[The Seasonarium]]
+- [[The Smoked Hall]]
+
+
 
 <hr>
 
