@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sousette Vorn.md",
+                "file": "Sessions/2025/05 04 - Session 44 - Interlude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sousette Vorn"
+              "title": "Backlinks for 05 04 - Session 44 - Interlude"
             }
           },
           {
@@ -305,13 +305,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sousette Vorn.md",
+                "file": "Sessions/2025/05 04 - Session 44 - Interlude.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sousette Vorn"
+              "title": "Outline of 05 04 - Session 44 - Interlude"
             }
           },
           {
@@ -362,11 +362,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c17828e04a83fcef",
+  "active": "b96a72d616ab01d6",
   "lastOpenFiles": [
     "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
-    "Sessions/2025/05 04 - Session 44 - Interlude.md",
     "Sousette Vorn.md",
+    "Sessions/2025/05 04 - Session 44 - Interlude.md",
     "Locations/Kathkach/The Cooking Association/Mise En Place.md",
     "Locations/Kathkach/The Cooking Association/The Bloodmarble Butchery.md",
     "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
