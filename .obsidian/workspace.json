@@ -94,9 +94,21 @@
               "icon": "lucide-file",
               "title": "Toryk Jamal"
             }
+          },
+          {
+            "id": "d14a10e1312d675a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -237,13 +249,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2025/04 20 - Session 44 - Interlude.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04 20 - Session 44 - Interlude"
+              "title": "Outline"
             }
           },
           {
@@ -294,7 +305,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0396fa5c7bd5155d",
+  "active": "d14a10e1312d675a",
   "lastOpenFiles": [
     "Sessions/2025/04 20 - Session 44 - Interlude.md",
     "Sousette Vorn.md",
