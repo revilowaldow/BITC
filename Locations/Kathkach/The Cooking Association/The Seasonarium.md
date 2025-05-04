@@ -10,4 +10,6 @@ Four chambers arranged like petals on a central courtyard:
 - **Autumn Ward**: Earthy and umami-rich. Mushrooms and root vegetables sprout from loam beds.
 - **Winter Ward**: Crisp, preserved flora. Icy brine tanks grow frost-fermented cabbages and bitter roots.
 
+The **Seasonarium** is an awe-inspiring, domed greenhouse-laboratory hybrid located in the heart of the Cooking Guild. Half terrarium, half flavour conservatory, it houses rare seasonal ingredients from across the realms—**in controlled ecosystems** tuned to recreate the exact conditions under which they thrive.
 
+A walk through the Seasonarium feels like crossing continents in a single breath: winter-frosted basil from northern peaks shimmers beside sun-warmed thyme from volcanic southern slopes. The air shifts subtly from zone to zone—hot and spicy, damp and sour, crisp and citrusy.
