@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
+                "file": "Locations/Kathkach/The Cooking Association/Mise En Place.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Brine Vaults"
+              "title": "Backlinks for Mise En Place"
             }
           },
           {
@@ -291,13 +291,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
+                "file": "Locations/Kathkach/The Cooking Association/Mise En Place.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Brine Vaults"
+              "title": "Outline of Mise En Place"
             }
           },
           {
@@ -348,16 +348,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a50c35945f46a7c5",
+  "active": "8cceaeb344ab1b3b",
   "lastOpenFiles": [
+    "Locations/Kathkach/The Cooking Association/The Bloodmarble Butchery.md",
+    "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
     "Locations/Kathkach/The Cooking Association/The Tea Garden.md",
     "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
-    "Locations/Kathkach/The Cooking Association/The Bloodmarble Butchery.md",
     "Sessions/2025/05 04 - Session 44 - Interlude.md",
     "Locations/Kathkach/The Cooking Association/Mise En Place.md",
     "Locations/Kathkach/The Cooking Association/The Seasonarium.md",
     "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
-    "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
     "Factions/Toryk Jamal.md",
     "Locations/Kathkach/The Cooking Association/Campus.md",
     "Factions/The Cooking Association/Palanda Macav.md",
