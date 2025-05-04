@@ -196,7 +196,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<hr>",
+                "query": "tes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,8 +227,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -363,7 +362,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d64d57bbfa4524a3",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Sessions/2025/05 04 - Session 44 - Interlude.md",
     "Locations/Kathkach/The Cooking Association/Mise En Place.md",

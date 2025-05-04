@@ -15,7 +15,6 @@ An open-air plaza and baking arena where breadmakers duel with sourdough starter
 **Appearance**:
 
 - Thick-armed and broad-chested, Brannick wears half-chef whites and half dueling armor—his apron bears **scorch marks and knife scores** like battle scars
-    
 - One tusk is gold-plated; the other chipped and blackened from a fire-breathing incident
     
 - A cast-iron skillet hangs at his belt like a warhammer, and he always carries a **scarred tasting ladle** tucked into a shoulder holster
