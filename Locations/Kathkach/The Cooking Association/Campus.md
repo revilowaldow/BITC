@@ -1,0 +1,1 @@
+Grand hall, a squat campus of packed earth and polished stone, kitchens, gardens, and vaults.
