@@ -8,17 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b10456ec10680f4",
+            "id": "31c575e06a970555",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/The Cooking Association/Palanda Macav.md",
+                "file": "Sessions/2025/Session 44 - GM Notes.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Palanda Macav"
+              "title": "Session 44 - GM Notes"
             }
           },
           {
@@ -35,6 +37,20 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "05 04 - Session 44 - Interlude"
+            }
+          },
+          {
+            "id": "0b10456ec10680f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/The Cooking Association/Palanda Macav.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Palanda Macav"
             }
           },
           {
@@ -176,23 +192,9 @@
               "icon": "lucide-file",
               "title": "The Bloodmarble Butchery"
             }
-          },
-          {
-            "id": "31c575e06a970555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2025/Session 44 - GM Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 44 - GM Notes"
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -285,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2025/Session 44 - GM Notes.md",
+                "file": "Factions/The Cooking Association/Palanda Macav.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +297,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 44 - GM Notes"
+              "title": "Backlinks for Palanda Macav"
             }
           },
           {
@@ -333,13 +335,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2025/Session 44 - GM Notes.md",
+                "file": "Factions/The Cooking Association/Palanda Macav.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 44 - GM Notes"
+              "title": "Outline of Palanda Macav"
             }
           },
           {
@@ -390,7 +392,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31c575e06a970555",
+  "active": "0b10456ec10680f4",
   "lastOpenFiles": [
     "Sessions/2025/05 04 - Session 44 - Interlude.md",
     "Sessions/2025/Session 44 - GM Notes.md",
