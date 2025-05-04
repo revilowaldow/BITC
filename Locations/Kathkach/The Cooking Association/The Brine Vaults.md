@@ -19,4 +19,5 @@ Deep underground, this chilly complex of salt rooms, pickling chambers, and magi
 - Wears long robes of waterproofed linen stitched with kelp motifs and preserved fish scales
 - Her scent is unmistakable: sea brine, vinegar, and a trace of anise
 - Speaks in slow, fluid cadence, like water rolling over stone
-- reats brining as both **science and spiritual ritual**: "We are not preserving food. We are preserving memory."
+- Treats brining as both **science and spiritual ritual**: "We are not preserving food. We are preserving memory."
+- Responsible for maintaining purity in long-term fermentations—sometimes spanning decades
