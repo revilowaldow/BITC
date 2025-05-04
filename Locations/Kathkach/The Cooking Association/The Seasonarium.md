@@ -24,10 +24,6 @@ Bregga is the **Hielero** (ice-master) of the Cooking Guild—responsible for th
 
 She views cold not as absence, but as control—**a sculptor’s chisel** in the grand kitchen.
 
----
-
-### 👤 **Appearance**
-
 - **Race**: Goliath
 - **Skin**: Pale grey-blue, like ash mixed with snow
 - **Hair**: Tightly braided, white as salt
@@ -38,3 +34,4 @@ She views cold not as absence, but as control—**a sculptor’s chisel** in the
 - Treats temperature as philosophy
 - Speaks in poetic paradoxes, e.g.,
     > _“Warmth forgets. Cold remembers.”_
+    
