@@ -15,3 +15,5 @@ Loud, visceral, and strangely ritualistic, this space is governed by the **Flesh
     A sealed sub-chamber where offal, bones, and scraps are rendered down for stock, glue, oils—or more esoteric purposes. Alchemists often collaborate here under risky conditions.
 - **Secret Passage**
 	Rumours claim a tunnel beneath the Render Pit leads to a forgotten, pre-guild slaughterhouse—and possibly ancient forbidden recipes.
+
+**NPC – Master Cleft**: Gruff, aging dwarf with immaculate tools and no patience for waste. Wears a leather apron covered in knife sheaths and a necklace made from beast fangs. Knows more about people than he lets on—because he watches how they cut.

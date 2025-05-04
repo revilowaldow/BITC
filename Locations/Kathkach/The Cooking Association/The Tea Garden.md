@@ -4,7 +4,7 @@ A tranquil inner sanctum tucked behind a curtain of flowering vines and misty ba
 - **Meditation Pools**: Still water basins surrounded by smooth stones, perfect for taste-clarity rituals.
 - **Fragrant Canopies**: Overhead trellises of steam-blooming herbs like lotus mint, whisper-leaf, and saffron poppy.
 - **Stone Teahouse**: Where the Tea Masters hold silent tastings—only gestures, nods, and the sound of pouring tea are allowed.
-- **Sand Garden of Flavors**: A raked arena where chefs interpret emotional states with blends of tea and spice.
+- **Sand Garden of Flavours**: A raked arena where chefs interpret emotional states with blends of tea and spice.
 - **Brew Stones**: Heated slabs used for dry-leaf alchemy and extraction experimentation.
 
 **Roleplay/Exploration Hooks**:
