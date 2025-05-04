@@ -194,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -287,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2025/05 04 - Session 44 - Interlude.md",
+                "file": "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +297,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 05 04 - Session 44 - Interlude"
+              "title": "Backlinks for The Brine Vaults"
             }
           },
           {
@@ -335,13 +335,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2025/05 04 - Session 44 - Interlude.md",
+                "file": "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 05 04 - Session 44 - Interlude"
+              "title": "Outline of The Brine Vaults"
             }
           },
           {
@@ -392,15 +392,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b96a72d616ab01d6",
+  "active": "a50c35945f46a7c5",
   "lastOpenFiles": [
+    "Sessions/2025/05 04 - Session 44 - Interlude.md",
     "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
     "Locations/Kathkach/The Cooking Association/The Seasonarium.md",
     "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
     "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
     "Candaria Malain.md",
     "Factions/Toryk Jamal.md",
-    "Sessions/2025/05 04 - Session 44 - Interlude.md",
     "Factions/The Cooking Association/Palanda Macav.md",
     "Sessions/2025/Session 44 - GM Notes.md",
     "Pasted image 20250504162620.png",
