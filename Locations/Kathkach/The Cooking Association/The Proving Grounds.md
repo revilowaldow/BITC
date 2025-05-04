@@ -19,8 +19,9 @@ Hopefuls who want to enter the guild are put through their basic training paces 
 - Half chef whites and half duelling armour
 - A cast-iron skillet hangs at his belt like a warhammer, and he always carries a **scarred tasting ladle** tucked into a shoulder holster
 - Wears a tall, creased chef's hat with medals pinned into it like a general’s helm
+
 - Speaks in military metaphors: 
-- 
+
 1. “Flank your foe with acid. Deliver the coup de grâce with umami.”
 2. **“You bring weak seasoning into _my_ ring? That’s like slapping a basil leaf on a boar and calling it ham.”**
 3. **“This ain’t a salad bar, chef—this is war. And your vinaigrette just deserted you.”**
