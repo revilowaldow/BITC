@@ -98,3 +98,7 @@ Whether or not they recover the Aether Pepper intact, the party returns to [[Pal
 
 > Reward for [[Caenis]]? Jacket of Prestige? Guild Rank? Restaurant?
 > Reward for party - meal vouchers!
+
+
+
+![[Pasted image 20250504162620.png]]

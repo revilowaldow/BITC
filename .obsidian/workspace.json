@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Seasonarium.md",
+                "file": "Sessions/2025/05 04 - Session 44 - Interlude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Seasonarium"
+              "title": "Backlinks for 05 04 - Session 44 - Interlude"
             }
           },
           {
@@ -319,13 +319,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Seasonarium.md",
+                "file": "Sessions/2025/05 04 - Session 44 - Interlude.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Seasonarium"
+              "title": "Outline of 05 04 - Session 44 - Interlude"
             }
           },
           {
@@ -376,8 +376,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1266ec908dbd63de",
+  "active": "b96a72d616ab01d6",
   "lastOpenFiles": [
+    "Pasted image 20250504162620.png",
+    "Locations/Kathkach/The Cooking Association/The Seasonarium.md",
     "Sessions/2025/05 04 - Session 44 - Interlude.md",
     "Sousette Vorn.md",
     "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
@@ -386,7 +388,6 @@
     "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
     "Locations/Kathkach/The Cooking Association/The Tea Garden.md",
     "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
-    "Locations/Kathkach/The Cooking Association/The Seasonarium.md",
     "Factions/Toryk Jamal.md",
     "Locations/Kathkach/The Cooking Association/Campus.md",
     "Factions/The Cooking Association/Palanda Macav.md",
@@ -410,7 +411,6 @@
     "Factions/Melinda Palov.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/09 29 - Session 31.md",
-    "Factions/Kerytoph Myondo.md",
     "Locations/Abdos Woodland.canvas",
     "Assets/Maps/Wailer Map.png",
     "Pasted image 20250223184136.png",
