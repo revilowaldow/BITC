@@ -194,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -287,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
+                "file": "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +297,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Brine Vaults"
+              "title": "Backlinks for The Smoked Hall"
             }
           },
           {
@@ -335,13 +335,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
+                "file": "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Brine Vaults"
+              "title": "Outline of The Smoked Hall"
             }
           },
           {
@@ -392,8 +392,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a50c35945f46a7c5",
+  "active": "26b5f6a4192e8d9f",
   "lastOpenFiles": [
+    "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
     "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
     "Candaria Malain.md",
     "Factions/Toryk Jamal.md",
@@ -406,7 +407,6 @@
     "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
     "Locations/Kathkach/The Cooking Association/Mise En Place.md",
     "Locations/Kathkach/The Cooking Association/The Bloodmarble Butchery.md",
-    "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
     "Locations/Kathkach/The Cooking Association/The Tea Garden.md",
     "Locations/Kathkach/The Cooking Association/Campus.md",
     "Sessions/2025/04 06 - Session 43.md",
