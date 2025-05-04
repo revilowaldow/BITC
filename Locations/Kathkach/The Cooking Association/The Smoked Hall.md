@@ -23,3 +23,5 @@ Hooks:
 - **Quirk**: Refuses to speak to anyone who doesn’t smell at least _a little_ of smoke. Carries around a smoking pouch and will light a clove sprig and waft it at newcomers to "fix them."
 - Voice like a chain smoker- unsurprisingly
 
+Basil
+
