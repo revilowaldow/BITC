@@ -9,15 +9,13 @@ Hooks:
 ## 🔥 NPC: Grand Smokesman Tuhar-Zin
 
 **Title**: Keeper of Flame & Ash, Smokewarden of the Guild  
-**Race**: Dwarf (Ashlander bloodline)  
+**Race**: Dwarf  
 **Age**: Late 60s  
 **Pronouns**: He/Him  
 **Appearance**:
 
-- Towering, wiry frame; wrapped in layered robes the color of coal and ember
-    
+- Wiry frame; wrapped in layered robes the color of coal and ember
+- Wrinkled skin with smoke filling every pore
 - Hands permanently stained with soot, gold rings charred black from decades of use
-    
 - Beard bound in wire mesh to prevent it catching fire; it smells faintly of cedar smoke
-    
-- Smells of hickory, honey, and singed flesh
+- Distrusts other types of cooking: “If the flame doesn’t kiss it, it isn’t food.”
