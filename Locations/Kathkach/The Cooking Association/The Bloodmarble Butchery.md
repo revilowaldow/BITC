@@ -13,3 +13,5 @@ Loud, visceral, and strangely ritualistic, this space is governed by the **Flesh
     An ancient tiled annex where cursed meats or magically tainted remains are carefully dissected. Access is tightly controlled. A single wrong cut could release lingering enchantments or plagues.
 - **Render Pit**  
     A sealed sub-chamber where offal, bones, and scraps are rendered down for stock, glue, oils—or more esoteric purposes. Alchemists often collaborate here under risky conditions.
+- **Secret Passage**
+	Rumours claim a tunnel beneath the Render Pit leads to a forgotten, pre-guild slaughterhouse—and possibly ancient forbidden recipes.
