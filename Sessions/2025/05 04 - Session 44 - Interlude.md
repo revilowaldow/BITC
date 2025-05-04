@@ -66,6 +66,12 @@ Each contestant is a powerful personality—volatile, secretive, or ruthless. Th
 5. **Fayne Lurrek** – Alchemical sommelier, obsessed with culinary purity. Found burned notes in her locker.
 
 
+**Ezzar Brinn**
+Sousette Vorn
+**Brogg Mauldine**
+**Mirl Saffra** 
+Fayne Lurrek
+
 
 
 <hr>
