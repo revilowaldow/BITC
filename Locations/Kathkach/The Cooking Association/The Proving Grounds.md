@@ -16,6 +16,7 @@ Hopefuls who want to enter the guild are put through their basic training paces 
 **Pronouns**: He/Him  
 **Appearance**:
 
+- Half chef whites and half duelling armour
 - A cast-iron skillet hangs at his belt like a warhammer, and he always carries a **scarred tasting ladle** tucked into a shoulder holster
 - Wears a tall, creased chef's hat with medals pinned into it like a general’s helm
 - Speaks in military metaphors: “Flank your foe with acid. Deliver the coup de grâce with umami.”
