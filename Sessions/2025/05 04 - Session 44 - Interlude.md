@@ -46,6 +46,7 @@ From here, the party can explore the building to gather more clues:
 - [[The Proving Grounds]]
 - [[The Seasonarium]]
 - [[The Smoked Hall]]
+- [[The Bloodmarble Butchery]]
 
 
 
