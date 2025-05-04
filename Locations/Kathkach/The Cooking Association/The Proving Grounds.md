@@ -4,7 +4,7 @@ An open-air plaza and baking arena where breadmakers duel with sourdough starter
 - A sabotaged oven has caused a yeast golem outbreak.
 - A controversial baker is introducing “elven pastries” and drawing ire.
 
-<hr>
+---
 
 ## 🛡️ NPC: Gourmand-Provost Brannick Vex
 

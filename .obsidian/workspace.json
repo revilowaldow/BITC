@@ -196,7 +196,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "drug",
+                "query": "<hr>",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,7 +227,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -362,7 +363,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ece19eb4ab9eaa98",
+  "active": "d64d57bbfa4524a3",
   "lastOpenFiles": [
     "Sessions/2025/05 04 - Session 44 - Interlude.md",
     "Locations/Kathkach/The Cooking Association/Mise En Place.md",
