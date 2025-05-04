@@ -85,12 +85,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/Untitled.md",
+                "file": "Locations/Kathkach/The Cooking Association/Mise En Place.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Mise En Place"
             }
           }
         ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/Untitled.md",
+                "file": "Locations/Kathkach/The Cooking Association/Mise En Place.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Mise En Place"
             }
           },
           {
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/Untitled.md",
+                "file": "Locations/Kathkach/The Cooking Association/Mise En Place.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Mise En Place"
             }
           },
           {
@@ -295,7 +295,7 @@
   "active": "8cceaeb344ab1b3b",
   "lastOpenFiles": [
     "Locations/Kathkach/The Cooking Association/The Seasonarium.md",
-    "Locations/Kathkach/The Cooking Association/Untitled.md",
+    "Locations/Kathkach/The Cooking Association/Mise En Place.md",
     "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
     "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
     "Factions/Toryk Jamal.md",
