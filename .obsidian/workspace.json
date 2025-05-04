@@ -85,12 +85,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/🔥 The Smoked Hall.md",
+                "file": "Locations/Kathkach/The Cooking Association/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔥 The Smoked Hall"
+              "title": "Untitled"
             }
           }
         ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/🔥 The Smoked Hall.md",
+                "file": "Locations/Kathkach/The Cooking Association/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🔥 The Smoked Hall"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/🔥 The Smoked Hall.md",
+                "file": "Locations/Kathkach/The Cooking Association/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🔥 The Smoked Hall"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -294,14 +294,16 @@
   },
   "active": "8cceaeb344ab1b3b",
   "lastOpenFiles": [
+    "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
+    "Locations/Kathkach/The Cooking Association/Untitled.md",
+    "Factions/Toryk Jamal.md",
+    "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
     "Locations/Kathkach/The Cooking Association/Campus.md",
-    "Locations/Kathkach/The Cooking Association/🔥 The Smoked Hall.md",
     "Sessions/2025/05 04 - Session 44 - Interlude.md",
     "Factions/The Cooking Association/Palanda Macav.md",
     "Candaria Malain.md",
     "Sessions/2025/04 06 - Session 43.md",
     "Locations/Kathkach/The Cooking Association",
-    "Factions/Toryk Jamal.md",
     "Sousette Vorn.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Factions/Silver Company/Party/Vrindrilliax.md",
@@ -325,8 +327,6 @@
     "Factions/Lyan Thorp.md",
     "Factions/Nefros.md",
     "Factions/Calamxis.md",
-    "Factions/Brayk Brasshand.md",
-    "Factions/Arach.md",
     "Locations/Abdos Woodland.canvas",
     "Assets/Maps/Wailer Map.png",
     "Pasted image 20250223184136.png",
