@@ -374,8 +374,7 @@
               "title": "Todo List"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -392,7 +391,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "43a6096db0c61331",
+  "active": "b1c0b9b6efd09be3",
   "lastOpenFiles": [
     "Locations/Kathkach/The Cooking Association/The Tea Garden.md",
     "Locations/Kathkach/The Cooking Association/Mise En Place.md",
