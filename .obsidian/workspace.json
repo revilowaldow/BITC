@@ -48,26 +48,14 @@
               "state": {
                 "file": "Locations/Abdos Woodland.canvas",
                 "viewState": {
-                  "x": -222.86168274299015,
-                  "y": -713.6210510388216,
+                  "x": -85.69876139467553,
+                  "y": -657.3120622747767,
                   "zoom": -0.5298911182274806
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Abdos Woodland"
-            }
-          },
-          {
-            "id": "2b3bddf6417ad1b8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250504162620.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250504162620"
             }
           }
         ],
