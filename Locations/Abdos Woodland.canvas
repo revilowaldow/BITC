@@ -11,8 +11,8 @@
 		{"id":"b092ddd5e56affc8","x":-366,"y":-1090,"width":250,"height":60,"type":"text","text":"NW"},
 		{"id":"5e09361c6fe2eb4e","type":"text","text":"NW\nslightly thinner trees\n\nsmall lake","x":-158,"y":-845,"width":250,"height":200,"color":"5"},
 		{"id":"dc831478ad135068","x":-325,"y":-527,"width":250,"height":60,"type":"text","text":"SW"},
-		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\n","x":-408,"y":-280,"width":250,"height":120},
-		{"id":"60cdaae96184027d","type":"text","text":"Glint of light","x":-616,"y":-524,"width":250,"height":60}
+		{"id":"60cdaae96184027d","type":"text","text":"Glint of light","x":-700,"y":-1040,"width":250,"height":60,"color":"3"},
+		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\n","x":-491,"y":-334,"width":250,"height":120}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
