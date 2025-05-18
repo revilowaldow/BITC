@@ -18,3 +18,6 @@ significant headdress
 frizzy wild hair
 kathkachan style clothes
 elvish
+
+Last had contact in 180NA
+
