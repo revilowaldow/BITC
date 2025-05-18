@@ -8,9 +8,9 @@
 		{"id":"d6b84983fbdb8470","type":"text","text":"R (NE)\nDark Woodland 2\nTall dense tree canopy\n\nAmbushed by large taloned creature\n\nFought a Troll\n","x":50,"y":-464,"width":310,"height":260},
 		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\n","x":-400,"y":-324,"width":250,"height":120},
 		{"id":"c5600e6b3d95d695","type":"text","text":"Eastern Entrance","x":1000,"y":-364,"width":250,"height":60},
-		{"id":"5e09361c6fe2eb4e","type":"text","text":"NW","x":-120,"y":-810,"width":250,"height":130},
 		{"id":"4b01fd53dc35df24","type":"text","text":"NE\n(Darkest)\n","x":285,"y":-810,"width":320,"height":130},
-		{"id":"f9441a7f76473dd9","x":92,"y":-1142,"width":268,"height":102,"type":"text","text":"Hear Reptilian/Avian Shriek\nAngry Female Wyvern"}
+		{"id":"f9441a7f76473dd9","x":92,"y":-1142,"width":268,"height":102,"type":"text","text":"Hear Reptilian/Avian Shriek\nAngry Female Wyvern"},
+		{"id":"5e09361c6fe2eb4e","type":"text","text":"NW\nslightly thinner trees\n\nsmall lake","x":-150,"y":-845,"width":250,"height":200,"color":"5"}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
