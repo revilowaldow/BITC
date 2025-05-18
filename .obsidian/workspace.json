@@ -48,7 +48,7 @@
               "state": {
                 "file": "Locations/Abdos Woodland.canvas",
                 "viewState": {
-                  "x": -88.58640184411371,
+                  "x": -222.86168274299015,
                   "y": -713.6210510388216,
                   "zoom": -0.5298911182274806
                 }
@@ -56,6 +56,18 @@
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Abdos Woodland"
+            }
+          },
+          {
+            "id": "2b3bddf6417ad1b8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250504162620.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250504162620"
             }
           }
         ],
@@ -259,9 +271,11 @@
   },
   "active": "4806a1a28a6a0d91",
   "lastOpenFiles": [
+    "Pasted image 20250518193228.png",
+    "Pasted image 20250504162620.png",
     "Pasted image 20250518192757.png",
-    "Sessions/2025/04 06 - Session 43.md",
     "Locations/Abdos Woodland.canvas",
+    "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2025/05 18 - Session 45.md",
     "Locations/Dog Prince Caves.canvas",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
@@ -283,7 +297,6 @@
     "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
     "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
     "Locations/Kathkach/The Cooking Association/The Bloodmarble Butchery.md",
-    "Pasted image 20250504162620.png",
     "Locations/Kathkach/The Cooking Association/Campus.md",
     "Locations/Kathkach/The Cooking Association",
     "Sessions/2023/09 24 - Session 9.md",
@@ -298,8 +311,6 @@
     "Assets/Characters/Aru_token_2.png",
     "Assets/Characters/Thodunn_Token_res.png",
     "Assets/Maps/Wailer Map.png",
-    "Pasted image 20250223184136.png",
-    "Pasted image 20250112192828.png",
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Factions/Aepoptosian Cult",
     "Setting Rules/Untitled",

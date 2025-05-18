@@ -11,8 +11,8 @@
 		{"id":"4b01fd53dc35df24","type":"text","text":"NE\n(Darkest)\n","x":320,"y":-880,"width":320,"height":180},
 		{"id":"dc831478ad135068","x":-357,"y":-494,"width":250,"height":60,"type":"text","text":"SW"},
 		{"id":"b092ddd5e56affc8","x":-734,"y":-1339,"width":440,"height":299,"color":"3","type":"text","text":"NW\nglowing forest\nGlint of light\nplants are bioluminescent\nvarious colours\n\nSwarms of fireflies that cannot be seen in light\n"},
-		{"id":"02c14b3218a35fca","x":-1180,"y":-1369,"width":400,"height":360,"type":"file","file":"Pasted image 20250518192757.png"},
-		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\n","x":-671,"y":-364,"width":315,"height":60}
+		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\n","x":-671,"y":-364,"width":315,"height":60},
+		{"id":"78d712320b2627e2","x":-1160,"y":-1386,"width":400,"height":393,"type":"file","file":"Pasted image 20250518193228.png"}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
