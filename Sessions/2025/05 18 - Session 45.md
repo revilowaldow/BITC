@@ -11,3 +11,5 @@ If we get rid of the Shrike we can meet in person
 ![[Abdos Woodland.canvas]]
 30ft by 20ft mountain cabin in grove
 
+Barrier trees surrounding
+
