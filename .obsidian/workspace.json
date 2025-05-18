@@ -48,7 +48,7 @@
               "state": {
                 "file": "Locations/Abdos Woodland.canvas",
                 "viewState": {
-                  "x": 593.980433779809,
+                  "x": 661.1180742292472,
                   "y": -557.4416653059055,
                   "zoom": 0.47010888177251936
                 }
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -257,10 +257,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4216a2c43d2238b9",
+  "active": "4806a1a28a6a0d91",
   "lastOpenFiles": [
-    "Locations/Abdos Woodland.canvas",
     "Sessions/2025/05 18 - Session 45.md",
+    "Locations/Abdos Woodland.canvas",
     "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2025/02 09 - Session 39.md",
     "Sessions/2025/02 23 - Session 40.md",
