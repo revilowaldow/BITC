@@ -122,8 +122,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -258,7 +257,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4216a2c43d2238b9",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Locations/Battle of Looming Rock.md",
     "Sessions/2025/05 18 - Session 45.md",

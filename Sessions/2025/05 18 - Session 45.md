@@ -21,3 +21,5 @@ elvish
 
 Last had contact in 180NA
 
+Use find familiar (wild companion) before short rest
+
