@@ -13,3 +13,5 @@ If we get rid of the Shrike we can meet in person
 
 Barrier trees surrounding
 
+Woman, young adult to middle aged
+significant headdre
