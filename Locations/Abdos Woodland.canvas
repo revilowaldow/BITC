@@ -7,8 +7,8 @@
 		{"id":"67e0aa940122f87d","type":"text","text":"Southern Entrance","x":-200,"y":180,"width":250,"height":60},
 		{"id":"901d6dd2c9397b81","type":"text","text":"SE","x":320,"y":-25,"width":250,"height":130},
 		{"id":"5e09361c6fe2eb4e","type":"text","text":"NW","x":-110,"y":-740,"width":250,"height":130},
-		{"id":"4b01fd53dc35df24","type":"text","text":"NE\n(Darkest)\n\nAmbushed by large taloned creature","x":285,"y":-795,"width":320,"height":185},
-		{"id":"1634d9b0e0be2b5e","type":"file","file":"Assets/Maps/Wailer Map.png","x":630,"y":-880,"width":295,"height":400}
+		{"id":"1634d9b0e0be2b5e","type":"file","file":"Assets/Maps/Wailer Map.png","x":630,"y":-880,"width":295,"height":400},
+		{"id":"4b01fd53dc35df24","type":"text","text":"Dark Woodland 2\nNE\n(Darkest)\n\nAmbushed by large taloned creature","x":280,"y":-820,"width":320,"height":185}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
