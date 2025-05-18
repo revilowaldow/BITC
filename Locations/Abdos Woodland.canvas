@@ -9,10 +9,10 @@
 		{"id":"4b01fd53dc35df24","type":"text","text":"NE\n(Darkest)\n","x":285,"y":-810,"width":320,"height":130},
 		{"id":"f9441a7f76473dd9","x":92,"y":-1142,"width":268,"height":102,"type":"text","text":"Hear Reptilian/Avian Shriek\nAngry Female Wyvern"},
 		{"id":"b092ddd5e56affc8","x":-366,"y":-1090,"width":250,"height":60,"type":"text","text":"NW"},
-		{"id":"5e09361c6fe2eb4e","type":"text","text":"NW\nslightly thinner trees\n\nsmall lake","x":-158,"y":-845,"width":250,"height":200,"color":"5"},
 		{"id":"dc831478ad135068","x":-325,"y":-527,"width":250,"height":60,"type":"text","text":"SW"},
 		{"id":"60cdaae96184027d","type":"text","text":"Glint of light","x":-700,"y":-1040,"width":250,"height":60,"color":"3"},
-		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\n","x":-491,"y":-334,"width":250,"height":120}
+		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\n","x":-491,"y":-334,"width":250,"height":120},
+		{"id":"5e09361c6fe2eb4e","type":"text","text":"NW\nslightly thinner trees\n\nsmall lake 300ft diameter\nused by various fauna\nstanding fog","x":-180,"y":-880,"width":298,"height":240,"color":"5"}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
