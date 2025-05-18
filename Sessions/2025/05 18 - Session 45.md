@@ -14,4 +14,7 @@ If we get rid of the Shrike we can meet in person
 Barrier trees surrounding
 
 Woman, young adult to middle aged
-significant headdre
+significant headdress
+frizzy wild hair
+kathkachan style clothes
+elvish
