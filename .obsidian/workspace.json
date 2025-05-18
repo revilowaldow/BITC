@@ -4,197 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "dfca46ffd5c5b55b",
+        "id": "66b57cdfd444c7d6",
         "type": "tabs",
         "children": [
           {
-            "id": "31c575e06a970555",
+            "id": "4216a2c43d2238b9",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2025/Session 44 - GM Notes.md",
+                "file": "Sessions/2025/05 18 - Session 45.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Session 44 - GM Notes"
+              "title": "05 18 - Session 45"
             }
           },
           {
-            "id": "b96a72d616ab01d6",
+            "id": "f7b5d6586c94ac17",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2025/05 04 - Session 44 - Interlude.md",
+                "file": "Sessions/2025/04 06 - Session 43.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "05 04 - Session 44 - Interlude"
+              "title": "04 06 - Session 43"
             }
           },
           {
-            "id": "0b10456ec10680f4",
+            "id": "894d8945f4976268",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/The Cooking Association/Palanda Macav.md",
+                "file": "Factions/Aepoptosian Cult/Chikitan Miasmar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Palanda Macav"
-            }
-          },
-          {
-            "id": "1266ec908dbd63de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Seasonarium.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Seasonarium"
-            }
-          },
-          {
-            "id": "ece19eb4ab9eaa98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Proving Grounds"
-            }
-          },
-          {
-            "id": "c17828e04a83fcef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sousette Vorn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sousette Vorn"
-            }
-          },
-          {
-            "id": "21e4e098c70d3e44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Candaria Malain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Candaria Malain"
-            }
-          },
-          {
-            "id": "749efbde4c4eb792",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Toryk Jamal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Toryk Jamal"
-            }
-          },
-          {
-            "id": "8cceaeb344ab1b3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/The Cooking Association/Mise En Place.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mise En Place"
-            }
-          },
-          {
-            "id": "1ce71faabc08bdc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Tea Garden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Tea Garden"
-            }
-          },
-          {
-            "id": "a50c35945f46a7c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Brine Vaults"
-            }
-          },
-          {
-            "id": "26b5f6a4192e8d9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Smoked Hall"
-            }
-          },
-          {
-            "id": "43a6096db0c61331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Bloodmarble Butchery.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Bloodmarble Butchery"
+              "title": "Chikitan Miasmar"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -391,24 +247,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26b5f6a4192e8d9f",
+  "active": "894d8945f4976268",
   "lastOpenFiles": [
-    "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
-    "Locations/Kathkach/The Cooking Association/The Tea Garden.md",
-    "Locations/Kathkach/The Cooking Association/Mise En Place.md",
+    "Sessions/2025/05 04 - Session 44 - Interlude.md",
+    "Factions/Aepoptosian Cult/Chikitan Miasmar.md",
+    "Sessions/2025/04 06 - Session 43.md",
+    "Sessions/2025/05 18 - Session 45.md",
+    "Factions/The Cooking Association/Palanda Macav.md",
     "Locations/Kathkach/The Cooking Association/The Seasonarium.md",
     "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
     "Sousette Vorn.md",
-    "Factions/The Cooking Association/Palanda Macav.md",
-    "Sessions/2025/05 04 - Session 44 - Interlude.md",
-    "Locations/Kathkach/The Cooking Association/The Bloodmarble Butchery.md",
-    "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
-    "Factions/Toryk Jamal.md",
-    "Sessions/2025/Session 44 - GM Notes.md",
     "Candaria Malain.md",
+    "Factions/Toryk Jamal.md",
+    "Locations/Kathkach/The Cooking Association/Mise En Place.md",
+    "Locations/Kathkach/The Cooking Association/The Tea Garden.md",
+    "Locations/Kathkach/The Cooking Association/The Brine Vaults.md",
+    "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
+    "Locations/Kathkach/The Cooking Association/The Bloodmarble Butchery.md",
     "Pasted image 20250504162620.png",
     "Locations/Kathkach/The Cooking Association/Campus.md",
-    "Sessions/2025/04 06 - Session 43.md",
     "Locations/Kathkach/The Cooking Association",
     "Sessions/2023/09 24 - Session 9.md",
     "Factions/Silver Company/Party/Vrindrilliax.md",
@@ -426,7 +283,6 @@
     "Factions/The Cooking Association/The Cooking Association.md",
     "Factions/Melinda Palov.md",
     "Sessions/2024/03 24 - Session 19.md",
-    "Sessions/2024/09 29 - Session 31.md",
     "Locations/Abdos Woodland.canvas",
     "Assets/Maps/Wailer Map.png",
     "Pasted image 20250223184136.png",
