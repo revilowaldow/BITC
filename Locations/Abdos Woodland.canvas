@@ -7,7 +7,7 @@
 		{"id":"67e0aa940122f87d","type":"text","text":"Southern Entrance","x":-200,"y":340,"width":250,"height":60},
 		{"id":"901d6dd2c9397b81","type":"text","text":"SE","x":320,"y":10,"width":250,"height":130},
 		{"id":"60cdaae96184027d","type":"text","text":"Glint of light","x":-585,"y":-557,"width":250,"height":60},
-		{"id":"d6b84983fbdb8470","type":"text","text":"R (NE)\nDark Woodland 2\nTall dense trees\n\nAmbushed by large taloned creature\n\nFought a Troll\n","x":50,"y":-464,"width":310,"height":260},
+		{"id":"d6b84983fbdb8470","type":"text","text":"R (NE)\nDark Woodland 2\nTall dense tree canopy\n\nAmbushed by large taloned creature\n\nFought a Troll\n","x":50,"y":-464,"width":310,"height":260},
 		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\n","x":-400,"y":-324,"width":250,"height":120},
 		{"id":"c5600e6b3d95d695","type":"text","text":"Eastern Entrance","x":1000,"y":-364,"width":250,"height":60}
 	],
