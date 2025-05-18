@@ -7,11 +7,11 @@
 		{"id":"d6b84983fbdb8470","type":"text","text":"R (NE)\nDark Woodland 2\nTall dense tree canopy\n\nAmbushed by large taloned creature\n\nFought a Troll\n","x":50,"y":-464,"width":310,"height":260},
 		{"id":"c5600e6b3d95d695","type":"text","text":"Eastern Entrance","x":1000,"y":-364,"width":250,"height":60},
 		{"id":"f9441a7f76473dd9","x":92,"y":-1142,"width":268,"height":102,"type":"text","text":"Hear Reptilian/Avian Shriek\nAngry Female Wyvern"},
-		{"id":"dc831478ad135068","x":-325,"y":-527,"width":250,"height":60,"type":"text","text":"SW"},
 		{"id":"5e09361c6fe2eb4e","type":"text","text":"NW\nslightly thinner trees\n\nsmall lake 300ft diameter\nused by various fauna\nstanding fog","x":-180,"y":-880,"width":298,"height":240,"color":"5"},
 		{"id":"4b01fd53dc35df24","type":"text","text":"NE\n(Darkest)\n","x":320,"y":-880,"width":320,"height":180},
-		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\n","x":-640,"y":-394,"width":250,"height":120},
-		{"id":"b092ddd5e56affc8","x":-640,"y":-1252,"width":250,"height":220,"color":"3","type":"text","text":"NW\nglowing forest\nGlint of light\nplants are bioluminescent\nvarious colours"}
+		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\n","x":-672,"y":-360,"width":315,"height":60},
+		{"id":"dc831478ad135068","x":-357,"y":-494,"width":250,"height":60,"type":"text","text":"SW"},
+		{"id":"b092ddd5e56affc8","x":-672,"y":-1288,"width":315,"height":248,"color":"3","type":"text","text":"NW\nglowing forest\nGlint of light\nplants are bioluminescent\nvarious colours"}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
