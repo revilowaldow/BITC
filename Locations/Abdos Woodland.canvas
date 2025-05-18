@@ -13,7 +13,7 @@
 		{"id":"b092ddd5e56affc8","x":-734,"y":-1339,"width":440,"height":299,"color":"3","type":"text","text":"NW\nglowing forest\nGlint of light\nplants are bioluminescent\nvarious colours\n\nSwarms of fireflies that cannot be seen in light\n"},
 		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\n","x":-671,"y":-364,"width":315,"height":60},
 		{"id":"78d712320b2627e2","x":-1160,"y":-1386,"width":400,"height":393,"type":"file","file":"Pasted image 20250518193228.png"},
-		{"id":"5d0fe457266be916","x":-200,"y":-1720,"width":250,"height":180,"type":"text","text":"NE\nLeave in this direction"}
+		{"id":"5d0fe457266be916","x":-200,"y":-1720,"width":250,"height":180,"type":"text","text":"NE\nLeave in this direction\nflaky bark"}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
