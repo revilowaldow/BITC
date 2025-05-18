@@ -57,60 +57,9 @@
               "icon": "lucide-layout-dashboard",
               "title": "Abdos Woodland"
             }
-          },
-          {
-            "id": "1021063f5e544336",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Dog Prince Caves.canvas",
-                "viewState": {
-                  "x": 3923.1673467618193,
-                  "y": 168.9470194007595,
-                  "zoom": -1.5627098800381929
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dog Prince Caves"
-            }
-          },
-          {
-            "id": "0ee5bbc03d2b5deb",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Kathkach/Abandoned Arena Basement.canvas",
-                "viewState": {
-                  "x": -326,
-                  "y": -425,
-                  "zoom": -0.641130326724501
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Abandoned Arena Basement"
-            }
-          },
-          {
-            "id": "68d6c1e0914c6b52",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Kathkach/Abandoned House.canvas",
-                "viewState": {
-                  "x": 133,
-                  "y": -720,
-                  "zoom": -0.7154902618596186
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Abandoned House"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -308,10 +257,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68d6c1e0914c6b52",
+  "active": "4806a1a28a6a0d91",
   "lastOpenFiles": [
-    "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Locations/Dog Prince Caves.canvas",
+    "Locations/Kathkach/Abandoned Arena Basement.canvas",
+    "Locations/Kathkach/Abandoned House.canvas",
     "Locations/Abdos Woodland.canvas",
     "Sessions/2025/05 18 - Session 45.md",
     "Sessions/2025/04 06 - Session 43.md",
@@ -360,7 +310,6 @@
     "Factions/Helviti",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
-    "Factions/Local Arcanists",
-    "Locations/Kathkach/Abandoned House.canvas"
+    "Factions/Local Arcanists"
   ]
 }
