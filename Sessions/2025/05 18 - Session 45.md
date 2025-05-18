@@ -16,8 +16,8 @@ Barrier trees surrounding
 Woman, young adult to middle aged
 significant headdress
 frizzy wild hair
-kathkachan style clothes
-elvish
+Kathkachan style clothes
+Elvish
 
 Last had contact in 180NA
 
