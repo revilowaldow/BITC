@@ -13,9 +13,9 @@
 		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\n","x":-671,"y":-364,"width":315,"height":60},
 		{"id":"78d712320b2627e2","type":"file","file":"Pasted image 20250518193228.png","x":-1160,"y":-1386,"width":400,"height":393},
 		{"id":"5d0fe457266be916","type":"text","text":"Dry Trees\nNE\nLeave in this direction\nflaky bark","x":-305,"y":-1760,"width":250,"height":180},
-		{"id":"f9441a7f76473dd9","type":"text","text":"Hear Reptilian/Avian Shriek\nAngry Female Wyvern","x":71,"y":-1300,"width":268,"height":140},
 		{"id":"c52cdc441600d4a9","type":"text","text":"NW\nStumbled over trail\nSmell of cooking over a campfire\n\nMountaineers cabin,\n\nDruid grove infested by a Bheur Hag ","x":-760,"y":-2280,"width":350,"height":235},
-		{"id":"b40a773ce8358828","type":"file","file":"Pasted image 20250601184232.png","x":-1040,"y":-2362,"width":255,"height":400}
+		{"id":"b40a773ce8358828","type":"file","file":"Pasted image 20250601184232.png","x":-1040,"y":-2362,"width":255,"height":400},
+		{"id":"f9441a7f76473dd9","type":"text","text":"Dark Woodland 1\nHear Reptilian/Avian Shriek\nAngry Female Wyvern","x":1,"y":-1360,"width":409,"height":320}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
