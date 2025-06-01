@@ -10,5 +10,5 @@ Used to be able to chat with sister
 Cute you think it's a star
 Hole that's pulling in magic
 
-Hag's quarterstaff
+Hag's greystaff
 Herbs, seasonings, 
