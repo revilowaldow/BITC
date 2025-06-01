@@ -17,7 +17,7 @@
 		{"id":"b40a773ce8358828","type":"file","file":"Pasted image 20250601184232.png","x":-1040,"y":-2362,"width":255,"height":400},
 		{"id":"f9441a7f76473dd9","type":"text","text":"Dark Woodland 1\nHear Reptilian/Avian Shriek\nAngry Female Wyvern\n\nBombed by a wyvern egg\n\n","x":1,"y":-1360,"width":409,"height":320},
 		{"id":"25a94f395f75026f","x":445,"y":-1500,"width":390,"height":400,"type":"file","file":"Pasted image 20250601193247.png"},
-		{"id":"388b1ea6b6315f65","x":769,"y":-1205,"width":399,"height":400,"type":"file","file":"Pasted image 20250601200910.png"}
+		{"id":"388b1ea6b6315f65","x":900,"y":-1500,"width":399,"height":400,"type":"file","file":"Pasted image 20250601200910.png"}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
