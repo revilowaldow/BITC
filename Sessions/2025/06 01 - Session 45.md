@@ -15,7 +15,7 @@ Herbs, seasonings, spices and teeth - buried
 
 [[Aru of the Sands]] resurrecting [[Vrindrilliax]]
 
-Calamxis
+[[Kalamsis]]
 > "What on earth are you."
 
 
