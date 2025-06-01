@@ -13,6 +13,7 @@ If we get rid of the Shrike we can meet in person
 
 Barrier trees surrounding
 
+[[Hera]]
 Woman, young adult to middle aged
 significant headdress
 frizzy wild hair
