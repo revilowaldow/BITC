@@ -76,8 +76,8 @@
               "state": {
                 "file": "Locations/Abdos Woodland.canvas",
                 "viewState": {
-                  "x": -400.4515703834396,
-                  "y": -1607.3457701399461,
+                  "x": -669.0021321811925,
+                  "y": -1741.6210510388225,
                   "zoom": -0.5298911182274806
                 }
               },
@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -299,16 +299,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4806a1a28a6a0d91",
+  "active": "4216a2c43d2238b9",
   "lastOpenFiles": [
-    "Sessions/2024/10 06 - Session 32.md",
+    "Locations/Abdos Woodland.canvas",
+    "Sessions/2025/05 18 - Session 44.md",
     "Sessions/2025/06 01 - Session 45.md",
+    "Sessions/2024/10 06 - Session 32.md",
     "Sessions/2025/03 09 - Session 41.md",
     "Sessions/2025/03 30 - Session 42.md",
     "Sessions/2025/04 06 - Session 43.md",
-    "Sessions/2025/05 18 - Session 44.md",
     "Sessions/2025/05 04 - Session 43.5 - Oliver One Shot.md",
-    "Locations/Abdos Woodland.canvas",
     "Locations/Battle of Looming Rock.md",
     "Pasted image 20250518193228.png",
     "Pasted image 20250504162620.png",
@@ -334,7 +334,6 @@
     "Locations/Kathkach/The Cooking Association",
     "Sessions/2023/09 24 - Session 9.md",
     "Factions/Silver Company/Party/Vrindrilliax.md",
-    "Factions/Malain Enforcer.md",
     "Assets/Characters/Malain Enforcer 2.png",
     "Assets/Characters/Malain Enforcer.png",
     "Assets/Characters/Sousette Full.png",
