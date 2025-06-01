@@ -11,4 +11,4 @@ Cute you think it's a star
 Hole that's pulling in magic
 
 Hag's greystaff
-Herbs, seasonings, 
+Herbs, seasonings, spices and teeth
