@@ -10,5 +10,9 @@ Used to be able to chat with sister
 Cute you think it's a star
 Hole that's pulling in magic
 
-Hag's greystaff
-Herbs, seasonings, spices and teeth
+Hag's greystaff - broken
+Herbs, seasonings, spices and teeth - buried
+
+[[Aru of the Sands]] resurrecting [[Vrindrilliax]]
+
+
