@@ -59,4 +59,8 @@ Rev behaving similarly to Kana in combat
 
 <hr>
 
-Take a creative break 
+Take a creative break at level 12
+
+Switch to 2024 rules at that time
+
+Short Campaign
