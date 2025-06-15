@@ -17,7 +17,7 @@
 		{"id":"f9441a7f76473dd9","type":"text","text":"Dark Woodland 1\nHear Reptilian/Avian Shriek\nAngry Female Wyvern\n\nBombed by a wyvern egg\n\n","x":1,"y":-1360,"width":409,"height":320},
 		{"id":"25a94f395f75026f","type":"file","file":"Pasted image 20250601193247.png","x":445,"y":-1500,"width":390,"height":400},
 		{"id":"388b1ea6b6315f65","type":"file","file":"Pasted image 20250601200910.png","x":900,"y":-1500,"width":399,"height":400},
-		{"id":"7ac9512a2518dfa6","type":"text","text":"Forest Cliff\nNE\n\nWyvern Lair","x":445,"y":-1880,"width":250,"height":237},
+		{"id":"7ac9512a2518dfa6","type":"text","text":"Forest Cliff\nNE\n\nWyvern Lair\nScorpions of nastiness\n\n","x":445,"y":-1880,"width":250,"height":237},
 		{"id":"c52cdc441600d4a9","type":"text","text":"NW\nAbandoned Cabin\nStumbled over trail\nSmell of cooking over a campfire\n\nMountaineers cabin,\n\nDruid grove infested by a Bheur Hag ","x":-760,"y":-2300,"width":350,"height":235},
 		{"id":"8a508f1209f136ad","x":760,"y":-2040,"width":400,"height":397,"type":"file","file":"Pasted image 20250615192136.png"}
 	],
