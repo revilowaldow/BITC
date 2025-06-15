@@ -6,4 +6,8 @@ Aru successfully harvested the poison from the Wyvern into Thodunn's discarded p
 
 Consider making arrows from the feathers
 
-Caenis recovers meat from the wailer
+Caenis recovers meat from the wailer, thigh lean meat built for speed
+
+Aru recovers hide from the wyvern
+
+
