@@ -48,9 +48,9 @@
               "state": {
                 "file": "Locations/Abdos Woodland.canvas",
                 "viewState": {
-                  "x": 191.7558655166671,
-                  "y": -738.3952258284784,
-                  "zoom": -0.5298911182274806
+                  "x": 892.1378879885772,
+                  "y": -1509.2941022329724,
+                  "zoom": 1.1102230246251565e-16
                 }
               },
               "pinned": true,
@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -287,12 +287,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1554c82184048d59",
+  "active": "4806a1a28a6a0d91",
   "lastOpenFiles": [
-    "Sessions/2025/04 06 - Session 43.md",
-    "Sessions/2025/06 15 - Session 46.md",
-    "Sessions/2025/06 01 - Session 45.md",
+    "Pasted image 20250601200910.png",
     "Locations/Abdos Woodland.canvas",
+    "Sessions/2025/06 01 - Session 45.md",
+    "Sessions/2025/06 15 - Session 46.md",
+    "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2024/10 06 - Session 32.md",
     "Sessions/2024/10 20 - Session 33.md",
     "Sessions/2024/11 03 - Session 34.md",
@@ -315,7 +316,6 @@
     "Sessions/2024/09 01 - Session 29.md",
     "Sessions/2024/09 08 - Session 30.md",
     "Sessions/2024/09 29 - Session 31.md",
-    "Pasted image 20250601200910.png",
     "Pasted image 20250601193247.png",
     "Pasted image 20250601184232.png",
     "Pasted image 20250518193228.png",
