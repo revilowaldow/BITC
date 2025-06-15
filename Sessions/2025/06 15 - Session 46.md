@@ -2,4 +2,6 @@ Oliver
 
 [[Thodunn]] un-cleanly hacked off the head of the wailer
 
-Aru 
+Aru successfully harvested the poison from the Wyvern into Thodunn's discarded potion of hill giant strength bottle
+
+
