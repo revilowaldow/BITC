@@ -33,3 +33,5 @@ Silver unadorned ring
 
 Kaulinan kicked ring
 
+Large Crowd of people moving away from abdos
+
