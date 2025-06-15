@@ -42,4 +42,4 @@ Human Male
 [[Rev]] is not among the group
 
 Religious
-Cloaked figure
+Cloaked figure, similar to Caenis in height
