@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NA",
+                "query": "Noky",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +150,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -286,7 +287,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1554c82184048d59",
+  "active": "d64d57bbfa4524a3",
   "lastOpenFiles": [
     "Sessions/2025/06 01 - Session 45.md",
     "Locations/Abdos Woodland.canvas",
