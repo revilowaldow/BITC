@@ -16,3 +16,7 @@ Dengo went to the southwest to investigate smoke rising in the vicinity of Abdos
 
 Party heads towards the Wyvern's Lair
 
+Owl ferry service to cliffside lair
+
+
+
