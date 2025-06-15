@@ -73,7 +73,7 @@ Kaulinan and Caenis talk to [[Chikitan Miasmar]]
 
 He leaves, happy with the explanation given of Rev
 
-Kaulinan hires Noky for 250gp
+Kaulinan hires [[Noki]] for 250gp
 
 
 
@@ -106,7 +106,7 @@ Marching order
 - Thodunn
 - Kaulinan
 - Caenis
-- Noky
+- [[Noki]]
 - [[Aru of the Sands]]  + Vrin
 
 
