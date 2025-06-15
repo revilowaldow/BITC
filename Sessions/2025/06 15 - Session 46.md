@@ -24,5 +24,5 @@ Ambushed by giant scorpions at base of wyvern's lair
 Smoke is rising from the lake near Abdos
 
 Fire at grove
-Ogres h
+Ogres and others heading towards Abdos
 
