@@ -87,6 +87,126 @@
             }
           },
           {
+            "id": "fc347bf9d65b9ba9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250615211108.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250615211108"
+            }
+          },
+          {
+            "id": "0b95a7fbe15d73ad",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250615204540.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250615204540"
+            }
+          },
+          {
+            "id": "807a29e57344e221",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250615192136.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250615192136"
+            }
+          },
+          {
+            "id": "dd6a7a34ce485a29",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250601200910.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250601200910"
+            }
+          },
+          {
+            "id": "3b169d65375c1bd5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250601193247.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250601193247"
+            }
+          },
+          {
+            "id": "e07d565c2fb71208",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250601184232.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250601184232"
+            }
+          },
+          {
+            "id": "70a2666fcab24bca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250518193228.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250518193228"
+            }
+          },
+          {
+            "id": "54bba7507b590e1a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250504162620.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250504162620"
+            }
+          },
+          {
+            "id": "9f5194f3eb0d08de",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250223184136.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250223184136"
+            }
+          },
+          {
+            "id": "ca323674d776a3ff",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250112192828.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250112192828"
+            }
+          },
+          {
             "id": "f7a71b7f8834f1fd",
             "type": "leaf",
             "state": {
@@ -302,17 +422,24 @@
   },
   "active": "1554c82184048d59",
   "lastOpenFiles": [
-    "Pasted image 20250615204540.png",
+    "Pasted image 20250112192828.png",
+    "Pasted image 20250223184136.png",
+    "Pasted image 20250504162620.png",
+    "Pasted image 20250518193228.png",
+    "Pasted image 20250601184232.png",
+    "Pasted image 20250601193247.png",
+    "Pasted image 20250601200910.png",
+    "Pasted image 20250615192136.png",
     "Pasted image 20250615204511.png",
+    "Pasted image 20250615204540.png",
+    "Pasted image 20250615211108.png",
+    "Sessions/2025/06 15 - Session 46.md",
     "Locations/Abdos Woodland.canvas",
     "Sessions/2025/06 01 - Session 45.md",
-    "Sessions/2025/06 15 - Session 46.md",
     "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2025/03 30 - Session 42.md",
     "Setting Rules/Valid Wild Shapes.md",
-    "Pasted image 20250615192136.png",
     "Sessions/2025/05 18 - Session 44.md",
-    "Pasted image 20250601200910.png",
     "Sessions/2024/10 06 - Session 32.md",
     "Sessions/2024/10 20 - Session 33.md",
     "Sessions/2024/11 03 - Session 34.md",
@@ -332,17 +459,10 @@
     "Sessions/2024/08 11 - Session 28.md",
     "Sessions/2024/09 01 - Session 29.md",
     "Sessions/2024/09 08 - Session 30.md",
-    "Pasted image 20250601193247.png",
-    "Pasted image 20250601184232.png",
-    "Pasted image 20250518193228.png",
-    "Pasted image 20250504162620.png",
-    "Pasted image 20250518192757.png",
     "Locations/Dog Prince Caves.canvas",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Locations/Kathkach/Abandoned House.canvas",
     "Locations/Kathkach/The Cooking Association",
-    "Assets/Characters/Malain Enforcer 2.png",
-    "Assets/Characters/Malain Enforcer.png",
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Factions/Aepoptosian Cult",
     "Setting Rules/Untitled",
