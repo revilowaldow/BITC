@@ -45,4 +45,6 @@ Religious
 Cloaked figure, similar to Caenis in height, strange foreign accent
 	Similar to druidic
 
+"She's in here"
+
 
