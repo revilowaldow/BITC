@@ -42,4 +42,7 @@ Human Male
 [[Rev]] is not among the group
 
 Religious
-Cloaked figure, similar to Caenis in height
+Cloaked figure, similar to Caenis in height, strange foreign accent
+	Similar to druidic
+
+
