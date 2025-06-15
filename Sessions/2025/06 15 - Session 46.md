@@ -18,5 +18,5 @@ Party heads towards the Wyvern's Lair
 
 Owl ferry service to cliffside lair
 
-
+Giant scorpions
 
