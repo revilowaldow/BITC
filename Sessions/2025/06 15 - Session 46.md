@@ -69,4 +69,5 @@ Short Campaign
 THodunn:
 	Mining Grinder
 	Rev needs to be calm - Stone rune
+	Foundry DC incorrect for runes 15 not 12
 	
