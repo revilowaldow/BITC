@@ -11,3 +11,6 @@ Caenis recovers meat from the wailer, thigh lean meat built for speed
 Aru recovers hide from the wyvern
 
 
+Dengo went to the southwest to investigate smoke rising in the vicinity of Abdos
+
+Party heads towards the Wyvern's La
