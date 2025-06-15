@@ -21,5 +21,7 @@ Owl ferry service to cliffside lair
 
 Ambushed by giant scorpions at base of wyvern's lair
 
+Smoke is rising from the lake near Abdos
+
 
 
