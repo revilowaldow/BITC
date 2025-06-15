@@ -64,3 +64,9 @@ Take a creative break at level 12
 Switch to 2024 rules at that time
 
 Short Campaign
+
+
+THodunn:
+	Mining Grinder
+	Rev needs to be calm - Stone rune
+	
