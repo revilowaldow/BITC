@@ -35,3 +35,6 @@ Kaulinan kicked ring
 
 Large Crowd of people moving away from abdos
 
+Dwarf Barkeep
+Bailiff [[Minsar Tye]]
+Human Male
