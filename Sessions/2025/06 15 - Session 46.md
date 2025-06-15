@@ -57,3 +57,4 @@ More voices from elsewhere in the town
 
 ![[Pasted image 20250615204540.png]]
 
+Rev behaving similarly to Kana in com
