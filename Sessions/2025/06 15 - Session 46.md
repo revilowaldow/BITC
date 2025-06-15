@@ -26,4 +26,5 @@ Smoke is rising from the lake near Abdos
 Fire at grove
 Ogres and others heading towards Abdos
 
+> DANGER Group with ogres approaching ABDOS anticlocwise from east of lake Fire on horizon wailer dead hag dead abishai dead silver company earliest sixteen hours
 
