@@ -39,4 +39,7 @@ Dwarf Barkeep
 Bailiff [[Minsar Tye]]
 Human Male
 
-[[Rev]] 
+[[Rev]] is not among the group
+
+Religious
+
