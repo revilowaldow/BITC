@@ -19,3 +19,9 @@ Herbs, seasonings, spices and teeth - buried
 > "What on earth are you."
 
 
+Explore rest of map?
+	Eggs of wailer
+	Lair of wailer
+	Lair of wyvern
+	Trolls?
+	Abishai
