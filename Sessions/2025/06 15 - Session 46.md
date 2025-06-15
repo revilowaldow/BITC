@@ -4,4 +4,6 @@ Oliver
 
 Aru successfully harvested the poison from the Wyvern into Thodunn's discarded potion of hill giant strength bottle
 
+Consider making arrows from the feathers
+
 
