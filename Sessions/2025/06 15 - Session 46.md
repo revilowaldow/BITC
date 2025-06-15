@@ -18,5 +18,8 @@ Party heads towards the Wyvern's Lair
 
 Owl ferry service to cliffside lair
 
-Giant scorpions
+
+Ambushed by giant scorpions at base of wyvern's lair
+
+
 
