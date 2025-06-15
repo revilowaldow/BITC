@@ -10,7 +10,9 @@ Caenis recovers meat from the wailer, thigh lean meat built for speed
 
 Aru recovers hide from the wyvern
 
+Caenis is healed by Aru (potion) and Kaulinan (word)
 
 Dengo went to the southwest to investigate smoke rising in the vicinity of Abdos
 
-Party heads towards the Wyvern's La
+Party heads towards the Wyvern's Lair
+
