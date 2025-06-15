@@ -30,4 +30,6 @@ Ogres and others heading towards Abdos
 
 Silver unadorned ring
 	Pattern favoured by gold district individuals
-	
+
+Kaulinan kicked ring
+
