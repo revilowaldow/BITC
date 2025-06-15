@@ -47,4 +47,9 @@ Cloaked figure, similar to Caenis in height, strange foreign accent
 
 "She's in here"
 
-Huascan 
+Huascan stood with Rev and Chitikan
+
+5 cultists, 2 senior cultists, 2 ogres 
+More voices from elsewhere in the town
+
+
