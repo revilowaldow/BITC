@@ -57,3 +57,6 @@ More voices from elsewhere in the town
 
 Rev behaving similarly to Kana in combat
 
+<hr>
+
+Take a creative break 
