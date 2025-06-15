@@ -28,3 +28,4 @@ Ogres and others heading towards Abdos
 
 > DANGER Group with ogres approaching ABDOS anticlocwise from east of lake Fire on horizon wailer dead hag dead abishai dead silver company earliest sixteen hours
 
+Silver unadorned ring
