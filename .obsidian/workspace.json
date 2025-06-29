@@ -143,8 +143,8 @@
               "state": {
                 "file": "Locations/Lionhold/Ziardim Caverns.canvas",
                 "viewState": {
-                  "x": 2995.9709207043065,
-                  "y": 1198.5024202429881,
+                  "x": 2803.205352544278,
+                  "y": 711.8024077677213,
                   "zoom": -0.8619434769787211
                 }
               },
@@ -272,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -304,7 +304,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "call us",
+                "query": "crawl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -472,8 +472,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d64d57bbfa4524a3",
+  "active": "d71338819ae96469",
   "lastOpenFiles": [
+    "Sessions/2024/10 20 - Session 33.md",
+    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2024/12 01 - Session 36.md",
@@ -481,9 +483,7 @@
     "Sessions/2025/01 26 - Session 38.md",
     "Sessions/2025/02 09 - Session 39.md",
     "Sessions/2025/03 30 - Session 42.md",
-    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2025/02 23 - Session 40.md",
-    "Sessions/2024/10 20 - Session 33.md",
     "Sessions/2024/10 06 - Session 32.md",
     "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2025/05 04 - Session 43.5 - Oliver One Shot.md",
