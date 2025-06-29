@@ -25,3 +25,5 @@ We have a suggestion, allow the creature to take over the cultist and misdirect 
 Spitlizards
 
 
+Character shines soft glow on water
+
