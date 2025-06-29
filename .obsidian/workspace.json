@@ -40,6 +40,23 @@
             }
           },
           {
+            "id": "8503461760e9d960",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Lionhold/Ziardim Caverns.canvas",
+                "viewState": {
+                  "x": 2834.3876863992377,
+                  "y": 512.7825474919548,
+                  "zoom": -0.8619434769787211
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Ziardim Caverns"
+            }
+          },
+          {
             "id": "e8f9f3527d175395",
             "type": "leaf",
             "state": {
@@ -71,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -270,16 +287,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a96b1611301ae26",
+  "active": "8503461760e9d960",
   "lastOpenFiles": [
-    "Locations/Abdos Woodland.canvas",
+    "Sessions/2025/01 12 - Session 37.md",
+    "Sessions/2025/01 26 - Session 38.md",
     "Sessions/2025/06 29 - Session 47.md",
+    "Locations/Abdos Woodland.canvas",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2025/06 15 - Session 46.md",
     "Sessions/2025/02 23 - Session 40.md",
     "Sessions/2025/02 09 - Session 39.md",
-    "Sessions/2025/01 12 - Session 37.md",
-    "Sessions/2025/01 26 - Session 38.md",
     "Sessions/2025/03 30 - Session 42.md",
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2024/12 01 - Session 36.md",
