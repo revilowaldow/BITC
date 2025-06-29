@@ -10,5 +10,6 @@ Celestial Queen
 [[Grotuk Mimi]]
 	A spy for the Huascan Baronies
 
+Cultist: Following boss golem, protect it.
 
 
