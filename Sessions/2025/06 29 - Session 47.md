@@ -6,5 +6,7 @@ Reinforcing cultists arrive
 
 Rev went back under, failed save?
 
-Cultist made to sleep
+Cultist made to sleep for questioning
+
+
 
