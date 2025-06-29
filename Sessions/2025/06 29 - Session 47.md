@@ -25,12 +25,11 @@ We have a suggestion, allow the creature to take over the cultist and misdirect 
 Spitlizards
 
 
-Found wailer nest, no eggs or 
-
-Character shines soft glow on water
+Found wailer nest, no eggs or young.
+Not been here long
 
 Creature is huge, wingspan is much bigger, six legged, butterfly like wings
-Giant Garguantuan moth
+Giant Gargantuan moth
 
 
 
