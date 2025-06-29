@@ -35,7 +35,7 @@ Kaulinan kicked ring
 
 Large Crowd of people moving away from abdos
 
-Dwarf Barkeep
+Dwarf Barkeep Nikar
 Bailiff [[Minsar Tye]]
 Human Male
 
