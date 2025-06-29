@@ -9,6 +9,5 @@ Celestial Queen
 
 [[Grotuk Mimi]]
 	A spy for the Huascan Baronies
-
-
+	Wish 
 
