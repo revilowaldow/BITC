@@ -35,7 +35,7 @@ Giant Gargantuan moth
 
 Cavern beneath Abdos
 
-Mouthar
+Mauthar
 
 
 
