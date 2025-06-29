@@ -31,7 +31,7 @@ Not been here long
 Creature is huge, wingspan is much bigger, six legged, butterfly like wings
 Giant Gargantuan moth
 
-
+![[Pasted image 20250629194504.png]]
 
 
 
