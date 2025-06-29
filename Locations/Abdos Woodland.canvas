@@ -19,7 +19,8 @@
 		{"id":"1634d9b0e0be2b5e","type":"file","file":"Assets/Maps/Wailer Map.png","x":298,"y":-534,"width":295,"height":400},
 		{"id":"feb1a95df26ef83a","x":640,"y":-464,"width":320,"height":304,"color":"5","type":"text","text":"SE\nhear the sound of running water\nSmell of the wailer\n\n15ft high cliff overlooking a pool\n\nPerched on a rock is a nest made of branches and cadavers"},
 		{"id":"4b01fd53dc35df24","type":"text","text":"Dark Woodland 3\n","x":279,"y":-760,"width":270,"height":85},
-		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\nTall rock","x":-671,"y":-475,"width":315,"height":282,"color":"1"}
+		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\nTall rock","x":-671,"y":-475,"width":315,"height":282,"color":"1"},
+		{"id":"1e3b60c25d8fa909","x":-921,"y":-5,"width":250,"height":220,"color":"1","type":"text","text":"Mossy Clearing\n\nLots of types of moss"}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
@@ -38,6 +39,7 @@
 		{"id":"2ff42890c600c86a","fromNode":"f9441a7f76473dd9","fromSide":"top","toNode":"7ac9512a2518dfa6","toSide":"bottom"},
 		{"id":"6a3ee0c5f6598fc4","fromNode":"4b01fd53dc35df24","fromSide":"top","toNode":"d829ad54f46cc001","toSide":"bottom"},
 		{"id":"085fa042cd27f3eb","fromNode":"4b01fd53dc35df24","fromSide":"bottom","toNode":"feb1a95df26ef83a","toSide":"top"},
-		{"id":"793c42931b3a2fd9","fromNode":"5e09361c6fe2eb4e","fromSide":"bottom","toNode":"16e4e3af3175b989","toSide":"top"}
+		{"id":"793c42931b3a2fd9","fromNode":"5e09361c6fe2eb4e","fromSide":"bottom","toNode":"16e4e3af3175b989","toSide":"top"},
+		{"id":"d28326caffe90784","fromNode":"16e4e3af3175b989","fromSide":"bottom","toNode":"1e3b60c25d8fa909","toSide":"top"}
 	]
 }
