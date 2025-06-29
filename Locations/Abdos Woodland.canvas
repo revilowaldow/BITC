@@ -14,14 +14,14 @@
 		{"id":"7ac9512a2518dfa6","type":"text","text":"Forest Cliff\nNE\n\nWyvern Lair\nScorpions of nastiness\n\n","x":445,"y":-1880,"width":250,"height":237},
 		{"id":"c52cdc441600d4a9","type":"text","text":"NW\nAbandoned Cabin\nStumbled over trail\nSmell of cooking over a campfire\n\nMountaineers cabin,\n\nDruid grove infested by a Bheur Hag ","x":-760,"y":-2300,"width":350,"height":235},
 		{"id":"8a508f1209f136ad","type":"file","file":"Pasted image 20250615192136.png","x":760,"y":-2040,"width":400,"height":397},
-		{"id":"4b01fd53dc35df24","type":"text","text":"Dark Woodland 3\n","x":250,"y":-805,"width":320,"height":85},
 		{"id":"d829ad54f46cc001","x":480,"y":-1080,"width":390,"height":160,"color":"1","type":"text","text":"NE\nSound of wind across exposed rock"},
 		{"id":"25a94f395f75026f","type":"file","file":"Pasted image 20250601193247.png","x":480,"y":-1520,"width":390,"height":400},
 		{"id":"388b1ea6b6315f65","type":"file","file":"Pasted image 20250601200910.png","x":926,"y":-1520,"width":399,"height":400},
 		{"id":"d6b84983fbdb8470","type":"text","text":"R (NE)\nDark Woodland 2\nTall dense tree canopy\n\nAmbushed by large taloned creature\n\nFought a Troll\n","x":-31,"y":-464,"width":310,"height":260},
 		{"id":"1634d9b0e0be2b5e","type":"file","file":"Assets/Maps/Wailer Map.png","x":298,"y":-534,"width":295,"height":400},
 		{"id":"c5600e6b3d95d695","type":"text","text":"Eastern Entrance","x":1160,"y":-364,"width":250,"height":60},
-		{"id":"feb1a95df26ef83a","x":640,"y":-452,"width":320,"height":176,"color":"5","type":"text","text":"SE\nhear the sound of running water\nSmell of the wailer"}
+		{"id":"feb1a95df26ef83a","x":640,"y":-452,"width":320,"height":292,"color":"5","type":"text","text":"SE\nhear the sound of running water\nSmell of the wailer\n\n15ft high cliff overlooking a pool\n\nPerched on a rock is a nest made of branches and cadavers"},
+		{"id":"4b01fd53dc35df24","type":"text","text":"Dark Woodland 3\n","x":279,"y":-760,"width":270,"height":85}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
