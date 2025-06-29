@@ -20,7 +20,8 @@ Adoration, longing and hatred.
 Gathering outside at night, in Zdish
 
 [[Rev]]
-We have a suggestion
+We have a suggestion, allow the creature to take over the cultist and misdirect the cult away from abdos
 
 Spitlizards
+
 
