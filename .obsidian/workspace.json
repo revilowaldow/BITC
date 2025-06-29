@@ -54,9 +54,26 @@
               "icon": "lucide-file",
               "title": "06 29 - Session 47"
             }
+          },
+          {
+            "id": "e3adc321049e895f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Abdos Woodland.canvas",
+                "viewState": {
+                  "x": 151.51967170143178,
+                  "y": -274.9031908346774,
+                  "zoom": -0.4661944937423223
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Abdos Woodland"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -255,10 +272,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a96b1611301ae26",
+  "active": "e3adc321049e895f",
   "lastOpenFiles": [
-    "Sessions/2025/06 15 - Session 46.md",
     "Sessions/2025/06 29 - Session 47.md",
+    "Sessions/2025/06 15 - Session 46.md",
     "Sessions/2025/06 01 - Session 45.md",
     "Sessions/2025/05 18 - Session 44.md",
     "Sessions/2025/01 26 - Session 38.md",
