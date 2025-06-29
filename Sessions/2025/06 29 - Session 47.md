@@ -33,6 +33,8 @@ Giant Gargantuan moth
 
 ![[Pasted image 20250629194504.png]]
 
+Cavern beneath Abdos
+
 
 
 
