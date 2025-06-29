@@ -37,6 +37,15 @@ Cavern beneath Abdos
 
 Mauthar
 
+Left it in charge of abdos
+Not putting this in the report
+
+fed it honey and fruit
+
+grove burned down
+
+stopped near matchaka to investigate passage of group
+
 
 
 
