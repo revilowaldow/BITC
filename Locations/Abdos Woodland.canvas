@@ -4,9 +4,7 @@
 		{"id":"67e0aa940122f87d","type":"text","text":"Southern Entrance","x":-200,"y":340,"width":250,"height":60},
 		{"id":"901d6dd2c9397b81","type":"text","text":"SE","x":320,"y":10,"width":250,"height":130,"color":"1"},
 		{"id":"5e09361c6fe2eb4e","type":"text","text":"Small Lake\nNW\nslightly thinner trees\n\nsmall lake 300ft diameter\nused by various fauna\nstanding fog","x":-180,"y":-880,"width":298,"height":240,"color":"5"},
-		{"id":"dc831478ad135068","type":"text","text":"SW","x":-357,"y":-494,"width":250,"height":60,"color":"1"},
 		{"id":"b092ddd5e56affc8","type":"text","text":"NW\nglowing forest\nGlint of light\nplants are bioluminescent\nvarious colours\n\nSwarms of fireflies that cannot be seen in light\n","x":-734,"y":-1339,"width":440,"height":299,"color":"3"},
-		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\n","x":-671,"y":-364,"width":315,"height":60,"color":"1"},
 		{"id":"78d712320b2627e2","type":"file","file":"Pasted image 20250518193228.png","x":-1160,"y":-1386,"width":400,"height":393},
 		{"id":"5d0fe457266be916","type":"text","text":"Dry Trees\nNE\nLeave in this direction\nflaky bark","x":-305,"y":-1760,"width":250,"height":180},
 		{"id":"b40a773ce8358828","type":"file","file":"Pasted image 20250601184232.png","x":-1040,"y":-2362,"width":255,"height":400},
@@ -20,7 +18,8 @@
 		{"id":"d6b84983fbdb8470","type":"text","text":"R (NE)\nDark Woodland 2\nTall dense tree canopy\n\nAmbushed by large taloned creature\n\nFought a Troll\n","x":-31,"y":-464,"width":310,"height":260},
 		{"id":"1634d9b0e0be2b5e","type":"file","file":"Assets/Maps/Wailer Map.png","x":298,"y":-534,"width":295,"height":400},
 		{"id":"feb1a95df26ef83a","x":640,"y":-464,"width":320,"height":304,"color":"5","type":"text","text":"SE\nhear the sound of running water\nSmell of the wailer\n\n15ft high cliff overlooking a pool\n\nPerched on a rock is a nest made of branches and cadavers"},
-		{"id":"4b01fd53dc35df24","type":"text","text":"Dark Woodland 3\n","x":279,"y":-760,"width":270,"height":85}
+		{"id":"4b01fd53dc35df24","type":"text","text":"Dark Woodland 3\n","x":279,"y":-760,"width":270,"height":85},
+		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\nTall rock","x":-671,"y":-475,"width":315,"height":282,"color":"1"}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
@@ -32,13 +31,13 @@
 		{"id":"8b1d6c8349121cd3","fromNode":"16e4e3af3175b989","fromSide":"top","toNode":"b092ddd5e56affc8","toSide":"bottom"},
 		{"id":"25110a6ad9bc4b48","fromNode":"5e09361c6fe2eb4e","fromSide":"top","toNode":"f9441a7f76473dd9","toSide":"bottom"},
 		{"id":"1f6af1b49f705757","fromNode":"5e09361c6fe2eb4e","fromSide":"top","toNode":"b092ddd5e56affc8","toSide":"bottom"},
-		{"id":"bca295e819f1b983","fromNode":"5e09361c6fe2eb4e","fromSide":"bottom","toNode":"dc831478ad135068","toSide":"top"},
 		{"id":"1eab9b95380c9034","fromNode":"b092ddd5e56affc8","fromSide":"top","toNode":"5d0fe457266be916","toSide":"bottom"},
 		{"id":"a1365c172015a83b","fromNode":"5d0fe457266be916","fromSide":"top","toNode":"c52cdc441600d4a9","toSide":"bottom","label":"Path vanished behind us"},
 		{"id":"dc5ae6a536f9f6de","fromNode":"5d0fe457266be916","fromSide":"bottom","toNode":"f9441a7f76473dd9","toSide":"top"},
 		{"id":"320abe8865b99111","fromNode":"f9441a7f76473dd9","fromSide":"bottom","toNode":"4b01fd53dc35df24","toSide":"top","label":"flat"},
 		{"id":"2ff42890c600c86a","fromNode":"f9441a7f76473dd9","fromSide":"top","toNode":"7ac9512a2518dfa6","toSide":"bottom"},
 		{"id":"6a3ee0c5f6598fc4","fromNode":"4b01fd53dc35df24","fromSide":"top","toNode":"d829ad54f46cc001","toSide":"bottom"},
-		{"id":"085fa042cd27f3eb","fromNode":"4b01fd53dc35df24","fromSide":"bottom","toNode":"feb1a95df26ef83a","toSide":"top"}
+		{"id":"085fa042cd27f3eb","fromNode":"4b01fd53dc35df24","fromSide":"bottom","toNode":"feb1a95df26ef83a","toSide":"top"},
+		{"id":"793c42931b3a2fd9","fromNode":"5e09361c6fe2eb4e","fromSide":"bottom","toNode":"16e4e3af3175b989","toSide":"top"}
 	]
 }
