@@ -19,9 +19,9 @@
 		{"id":"388b1ea6b6315f65","type":"file","file":"Pasted image 20250601200910.png","x":926,"y":-1520,"width":399,"height":400},
 		{"id":"d6b84983fbdb8470","type":"text","text":"R (NE)\nDark Woodland 2\nTall dense tree canopy\n\nAmbushed by large taloned creature\n\nFought a Troll\n","x":-31,"y":-464,"width":310,"height":260},
 		{"id":"1634d9b0e0be2b5e","type":"file","file":"Assets/Maps/Wailer Map.png","x":298,"y":-534,"width":295,"height":400},
-		{"id":"c5600e6b3d95d695","type":"text","text":"Eastern Entrance","x":1160,"y":-364,"width":250,"height":60},
-		{"id":"feb1a95df26ef83a","x":640,"y":-452,"width":320,"height":292,"color":"5","type":"text","text":"SE\nhear the sound of running water\nSmell of the wailer\n\n15ft high cliff overlooking a pool\n\nPerched on a rock is a nest made of branches and cadavers"},
-		{"id":"4b01fd53dc35df24","type":"text","text":"Dark Woodland 3\n","x":279,"y":-760,"width":270,"height":85}
+		{"id":"feb1a95df26ef83a","x":640,"y":-464,"width":320,"height":304,"color":"5","type":"text","text":"SE\nhear the sound of running water\nSmell of the wailer\n\n15ft high cliff overlooking a pool\n\nPerched on a rock is a nest made of branches and cadavers"},
+		{"id":"4b01fd53dc35df24","type":"text","text":"Dark Woodland 3\n","x":279,"y":-760,"width":270,"height":85},
+		{"id":"c5600e6b3d95d695","type":"text","text":"Eastern Entrance","x":1001,"y":-820,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
