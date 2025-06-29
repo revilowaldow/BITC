@@ -11,5 +11,6 @@ Celestial Queen
 	A spy for the Huascan Baronies
 
 Cultist: Following boss golem, protect it.
+Cultist from Zdish
 
 
