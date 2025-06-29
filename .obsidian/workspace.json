@@ -78,8 +78,8 @@
               "state": {
                 "file": "Locations/Abdos Woodland.canvas",
                 "viewState": {
-                  "x": -243.17504735059129,
-                  "y": 131.1858417864906,
+                  "x": 385.1567819025712,
+                  "y": -634.647966721519,
                   "zoom": -0.7995278270756556
                 }
               },
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -287,8 +287,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8503461760e9d960",
+  "active": "e3adc321049e895f",
   "lastOpenFiles": [
+    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2025/01 12 - Session 37.md",
     "Sessions/2025/01 26 - Session 38.md",
     "Sessions/2025/06 29 - Session 47.md",
@@ -298,7 +299,6 @@
     "Sessions/2025/02 23 - Session 40.md",
     "Sessions/2025/02 09 - Session 39.md",
     "Sessions/2025/03 30 - Session 42.md",
-    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2024/12 01 - Session 36.md",
     "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2024/11 17 - Session 35.md",
