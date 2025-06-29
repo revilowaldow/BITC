@@ -1,15 +1,11 @@
 {
 	"nodes":[
 		{"id":"f5af5ea568df66b0","type":"text","text":"Nettle Thicket\nCut down","x":-200,"y":10,"width":250,"height":190},
-		{"id":"67e0aa940122f87d","type":"text","text":"Southern Entrance","x":-200,"y":340,"width":250,"height":60},
 		{"id":"5e09361c6fe2eb4e","type":"text","text":"Small Lake\nNW\nslightly thinner trees\n\nsmall lake 300ft diameter\nused by various fauna\nstanding fog","x":-180,"y":-880,"width":298,"height":240,"color":"5"},
 		{"id":"b092ddd5e56affc8","type":"text","text":"NW\nglowing forest\nGlint of light\nplants are bioluminescent\nvarious colours\n\nSwarms of fireflies that cannot be seen in light\n","x":-734,"y":-1339,"width":440,"height":299,"color":"3"},
 		{"id":"78d712320b2627e2","type":"file","file":"Pasted image 20250518193228.png","x":-1160,"y":-1386,"width":400,"height":393},
-		{"id":"5d0fe457266be916","type":"text","text":"Dry Trees\nNE\nLeave in this direction\nflaky bark","x":-305,"y":-1760,"width":250,"height":180},
-		{"id":"b40a773ce8358828","type":"file","file":"Pasted image 20250601184232.png","x":-1040,"y":-2362,"width":255,"height":400},
 		{"id":"f9441a7f76473dd9","type":"text","text":"Dark Woodland 1\nHear Reptilian/Avian Shriek\nAngry Female Wyvern\n\nBombed by a wyvern egg\n\n","x":1,"y":-1360,"width":409,"height":320},
 		{"id":"7ac9512a2518dfa6","type":"text","text":"Forest Cliff\nNE\n\nWyvern Lair\nScorpions of nastiness\n\n","x":445,"y":-1880,"width":250,"height":237},
-		{"id":"c52cdc441600d4a9","type":"text","text":"NW\nAbandoned Cabin\nStumbled over trail\nSmell of cooking over a campfire\n\nMountaineers cabin,\n\nDruid grove infested by a Bheur Hag ","x":-760,"y":-2300,"width":350,"height":235},
 		{"id":"8a508f1209f136ad","type":"file","file":"Pasted image 20250615192136.png","x":760,"y":-2040,"width":400,"height":397},
 		{"id":"25a94f395f75026f","type":"file","file":"Pasted image 20250601193247.png","x":480,"y":-1520,"width":390,"height":400},
 		{"id":"388b1ea6b6315f65","type":"file","file":"Pasted image 20250601200910.png","x":926,"y":-1520,"width":399,"height":400},
@@ -20,7 +16,11 @@
 		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\nTall rock","x":-671,"y":-475,"width":315,"height":282,"color":"1"},
 		{"id":"1e3b60c25d8fa909","x":-921,"y":-5,"width":250,"height":220,"color":"1","type":"text","text":"Mossy Clearing\n\nLots of types of moss"},
 		{"id":"901d6dd2c9397b81","type":"text","text":"SE\n\nDense Woodland\n\nTrolls","x":298,"y":10,"width":295,"height":190,"color":"1"},
-		{"id":"d829ad54f46cc001","x":480,"y":-1093,"width":390,"height":200,"color":"1","type":"text","text":"NE\nSound of wind across exposed rock"}
+		{"id":"d829ad54f46cc001","x":480,"y":-1093,"width":390,"height":200,"color":"1","type":"text","text":"NE\nSound of wind across exposed rock\n\nChasm\n\n"},
+		{"id":"5d0fe457266be916","type":"text","text":"Dry Trees\nNE\nLeave in this direction\nflaky bark","x":-305,"y":-1610,"width":250,"height":180},
+		{"id":"c52cdc441600d4a9","type":"text","text":"NW\nAbandoned Cabin\nStumbled over trail\nSmell of cooking over a campfire\n\nMountaineers cabin,\n\nDruid grove infested by a Bheur Hag ","x":-760,"y":-2040,"width":350,"height":235},
+		{"id":"b40a773ce8358828","type":"file","file":"Pasted image 20250601184232.png","x":-1060,"y":-2122,"width":255,"height":400},
+		{"id":"67e0aa940122f87d","type":"text","text":"Southern Entrance","x":-200,"y":280,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
