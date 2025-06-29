@@ -7,5 +7,8 @@ Cultist made to sleep for questioning
 
 Celestial Queen
 
+[[Grotuk Mimi]]
+	A spy for the Huascan Baronies
+
 
 
