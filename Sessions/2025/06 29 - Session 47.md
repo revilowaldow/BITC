@@ -13,4 +13,5 @@ Celestial Queen
 Cultist: Following boss golem, protect it.
 Cultist from Zdish
 
-
+Very flat reporting structure.
+Grandmaster finds people in Kathkach 
