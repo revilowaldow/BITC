@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"f5af5ea568df66b0","type":"text","text":"Nettle Thicket\nCut down","x":-200,"y":10,"width":250,"height":190},
 		{"id":"67e0aa940122f87d","type":"text","text":"Southern Entrance","x":-200,"y":340,"width":250,"height":60},
-		{"id":"901d6dd2c9397b81","type":"text","text":"SE","x":320,"y":10,"width":250,"height":130,"color":"1"},
 		{"id":"5e09361c6fe2eb4e","type":"text","text":"Small Lake\nNW\nslightly thinner trees\n\nsmall lake 300ft diameter\nused by various fauna\nstanding fog","x":-180,"y":-880,"width":298,"height":240,"color":"5"},
 		{"id":"b092ddd5e56affc8","type":"text","text":"NW\nglowing forest\nGlint of light\nplants are bioluminescent\nvarious colours\n\nSwarms of fireflies that cannot be seen in light\n","x":-734,"y":-1339,"width":440,"height":299,"color":"3"},
 		{"id":"78d712320b2627e2","type":"file","file":"Pasted image 20250518193228.png","x":-1160,"y":-1386,"width":400,"height":393},
@@ -12,7 +11,6 @@
 		{"id":"7ac9512a2518dfa6","type":"text","text":"Forest Cliff\nNE\n\nWyvern Lair\nScorpions of nastiness\n\n","x":445,"y":-1880,"width":250,"height":237},
 		{"id":"c52cdc441600d4a9","type":"text","text":"NW\nAbandoned Cabin\nStumbled over trail\nSmell of cooking over a campfire\n\nMountaineers cabin,\n\nDruid grove infested by a Bheur Hag ","x":-760,"y":-2300,"width":350,"height":235},
 		{"id":"8a508f1209f136ad","type":"file","file":"Pasted image 20250615192136.png","x":760,"y":-2040,"width":400,"height":397},
-		{"id":"d829ad54f46cc001","x":480,"y":-1080,"width":390,"height":160,"color":"1","type":"text","text":"NE\nSound of wind across exposed rock"},
 		{"id":"25a94f395f75026f","type":"file","file":"Pasted image 20250601193247.png","x":480,"y":-1520,"width":390,"height":400},
 		{"id":"388b1ea6b6315f65","type":"file","file":"Pasted image 20250601200910.png","x":926,"y":-1520,"width":399,"height":400},
 		{"id":"d6b84983fbdb8470","type":"text","text":"R (NE)\nDark Woodland 2\nTall dense tree canopy\n\nAmbushed by large taloned creature\n\nFought a Troll\n","x":-31,"y":-464,"width":310,"height":260},
@@ -20,7 +18,9 @@
 		{"id":"feb1a95df26ef83a","x":640,"y":-464,"width":320,"height":304,"color":"5","type":"text","text":"SE\nhear the sound of running water\nSmell of the wailer\n\n15ft high cliff overlooking a pool\n\nPerched on a rock is a nest made of branches and cadavers"},
 		{"id":"4b01fd53dc35df24","type":"text","text":"Dark Woodland 3\n","x":279,"y":-760,"width":270,"height":85},
 		{"id":"16e4e3af3175b989","type":"text","text":"L (NW)\n\nTall rock","x":-671,"y":-475,"width":315,"height":282,"color":"1"},
-		{"id":"1e3b60c25d8fa909","x":-921,"y":-5,"width":250,"height":220,"color":"1","type":"text","text":"Mossy Clearing\n\nLots of types of moss"}
+		{"id":"1e3b60c25d8fa909","x":-921,"y":-5,"width":250,"height":220,"color":"1","type":"text","text":"Mossy Clearing\n\nLots of types of moss"},
+		{"id":"901d6dd2c9397b81","type":"text","text":"SE\n\nDense Woodland\n\nTrolls","x":298,"y":10,"width":295,"height":190,"color":"1"},
+		{"id":"d829ad54f46cc001","x":480,"y":-1093,"width":390,"height":200,"color":"1","type":"text","text":"NE\nSound of wind across exposed rock"}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},
