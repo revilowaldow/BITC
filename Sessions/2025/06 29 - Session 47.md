@@ -16,3 +16,6 @@ Cultist from Zdish
 Very flat reporting structure.
 Grandmaster finds people in Kathkach. 
 
+Adoration, longing and hatred. 
+Gathering outside at night, in Zdish
+
