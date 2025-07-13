@@ -113,9 +113,18 @@
               "icon": "lucide-layout-dashboard",
               "title": "Abdos Woodland"
             }
+          },
+          {
+            "id": "cb421e1bc8ad41d5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Melinda",
+                "query": "Whilsp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -315,10 +324,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b73541dc08b4851",
+  "active": "d64d57bbfa4524a3",
   "lastOpenFiles": [
-    "Factions/Melinda Palov.md",
     "Sessions/2025/07 13 - Session 48.md",
+    "Factions/Melinda Palov.md",
     "Deity/Eternal Queen.md",
     "Locations/Abdos Woodland.canvas",
     "Deity/The Protector.md",
