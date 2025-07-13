@@ -13,3 +13,5 @@ Name is Ruadh (Ru)
 
 They/them
 
+[https://www.artstation.com/artwork/8wwDQR](https://www.artstation.com/artwork/8wwDQR)
+![[Ruadh.png]]

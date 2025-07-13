@@ -106,8 +106,8 @@
               "state": {
                 "file": "Locations/The Pit.canvas",
                 "viewState": {
-                  "x": -152.05786966526404,
-                  "y": 952.9616329367229,
+                  "x": -4.429571832221484,
+                  "y": 1986.3597177680206,
                   "zoom": -0.6666666666666667
                 }
               },
@@ -222,8 +222,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -361,9 +360,11 @@
   },
   "active": "991e4a11f89bca69",
   "lastOpenFiles": [
+    "Assets/Characters/Ruadh.png",
+    "Factions/Silver Company/Party/Ruadh.md",
+    "Locations/The Pit.canvas",
     "Factions/Silver Company/Kevin Aldragosh.md",
     "Factions/Melinda Palov.md",
-    "Factions/Silver Company/Party/Ruadh.md",
     "Sessions/2024/09 08 - Session 30.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Sessions/2025/07 13 - Session 48.md",
@@ -378,7 +379,6 @@
     "Sessions/2025/05 18 - Session 44.md",
     "Sessions/2025/06 15 - Session 46.md",
     "Sessions/2025/06 29 - Session 47.md",
-    "Locations/The Pit.canvas",
     "Locations/The Second Founding.md",
     "Locations/Abdos Woodland.canvas",
     "Locations/The Pit.md",
@@ -399,7 +399,6 @@
     "Pasted image 20250601184232.png",
     "Pasted image 20250518193228.png",
     "Pasted image 20250504162620.png",
-    "Pasted image 20250223184136.png",
     "Locations/Dog Prince Caves.canvas",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Locations/Kathkach/Abandoned House.canvas",
