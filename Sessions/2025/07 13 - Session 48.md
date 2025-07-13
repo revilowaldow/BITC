@@ -11,3 +11,4 @@ Val has been in motion for the last day
 Aegan expert, coming to look at Val
 
 Jay Connar, potential method for destruction
+Clergy may be able to 
