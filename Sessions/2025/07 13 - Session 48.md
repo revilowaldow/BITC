@@ -55,4 +55,4 @@ Whilspar ritual in two days.
 [[Butler]] visited [[Caenis]]
 
 
-Caenis was 
+Caenis was gifted the [[Flatek of the Flavours]] by [[Butler]]
