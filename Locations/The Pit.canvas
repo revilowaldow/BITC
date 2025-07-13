@@ -21,8 +21,6 @@
 		{"id":"cac2dd5d00c13ac7","type":"text","text":"2pm","x":319,"y":880,"width":125,"height":60},
 		{"id":"e2725292574595c5","type":"text","text":"6pm","x":-68,"y":1300,"width":103,"height":60},
 		{"id":"5c9abc90980f755f","type":"text","text":"Lift Floor 3\nYayek's Office this floor","x":-157,"y":1460,"width":280,"height":136},
-		{"id":"00fd851fa064aa67","x":444,"y":1300,"width":360,"height":116,"type":"text","text":"Distorted Cruel Looking face behind bars,\nCackle/Whine,\nArms ending in sickle shaped blades"},
-		{"id":"764c485fb2c3c07b","type":"text","text":"4pm\nAvoid the stairways","x":272,"y":1076,"width":219,"height":116},
 		{"id":"2d879d59018be0a8","type":"text","text":"8pm","x":-481,"y":1120,"width":119,"height":60},
 		{"id":"6770dcf0c753567f","type":"text","text":"10pm","x":-476,"y":880,"width":110,"height":60},
 		{"id":"caedb580d24a597e","type":"text","text":"12pm","x":-124,"y":1800,"width":223,"height":60},
@@ -31,7 +29,10 @@
 		{"id":"1931d9f3ed3dba3f","type":"text","text":"8pm","x":-485,"y":2240,"width":119,"height":60},
 		{"id":"7482557c6ba6a65a","type":"text","text":"10pm","x":-480,"y":2000,"width":110,"height":60},
 		{"id":"d65752f2d11e8a17","type":"text","text":"2pm","x":315,"y":2000,"width":125,"height":60},
-		{"id":"df0596463d0a9307","type":"text","text":"4pm","x":315,"y":2240,"width":119,"height":60}
+		{"id":"df0596463d0a9307","type":"text","text":"4pm","x":315,"y":2240,"width":119,"height":60},
+		{"id":"764c485fb2c3c07b","type":"text","text":"4pm\nAvoid the stairways","x":292,"y":1184,"width":172,"height":116},
+		{"id":"00fd851fa064aa67","x":444,"y":1360,"width":360,"height":116,"type":"text","text":"Distorted Cruel Looking face behind bars,\nCackle/Whine,\nArms ending in sickle shaped blades"},
+		{"id":"4eca80f7b4f91c82","x":499,"y":670,"width":250,"height":140,"type":"text","text":"Iron Cell Door Coated in waxy substance"}
 	],
 	"edges":[
 		{"id":"7071e335a159eff3","fromNode":"a5ba9159b2771d31","fromSide":"bottom","toNode":"79a0c1f686b2b388","toSide":"top","label":"Slope down\n60ft"},
@@ -56,7 +57,7 @@
 		{"id":"88dc9014a09aa935","fromNode":"ca424f44bab209a2","fromSide":"left","toNode":"6770dcf0c753567f","toSide":"top"},
 		{"id":"a7a25603708691ca","fromNode":"cac2dd5d00c13ac7","fromSide":"bottom","toNode":"764c485fb2c3c07b","toSide":"top"},
 		{"id":"43d71f482b350919","fromNode":"ca424f44bab209a2","fromSide":"right","toNode":"cac2dd5d00c13ac7","toSide":"top"},
-		{"id":"3d819835bd2c213f","fromNode":"764c485fb2c3c07b","fromSide":"bottom","toNode":"e2725292574595c5","toSide":"right"},
+		{"id":"3d819835bd2c213f","fromNode":"764c485fb2c3c07b","fromSide":"left","toNode":"e2725292574595c5","toSide":"right"},
 		{"id":"69585b252a66b9b0","fromNode":"e2725292574595c5","fromSide":"bottom","toNode":"5c9abc90980f755f","toSide":"top"},
 		{"id":"8290bcbab530683f","fromNode":"1931d9f3ed3dba3f","fromSide":"bottom","toNode":"f35c6de8dd7d5b09","toSide":"left"},
 		{"id":"b7b7257c7ce1f2d2","fromNode":"7482557c6ba6a65a","fromSide":"bottom","toNode":"1931d9f3ed3dba3f","toSide":"top"},
@@ -65,6 +66,7 @@
 		{"id":"fa215e13b2f16f61","fromNode":"caedb580d24a597e","fromSide":"right","toNode":"d65752f2d11e8a17","toSide":"top"},
 		{"id":"a2dd9b5f0da8c151","fromNode":"df0596463d0a9307","fromSide":"bottom","toNode":"f35c6de8dd7d5b09","toSide":"right"},
 		{"id":"f997b15a65720e40","fromNode":"f35c6de8dd7d5b09","fromSide":"bottom","toNode":"d88303a9949bb104","toSide":"top"},
-		{"id":"c0599d2206ab313a","fromNode":"764c485fb2c3c07b","fromSide":"right","toNode":"00fd851fa064aa67","toSide":"top","label":"Cell Door"}
+		{"id":"c0599d2206ab313a","fromNode":"764c485fb2c3c07b","fromSide":"right","toNode":"00fd851fa064aa67","toSide":"top","label":"Cell Door"},
+		{"id":"c4e8fbcbcbd70c61","fromNode":"cac2dd5d00c13ac7","fromSide":"right","toNode":"4eca80f7b4f91c82","toSide":"bottom"}
 	]
 }
