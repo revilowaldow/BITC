@@ -1,7 +1,6 @@
 {
 	"nodes":[
-		{"id":"8390e9365a58e317","x":-700,"y":-1480,"width":182,"height":98,"type":"text","text":"Humanoid, shuffling, back turned"},
-		{"id":"79a0c1f686b2b388","x":-146,"y":-1320,"width":250,"height":170,"type":"text","text":"12pm\nGuard by lever\nradius 50ft\nSmell of ozone\n20ft wide corridor"},
+		{"id":"79a0c1f686b2b388","x":-146,"y":-1320,"width":250,"height":170,"type":"text","text":"12pm\nGuard by lever (TRAP)\nradius 50ft\nSmell of ozone\n20ft wide corridor"},
 		{"id":"97cef852a2441903","x":82,"y":-1480,"width":178,"height":60,"type":"text","text":"Guard Post"},
 		{"id":"dd3b3de3df73c615","x":-480,"y":-840,"width":119,"height":60,"type":"text","text":"8pm"},
 		{"id":"f791a882a995983f","x":-119,"y":-680,"width":223,"height":140,"type":"text","text":"6pm\n\"The Descender\""},
@@ -20,7 +19,6 @@
 		{"id":"2d879d59018be0a8","type":"text","text":"8pm","x":636,"y":124,"width":119,"height":60},
 		{"id":"6770dcf0c753567f","type":"text","text":"10pm","x":641,"y":-116,"width":110,"height":60},
 		{"id":"cac2dd5d00c13ac7","type":"text","text":"2pm","x":1436,"y":-116,"width":125,"height":60},
-		{"id":"764c485fb2c3c07b","type":"text","text":"4pm","x":1436,"y":124,"width":119,"height":60},
 		{"id":"ca424f44bab209a2","type":"text","text":"12pm","x":997,"y":-316,"width":223,"height":60},
 		{"id":"e2725292574595c5","type":"text","text":"6pm","x":1049,"y":304,"width":103,"height":60},
 		{"id":"5c9abc90980f755f","type":"text","text":"Lift Floor 3\nYayek's Office this floor","x":960,"y":464,"width":280,"height":136},
@@ -31,7 +29,9 @@
 		{"id":"caedb580d24a597e","type":"text","text":"12pm","x":997,"y":-1280,"width":223,"height":60},
 		{"id":"f35c6de8dd7d5b09","type":"text","text":"6pm","x":1049,"y":-660,"width":103,"height":60},
 		{"id":"d88303a9949bb104","type":"text","text":"Lift Floor 4","x":1021,"y":-500,"width":160,"height":60},
-		{"id":"00fd851fa064aa67","x":1561,"y":304,"width":360,"height":116,"type":"text","text":"Distorted Cruel Looking face behind bars,\nCackle/Whine,\nArms ending in sickle shaped blades"}
+		{"id":"00fd851fa064aa67","x":1561,"y":304,"width":360,"height":116,"type":"text","text":"Distorted Cruel Looking face behind bars,\nCackle/Whine,\nArms ending in sickle shaped blades"},
+		{"id":"8390e9365a58e317","x":-657,"y":-1369,"width":182,"height":98,"type":"text","text":"Humanoid, shuffling, back turned"},
+		{"id":"764c485fb2c3c07b","type":"text","text":"4pm\n","x":1401,"y":100,"width":195,"height":116}
 	],
 	"edges":[
 		{"id":"7071e335a159eff3","fromNode":"a5ba9159b2771d31","fromSide":"bottom","toNode":"79a0c1f686b2b388","toSide":"top","label":"Slope down\n60ft"},
@@ -65,6 +65,6 @@
 		{"id":"fa215e13b2f16f61","fromNode":"caedb580d24a597e","fromSide":"right","toNode":"d65752f2d11e8a17","toSide":"top"},
 		{"id":"a2dd9b5f0da8c151","fromNode":"df0596463d0a9307","fromSide":"bottom","toNode":"f35c6de8dd7d5b09","toSide":"right"},
 		{"id":"f997b15a65720e40","fromNode":"f35c6de8dd7d5b09","fromSide":"bottom","toNode":"d88303a9949bb104","toSide":"top"},
-		{"id":"c0599d2206ab313a","fromNode":"764c485fb2c3c07b","fromSide":"right","toNode":"00fd851fa064aa67","toSide":"top"}
+		{"id":"c0599d2206ab313a","fromNode":"764c485fb2c3c07b","fromSide":"right","toNode":"00fd851fa064aa67","toSide":"top","label":"Cell Door"}
 	]
 }
