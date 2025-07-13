@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -358,11 +358,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "991e4a11f89bca69",
+  "active": "e96e3fb9ccf07d53",
   "lastOpenFiles": [
+    "Locations/The Pit.canvas",
     "Assets/Characters/Ruadh.png",
     "Factions/Silver Company/Party/Ruadh.md",
-    "Locations/The Pit.canvas",
     "Factions/Silver Company/Kevin Aldragosh.md",
     "Factions/Melinda Palov.md",
     "Sessions/2024/09 08 - Session 30.md",
