@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"a5ba9159b2771d31","x":-125,"y":-30,"width":205,"height":70,"color":"5","type":"text","text":"Portcullis entrance on river bank"},
 		{"id":"97cef852a2441903","x":92,"y":-222,"width":250,"height":60,"type":"text","text":"Guard Post"},
-		{"id":"79a0c1f686b2b388","x":-147,"y":-420,"width":250,"height":80,"type":"text","text":"Guard by lever"},
+		{"id":"79a0c1f686b2b388","x":-147,"y":-420,"width":250,"height":80,"type":"text","text":"Guard by lever\nradius 50ft"},
 		{"id":"928e00ec0cffb220","x":380,"y":-520,"width":250,"height":60,"type":"text","text":""},
 		{"id":"7859ab8ee5eb935d","x":-720,"y":-520,"width":250,"height":60,"type":"text","text":""}
 	],
