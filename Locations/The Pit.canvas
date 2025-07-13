@@ -36,13 +36,13 @@
 		{"id":"d360b896a87612d6","x":-860,"y":1194,"width":250,"height":60,"type":"text","text":"Unmarked Door"},
 		{"id":"d88303a9949bb104","type":"text","text":"Lift Floor 4\nItems\nBooks\n\"Special Holding Chamber\"\nBarracks\nLibrary\nMess Hall","x":-162,"y":2580,"width":284,"height":220},
 		{"id":"9522f30703c1518e","x":460,"y":2420,"width":250,"height":100,"type":"text","text":""},
-		{"id":"9d53f863cbd988a9","type":"text","text":"12pm","x":1012,"y":2550,"width":223,"height":60},
-		{"id":"f28f01f7e7dcc781","type":"text","text":"6pm","x":1064,"y":3170,"width":103,"height":60},
-		{"id":"60dc3f9adc752865","type":"text","text":"8pm","x":651,"y":2990,"width":119,"height":60},
-		{"id":"aef9a80826a6f071","type":"text","text":"10pm","x":656,"y":2750,"width":110,"height":60},
-		{"id":"348a11bbe4285437","type":"text","text":"2pm","x":1451,"y":2750,"width":125,"height":60},
-		{"id":"190c744d5e4de30c","type":"text","text":"4pm","x":1451,"y":2990,"width":119,"height":60},
-		{"id":"5adc52cff7c767e9","x":1021,"y":2830,"width":250,"height":60,"type":"text","text":"Hole in cen"}
+		{"id":"9d53f863cbd988a9","type":"text","text":"12pm","x":1961,"y":2800,"width":223,"height":60},
+		{"id":"f28f01f7e7dcc781","type":"text","text":"6pm","x":2013,"y":3420,"width":103,"height":60},
+		{"id":"60dc3f9adc752865","type":"text","text":"8pm","x":1600,"y":3240,"width":119,"height":60},
+		{"id":"aef9a80826a6f071","type":"text","text":"10pm","x":1605,"y":3000,"width":110,"height":60},
+		{"id":"348a11bbe4285437","type":"text","text":"2pm","x":2400,"y":3000,"width":125,"height":60},
+		{"id":"190c744d5e4de30c","type":"text","text":"4pm","x":2400,"y":3240,"width":119,"height":60},
+		{"id":"5adc52cff7c767e9","x":640,"y":2700,"width":440,"height":240,"type":"text","text":"Hole in center of 60ft circle\nPyramid shaped structure suspended aloft by three heavy chains\nCovered in pulsing runes\n"}
 	],
 	"edges":[
 		{"id":"7071e335a159eff3","fromNode":"a5ba9159b2771d31","fromSide":"bottom","toNode":"79a0c1f686b2b388","toSide":"top","label":"Slope down\n60ft"},
