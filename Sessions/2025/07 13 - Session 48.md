@@ -24,6 +24,8 @@ It could be killed in the dream form, eternal queen.
 Couple days
 Ritual outside the city.
 
+Ritual will be performed at the boundary of the southern desert
+
 
 
 
