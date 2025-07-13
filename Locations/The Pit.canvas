@@ -1,11 +1,15 @@
 {
 	"nodes":[
 		{"id":"a5ba9159b2771d31","x":-125,"y":-30,"width":205,"height":70,"color":"5","type":"text","text":"Portcullis entrance on river bank"},
-		{"id":"79a0c1f686b2b388","x":-147,"y":-440,"width":250,"height":80,"type":"text","text":"Guard by lever"},
-		{"id":"97cef852a2441903","x":92,"y":-222,"width":250,"height":60,"type":"text","text":"Guard Post"}
+		{"id":"97cef852a2441903","x":92,"y":-222,"width":250,"height":60,"type":"text","text":"Guard Post"},
+		{"id":"79a0c1f686b2b388","x":-147,"y":-420,"width":250,"height":80,"type":"text","text":"Guard by lever"},
+		{"id":"928e00ec0cffb220","x":380,"y":-520,"width":250,"height":60,"type":"text","text":""},
+		{"id":"7859ab8ee5eb935d","x":-720,"y":-520,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"7071e335a159eff3","fromNode":"a5ba9159b2771d31","fromSide":"top","toNode":"79a0c1f686b2b388","toSide":"bottom","label":"Slope down\n60ft"},
-		{"id":"57b8771add7afa86","fromNode":"a5ba9159b2771d31","fromSide":"top","toNode":"97cef852a2441903","toSide":"bottom"}
+		{"id":"57b8771add7afa86","fromNode":"a5ba9159b2771d31","fromSide":"top","toNode":"97cef852a2441903","toSide":"bottom"},
+		{"id":"32d5dc54544bf0af","fromNode":"79a0c1f686b2b388","fromSide":"right","toNode":"928e00ec0cffb220","toSide":"left","label":"Large Circular Corridor"},
+		{"id":"7aaad43e7614fa4a","fromNode":"79a0c1f686b2b388","fromSide":"left","toNode":"7859ab8ee5eb935d","toSide":"right","label":"Large Circular Corridor"}
 	]
 }
