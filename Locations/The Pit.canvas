@@ -23,14 +23,15 @@
 		{"id":"764c485fb2c3c07b","type":"text","text":"4pm","x":1436,"y":124,"width":119,"height":60},
 		{"id":"ca424f44bab209a2","type":"text","text":"12pm","x":997,"y":-316,"width":223,"height":60},
 		{"id":"e2725292574595c5","type":"text","text":"6pm","x":1049,"y":304,"width":103,"height":60},
-		{"id":"5c9abc90980f755f","type":"text","text":"Lift Floor 3","x":1021,"y":464,"width":160,"height":60},
+		{"id":"5c9abc90980f755f","type":"text","text":"Lift Floor 3\nYayek's Office this floor","x":960,"y":464,"width":280,"height":136},
 		{"id":"1931d9f3ed3dba3f","type":"text","text":"8pm","x":636,"y":-840,"width":119,"height":60},
 		{"id":"7482557c6ba6a65a","type":"text","text":"10pm","x":641,"y":-1080,"width":110,"height":60},
 		{"id":"d65752f2d11e8a17","type":"text","text":"2pm","x":1436,"y":-1080,"width":125,"height":60},
 		{"id":"df0596463d0a9307","type":"text","text":"4pm","x":1436,"y":-840,"width":119,"height":60},
 		{"id":"caedb580d24a597e","type":"text","text":"12pm","x":997,"y":-1280,"width":223,"height":60},
 		{"id":"f35c6de8dd7d5b09","type":"text","text":"6pm","x":1049,"y":-660,"width":103,"height":60},
-		{"id":"d88303a9949bb104","type":"text","text":"Lift Floor 4","x":1021,"y":-500,"width":160,"height":60}
+		{"id":"d88303a9949bb104","type":"text","text":"Lift Floor 4","x":1021,"y":-500,"width":160,"height":60},
+		{"id":"00fd851fa064aa67","x":1400,"y":334,"width":250,"height":106,"type":"text","text":"Distorted Cruel Looking face behind bars,\nCackle/Whine"}
 	],
 	"edges":[
 		{"id":"7071e335a159eff3","fromNode":"a5ba9159b2771d31","fromSide":"bottom","toNode":"79a0c1f686b2b388","toSide":"top","label":"Slope down\n60ft"},
