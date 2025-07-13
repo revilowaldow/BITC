@@ -46,7 +46,7 @@
 		{"id":"d360b896a87612d6","x":-807,"y":1120,"width":250,"height":60,"type":"text","text":"Stairwell Up"},
 		{"id":"ca424f44bab209a2","type":"text","text":"12pm\nReinforced Door","x":-128,"y":680,"width":223,"height":100},
 		{"id":"56f395f1807c8208","x":-141,"y":580,"width":250,"height":60,"type":"text","text":"Staircase Down"},
-		{"id":"907d9b83f1ab4ee3","x":621,"y":-203,"width":250,"height":133,"type":"text","text":"Open Unlocked Cell\nEvidence of wall taken down and "}
+		{"id":"907d9b83f1ab4ee3","x":600,"y":-158,"width":280,"height":177,"type":"text","text":"Open Unlocked Cell\nEvidence of wall taken down and replaced with iron grille\nCorpse of devil vampire crab"}
 	],
 	"edges":[
 		{"id":"7071e335a159eff3","fromNode":"a5ba9159b2771d31","fromSide":"bottom","toNode":"79a0c1f686b2b388","toSide":"top","label":"Slope down\n60ft"},
