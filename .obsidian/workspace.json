@@ -78,8 +78,8 @@
               "state": {
                 "file": "Locations/The Pit.canvas",
                 "viewState": {
-                  "x": -60.36023992202513,
-                  "y": 1801.0202421918832,
+                  "x": 234.89635574405992,
+                  "y": 767.6221573605853,
                   "zoom": -0.6666666666666665
                 }
               },
@@ -205,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gotha",
+                "query": "Tant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,7 +236,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -372,7 +373,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "991e4a11f89bca69",
+  "active": "d64d57bbfa4524a3",
   "lastOpenFiles": [
     "Flatek of the Flavours.md",
     "Sessions/2025/07 13 - Session 48.md",
