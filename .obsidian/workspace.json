@@ -78,8 +78,8 @@
               "state": {
                 "file": "Locations/The Pit.canvas",
                 "viewState": {
-                  "x": 234.89635574405992,
-                  "y": 767.6221573605853,
+                  "x": -60.36023992202513,
+                  "y": 177.10896602841515,
                   "zoom": -0.6666666666666665
                 }
               },
@@ -205,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tant",
+                "query": "dragon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
