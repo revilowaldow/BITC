@@ -39,3 +39,4 @@ Naomi - administrator of silver company in aegan empire
 Silver Company HQ is in Aegan Empire, run by council
 
 
+
