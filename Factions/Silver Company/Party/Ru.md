@@ -9,4 +9,5 @@ Chain of manacles at waist like a belt
 Leather strap on a thin longsword
 Smoking a herb
 
+Name is Rua
 
