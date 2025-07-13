@@ -13,3 +13,5 @@ Aegan expert, coming to look at Val
 Jay Connar, potential method for destruction
 Clergy may be able to help? Eternal Queen
 
+Thodunn burns and buries the head of the Wailer
+
