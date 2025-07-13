@@ -20,6 +20,6 @@ Visit [[Melinda Palov]] at the [[High Ziggaurat]]
 
 Disc of perfectly still water, with an oculus above
 
-It could be killed in the dream form. 
+It could be killed in the dream form, eternal queen 
 
 
