@@ -106,7 +106,7 @@
               "state": {
                 "file": "Locations/The Pit.canvas",
                 "viewState": {
-                  "x": -461.6010747990629,
+                  "x": -166.34447913297782,
                   "y": 811.6829393115531,
                   "zoom": -0.6666666666666667
                 }
@@ -157,40 +157,9 @@
               "icon": "lucide-file",
               "title": "Ruadh"
             }
-          },
-          {
-            "id": "10445e48811fcea4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09 08 - Session 30"
-            }
-          },
-          {
-            "id": "4667c24d4e93f051",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Coprun/Mine Layout.canvas",
-                "viewState": {
-                  "x": 2319.7254719849734,
-                  "y": 1553.2431306179753,
-                  "zoom": -0.8704133352057153
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mine Layout"
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -390,10 +359,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4667c24d4e93f051",
+  "active": "991e4a11f89bca69",
   "lastOpenFiles": [
-    "Sessions/2025/07 13 - Session 48.md",
+    "Factions/Silver Company/Kevin Aldragosh.md",
+    "Factions/Melinda Palov.md",
+    "Factions/Silver Company/Party/Ruadh.md",
     "Sessions/2024/09 08 - Session 30.md",
+    "Locations/Coprun/Mine Layout.canvas",
+    "Sessions/2025/07 13 - Session 48.md",
     "Factions/Aepoptosian Cult/Grandmaster.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/05 28 - Session 2.md",
@@ -404,13 +377,10 @@
     "Sessions/2025/06 01 - Session 45.md",
     "Sessions/2025/05 18 - Session 44.md",
     "Sessions/2025/06 15 - Session 46.md",
-    "Factions/Silver Company/Party/Ruadh.md",
     "Sessions/2025/06 29 - Session 47.md",
     "Locations/The Pit.canvas",
-    "Factions/Melinda Palov.md",
     "Locations/The Second Founding.md",
     "Locations/Abdos Woodland.canvas",
-    "Factions/Silver Company/Kevin Aldragosh.md",
     "Locations/The Pit.md",
     "Sessions/2025/02 09 - Session 39.md",
     "Deity/Eternal Queen.md",
@@ -420,7 +390,6 @@
     "Sessions/2025/05 04 - Session 43.5 - Oliver One Shot.md",
     "Sessions/2025/03 30 - Session 42.md",
     "Sessions/2025/03 09 - Session 41.md",
-    "Setting Rules/Valid Wild Shapes.md",
     "Pasted image 20250629194504.png",
     "Pasted image 20250615211108.png",
     "Pasted image 20250615204540.png",
@@ -443,7 +412,6 @@
     "Factions/Eastern City States/Parche",
     "Factions/Vermillion Hand",
     "Factions/Helviti",
-    "Locations/Coprun/Mine Layout.canvas",
     "Locations/Lachaka/Lachaka Bandit Base.canvas",
     "Factions/Local Arcanists"
   ]
