@@ -4,15 +4,15 @@
 		{"id":"79a0c1f686b2b388","x":-146,"y":-1320,"width":250,"height":120,"type":"text","text":"12pm\nGuard by lever\nradius 50ft\nSmell of ozone"},
 		{"id":"a5ba9159b2771d31","x":-123,"y":-1680,"width":205,"height":70,"color":"5","type":"text","text":"Portcullis entrance on river bank"},
 		{"id":"97cef852a2441903","x":82,"y":-1480,"width":178,"height":60,"type":"text","text":"Guard Post"},
-		{"id":"7859ab8ee5eb935d","x":-508,"y":-1180,"width":110,"height":60,"type":"text","text":"10pm"},
-		{"id":"928e00ec0cffb220","x":280,"y":-1180,"width":125,"height":60,"type":"text","text":"5pm"},
-		{"id":"f791a882a995983f","x":-145,"y":-660,"width":145,"height":60,"type":"text","text":"6pm"}
+		{"id":"928e00ec0cffb220","x":380,"y":-1180,"width":125,"height":60,"type":"text","text":"2pm"},
+		{"id":"7859ab8ee5eb935d","x":-480,"y":-1180,"width":110,"height":60,"type":"text","text":"10pm"},
+		{"id":"f791a882a995983f","x":-119,"y":-680,"width":197,"height":140,"type":"text","text":"6pm\nCavity in "}
 	],
 	"edges":[
 		{"id":"7071e335a159eff3","fromNode":"a5ba9159b2771d31","fromSide":"bottom","toNode":"79a0c1f686b2b388","toSide":"top","label":"Slope down\n60ft"},
 		{"id":"57b8771add7afa86","fromNode":"a5ba9159b2771d31","fromSide":"bottom","toNode":"97cef852a2441903","toSide":"top"},
-		{"id":"32d5dc54544bf0af","fromNode":"79a0c1f686b2b388","fromSide":"right","toNode":"928e00ec0cffb220","toSide":"left"},
-		{"id":"7aaad43e7614fa4a","fromNode":"79a0c1f686b2b388","fromSide":"left","toNode":"7859ab8ee5eb935d","toSide":"right","label":"Flapping of wings"},
-		{"id":"5c5a0f3a5f2ae13b","fromNode":"8390e9365a58e317","fromSide":"bottom","toNode":"7859ab8ee5eb935d","toSide":"top"}
+		{"id":"32d5dc54544bf0af","fromNode":"79a0c1f686b2b388","fromSide":"right","toNode":"928e00ec0cffb220","toSide":"left","label":"Flapping of wings"},
+		{"id":"7aaad43e7614fa4a","fromNode":"79a0c1f686b2b388","fromSide":"left","toNode":"7859ab8ee5eb935d","toSide":"right"},
+		{"id":"5dec588905ad2e79","fromNode":"7859ab8ee5eb935d","fromSide":"top","toNode":"8390e9365a58e317","toSide":"bottom"}
 	]
 }
