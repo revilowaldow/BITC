@@ -7,4 +7,6 @@ Androgynous
 Holding a metal manacle
 Chain of manacles at waist like a belt
 Leather strap on a thin longsword
+Smoking a herb
+
 
