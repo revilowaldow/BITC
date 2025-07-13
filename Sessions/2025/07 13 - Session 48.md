@@ -27,5 +27,6 @@ Ritual outside the city.
 Ritual will be performed at the boundary of the southern desert
 
 
-
+Platinum - Huge Boy
+Gold - Big One
 
