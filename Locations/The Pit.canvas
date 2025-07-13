@@ -51,7 +51,9 @@
 		{"id":"d5a4dd31943cc4f2","x":617,"y":138,"width":250,"height":60,"type":"text","text":"Stairwell Up"},
 		{"id":"196ba422698f3417","x":480,"y":-1292,"width":300,"height":115,"type":"text","text":"Owl with cat legs\nMagical Sparks from the mouth\nShapeshifter"},
 		{"id":"8390e9365a58e317","x":-760,"y":-1333,"width":301,"height":98,"type":"text","text":"Humanoid, shuffling, back turned\nOMBAK Posessed"},
-		{"id":"8ea4e8e432d1e8e6","type":"text","text":"4pm","x":323,"y":-840,"width":119,"height":60}
+		{"id":"8ea4e8e432d1e8e6","type":"text","text":"4pm","x":323,"y":-840,"width":119,"height":60},
+		{"id":"7757b21ee9419e19","x":600,"y":-840,"width":250,"height":60,"type":"text","text":"Staircase down"},
+		{"id":"5933e20f145c5737","x":-820,"y":-840,"width":250,"height":60,"type":"text","text":"Chimney to Mess Hall"}
 	],
 	"edges":[
 		{"id":"7071e335a159eff3","fromNode":"a5ba9159b2771d31","fromSide":"bottom","toNode":"79a0c1f686b2b388","toSide":"top","label":"Slope down\n60ft"},
@@ -105,6 +107,8 @@
 		{"id":"ee28329e0eef760e","fromNode":"d4e20de173b97d5f","fromSide":"left","toNode":"8ff943986eee14ae","toSide":"bottom"},
 		{"id":"b157bce0be889507","fromNode":"5e7ab469a2d3417a","fromSide":"left","toNode":"f8213cb875f56b37","toSide":"right"},
 		{"id":"51da2a1b860f052d","fromNode":"58cc7535896a8ddd","fromSide":"right","toNode":"d5a4dd31943cc4f2","toSide":"left"},
-		{"id":"28ae119c8279e51f","fromNode":"928e00ec0cffb220","fromSide":"right","toNode":"196ba422698f3417","toSide":"bottom"}
+		{"id":"28ae119c8279e51f","fromNode":"928e00ec0cffb220","fromSide":"right","toNode":"196ba422698f3417","toSide":"bottom"},
+		{"id":"a4b6425780b1a70a","fromNode":"8ea4e8e432d1e8e6","fromSide":"right","toNode":"7757b21ee9419e19","toSide":"left"},
+		{"id":"b3177db908801558","fromNode":"dd3b3de3df73c615","fromSide":"left","toNode":"5933e20f145c5737","toSide":"right"}
 	]
 }
