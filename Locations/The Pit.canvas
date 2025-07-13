@@ -33,7 +33,8 @@
 		{"id":"4eca80f7b4f91c82","x":444,"y":640,"width":250,"height":140,"type":"text","text":"Iron Cell Door Coated in waxy substance\n\n\"Ahh Visitors, who do we have here\""},
 		{"id":"00fd851fa064aa67","x":405,"y":1302,"width":360,"height":116,"type":"text","text":"Distorted Cruel Looking face behind bars,\nCackle/Whine,\nArms ending in sickle shaped blades"},
 		{"id":"764c485fb2c3c07b","type":"text","text":"4pm\nAvoid the stairways","x":217,"y":1106,"width":206,"height":88},
-		{"id":"e2725292574595c5","type":"text","text":"6pm","x":-68,"y":1330,"width":103,"height":60}
+		{"id":"e2725292574595c5","type":"text","text":"6pm","x":-68,"y":1330,"width":103,"height":60},
+		{"id":"d360b896a87612d6","x":-860,"y":1194,"width":250,"height":60,"type":"text","text":"Unmarked Door"}
 	],
 	"edges":[
 		{"id":"7071e335a159eff3","fromNode":"a5ba9159b2771d31","fromSide":"bottom","toNode":"79a0c1f686b2b388","toSide":"top","label":"Slope down\n60ft"},
@@ -69,6 +70,7 @@
 		{"id":"c0599d2206ab313a","fromNode":"764c485fb2c3c07b","fromSide":"right","toNode":"00fd851fa064aa67","toSide":"top","label":"Cell Door"},
 		{"id":"c4e8fbcbcbd70c61","fromNode":"cac2dd5d00c13ac7","fromSide":"right","toNode":"4eca80f7b4f91c82","toSide":"bottom"},
 		{"id":"178aa88679ca26de","fromNode":"6770dcf0c753567f","fromSide":"left","toNode":"539153144de99a2b","toSide":"bottom"},
-		{"id":"ae9c976290172892","fromNode":"e2725292574595c5","fromSide":"right","toNode":"764c485fb2c3c07b","toSide":"bottom"}
+		{"id":"ae9c976290172892","fromNode":"e2725292574595c5","fromSide":"right","toNode":"764c485fb2c3c07b","toSide":"bottom"},
+		{"id":"be3b4db97d8be7bd","fromNode":"2d879d59018be0a8","fromSide":"left","toNode":"d360b896a87612d6","toSide":"right"}
 	]
 }
