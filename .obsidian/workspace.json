@@ -104,18 +104,21 @@
             "id": "991e4a11f89bca69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Locations/The Pit.md",
-                "mode": "source",
-                "source": false
+                "file": "Locations/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "The Pit"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -314,14 +317,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b73541dc08b4851",
+  "active": "991e4a11f89bca69",
   "lastOpenFiles": [
+    "Locations/The Pit.md",
+    "Locations/Untitled.canvas",
+    "Sessions/2025/07 13 - Session 48.md",
     "Factions/Melinda Palov.md",
     "Locations/Abdos Woodland.canvas",
     "Sessions/2025/02 09 - Session 39.md",
-    "Locations/The Pit.md",
     "Locations/The Second Founding.md",
-    "Sessions/2025/07 13 - Session 48.md",
     "Deity/Eternal Queen.md",
     "Deity/The Protector.md",
     "Locations/Lionhold/Ziardim Caverns.canvas",
