@@ -64,9 +64,9 @@
               "state": {
                 "file": "Locations/The Pit.canvas",
                 "viewState": {
-                  "x": -69.36512268198913,
-                  "y": -228.74180799637622,
-                  "zoom": -0.6666666666666665
+                  "x": -48.39941401578539,
+                  "y": -270.94779178282454,
+                  "zoom": 0.6666666666666667
                 }
               },
               "pinned": true,
@@ -194,8 +194,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -331,7 +330,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "991e4a11f89bca69",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Sessions/2024/10 06 - Session 32.md",
     "Locations/The Pit.canvas",
