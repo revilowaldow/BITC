@@ -31,7 +31,7 @@
 		{"id":"caedb580d24a597e","type":"text","text":"12pm","x":997,"y":-1280,"width":223,"height":60},
 		{"id":"f35c6de8dd7d5b09","type":"text","text":"6pm","x":1049,"y":-660,"width":103,"height":60},
 		{"id":"d88303a9949bb104","type":"text","text":"Lift Floor 4","x":1021,"y":-500,"width":160,"height":60},
-		{"id":"00fd851fa064aa67","x":1400,"y":334,"width":250,"height":106,"type":"text","text":"Distorted Cruel Looking face behind bars,\nCackle/Whine"}
+		{"id":"00fd851fa064aa67","x":1561,"y":304,"width":360,"height":116,"type":"text","text":"Distorted Cruel Looking face behind bars,\nCackle/Whine,\nArms ending in sickle shaped blades"}
 	],
 	"edges":[
 		{"id":"7071e335a159eff3","fromNode":"a5ba9159b2771d31","fromSide":"bottom","toNode":"79a0c1f686b2b388","toSide":"top","label":"Slope down\n60ft"},
@@ -64,6 +64,7 @@
 		{"id":"b25b8d6c40da4035","fromNode":"d65752f2d11e8a17","fromSide":"bottom","toNode":"df0596463d0a9307","toSide":"top"},
 		{"id":"fa215e13b2f16f61","fromNode":"caedb580d24a597e","fromSide":"right","toNode":"d65752f2d11e8a17","toSide":"top"},
 		{"id":"a2dd9b5f0da8c151","fromNode":"df0596463d0a9307","fromSide":"bottom","toNode":"f35c6de8dd7d5b09","toSide":"right"},
-		{"id":"f997b15a65720e40","fromNode":"f35c6de8dd7d5b09","fromSide":"bottom","toNode":"d88303a9949bb104","toSide":"top"}
+		{"id":"f997b15a65720e40","fromNode":"f35c6de8dd7d5b09","fromSide":"bottom","toNode":"d88303a9949bb104","toSide":"top"},
+		{"id":"c0599d2206ab313a","fromNode":"764c485fb2c3c07b","fromSide":"right","toNode":"00fd851fa064aa67","toSide":"top"}
 	]
 }
