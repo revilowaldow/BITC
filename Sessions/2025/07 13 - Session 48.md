@@ -44,3 +44,8 @@ Kerfuffle expected
 
 Orbs are communication devices
 
+![[The Pit.canvas|The Pit]]
+
+Returned from [[The Pit]]
+
+Plan for 3 weeks downtime
