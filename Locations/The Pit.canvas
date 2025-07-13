@@ -8,7 +8,15 @@
 		{"id":"a5ba9159b2771d31","x":-139,"y":-1680,"width":243,"height":70,"color":"5","type":"text","text":"Large Portcullis entrance on river bank"},
 		{"id":"7859ab8ee5eb935d","x":-475,"y":-1080,"width":110,"height":60,"type":"text","text":"10pm"},
 		{"id":"928e00ec0cffb220","x":320,"y":-1080,"width":125,"height":60,"type":"text","text":"2pm"},
-		{"id":"8ea4e8e432d1e8e6","type":"text","text":"8pm","x":320,"y":-840,"width":119,"height":60}
+		{"id":"8ea4e8e432d1e8e6","type":"text","text":"4pm","x":320,"y":-840,"width":119,"height":60},
+		{"id":"f1a9f8a46811b6a4","x":-87,"y":-460,"width":160,"height":60,"type":"text","text":"Lift Floor 1"},
+		{"id":"bc6887fa441f11f9","type":"text","text":"12pm\nGuard by lever\nradius 50ft\nSmell of ozone\n20ft wide corridor","x":-137,"y":-340,"width":250,"height":170},
+		{"id":"5e7ab469a2d3417a","type":"text","text":"8pm","x":-471,"y":140,"width":119,"height":60},
+		{"id":"dd0ecf0f6960cc31","type":"text","text":"6pm\n\"The Descender\"","x":-110,"y":300,"width":223,"height":140},
+		{"id":"d4e20de173b97d5f","type":"text","text":"10pm","x":-466,"y":-100,"width":110,"height":60},
+		{"id":"d572ecf53b6363e6","type":"text","text":"2pm","x":329,"y":-100,"width":125,"height":60},
+		{"id":"58cc7535896a8ddd","type":"text","text":"4pm","x":329,"y":140,"width":119,"height":60},
+		{"id":"430e97762fbbb5fa","type":"text","text":"Lift Floor 2","x":-78,"y":520,"width":160,"height":60}
 	],
 	"edges":[
 		{"id":"7071e335a159eff3","fromNode":"a5ba9159b2771d31","fromSide":"bottom","toNode":"79a0c1f686b2b388","toSide":"top","label":"Slope down\n60ft"},
@@ -17,6 +25,16 @@
 		{"id":"7aaad43e7614fa4a","fromNode":"79a0c1f686b2b388","fromSide":"left","toNode":"7859ab8ee5eb935d","toSide":"top"},
 		{"id":"5dec588905ad2e79","fromNode":"7859ab8ee5eb935d","fromSide":"top","toNode":"8390e9365a58e317","toSide":"bottom"},
 		{"id":"a0092666e1335d31","fromNode":"7859ab8ee5eb935d","fromSide":"bottom","toNode":"dd3b3de3df73c615","toSide":"top"},
-		{"id":"0633d169b38f61d0","fromNode":"dd3b3de3df73c615","fromSide":"bottom","toNode":"f791a882a995983f","toSide":"left"}
+		{"id":"0633d169b38f61d0","fromNode":"dd3b3de3df73c615","fromSide":"bottom","toNode":"f791a882a995983f","toSide":"left"},
+		{"id":"4ce9700c020c2546","fromNode":"928e00ec0cffb220","fromSide":"bottom","toNode":"8ea4e8e432d1e8e6","toSide":"top"},
+		{"id":"2cb501a5db814e2d","fromNode":"8ea4e8e432d1e8e6","fromSide":"bottom","toNode":"f791a882a995983f","toSide":"right"},
+		{"id":"a94a3e1a3dd61e96","fromNode":"f791a882a995983f","fromSide":"bottom","toNode":"f1a9f8a46811b6a4","toSide":"top"},
+		{"id":"4b9faf8314396752","fromNode":"bc6887fa441f11f9","fromSide":"right","toNode":"d572ecf53b6363e6","toSide":"top","label":"Flapping of wings"},
+		{"id":"36d5d7b556c8f88f","fromNode":"bc6887fa441f11f9","fromSide":"left","toNode":"d4e20de173b97d5f","toSide":"top"},
+		{"id":"c0995caff8f1effd","fromNode":"5e7ab469a2d3417a","fromSide":"bottom","toNode":"dd0ecf0f6960cc31","toSide":"left"},
+		{"id":"45ec1b294f83aef3","fromNode":"d4e20de173b97d5f","fromSide":"bottom","toNode":"5e7ab469a2d3417a","toSide":"top"},
+		{"id":"93b32a0b4e7319e5","fromNode":"dd0ecf0f6960cc31","fromSide":"bottom","toNode":"430e97762fbbb5fa","toSide":"top"},
+		{"id":"c8aa115c11f79d36","fromNode":"58cc7535896a8ddd","fromSide":"bottom","toNode":"dd0ecf0f6960cc31","toSide":"right"},
+		{"id":"0064322c5bd1b1d2","fromNode":"d572ecf53b6363e6","fromSide":"bottom","toNode":"58cc7535896a8ddd","toSide":"top"}
 	]
 }
