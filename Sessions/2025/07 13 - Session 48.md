@@ -18,6 +18,8 @@ Thodunn burns and buries the head of the Wailer
 Visit [[Melinda Palov]] at the [[High Ziggaurat]]
 		Both [[Eternal Queen]] and [[Architect]]
 
+Disc of perfectly still water, with an oculus above
+
 
 
 
