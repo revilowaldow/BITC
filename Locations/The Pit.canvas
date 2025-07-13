@@ -42,7 +42,7 @@
 		{"id":"aef9a80826a6f071","type":"text","text":"10pm","x":1605,"y":3000,"width":110,"height":60},
 		{"id":"348a11bbe4285437","type":"text","text":"2pm","x":2400,"y":3000,"width":125,"height":60},
 		{"id":"190c744d5e4de30c","type":"text","text":"4pm","x":2400,"y":3240,"width":119,"height":60},
-		{"id":"5adc52cff7c767e9","x":640,"y":2700,"width":440,"height":240,"type":"text","text":"Hole in center of 60ft circle\nPyramid shaped structure suspended aloft by three heavy chains\nCovered in pulsing runes\n"}
+		{"id":"5adc52cff7c767e9","x":620,"y":2680,"width":440,"height":240,"type":"text","text":"Hole in centre of 60ft circle\nPyramid shaped structure suspended aloft by three heavy chains\nCovered in pulsing runes\nDistortion seen similar to when near Kana\nComplex Old Runes"}
 	],
 	"edges":[
 		{"id":"7071e335a159eff3","fromNode":"a5ba9159b2771d31","fromSide":"bottom","toNode":"79a0c1f686b2b388","toSide":"top","label":"Slope down\n60ft"},
