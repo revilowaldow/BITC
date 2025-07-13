@@ -32,8 +32,10 @@ Gold - Big One
 
 Level 7
 
-Close to the festival of the second founding
+Close to the festival of [[The Second Founding]]
 
 Naomi - administrator of silver company in aegan empire
 
-Silver Company HQ is in Aegan 
+Silver Company HQ is in Aegan Empire, run by council
+
+
