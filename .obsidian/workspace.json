@@ -56,6 +56,25 @@
             }
           },
           {
+            "id": "991e4a11f89bca69",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/The Pit.canvas",
+                "viewState": {
+                  "x": -461.6010747990629,
+                  "y": 811.6829393115531,
+                  "zoom": -0.6666666666666667
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "The Pit"
+            }
+          },
+          {
             "id": "ad62e586b9201409",
             "type": "leaf",
             "state": {
@@ -84,25 +103,6 @@
             }
           },
           {
-            "id": "991e4a11f89bca69",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/The Pit.canvas",
-                "viewState": {
-                  "x": -8.03247256908449,
-                  "y": 1099.4644574316442,
-                  "zoom": -0.3333333333333334
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "The Pit"
-            }
-          },
-          {
             "id": "e96e3fb9ccf07d53",
             "type": "leaf",
             "state": {
@@ -117,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -316,8 +316,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "991e4a11f89bca69",
+  "active": "3b73541dc08b4851",
   "lastOpenFiles": [
+    "Locations/The Pit.canvas",
     "Factions/Melinda Palov.md",
     "Locations/The Second Founding.md",
     "Locations/Abdos Woodland.canvas",
@@ -326,7 +327,6 @@
     "Factions/Silver Company/Kevin Aldragosh.md",
     "Sessions/2025/06 29 - Session 47.md",
     "Sessions/2025/06 15 - Session 46.md",
-    "Locations/The Pit.canvas",
     "Locations/The Pit.md",
     "Sessions/2025/02 09 - Session 39.md",
     "Deity/Eternal Queen.md",
