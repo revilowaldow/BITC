@@ -103,18 +103,20 @@
           {
             "id": "991e4a11f89bca69",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Locations/Untitled.canvas",
+                "file": "Locations/The Pit.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 0,
+                  "y": -186,
                   "zoom": 0
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "The Pit"
             }
           }
         ],
@@ -320,7 +322,7 @@
   "active": "991e4a11f89bca69",
   "lastOpenFiles": [
     "Locations/The Pit.md",
-    "Locations/Untitled.canvas",
+    "Locations/The Pit.canvas",
     "Sessions/2025/07 13 - Session 48.md",
     "Factions/Melinda Palov.md",
     "Locations/Abdos Woodland.canvas",
