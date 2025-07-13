@@ -4,4 +4,7 @@ White Hair
 White Eyes with no pupils
 Androgynous
 
-Holding a 
+Holding a metal manacle
+Chain of manacles at waist like a belt
+Leather strap on a thin longsword
+
