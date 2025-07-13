@@ -17,7 +17,7 @@
 		{"id":"dd0ecf0f6960cc31","type":"text","text":"6pm","x":-58,"y":320,"width":103,"height":60},
 		{"id":"430e97762fbbb5fa","type":"text","text":"Lift Floor 2","x":-86,"y":480,"width":160,"height":60},
 		{"id":"8390e9365a58e317","x":-657,"y":-1369,"width":182,"height":98,"type":"text","text":"Humanoid, shuffling, back turned"},
-		{"id":"ca424f44bab209a2","type":"text","text":"12pm\nR","x":-120,"y":680,"width":223,"height":60},
+		{"id":"ca424f44bab209a2","type":"text","text":"12pm\nReinforced Door","x":-120,"y":640,"width":223,"height":100},
 		{"id":"cac2dd5d00c13ac7","type":"text","text":"2pm","x":319,"y":880,"width":125,"height":60},
 		{"id":"e2725292574595c5","type":"text","text":"6pm","x":-68,"y":1300,"width":103,"height":60},
 		{"id":"5c9abc90980f755f","type":"text","text":"Lift Floor 3\nYayek's Office this floor","x":-157,"y":1460,"width":280,"height":136},
@@ -32,7 +32,8 @@
 		{"id":"df0596463d0a9307","type":"text","text":"4pm","x":315,"y":2240,"width":119,"height":60},
 		{"id":"764c485fb2c3c07b","type":"text","text":"4pm\nAvoid the stairways","x":292,"y":1184,"width":172,"height":116},
 		{"id":"00fd851fa064aa67","x":444,"y":1360,"width":360,"height":116,"type":"text","text":"Distorted Cruel Looking face behind bars,\nCackle/Whine,\nArms ending in sickle shaped blades"},
-		{"id":"4eca80f7b4f91c82","x":499,"y":670,"width":250,"height":140,"type":"text","text":"Iron Cell Door Coated in waxy substance\n\n\"Ahh Visitors, who do we have here\""}
+		{"id":"4eca80f7b4f91c82","x":499,"y":670,"width":250,"height":140,"type":"text","text":"Iron Cell Door Coated in waxy substance\n\n\"Ahh Visitors, who do we have here\""},
+		{"id":"539153144de99a2b","x":-760,"y":640,"width":250,"height":100,"type":"text","text":"Reinforced Door\n\"YAYEK\""}
 	],
 	"edges":[
 		{"id":"7071e335a159eff3","fromNode":"a5ba9159b2771d31","fromSide":"bottom","toNode":"79a0c1f686b2b388","toSide":"top","label":"Slope down\n60ft"},
@@ -67,6 +68,7 @@
 		{"id":"a2dd9b5f0da8c151","fromNode":"df0596463d0a9307","fromSide":"bottom","toNode":"f35c6de8dd7d5b09","toSide":"right"},
 		{"id":"f997b15a65720e40","fromNode":"f35c6de8dd7d5b09","fromSide":"bottom","toNode":"d88303a9949bb104","toSide":"top"},
 		{"id":"c0599d2206ab313a","fromNode":"764c485fb2c3c07b","fromSide":"right","toNode":"00fd851fa064aa67","toSide":"top","label":"Cell Door"},
-		{"id":"c4e8fbcbcbd70c61","fromNode":"cac2dd5d00c13ac7","fromSide":"right","toNode":"4eca80f7b4f91c82","toSide":"bottom"}
+		{"id":"c4e8fbcbcbd70c61","fromNode":"cac2dd5d00c13ac7","fromSide":"right","toNode":"4eca80f7b4f91c82","toSide":"bottom"},
+		{"id":"178aa88679ca26de","fromNode":"6770dcf0c753567f","fromSide":"left","toNode":"539153144de99a2b","toSide":"bottom"}
 	]
 }
