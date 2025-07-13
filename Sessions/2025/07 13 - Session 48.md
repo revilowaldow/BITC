@@ -15,5 +15,9 @@ Clergy may be able to help? Eternal Queen
 
 Thodunn burns and buries the head of the Wailer
 
-[[Melinda Palov]] 
+Visit [[Melinda Palov]] at the [[High Ziggaurat]]
+		Both [[Eternal Queen]] and [[Architect]]
+
+
+
 
