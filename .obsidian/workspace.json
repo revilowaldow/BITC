@@ -64,7 +64,7 @@
               "state": {
                 "file": "Locations/The Pit.canvas",
                 "viewState": {
-                  "x": 1528.050738304077,
+                  "x": 51.76775997365155,
                   "y": 2394.3982289104833,
                   "zoom": -1.6666666666666663
                 }
@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -358,10 +358,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "991e4a11f89bca69",
+  "active": "3b73541dc08b4851",
   "lastOpenFiles": [
-    "Deity/Aepoptosis.md",
     "Locations/The Pit.canvas",
+    "Deity/Aepoptosis.md",
     "Sessions/2025/07 13 - Session 48.md",
     "Jobs/Level 3/Murders in Lowtown.md",
     "Sessions/2023/06 18 - Session 4.md",
