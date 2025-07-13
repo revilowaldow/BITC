@@ -44,7 +44,7 @@
 		{"id":"ca424f44bab209a2","type":"text","text":"12pm\nReinforced Door","x":-128,"y":680,"width":223,"height":100},
 		{"id":"56f395f1807c8208","x":-141,"y":580,"width":250,"height":60,"type":"text","text":"Staircase Down"},
 		{"id":"907d9b83f1ab4ee3","x":600,"y":-158,"width":300,"height":177,"type":"text","text":"Open Unlocked Cell\nEvidence of wall taken down and replaced with iron grille\nCorpse of devil vampire crab\n\"Faint whiff of celestial energy\""},
-		{"id":"505bae6bd2c27caf","x":-128,"y":-360,"width":250,"height":140,"type":"text","text":"Cell\nShambling Figure, mummy pre calamity\nGotha"},
+		{"id":"505bae6bd2c27caf","x":-128,"y":-360,"width":250,"height":140,"type":"text","text":"Cell\nShambling Figure, mummy pre calamity\n[[Gotha]] ancient "},
 		{"id":"bc6887fa441f11f9","type":"text","text":"12pm","x":-114,"y":-188,"width":223,"height":60},
 		{"id":"d4e20de173b97d5f","type":"text","text":"10pm","x":-466,"y":-11,"width":110,"height":60},
 		{"id":"d572ecf53b6363e6","type":"text","text":"2pm","x":329,"y":-11,"width":125,"height":60}
