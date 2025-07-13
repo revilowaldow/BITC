@@ -42,3 +42,5 @@ Deal expected between the [[Eylaines]] and [[Malain]]s
 
 Kerfuffle expected
 
+Orbs are communication devices
+
