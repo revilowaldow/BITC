@@ -48,7 +48,9 @@
 		{"id":"bc6887fa441f11f9","type":"text","text":"12pm","x":-114,"y":-188,"width":223,"height":60},
 		{"id":"d4e20de173b97d5f","type":"text","text":"10pm","x":-466,"y":-11,"width":110,"height":60},
 		{"id":"d572ecf53b6363e6","type":"text","text":"2pm","x":329,"y":-11,"width":125,"height":60},
-		{"id":"8ff943986eee14ae","x":-730,"y":-188,"width":250,"height":148,"type":"text","text":"Cell passed with sacks\nDeep Crawler Royal\n"}
+		{"id":"8ff943986eee14ae","x":-730,"y":-188,"width":250,"height":148,"type":"text","text":"Cell passed with sacks\nDeep Crawler Royal\n50 years"},
+		{"id":"f8213cb875f56b37","x":-877,"y":261,"width":250,"height":60,"type":"text","text":"Stairwell down"},
+		{"id":"d5a4dd31943cc4f2","x":617,"y":138,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"7071e335a159eff3","fromNode":"a5ba9159b2771d31","fromSide":"bottom","toNode":"79a0c1f686b2b388","toSide":"top","label":"Slope down\n60ft"},
@@ -99,6 +101,8 @@
 		{"id":"028a8c80c05aecdd","fromNode":"ca424f44bab209a2","fromSide":"top","toNode":"56f395f1807c8208","toSide":"bottom"},
 		{"id":"6e8513de24c27fa4","fromNode":"d572ecf53b6363e6","fromSide":"right","toNode":"907d9b83f1ab4ee3","toSide":"left"},
 		{"id":"88b8e6daadadc4a6","fromNode":"bc6887fa441f11f9","fromSide":"top","toNode":"505bae6bd2c27caf","toSide":"bottom"},
-		{"id":"ee28329e0eef760e","fromNode":"d4e20de173b97d5f","fromSide":"left","toNode":"8ff943986eee14ae","toSide":"bottom"}
+		{"id":"ee28329e0eef760e","fromNode":"d4e20de173b97d5f","fromSide":"left","toNode":"8ff943986eee14ae","toSide":"bottom"},
+		{"id":"b157bce0be889507","fromNode":"5e7ab469a2d3417a","fromSide":"left","toNode":"f8213cb875f56b37","toSide":"right"},
+		{"id":"51da2a1b860f052d","fromNode":"58cc7535896a8ddd","fromSide":"right","toNode":"d5a4dd31943cc4f2","toSide":"left"}
 	]
 }
