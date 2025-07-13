@@ -7,7 +7,6 @@
 		{"id":"a5ba9159b2771d31","x":-139,"y":-1680,"width":243,"height":70,"color":"5","type":"text","text":"Large Portcullis entrance on river bank"},
 		{"id":"7859ab8ee5eb935d","x":-475,"y":-1080,"width":110,"height":60,"type":"text","text":"10pm"},
 		{"id":"928e00ec0cffb220","x":320,"y":-1080,"width":125,"height":60,"type":"text","text":"2pm"},
-		{"id":"8ea4e8e432d1e8e6","type":"text","text":"4pm","x":320,"y":-840,"width":119,"height":60},
 		{"id":"f1a9f8a46811b6a4","x":-87,"y":-460,"width":160,"height":60,"type":"text","text":"Lift Floor 1"},
 		{"id":"5e7ab469a2d3417a","type":"text","text":"8pm","x":-471,"y":140,"width":119,"height":60},
 		{"id":"58cc7535896a8ddd","type":"text","text":"4pm","x":329,"y":140,"width":119,"height":60},
@@ -51,7 +50,8 @@
 		{"id":"f8213cb875f56b37","x":-877,"y":261,"width":250,"height":60,"type":"text","text":"Stairwell down"},
 		{"id":"d5a4dd31943cc4f2","x":617,"y":138,"width":250,"height":60,"type":"text","text":"Stairwell Up"},
 		{"id":"196ba422698f3417","x":480,"y":-1292,"width":300,"height":115,"type":"text","text":"Owl with cat legs\nMagical Sparks from the mouth\nShapeshifter"},
-		{"id":"8390e9365a58e317","x":-760,"y":-1333,"width":301,"height":98,"type":"text","text":"Humanoid, shuffling, back turned\nOMBAK Posessed"}
+		{"id":"8390e9365a58e317","x":-760,"y":-1333,"width":301,"height":98,"type":"text","text":"Humanoid, shuffling, back turned\nOMBAK Posessed"},
+		{"id":"8ea4e8e432d1e8e6","type":"text","text":"4pm","x":323,"y":-840,"width":119,"height":60}
 	],
 	"edges":[
 		{"id":"7071e335a159eff3","fromNode":"a5ba9159b2771d31","fromSide":"bottom","toNode":"79a0c1f686b2b388","toSide":"top","label":"Slope down\n60ft"},
