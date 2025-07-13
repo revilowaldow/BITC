@@ -35,14 +35,14 @@
 		{"id":"e2725292574595c5","type":"text","text":"6pm","x":-68,"y":1330,"width":103,"height":60},
 		{"id":"d360b896a87612d6","x":-860,"y":1194,"width":250,"height":60,"type":"text","text":"Unmarked Door"},
 		{"id":"d88303a9949bb104","type":"text","text":"Lift Floor 4\nItems\nBooks\n\"Special Holding Chamber\"\nBarracks\nLibrary\nMess Hall","x":-162,"y":2580,"width":284,"height":220},
-		{"id":"9522f30703c1518e","x":460,"y":2420,"width":250,"height":100,"type":"text","text":""},
 		{"id":"9d53f863cbd988a9","type":"text","text":"12pm","x":1961,"y":2800,"width":223,"height":60},
 		{"id":"f28f01f7e7dcc781","type":"text","text":"6pm","x":2013,"y":3420,"width":103,"height":60},
 		{"id":"60dc3f9adc752865","type":"text","text":"8pm","x":1600,"y":3240,"width":119,"height":60},
 		{"id":"aef9a80826a6f071","type":"text","text":"10pm","x":1605,"y":3000,"width":110,"height":60},
 		{"id":"348a11bbe4285437","type":"text","text":"2pm","x":2400,"y":3000,"width":125,"height":60},
 		{"id":"190c744d5e4de30c","type":"text","text":"4pm","x":2400,"y":3240,"width":119,"height":60},
-		{"id":"5adc52cff7c767e9","x":620,"y":2680,"width":440,"height":240,"type":"text","text":"Hole in centre of 60ft circle\nPyramid shaped structure suspended aloft by three heavy chains\nCovered in pulsing runes\nDistortion seen similar to when near Kana\nComplex Old Runes"}
+		{"id":"5adc52cff7c767e9","x":580,"y":2450,"width":440,"height":240,"type":"text","text":"Hole in centre of 60ft circle\nPyramid shaped structure suspended aloft by three heavy chains\nCovered in pulsing runes\nDistortion seen similar to when near Kana\nComplex Old Runes"},
+		{"id":"0d41bcf72f725aaf","x":915,"y":2835,"width":250,"height":60,"type":"text","text":"Reinforced "}
 	],
 	"edges":[
 		{"id":"7071e335a159eff3","fromNode":"a5ba9159b2771d31","fromSide":"bottom","toNode":"79a0c1f686b2b388","toSide":"top","label":"Slope down\n60ft"},
@@ -80,12 +80,13 @@
 		{"id":"178aa88679ca26de","fromNode":"6770dcf0c753567f","fromSide":"left","toNode":"539153144de99a2b","toSide":"bottom"},
 		{"id":"ae9c976290172892","fromNode":"e2725292574595c5","fromSide":"right","toNode":"764c485fb2c3c07b","toSide":"bottom"},
 		{"id":"be3b4db97d8be7bd","fromNode":"2d879d59018be0a8","fromSide":"left","toNode":"d360b896a87612d6","toSide":"right"},
-		{"id":"30cbe71da32183b0","fromNode":"df0596463d0a9307","fromSide":"right","toNode":"9522f30703c1518e","toSide":"top","label":"Corridor"},
+		{"id":"30cbe71da32183b0","fromNode":"df0596463d0a9307","fromSide":"right","toNode":"5adc52cff7c767e9","toSide":"top","label":"Corridor"},
 		{"id":"56d0e7fa711c5eb2","fromNode":"9d53f863cbd988a9","fromSide":"left","toNode":"aef9a80826a6f071","toSide":"top"},
 		{"id":"111f3b1608237390","fromNode":"9d53f863cbd988a9","fromSide":"right","toNode":"348a11bbe4285437","toSide":"top"},
 		{"id":"030c1b5e58c7068e","fromNode":"60dc3f9adc752865","fromSide":"bottom","toNode":"f28f01f7e7dcc781","toSide":"left"},
 		{"id":"d0266ae33430f099","fromNode":"190c744d5e4de30c","fromSide":"bottom","toNode":"f28f01f7e7dcc781","toSide":"right"},
 		{"id":"7f0a3d972f49224f","fromNode":"aef9a80826a6f071","fromSide":"bottom","toNode":"60dc3f9adc752865","toSide":"top"},
-		{"id":"8ee8ca2dc4e5309b","fromNode":"348a11bbe4285437","fromSide":"bottom","toNode":"190c744d5e4de30c","toSide":"top"}
+		{"id":"8ee8ca2dc4e5309b","fromNode":"348a11bbe4285437","fromSide":"bottom","toNode":"190c744d5e4de30c","toSide":"top"},
+		{"id":"11d510409699f1c4","fromNode":"5adc52cff7c767e9","fromSide":"bottom","toNode":"0d41bcf72f725aaf","toSide":"top"}
 	]
 }
