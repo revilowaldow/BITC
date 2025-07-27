@@ -15,4 +15,5 @@ Two wings
 
 ![[Pasted image 20250727174825.png]]
 
-Vrin 
+Vrin gets carpet to replace bed that was broken
+
