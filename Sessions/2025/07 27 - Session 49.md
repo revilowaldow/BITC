@@ -31,4 +31,4 @@ Whilspar appears as a Chinerian noble to Ru
 
 
 Next time:
-What the fuck does heliotropic bronze do
+What the fuck does heliotropic bronze do?
