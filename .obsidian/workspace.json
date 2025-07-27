@@ -48,8 +48,8 @@
               "state": {
                 "file": "Locations/The Pit.canvas",
                 "viewState": {
-                  "x": 382.5246535771024,
-                  "y": 2539.161731357095,
+                  "x": -355.61683558811023,
+                  "y": -1003.9174166359253,
                   "zoom": -0.6666666666666665
                 }
               },
@@ -316,8 +316,9 @@
   },
   "active": "991e4a11f89bca69",
   "lastOpenFiles": [
-    "Sessions/2025/07 13 - Session 48.md",
     "Setting Rules/Weapon Rules.md",
+    "Locations/The Pit.canvas",
+    "Sessions/2025/07 13 - Session 48.md",
     "Sessions/2025/07 27 - Session 49.md",
     "Sessions/2025/08 10 - Session 50.md",
     "Sessions/2025/06 29 - Session 47.md",
@@ -328,7 +329,6 @@
     "Pasted image 20250615192136.png",
     "Pasted image 20250601200910.png",
     "Pasted image 20250629194504.png",
-    "Locations/The Pit.canvas",
     "Factions/Silver Company/Kevin Aldragosh.md",
     "Factions/Melinda Palov.md",
     "Factions/Silver Company/Party/Ruadh.md",
@@ -348,7 +348,6 @@
     "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2025/05 18 - Session 44.md",
     "Assets/Characters/Ruadh.png",
-    "Sessions/2024/09 08 - Session 30.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Abdos Woodland.canvas",
     "Locations/Lionhold/Ziardim Caverns.canvas",
