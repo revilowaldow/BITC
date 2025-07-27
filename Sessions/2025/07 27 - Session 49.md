@@ -4,3 +4,4 @@ Thodunn goes looking for an Elvish copy of "*Ye arte of Smything, the Talente of
 
 Very large orc in a cupboard shaped book shop called Ghyrol
 
+Partial profi
