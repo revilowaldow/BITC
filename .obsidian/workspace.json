@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "8a726bee84e6b5b1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/ChikitanMiasmar_Token.png"
+              },
+              "icon": "lucide-image",
+              "title": "ChikitanMiasmar_Token"
+            }
+          },
+          {
             "id": "2a24b4007b0fb1d8",
             "type": "leaf",
             "state": {
@@ -157,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -356,10 +368,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d62f1c56f898c06a",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
-    "Setting Rules/Weapon Rules.md",
     "Sessions/2025/07 27 - Session 49.md",
+    "Setting Rules/Weapon Rules.md",
     "Sessions/2025/08 10 - Session 50.md",
     "Pasted image 20250727174825.png",
     "Factions/Silver Company/Party/Vrindrilliax.md",
