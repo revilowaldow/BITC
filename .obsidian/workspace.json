@@ -220,8 +220,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -357,7 +356,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb77d86758dbae6d",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Sessions/2025/02 09 - Session 39.md",
     "Sessions/2025/07 27 - Session 49.md",
