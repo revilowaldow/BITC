@@ -21,4 +21,7 @@ Vrin gets carpet to replace bed that was broken
 
 Wersalia - acolyte of the eternal queen
 
+[[Chikitan Miasmar]] is also present
+
+
 
