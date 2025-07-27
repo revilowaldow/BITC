@@ -11,5 +11,6 @@ Partial proficiency in basic Elvish gained
 Aru wakes up on top of the bed with Vrin much larger than prior (level up)
 
 Vrin's scales changing colour, heading towards a teal colour, corroded bronze
+Two wings
 
-
+![[Pasted image 20250727174825.png]]
