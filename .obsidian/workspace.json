@@ -189,7 +189,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dragon",
+                "query": "dragonYaoi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,7 +220,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -356,7 +357,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d62f1c56f898c06a",
+  "active": "d64d57bbfa4524a3",
   "lastOpenFiles": [
     "Pasted image 20250727190446.png",
     "Assets/Characters/ChikitanMiasmar_Token.png",
