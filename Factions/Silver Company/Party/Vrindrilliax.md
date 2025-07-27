@@ -1,7 +1,7 @@
 *Source: Fizban's Treasury of Dragons p. 15* 
 ```ad-statblock
 title: Vrindrilliax
-![](Vrindrilliax.png)
+![](Vrin.png)
 *Small dragon, Unaligned*
 
 - **Armor Class** (14 + PB (natural armor))
