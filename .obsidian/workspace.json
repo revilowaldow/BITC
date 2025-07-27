@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -189,7 +189,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dragonYaoi",
+                "query": "Yaoi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -357,11 +357,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d64d57bbfa4524a3",
+  "active": "bb77d86758dbae6d",
   "lastOpenFiles": [
+    "Sessions/2025/02 09 - Session 39.md",
+    "Sessions/2025/07 27 - Session 49.md",
     "Pasted image 20250727190446.png",
     "Assets/Characters/ChikitanMiasmar_Token.png",
-    "Sessions/2025/07 27 - Session 49.md",
     "Setting Rules/Weapon Rules.md",
     "Sessions/2025/08 10 - Session 50.md",
     "Pasted image 20250727174825.png",
@@ -398,7 +399,6 @@
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Abdos Woodland.canvas",
     "Locations/Lionhold/Ziardim Caverns.canvas",
-    "Pasted image 20250601193247.png",
     "Locations/Dog Prince Caves.canvas",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Locations/Kathkach/Abandoned House.canvas",
