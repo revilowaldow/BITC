@@ -30,4 +30,5 @@ Whilspar appears as a Chinerian noble to Ru
 ![[Pasted image 20250727190446.png]]
 
 
-
+Next time:
+What the fuck does heliotropic bronze do
