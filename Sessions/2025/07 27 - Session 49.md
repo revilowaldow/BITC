@@ -26,6 +26,8 @@ Wersalia - acolyte of the eternal queen
 Whilspar has appeared as an elf by flowing water
 
 
+Whilspar appears as a Chinerian noble to Ru
+
 
 
 
