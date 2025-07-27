@@ -23,7 +23,7 @@ Wersalia - acolyte of the eternal queen
 
 [[Chikitan Miasmar]] is also present, casts bless on Caenis, Aru and Thodunn
 
-Whilspar has appeared as an elf by flowing water
+Whilspar has appeared as an elf by flowing water (Thodunn's wife)
 
 Whilspar appears as a Chinerian noble to Ru
 
