@@ -78,12 +78,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2025/07 27 - Session 49.md",
+                "file": "Sessions/2025/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 27 - Session 49"
+              "title": "Untitled"
             }
           },
           {
@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -300,11 +300,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b73541dc08b4851",
+  "active": "4302a69c75f0e814",
   "lastOpenFiles": [
-    "Setting Rules/Weapon Rules.md",
-    "Sessions/2025/07 13 - Session 48.md",
     "Sessions/2025/07 27 - Session 49.md",
+    "Sessions/2025/Untitled.md",
+    "Sessions/2025/07 13 - Session 48.md",
+    "Setting Rules/Weapon Rules.md",
     "Sessions/2025/06 29 - Session 47.md",
     "Sessions/2025/06 15 - Session 46.md",
     "Flatek of the Flavours.md",
@@ -335,7 +336,6 @@
     "Assets/Characters/Ruadh.png",
     "Sessions/2024/09 08 - Session 30.md",
     "Locations/Coprun/Mine Layout.canvas",
-    "Factions/Aepoptosian Cult/Grandmaster.md",
     "Locations/Abdos Woodland.canvas",
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Pasted image 20250601193247.png",
