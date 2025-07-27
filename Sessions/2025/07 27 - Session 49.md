@@ -13,7 +13,8 @@ Aru wakes up on top of the bed with Vrin much larger than prior (level up)
 Vrin's scales changing colour, heading towards a teal colour, corroded bronze
 Two wings
 
-
+![[Vrin.png]]
 
 Vrin gets carpet to replace bed that was broken
+
 
