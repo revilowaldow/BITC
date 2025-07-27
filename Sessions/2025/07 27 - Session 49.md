@@ -4,4 +4,9 @@ Thodunn goes looking for an Elvish copy of "*Ye arte of Smything, the Talente of
 
 Very large orc in a cupboard shaped book shop called Ghyrol
 
-Partial profi
+Partial proficiency in basic Elvish gained
+
+<hr>
+
+Aru wakes up on top of the bed with Vrin much larger than prior (level up)
+
