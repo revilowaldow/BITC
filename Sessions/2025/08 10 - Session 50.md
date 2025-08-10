@@ -103,3 +103,7 @@ Caenis starts preparing Wailer meat
 
 Suggests making a Hot Sauce with Wyvern Poison
 
+Borrows Larkin's waterskin
+
+Caenis attempts to purchase the hottest possible widely available peppers
+
