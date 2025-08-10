@@ -36,7 +36,7 @@ Dissonant whispers alright
 2 warlock cantrips
 1st level slot, but would be trading for a 4th level
 
-Gave chunk of whilspar to 
+Gave chunk of whilspar to deep crawlers
 
 <hr>
 
@@ -61,5 +61,5 @@ Negates damage from falling up to 50 ft when worn over light armour
 > When worn over armour that imposes disadvantage on stealth rolls, the cloak grants advantage on stealth rolls.
 > When worn over no or light armour, when falling, the cloak negates damage due to falling for falls up to 50 ft.
 
-
+Kaulinan 
 
