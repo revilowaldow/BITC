@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poison",
+                "query": "dose",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,7 +254,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a15bed00a56a5a7f",
+  "active": "d64d57bbfa4524a3",
   "lastOpenFiles": [
     "Sessions/2025/08 10 - Session 50.md",
     "Sessions/2025/06 15 - Session 46.md",
