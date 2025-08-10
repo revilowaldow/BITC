@@ -27,6 +27,9 @@ Offered levels in Hive Warlock; including retraining
 
 Remain in the cavern beneath the harbour for a few hours to consider
 
+Don't meet prerequisites to multiclass into Warlock
+Level 1 has lots of stuff, but there's no more Hive things until Level 6?
+
 <hr>
 
 Aru and Vrin making in the smithy with Wailer materials
@@ -34,6 +37,8 @@ Aru and Vrin making in the smithy with Wailer materials
 Exotic Saddle, must be pretty
 5 days
 
+Cloak
+4 days
 
 
 
