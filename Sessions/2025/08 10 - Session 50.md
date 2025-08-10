@@ -19,6 +19,8 @@ A joining
 
 I feel like I gain senses and knowledge
 
+What is my position?
+
 
 
 
