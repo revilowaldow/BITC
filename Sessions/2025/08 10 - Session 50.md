@@ -109,3 +109,5 @@ Caenis attempts to purchase the hottest possible widely available peppers
 
 Thodunn used his Fire rune on the sauce
 
+Gave Thodunn the shits
+
