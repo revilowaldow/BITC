@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,8 +253,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "08af656bf7c24a29",
+  "active": "0b7f69c48ac6b1c3",
   "lastOpenFiles": [
+    "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
     "Sessions/2025/08 10 - Session 50.md",
     "Sessions/2025/07 27 - Session 49.md",
     "Sessions/2025/07 13 - Session 48.md",
