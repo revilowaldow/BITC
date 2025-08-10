@@ -11,6 +11,8 @@ Kaulinan being pulled through the city towards the merchant harbour by a very ge
 Opening to an old abandoned stone stairway to a cellar
 Cast darkvision
 
-Ground is rough and
+Ground is rough and torn up by deep crawlers
+
+
 
 
