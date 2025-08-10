@@ -15,7 +15,9 @@ Ground is rough and torn up by deep crawlers
 
 We are those that exist beneath
 
-a joining
+A joining
+
+I feel like I gain senses
 
 
 
