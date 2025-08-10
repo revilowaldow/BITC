@@ -17,7 +17,9 @@ We are those that exist beneath
 
 A joining
 
-I feel like I gain senses
+I feel like I gain senses and knowledge
+
+
 
 
 
