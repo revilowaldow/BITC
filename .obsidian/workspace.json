@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b73541dc08b4851",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2025/07 13 - Session 48.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "07 13 - Session 48"
-            }
-          },
-          {
             "id": "d62f1c56f898c06a",
             "type": "leaf",
             "pinned": true,
@@ -55,7 +39,8 @@
               "title": "08 10 - Session 50"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,9 +239,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b73541dc08b4851",
+  "active": "0b7f69c48ac6b1c3",
   "lastOpenFiles": [
     "Sessions/2025/07 27 - Session 49.md",
+    "Sessions/2025/07 13 - Session 48.md",
+    "Flatek of the Flavours.md",
     "Sessions/2025/05 18 - Session 44.md",
     "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2025/03 30 - Session 42.md",
@@ -273,13 +260,11 @@
     "Sessions/2025/05 04 - Session 43.5 - Oliver One Shot.md",
     "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
     "Setting Rules/Valid Wild Shapes.md",
-    "Sessions/2025/07 13 - Session 48.md",
     "Sessions/2025/06 29 - Session 47.md",
     "Sessions/2025/02 09 - Session 39.md",
     "Pasted image 20250727190446.png",
     "Assets/Characters/ChikitanMiasmar_Token.png",
     "Pasted image 20250727174825.png",
-    "Flatek of the Flavours.md",
     "Pasted image 20250615211108.png",
     "Pasted image 20250615204540.png",
     "Pasted image 20250615192136.png",

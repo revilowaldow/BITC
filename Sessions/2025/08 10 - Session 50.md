@@ -74,7 +74,9 @@ Sour grapes
 
 Caenis agrees to wear studded leather armour as long as it looks like a chef's apron
 
-Leather Armour Resists 2 points of fire damage whenever taken
+Leather Armour which resists 2 points of fire damage whenever taken
+
+
 
 
 
