@@ -44,11 +44,14 @@ Aru and Vrin making in the smithy with Wailer materials
 Exotic Saddle, must be pretty
 5 days
 
-Working on the leather, 
-
 Cloak
 4 days
 
+Working on this
+
+Aru source resin/glue to keep feathers on
+
+Successfully Craft a "Wailer Cloak"
 
 
 
