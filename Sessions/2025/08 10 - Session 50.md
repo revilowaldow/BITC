@@ -87,7 +87,8 @@ Try to stab dragon
 A valiant attempt, "You'll need to be much braver than this"
 "You don't know what's to come but I do"
 
+"need to be scared of monsters from another time"
 
-
+Envoy of someone who no 
 
 
