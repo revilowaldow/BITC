@@ -111,3 +111,4 @@ Thodunn used his Fire rune on the sauce
 
 Gave Thodunn the shits
 
++5ft to the movement speed of the dragon after iniative roll
