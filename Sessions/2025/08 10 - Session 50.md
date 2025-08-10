@@ -31,7 +31,8 @@ Remain in the cavern beneath the harbour for a few hours to consider
 
 Aru and Vrin making in the smithy with Wailer materials
 
-Saddle, must be pretty
+Exotic Saddle, must be pretty
+5 days
 
 
 
