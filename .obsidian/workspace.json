@@ -40,6 +40,78 @@
             }
           },
           {
+            "id": "44e56f0dea6756e9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/Dreamscape.png"
+              },
+              "icon": "lucide-image",
+              "title": "Dreamscape"
+            }
+          },
+          {
+            "id": "03510cc808beb648",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250629194504.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250629194504"
+            }
+          },
+          {
+            "id": "ea9296348c3d5a31",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250615204540.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250615204540"
+            }
+          },
+          {
+            "id": "0ae866f22f3f4741",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/Forest Cliff.png"
+              },
+              "icon": "lucide-image",
+              "title": "Forest Cliff"
+            }
+          },
+          {
+            "id": "48009b024c3c10a1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250601200910.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250601200910"
+            }
+          },
+          {
+            "id": "c26140e3929c2057",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/Abdos Village.png"
+              },
+              "icon": "lucide-image",
+              "title": "Abdos Village"
+            }
+          },
+          {
             "id": "08af656bf7c24a29",
             "type": "leaf",
             "state": {
@@ -54,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -253,10 +325,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b7f69c48ac6b1c3",
+  "active": "48009b024c3c10a1",
   "lastOpenFiles": [
-    "Deity/Gotha.md",
+    "Assets/Maps/Forest Cliff.png",
+    "Pasted image 20250615204540.png",
+    "Pasted image 20250629194504.png",
+    "Assets/Maps/Abdos Village.png",
+    "Assets/Maps/Dreamscape.png",
     "Sessions/2025/08 10 - Session 50.md",
+    "Deity/Gotha.md",
     "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
     "Sessions/2025/07 27 - Session 49.md",
     "Sessions/2025/07 13 - Session 48.md",
@@ -278,19 +355,13 @@
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2025/06 29 - Session 47.md",
     "Sessions/2025/02 09 - Session 39.md",
-    "Pasted image 20250727190446.png",
     "Assets/Characters/ChikitanMiasmar_Token.png",
     "Pasted image 20250727174825.png",
-    "Pasted image 20250615211108.png",
-    "Pasted image 20250615204540.png",
-    "Pasted image 20250615192136.png",
     "Pasted image 20250601200910.png",
-    "Pasted image 20250629194504.png",
     "Factions/Silver Company/Kevin Aldragosh.md",
     "Factions/Melinda Palov.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2023/12 17 - Session 13.md",
-    "Sessions/2024/11 03 - Session 34.md",
     "Assets/Characters/Ruadh.png",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Abdos Woodland.canvas",

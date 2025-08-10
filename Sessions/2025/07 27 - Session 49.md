@@ -27,7 +27,7 @@ Whilspar has appeared as an elf by flowing water (Thodunn's wife)
 
 Whilspar appears as a Chinerian noble to Ru
 
-![[Pasted image 20250727190446.png]]
+![[Dreamscape.png]]
 
 
 Next time:

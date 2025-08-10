@@ -51,7 +51,7 @@ Huascan stood with Rev and Chitikan
 
 5 cultists, 2 senior cultists, 2 ogres 
 More voices from elsewhere in the town
-![[Pasted image 20250615211108.png]]
+![[Abdos Village.png]]
 
 ![[Pasted image 20250615204540.png]]
 
