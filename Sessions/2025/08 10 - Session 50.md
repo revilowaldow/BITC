@@ -101,4 +101,5 @@ Envoy left
 
 Caenis starts preparing Wailer meat
 
-Suggests making a Hot Sauc
+Suggests making a Hot Sauce with Wyvern Poison
+
