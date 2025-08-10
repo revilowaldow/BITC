@@ -84,6 +84,8 @@ Aru has a fever leaving them bedridden for 8 days
 
 Try to stab dragon
 
+A valiant attempt, "You'll need to be much braver than this"
+"You don't know what's to come but I do"
 
 
 
