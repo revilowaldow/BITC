@@ -36,6 +36,7 @@ Dissonant whispers alright
 2 warlock cantrips
 1st level slot, but would be trading for a 4th level
 
+Gave chunk of whilspar to 
 
 <hr>
 
