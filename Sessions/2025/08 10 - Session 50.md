@@ -53,8 +53,9 @@ Aru source resin/glue to keep feathers on
 
 Successfully Craft a "Wailer Cloak"
 
+When worn over armour with stealth disadvantage on 
 
-
+Negates damage f
 
 
 
