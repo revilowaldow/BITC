@@ -78,6 +78,10 @@ Leather Armour which resists 2 points of fire damage whenever taken
 
 <hr>
 
+Aru has a fever leaving them bedridden for 8 days
+
+[[Bartender]] wakes Aru up floating above them, "child"
+
 
 
 
