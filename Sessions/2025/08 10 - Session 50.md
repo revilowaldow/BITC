@@ -31,6 +31,9 @@ Don't meet prerequisites to multiclass into Warlock
 Level 1 has lots of stuff, but there's no more Hive things until Level 6?
 Message near pointless vs telepathic feat
 Vicious mockery isn't something Kaulinan would use
+Bast bond already on my list
+Dissonant whispers alright 
+2 warlock cantrips
 
 <hr>
 
