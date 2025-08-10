@@ -72,5 +72,7 @@ Donates and pays and promises to return
 
 Sour grapes
 
-Caenis agrees to 
+Caenis agrees to wear studded leather armour as long as it looks like a chef's apron
+
+
 
