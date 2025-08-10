@@ -6,4 +6,4 @@ Vrin deals the killing blow causing the dreamscape to collapse
 
 Physical Whilspar is destroyed by the mining grinder & split into 3 pieces
 
-Kaulinan being pulled through the city
+Kaulinan being pulled through the city by a very gentle/powerful 
