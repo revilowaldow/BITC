@@ -111,4 +111,7 @@ Thodunn used his Fire rune on the sauce
 
 Gave Thodunn the shits
 
-+5ft to the movement speed of the dragon after iniative roll
+## Wyvern Leather Exotic Saddle
+An exotic saddle is required for riding any aquatic or flying mount.
+This exceptional saddle was crafted using fresh wyvern leather. It is especially comfortable when worn by dragons, drakes, or draconic mounts.
+On the first turn after rolling initiative, the Wyvern leather Exotic Saddle grants a +5 ft. bonus to a mount's movement speed whilst mounted. This bonus only applies when worn by a medium or large dragon.
