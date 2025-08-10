@@ -25,9 +25,13 @@ What is my position?
 
 Offered levels in Hive Warlock; including retraining
 
-Remain in the cavern beneath the harbour for a few hours
+Remain in the cavern beneath the harbour for a few hours to consider
 
 <hr>
+
+Aru and Vrin making in the smithy with Wailer materials
+
+
 
 
 
