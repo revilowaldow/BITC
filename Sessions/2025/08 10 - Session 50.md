@@ -34,6 +34,8 @@ Vicious mockery isn't something Kaulinan would use
 Bast bond already on my list
 Dissonant whispers alright 
 2 warlock cantrips
+1st level slot, but would be trading for a 4th level
+
 
 <hr>
 
