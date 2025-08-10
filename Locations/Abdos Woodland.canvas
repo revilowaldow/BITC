@@ -3,12 +3,12 @@
 		{"id":"f5af5ea568df66b0","type":"text","text":"Nettle Thicket\nCut down","x":-200,"y":10,"width":250,"height":190},
 		{"id":"5e09361c6fe2eb4e","type":"text","text":"Small Lake\nNW\nslightly thinner trees\n\nsmall lake 300ft diameter\nused by various fauna\nstanding fog","x":-180,"y":-880,"width":298,"height":240,"color":"5"},
 		{"id":"b092ddd5e56affc8","type":"text","text":"NW\nglowing forest\nGlint of light\nplants are bioluminescent\nvarious colours\n\nSwarms of fireflies that cannot be seen in light\n","x":-734,"y":-1339,"width":440,"height":299,"color":"3"},
-		{"id":"78d712320b2627e2","type":"file","file":"Pasted image 20250518193228.png","x":-1160,"y":-1386,"width":400,"height":393},
+		{"id":"78d712320b2627e2","type":"file","file":"Assets/Maps/Forest Lights.png","x":-1160,"y":-1386,"width":400,"height":393},
 		{"id":"f9441a7f76473dd9","type":"text","text":"Dark Woodland 1\nHear Reptilian/Avian Shriek\nAngry Female Wyvern\n\nBombed by a wyvern egg\n\n","x":1,"y":-1360,"width":409,"height":320},
 		{"id":"7ac9512a2518dfa6","type":"text","text":"Mountain Cliff\nNE\n\nWyvern Lair\nScorpions of nastiness\n\n","x":445,"y":-1880,"width":250,"height":237},
 		{"id":"8a508f1209f136ad","type":"file","file":"Assets/Maps/Forest Cliff.png","x":760,"y":-2040,"width":400,"height":397},
-		{"id":"25a94f395f75026f","type":"file","file":"Pasted image 20250601193247.png","x":480,"y":-1520,"width":390,"height":400},
-		{"id":"388b1ea6b6315f65","type":"file","file":"Pasted image 20250601200910.png","x":926,"y":-1520,"width":399,"height":400},
+		{"id":"25a94f395f75026f","type":"file","file":"Assets/Maps/Dark Forest 2.png","x":480,"y":-1520,"width":390,"height":400},
+		{"id":"388b1ea6b6315f65","type":"file","file":"Assets/Maps/Dark Forest.png","x":926,"y":-1520,"width":399,"height":400},
 		{"id":"d6b84983fbdb8470","type":"text","text":"R (NE)\nDark Woodland 2\nTall dense tree canopy\n\nAmbushed by large taloned creature\n\nFought a Troll\n","x":-31,"y":-464,"width":310,"height":260},
 		{"id":"1634d9b0e0be2b5e","type":"file","file":"Assets/Maps/Wailer Map.png","x":298,"y":-534,"width":295,"height":400},
 		{"id":"feb1a95df26ef83a","type":"text","text":"SE\nhear the sound of running water\nSmell of the wailer\n\n15ft high cliff overlooking a pool\n\nPerched on a rock is a nest made of branches and cadavers","x":640,"y":-464,"width":320,"height":304,"color":"5"},
@@ -20,7 +20,7 @@
 		{"id":"67e0aa940122f87d","type":"text","text":"Southern Entrance","x":-200,"y":280,"width":250,"height":60},
 		{"id":"5d0fe457266be916","type":"text","text":"Dry Trees\nNE\nLeave in this direction\nflaky bark","x":-305,"y":-1680,"width":250,"height":180},
 		{"id":"c52cdc441600d4a9","type":"text","text":"NW\nAbandoned Cabin\nStumbled over trail\nSmell of cooking over a campfire\n\nMountaineers cabin,\n\nDruid grove infested by a Bheur Hag ","x":-734,"y":-2122,"width":350,"height":235},
-		{"id":"b40a773ce8358828","type":"file","file":"Pasted image 20250601184232.png","x":-1040,"y":-2204,"width":255,"height":400}
+		{"id":"b40a773ce8358828","type":"file","file":"Assets/Maps/Hag Grove.png","x":-1040,"y":-2204,"width":255,"height":400}
 	],
 	"edges":[
 		{"id":"4d3c5fc341696d01","fromNode":"67e0aa940122f87d","fromSide":"top","toNode":"f5af5ea568df66b0","toSide":"bottom"},

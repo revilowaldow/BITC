@@ -93,22 +93,34 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20250601200910.png"
+                "file": "Assets/Maps/Dark Forest.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250601200910"
+              "title": "Dark Forest"
             }
           },
           {
-            "id": "c26140e3929c2057",
+            "id": "fd840b1494c6c16b",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Assets/Maps/Abdos Village.png"
+                "file": "Assets/Maps/Dark Forest 2.png"
               },
               "icon": "lucide-image",
-              "title": "Abdos Village"
+              "title": "Dark Forest 2"
+            }
+          },
+          {
+            "id": "6bb63774987fb5f5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/Forest Lights.png"
+              },
+              "icon": "lucide-image",
+              "title": "Forest Lights"
             }
           },
           {
@@ -126,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -325,13 +337,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48009b024c3c10a1",
+  "active": "6bb63774987fb5f5",
   "lastOpenFiles": [
+    "Pasted image 20250504162620.png",
+    "Pasted image 20250223184136.png",
+    "Pasted image 20250112192828.png",
+    "Assets/Maps/Abdos Village.png",
+    "Assets/Maps/Hag Grove.png",
+    "Assets/Maps/Forest Lights.png",
+    "Assets/Maps/Dark Forest 2.png",
+    "Assets/Maps/Dark Forest.png",
     "Assets/Maps/Forest Cliff.png",
     "Pasted image 20250615204540.png",
     "Pasted image 20250629194504.png",
-    "Assets/Maps/Abdos Village.png",
-    "Assets/Maps/Dreamscape.png",
     "Sessions/2025/08 10 - Session 50.md",
     "Deity/Gotha.md",
     "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
@@ -344,7 +362,6 @@
     "Sessions/2025/03 09 - Session 41.md",
     "Sessions/2025/06 01 - Session 45.md",
     "Sessions/2025/06 15 - Session 46.md",
-    "Assets/Characters/Vrin.png",
     "Factions/Silver Company/Party/Vrindrilliax.md",
     "Factions/Silver Company/Dimicislus Gregorius.md",
     "Locations/The Pit.canvas",
@@ -355,14 +372,10 @@
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2025/06 29 - Session 47.md",
     "Sessions/2025/02 09 - Session 39.md",
-    "Assets/Characters/ChikitanMiasmar_Token.png",
-    "Pasted image 20250727174825.png",
-    "Pasted image 20250601200910.png",
     "Factions/Silver Company/Kevin Aldragosh.md",
     "Factions/Melinda Palov.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2023/12 17 - Session 13.md",
-    "Assets/Characters/Ruadh.png",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Abdos Woodland.canvas",
     "Locations/Lionhold/Ziardim Caverns.canvas",
