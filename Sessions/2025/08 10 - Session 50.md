@@ -61,5 +61,7 @@ Negates damage from falling up to 50 ft when worn over light armour
 > When worn over armour that imposes disadvantage on stealth rolls, the cloak grants advantage on stealth rolls.
 > When worn over no or light armour, when falling, the cloak negates damage due to falling for falls up to 50 ft.
 
-Kaulinan, refuses the Wailer Cloak as he was uncomfortable 
+Kaulinan, refuses the Wailer Cloak as he was uncomfortable wearing it.
+
+
 
