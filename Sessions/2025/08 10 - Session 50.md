@@ -66,3 +66,5 @@ Kaulinan, refuses the Wailer Cloak as he was uncomfortable wearing it.
 Vrin reading book on art
 	"The Azure Artist Priest's Helpful Guide to Style - by Vika Dephilan"
 
+"It is viewed by draconic culture as a bit racist"
+
