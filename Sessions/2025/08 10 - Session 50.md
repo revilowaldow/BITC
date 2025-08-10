@@ -76,6 +76,8 @@ Caenis agrees to wear studded leather armour as long as it looks like a chef's a
 
 Leather Armour which resists 2 points of fire damage whenever taken
 
+<hr>
+
 
 
 
