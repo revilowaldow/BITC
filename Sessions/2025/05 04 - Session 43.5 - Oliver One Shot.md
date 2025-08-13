@@ -18,9 +18,9 @@ Should the party succeed they will be handsomely rewarded, though the Head Chef 
 The party, having been woken by [[Larkin]], and addressed by [[Kevin Aldragosh]], arrives at [[The Cooking Association]]'s grand hall just before dawn, a squat campus of packed earth and polished stone, kitchens, gardens, and vaults. [[Palanda Macav]] meets them privately in his smoke-swirled office.
 
 - He informs them the **Aether Pepper** is missing from the **Vault of Infusions**.
-- The **trials are already underway**, and the participants cannot know of the theft—maintaining morale and the legitimacy of the process is paramount.
+- The **trials are already underway**, and the participants cannot know of the theft. Maintaining morale and the legitimacy of the process is paramount.
 - They are authorized to **investigate, interview (carefully), and report** any misconduct.
-- The trials are to conclude that evening after each meal of the day has been served—a strict deadline.
+- The trials are to conclude that evening after each meal of the day has been served.
 
 > "A pepper can elevate, or it can spoil a promising dish. Return the *Aether Pepper* before the feast bell, and you’ll have earned more than my gratitude."
 
