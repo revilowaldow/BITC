@@ -12,7 +12,7 @@ The Silver Company find their downtime urgently interrupted, with no time to rec
 
 Should the party succeed they will be handsomely rewarded, though the Head Chef has something special to offer for the young *Saucier* in the party.
 
-[[Candaria Malain]] has attempted to gain favour with the cooking guild through trade and supply routes recently. She bribed [[Sousette Vorn]] to steal the pepper with her 
+[[Candaria Malain]] has attempted to gain favour with the cooking guild through trade and supply routes recently. She coerced and bribed [[Sousette Vorn]] to steal the pepper with her Enforcers meeting up with her in one of the vaults that joins to the ancient Kathkachan tunnels.
 
 <hr>
 ###  _A Summons to the Kitchen_
