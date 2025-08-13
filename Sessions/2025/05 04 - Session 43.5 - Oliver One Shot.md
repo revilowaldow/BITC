@@ -41,7 +41,7 @@ The party discover the **contestants’ personal ingredients** are stored in sea
 From here, the party can explore the building to gather more clues:
 - **The Experimental Kitchens**
 - [[The Tea Garden]] (a place of quiet meditation)
-- ~~**The Fermentation Cellar**~~
+- ~~**The Fermentation Cellar**~~ (this is where [[Sousette Vorn]] will meet the enforcers)
 - **Observation Gallery**, where VIPs and sponsors watch
 - [[Mise En Place]]
 - [[The Brine Vaults]]
@@ -49,7 +49,6 @@ From here, the party can explore the building to gather more clues:
 - [[The Seasonarium]]
 - [[The Smoked Hall]]
 - [[The Bloodmarble Butchery]]
-
 
 
 <hr>
@@ -62,7 +61,7 @@ Each contestant is a powerful personality—volatile, secretive, or ruthless. Th
 - May try to **manipulate the party**
 
 1. **Ezzar Brinn** – Cloud-cooking baker. Eccentric, forgetful, aloof. (Dust clue, but suppliers)
-2. [[Sousette Vorn]] – Sharp, political, and cunning goblin. Possibly orchestrating sabotage… 
+2. [[Sousette Vorn]] – Sharp, political, and cunning goblin. The culprit, but being coerced by [[Candaria Malain]].
 3. **Brogg Mauldine** – Orc butcher, surprisingly gentle. Hates liars and is oddly philosophical.
 4. **Mirl Saffra** – Spicesmith who’s been missing a vial of dreamroot (a mild hallucinogen).
 5. **Fayne Lurrek** – Alchemical sommelier, obsessed with culinary purity. Found burned notes in her locker.
