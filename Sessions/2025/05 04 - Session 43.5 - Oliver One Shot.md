@@ -30,9 +30,9 @@ The party, having been woken by [[Larkin]], and addressed by [[Kevin Aldragosh]]
 
 ### _The Vault & The Clues_
 
-**The Vault of Infusions** shows no signs of brute force entry. Magical security is intact. But:
+**The Vault of Infusions** shows no signs of brute force entry. Security is intact with a constant guard from the Helviti who records all individuals who . But:
 
-- **Arcana Check**: Someone used **minor planar manipulation magic** to phase through briefly.
+- **Arcana Check**: A small vial has been abandoned near the vault.
 - **Investigation**: A stray speck of a strange, iridescent flour—common in **Chef Ezzar's "Cloud Bread" technique**.
 - **Footprints**: Traces of spice dust lead through a **service corridor**, connecting to the contestants’ lounge and kitchens.
 
