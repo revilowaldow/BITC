@@ -12,7 +12,7 @@ The Silver Company find their downtime urgently interrupted, with no time to rec
 
 Should the party succeed they will be handsomely rewarded, though the Head Chef has something special to offer for the young *Saucier* in the party.
 
-[[Candaria Malain]] has attempted to gain favour with the cooking guild through trade and supply routes recently. She coerced and bribed [[Sousette Vorn]] to steal the pepper with her Enforcers meeting up with her in one of the vaults that joins to the ancient Kathkachan tunnels.
+[[Candaria Malain]] has attempted to curry flavour with the cooking guild through trade and supply routes recently. She coerced and bribed [[Sousette Vorn]] to steal the pepper with her Enforcers meeting up with her in one of the vaults that joins to the ancient Kathkachan tunnels.
 
 <hr>
 ###  _A Summons to the Kitchen_
@@ -70,11 +70,9 @@ Each contestant is a powerful personality—volatile, secretive, or ruthless. Th
 <hr>
 ### _The Cellar Showdown / “Spoiled Ambitions”_
 
-Following the trail of clues—tempered vault seals, a counterfeit ingredient requisition form, and suspicious activity around the cellar—the party is led to the **Fermentation Cellar**, a shadowy, cavernous under-croft of ancient barrels, glass tubes, and pungent arcane vapours.
+Following the trail of clues—the party is led to the **Fermentation Cellar**, a shadowy, cavernous under-croft of ancient barrels, glass tubes, and pungent arcane vapours.
 
 There, they find [[Sousette Vorn]], not alone, but flanked by **agents of [[Candaria Malain]]—a powerful merchant leader that supplies rare ingredients, controls several food markets, and has long desired more influence in the Cooking Association. 
-
-Sousette, clever and calculating, isn’t trying to keep the Aether Pepper—she’s **staging its dramatic “discovery”**, timed to coincide with her **final trial dish**, hoping to present herself as the saviour of the competition and curry flavour with [[Palanda Macav]].
 
 > Her true goal: become the new Sous Chef and broker an exclusive supply contract with [[The Cooking Association]], which would grant the Malain faction inside control over the guild’s procurement and distribution chains.
 #### Combat
