@@ -82,6 +82,42 @@
             }
           },
           {
+            "id": "49000252021538b8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250629194504.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250629194504"
+            }
+          },
+          {
+            "id": "7f03aa956d97743f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250615204540.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250615204540"
+            }
+          },
+          {
+            "id": "bfbc27b1db3ca165",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250504162620.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250504162620"
+            }
+          },
+          {
             "id": "22b4e6f6d27ec3f9",
             "type": "leaf",
             "state": {
@@ -124,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -323,8 +359,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02fc91ca9cb615be",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
+    "Pasted image 20250615204540.png",
+    "Pasted image 20250629194504.png",
+    "Sessions/2025/05 04 - Session 43.5 - Oliver One Shot.md",
     "Factions/Candaria Malain.md",
     "Factions/The Cooking Association/Sousette Vorn.md",
     "Factions/The Cooking Association/Palanda Macav.md",
@@ -334,8 +373,6 @@
     "Sessions/2025/06 15 - Session 46.md",
     "Assets/Maps/Dreamscape.png",
     "Locations/Kathkach/The Cooking Association/The Smoked Hall.md",
-    "Pasted image 20250629194504.png",
-    "Pasted image 20250615204540.png",
     "Assets/Maps/Forest Cliff.png",
     "Assets/Maps/Dark Forest.png",
     "Assets/Maps/Dark Forest 2.png",
@@ -357,11 +394,9 @@
     "Locations/The Pit.canvas",
     "Factions/Silver Company/Party/Ruadh.md",
     "Setting Rules/Weapon Rules.md",
-    "Sessions/2025/05 04 - Session 43.5 - Oliver One Shot.md",
     "Locations/Kathkach/The Cooking Association/The Proving Grounds.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2025/06 29 - Session 47.md",
-    "Sessions/2025/02 09 - Session 39.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Abdos Woodland.canvas",
     "Locations/Lionhold/Ziardim Caverns.canvas",

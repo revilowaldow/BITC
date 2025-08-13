@@ -78,7 +78,7 @@ There, they find [[Sousette Vorn]], not alone, but flanked by **agents of [[Cand
 #### Combat
 - Sousette: Goblin Hexer 2025 MM
 - Two Bugbear Lieutenants TftYP (reflavour race) - [[Malain Enforcer]]
-- Poison Weird (WDMM) from disturbed barrel - could do two if side-agnostic
+- Poison Weird (WDMM) from disturbed barrel/thrown potion - could do two if side-agnostic
 #### Environment Hazards:
 - **Fermentation fumes**: Fire or sparks may cause minor explosions.
 - **Slippery walkways**: Dexterity saves to avoid spills or be knocked into brewing vats.
@@ -93,9 +93,6 @@ Whether or not they recover the Aether Pepper intact, the party returns to [[Pal
 - **If successful**, the pepper is added to the final ceremony, Sousette does not compete.
 - **If they fail**, the trials are marred, and Macav may blame them damaging relations between the guild and the silver company or turn the fallout into a lesson on adaptability.
 
-> Reward for [[Caenis]]? Jacket of Prestige? Guild Rank? Restaurant?
+> Reward for [[Caenis]] - [[Flatek of the Flavours]]
 > Reward for party - meal vouchers!
 
-
-
-![[Pasted image 20250504162620.png]]
