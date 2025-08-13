@@ -30,11 +30,11 @@ The party, having been woken by [[Larkin]], and addressed by [[Kevin Aldragosh]]
 
 ### _The Vault & The Clues_
 
-**The Vault of Infusions** shows no signs of brute force entry. Security is intact with a constant guard from the Helviti who records all individuals who . But:
+**The Vault of Infusions** shows no signs of brute force entry. Security is intact with a constant guard from the Helviti who records all individuals who accessed the vault. But:
 
-- **Arcana Check**: A small vial has been abandoned near the vault.
+- **Arcana Check**: A small vial has been abandoned near the vault, it contains a tiny amount of invisibility potion, someone has snuck into the vault.
 - **Investigation**: A stray speck of a strange, iridescent flour—common in **Chef Ezzar's "Cloud Bread" technique**.
-- **Footprints**: Traces of spice dust lead through a **service corridor**, connecting to the contestants’ lounge and kitchens.
+- **Footprints**: Traces of spice dust lead through a service corridor, connecting to the contestants’ lounge and kitchens.
 
 The party discover the **contestants’ personal ingredients** are stored in sealed lockers—one locker is tampered with.
 
