@@ -12,7 +12,7 @@ The Silver Company find their downtime urgently interrupted, with no time to rec
 
 Should the party succeed they will be handsomely rewarded, though the Head Chef has something special to offer for the young *Saucier* in the party.
 
-[[Candaria Malain]] has attempted to curry flavour with the cooking guild through trade and supply routes recently. She coerced and bribed [[Sousette Vorn]] to steal the pepper with her Enforcers meeting up with her in one of the vaults that joins to the ancient Kathkachan tunnels.
+[[Candaria Malain]] has attempted to *curry flavour* with the cooking guild and [[Palanda Macav]] through trade and supply routes recently. She coerced and bribed [[Sousette Vorn]] to steal the pepper with her Enforcers meeting up with her in one of the vaults that joins to the ancient Kathkachan tunnels.
 
 <hr>
 ###  _A Summons to the Kitchen_
@@ -74,7 +74,7 @@ Following the trail of clues—the party is led to the **Fermentation Cellar**, 
 
 There, they find [[Sousette Vorn]], not alone, but flanked by **agents of [[Candaria Malain]]—a powerful merchant leader that supplies rare ingredients, controls several food markets, and has long desired more influence in the Cooking Association. 
 
-> Her true goal: become the new Sous Chef and broker an exclusive supply contract with [[The Cooking Association]], which would grant the Malain faction inside control over the guild’s procurement and distribution chains.
+> Souzette wants to become the new Sous Chef and broker an exclusive supply contract that would grant the Malain faction inside control over the guild’s procurement and distribution chains.
 #### Combat
 - Sousette: Goblin Hexer 2025 MM
 - Two Bugbear Lieutenants TftYP (reflavour race) - [[Malain Enforcer]]
