@@ -51,4 +51,5 @@ Dungeon of destiny
 
 Recieve Weal from Augury
 
-Perhaps a library in the 
+Perhaps a library in the helviti wastes beyond the crimson keep
+
