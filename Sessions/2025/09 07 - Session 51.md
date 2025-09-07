@@ -18,6 +18,7 @@ Presented with a small hooded candle for light
 <hr>
 
 Thodunn tries looking for a forge, decides to look for [[Flambard Hawk]].
+At the [[Platinum Pot]] 
 
 <hr>
 
