@@ -64,8 +64,8 @@
               "state": {
                 "file": "Locations/Dungeon of Destiny.canvas",
                 "viewState": {
-                  "x": 101.87639409215528,
-                  "y": 1018.7639409215526,
+                  "x": 203.75278818431053,
+                  "y": 815.0111527372421,
                   "zoom": 0
                 }
               },
@@ -89,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -290,11 +290,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b2f9379404af6b1",
+  "active": "a4c429b180473a42",
   "lastOpenFiles": [
+    "Locations/Dungeon of Destiny.canvas",
     "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2025/09 07 - Session 51.md",
-    "Locations/Dungeon of Destiny.canvas",
     "Pasted image 20250907205402.png",
     "Pasted image 20250907201732.png",
     "Factions/Brayk Brasshand.md",
@@ -328,7 +328,6 @@
     "Sessions/2025/03 30 - Session 42.md",
     "Sessions/2025/03 09 - Session 41.md",
     "Factions/Silver Company/Party/Vrindrilliax.md",
-    "Factions/Silver Company/Dimicislus Gregorius.md",
     "Locations/The Pit.canvas",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Abdos Woodland.canvas",
