@@ -49,3 +49,5 @@ Back removed from the tunic.
 
 Dungeon of destiny
 
+Recieve Weal from Augury
+
