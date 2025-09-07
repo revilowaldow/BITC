@@ -65,7 +65,7 @@
                 "file": "Locations/Dungeon of Destiny.canvas",
                 "viewState": {
                   "x": 101.87639409215528,
-                  "y": 305.6291822764658,
+                  "y": 407.5055763686211,
                   "zoom": 0
                 }
               },
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,10 +275,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b2f9379404af6b1",
+  "active": "e707625320fca998",
   "lastOpenFiles": [
-    "Sessions/2025/09 07 - Session 51.md",
     "Locations/Dungeon of Destiny.canvas",
+    "Sessions/2025/09 07 - Session 51.md",
     "Factions/Brayk Brasshand.md",
     "Sessions/2025/07 13 - Session 48.md",
     "Sessions/2025/06 29 - Session 47.md",
