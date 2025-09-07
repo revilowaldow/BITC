@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"38b0593a54379082","x":-125,"y":276,"width":250,"height":60,"color":"4","type":"text","text":"Entrance"},
-		{"id":"f3dae9d2e3850780","x":-240,"y":500,"width":480,"height":240,"type":"text","text":"Walls hard granite\n15ft wide stone door\n\nStone panel, grid.\nSquare tiles\n\n5x5 grid\n\nFull alphabet\n"}
+		{"id":"f3dae9d2e3850780","x":-240,"y":500,"width":480,"height":240,"type":"text","text":"Walls hard granite\n15ft wide stone door\n\nStone panel, grid.\nSquare tiles\n\n5x5 grid\n\nFull alphabet\n"},
+		{"id":"26467c86d8dbce57","x":280,"y":516,"width":400,"height":208,"type":"file","file":"Pasted image 20250907201732.png"}
 	],
 	"edges":[
 		{"id":"dc320382e77d18bf","fromNode":"38b0593a54379082","fromSide":"bottom","toNode":"f3dae9d2e3850780","toSide":"top","label":"120ft"}
