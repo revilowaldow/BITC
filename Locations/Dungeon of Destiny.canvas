@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"38b0593a54379082","x":-125,"y":276,"width":250,"height":60,"color":"4","type":"text","text":"Entrance"},
+		{"id":"f3dae9d2e3850780","x":-123,"y":28,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"dc320382e77d18bf","fromNode":"38b0593a54379082","fromSide":"top","toNode":"f3dae9d2e3850780","toSide":"bottom","label":"120ft"}
+	]
+}

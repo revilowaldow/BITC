@@ -68,9 +68,28 @@
               "icon": "lucide-file",
               "title": "09 07 - Session 51"
             }
+          },
+          {
+            "id": "8b2f9379404af6b1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Dungeon of Destiny.canvas",
+                "viewState": {
+                  "x": 101.87639409215528,
+                  "y": 305.6291822764658,
+                  "zoom": 0
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Dungeon of Destiny"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -270,15 +289,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e707625320fca998",
+  "active": "8b2f9379404af6b1",
   "lastOpenFiles": [
+    "Sessions/2025/09 07 - Session 51.md",
+    "Locations/Dungeon of Destiny.canvas",
     "Factions/Brayk Brasshand.md",
     "Sessions/2025/07 13 - Session 48.md",
     "Sessions/2025/06 29 - Session 47.md",
     "Locations/The Second Founding.md",
     "Sessions/2025/07 27 - Session 49.md",
     "Sessions/2025/08 10 - Session 50.md",
-    "Sessions/2025/09 07 - Session 51.md",
     "Sessions/2025/06 01 - Session 45.md",
     "Sessions/2025/06 15 - Session 46.md",
     "Factions/The Cooking Association/Sousette Vorn.md",
@@ -308,7 +328,6 @@
     "Factions/Silver Company/Party/Vrindrilliax.md",
     "Factions/Silver Company/Dimicislus Gregorius.md",
     "Locations/The Pit.canvas",
-    "Factions/Silver Company/Party/Ruadh.md",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Abdos Woodland.canvas",
     "Locations/Lionhold/Ziardim Caverns.canvas",
