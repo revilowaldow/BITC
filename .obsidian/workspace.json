@@ -65,7 +65,7 @@
                 "file": "Locations/Dungeon of Destiny.canvas",
                 "viewState": {
                   "x": 101.87639409215528,
-                  "y": 407.5055763686211,
+                  "y": 1018.7639409215526,
                   "zoom": 0
                 }
               },
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,11 +275,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b2f9379404af6b1",
+  "active": "e707625320fca998",
   "lastOpenFiles": [
-    "Pasted image 20250907201732.png",
-    "Sessions/2025/09 07 - Session 51.md",
     "Locations/Dungeon of Destiny.canvas",
+    "Sessions/2025/09 07 - Session 51.md",
+    "Pasted image 20250907205402.png",
+    "Pasted image 20250907201732.png",
     "Factions/Brayk Brasshand.md",
     "Sessions/2025/07 13 - Session 48.md",
     "Sessions/2025/06 29 - Session 47.md",
@@ -304,8 +305,6 @@
     "Assets/Maps/Dark Forest.png",
     "Assets/Maps/Dark Forest 2.png",
     "Assets/Maps/Forest Lights.png",
-    "Pasted image 20250223184136.png",
-    "Pasted image 20250112192828.png",
     "Deity/Gotha.md",
     "Flatek of the Flavours.md",
     "Sessions/2025/05 18 - Session 44.md",
