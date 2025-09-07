@@ -10,6 +10,8 @@ Pay 3gp each for "The Obsidian Experience"
 
 Blindfolded
 
+>"Perhaps we should loosen you up with the stoning."
+
 
 
 
