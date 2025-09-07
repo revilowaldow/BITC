@@ -5,6 +5,7 @@ The Pevic Continent has a day-night cycle.
 <hr>
 
 Aru and Vrin go to the spa.
+Pay 3gp each for "The Obsidian Experience"
 [[Brayk Brasshand]] spotted coming out of the spa
 
 
