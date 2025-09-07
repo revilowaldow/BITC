@@ -6,3 +6,4 @@ Aru and Vrin go to the spa.
 
 Thodunn tries looking for a forge, decides to look for [[Flambard Hawk]].
 
+[[Ruadh]] 
