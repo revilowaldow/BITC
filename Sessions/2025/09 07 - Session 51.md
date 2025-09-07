@@ -20,6 +20,10 @@ Presented with a small hooded candle for light
 Thodunn tries looking for a forge, decides to look for [[Flambard Hawk]].
 At the [[Platinum Pot]] 
 
+[[Brayk Brasshand]] migh have an underground steel forge
+
+
+
 <hr>
 
 [[Ruadh]] is dressed in the common style.
