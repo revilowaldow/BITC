@@ -12,8 +12,7 @@ Blindfolded
 
 >"Perhaps we should loosen you up with the stoning."
 
-
-
+Presented with a small hooded candle for light
 
 <hr>
 
