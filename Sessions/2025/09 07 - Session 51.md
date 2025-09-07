@@ -63,3 +63,6 @@ Basically promises allegiance to Nefros
 Two pillars either side of dark archway
 Elvish inscription
 
+> "For those with wit and wisdom, the answers are what you must seek"
+
+
