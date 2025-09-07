@@ -56,4 +56,6 @@ Perhaps a library in the helviti wastes beyond the crimson keep
 [[Ruadh]] goes to meet [[Nefros]] to ask about the greatest evil around
 One half of his face is heavily scarred
 Hair fallen out
-Dressed as a merchant, bronze a
+Dressed as a merchant, bronze arm bands around his meaty arms
+
+
