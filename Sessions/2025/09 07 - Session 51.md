@@ -21,6 +21,8 @@ Thodunn tries looking for a forge, decides to look for [[Flambard Hawk]].
 At the [[Platinum Pot]] 
 
 [[Brayk Brasshand]] migh have an underground steel forge
+Flambard is going North again.
+Has previously fallen out with other Festallion.
 
 
 
