@@ -60,4 +60,6 @@ Dressed as a merchant, bronze arm bands around his meaty arms
 
 Basically promises allegiance to Nefros
 
+Two pillars either side of dark archway
+Elvish inscription
 
