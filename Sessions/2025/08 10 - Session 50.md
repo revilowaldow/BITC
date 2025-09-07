@@ -78,6 +78,8 @@ Caenis agrees to wear studded leather armour as long as it looks like a chef's a
 
 Leather Armour which resists 2 points of fire damage whenever taken
 
+[[Ruadh]] got given the Wailer Cloak
+
 <hr>
 
 Aru has a fever leaving them bedridden for 8 days
