@@ -69,3 +69,14 @@ Elvish inscription
 ![[Dungeon of Destiny.canvas]]
 
 
+Tudor dead on floor
+empty pouch of birdseed
+azure glow filling room
+
+
+pedestal
+1gp
+2sp
+8cp
+
+
