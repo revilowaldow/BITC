@@ -25,4 +25,4 @@ Thodunn tries looking for a forge, decides to look for [[Flambard Hawk]].
 	Changeling trait doesn't change equipment or clothing.
 Buys some clothes from the market.
 
-
+Bumps into 
