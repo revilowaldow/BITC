@@ -63,6 +63,8 @@ Negates damage from falling up to 50 ft when worn over light armour
 
 Kaulinan, refuses the Wailer Cloak as he was uncomfortable wearing it.
 
+[[Ghyrol]]
+
 Vrin reading book on art
 	"The Azure Artist Priest's Helpful Guide to Style - by Vika Dephilan"
 
