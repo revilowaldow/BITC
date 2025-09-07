@@ -32,3 +32,6 @@ Caenis dictates the shopping experience
 Wert's
 
 [[Ruadh]] uses the name Ardaigh when disguised as an old lady
+
+Back removed from the tunic.
+	Need to ask is Ruadh has scars if changing?
