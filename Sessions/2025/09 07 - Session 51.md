@@ -53,3 +53,5 @@ Recieve Weal from Augury
 
 Perhaps a library in the helviti wastes beyond the crimson keep
 
+[[Ruadh]] goes to meet [[Nefros]] to ask about the greatest evil around
+
