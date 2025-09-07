@@ -26,8 +26,7 @@ Has previously fallen out with other Festallion.
 
 [[Virtelle]] has been making night excursions.
 She seems stressed
-Perhaps we should j
-
+Perhaps we should join her on one of these rather than ambushing her in the palace
 
 <hr>
 
@@ -45,3 +44,8 @@ Wert's
 
 Back removed from the tunic.
 	Need to ask is Ruadh has scars if changing?
+
+<hr>
+
+Dungeon of destiny
+
