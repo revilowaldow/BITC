@@ -8,7 +8,7 @@ Aru and Vrin go to the spa.
 Pay 3gp each for "The Obsidian Experience"
 [[Brayk Brasshand]] also present
 
-Blindfolded
+Blindfolded with chinerian silk?
 
 >"Perhaps we should loosen you up with the stoning."
 
