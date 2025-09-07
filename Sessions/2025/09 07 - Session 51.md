@@ -27,4 +27,7 @@ Buys some clothes from the market.
 
 Bumps into Caenis trying to pick up supplies to cook the wailer meat
 
+Caenis dictates the shopping experience
+
+Wert's
 
