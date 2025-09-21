@@ -12,3 +12,5 @@ Captain and Crew already hired
 
 [[Captain Krustus]]
 
+I lost my eye in a dreadful fishing accident
+
