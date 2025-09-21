@@ -25,6 +25,8 @@ Meet up with [[Ashali]] to pick up some sort of mineral
 
 Suspect collection location
 
-Messenger hawk arrived with a message indicating there may be 
+Messenger hawk arrived with a message indicating there may be a delay
 
 Missive contained the word "south"
+
+A following ship 
