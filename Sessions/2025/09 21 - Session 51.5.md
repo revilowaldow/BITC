@@ -18,3 +18,5 @@ I lost my eye in a dreadful fishing accident
 The Pumpernickel the Third
 
 
+4 large grates, one with a stairwell
+One compartment has been turned into
