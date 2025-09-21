@@ -42,4 +42,6 @@ Symbol of a red teardrop on the wood
 
 "Give us back the totem and we leave"
 
+![[Pasted image 20250921200842.png]]
 
+Statue mix of snake or lizard, stone is covered with blue/ malachite streaks and
