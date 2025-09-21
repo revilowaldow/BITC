@@ -35,4 +35,6 @@ Kaulinan capsized the pirate boat with multiple 20ft waves
 
 [[Be'Hen]] - half orc
 
-Thodunn
+Thodunn discovers a piece of wood attached to the back of the ship
+Symbol of a red teardrop on the wood
+
