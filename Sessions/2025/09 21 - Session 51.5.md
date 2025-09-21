@@ -44,4 +44,8 @@ Symbol of a red teardrop on the wood
 
 ![[Pasted image 20250921200842.png]]
 
-Statue mix of snake or lizard, stone is covered with blue/ malachite streaks and
+Statue mix of snake or lizard, stone is covered with blue/cerulean malachite streaks 
+
+Orchidium
+
+
