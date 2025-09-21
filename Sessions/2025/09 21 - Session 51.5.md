@@ -21,7 +21,7 @@ The Lady Pumpernickel the Third
 One compartment has been turned into a rest area
 
 
-Meet up with [[Ashali]] to pick up some sort of mineral
+Meet up with [[Axalli]] to pick up some sort of mineral
 
 Suspect collection location
 
@@ -38,3 +38,4 @@ Kaulinan capsized the pirate boat with multiple 20ft waves
 Thodunn discovers a piece of wood attached to the back of the ship
 Symbol of a red teardrop on the wood
 
+![[Pasted image 20250921192215.png]]
