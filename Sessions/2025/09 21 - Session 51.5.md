@@ -39,3 +39,5 @@ Thodunn discovers a piece of wood attached to the back of the ship
 Symbol of a red teardrop on the wood
 
 ![[Pasted image 20250921192215.png]]
+
+"Give us bakc the totem and we leave"
