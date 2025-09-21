@@ -21,3 +21,4 @@ The Pumpernickel the Third
 One compartment has been turned into a rest area
 
 
+Meet up with [[Ashali]] some sort of mineral
