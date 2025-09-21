@@ -21,4 +21,7 @@ The Pumpernickel the Third
 One compartment has been turned into a rest area
 
 
-Meet up with [[Ashali]] some sort of mineral
+Meet up with [[Ashali]] to pick up some sort of mineral
+
+Suspect collection location
+
