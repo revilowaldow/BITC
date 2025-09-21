@@ -19,4 +19,6 @@ The Pumpernickel the Third
 
 
 4 large grates, one with a stairwell
-One compartment has been turned into
+One compartment has been turned into a rest area
+
+
