@@ -54,7 +54,9 @@ Orchidium
 
 Gave Vrin a second boat
 
-Was betrayed
+Was betrayed by Krustus
 
 IOU from Vrin as a reward
+
+
 
