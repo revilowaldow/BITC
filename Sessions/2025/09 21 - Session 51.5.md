@@ -15,7 +15,7 @@ plus two sailors, a half orc and a human
 
 I lost my eye in a dreadful fishing accident
 
-The Lady Pumpernickel the Third
+The Lady Esteemed Pumpernickel the Third ( Previously Avarice)
 
 4 large grates, one with a stairwell
 One compartment has been turned into a rest area
