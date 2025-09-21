@@ -52,3 +52,9 @@ Orchidium
 
 [[Axalli]] is a material scientist working on Orichalcum
 
+Gave Vrin a second boat
+
+Was betrayed
+
+IOU from Vrin as a reward
+
