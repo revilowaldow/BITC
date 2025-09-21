@@ -11,7 +11,10 @@ Pontoon 511
 Captain and Crew already hired
 
 [[Captain Krustus]]
+plus two sailors, a half orc and a human 
 
 I lost my eye in a dreadful fishing accident
 
 The Pumpernickel the Third
+
+
