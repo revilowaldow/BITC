@@ -122,7 +122,7 @@ Attendees:
 [[Her Majesty]]
 - Drink off
 - [[Caenis]], [[Harven]], [[Jokku Troph]]
-- Jokku nearly knocked out by the fumes
+- [[Jokku Troph]] nearly knocked out by the fumes
 - Caenis got protection from poison
 
 

@@ -6,7 +6,7 @@ Middle of a fight!
 
 [[Aepoptosis]] cult related to dog prince taking villages?
 
-Saved Jokku, has knowledge in brain
+Saved [[Jokku Troph]], has knowledge in brain
 
 Turned around, large ruined pier
 	Double back big street centre of town
@@ -50,7 +50,7 @@ Dreams:
 		Vrin being held, dread of loss and warmth glowing as Vrin is healed
 		"But those who understand the bond that tie two comrades"
 		Vrin eyes opening joy and happiness
-	Jokku
+	[[Jokku Troph]]
 		Ingots rainbow arrayed, overjoyed
 		boat upside down in barbakn
 		looking for ores

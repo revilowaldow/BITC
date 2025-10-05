@@ -5,9 +5,9 @@ Modified alloy allowing resistance to fatigue
 
 "Heliotropic Bronze"
 
-[[Jokku]] is a researcher from the Aegan Empire
+[[Jokku Troph]] is a researcher from the Aegan Empire
 
-Need to find [[Jokku]]
+Need to find [[Jokku Troph]]
 
 Last seen at [[Barbakn]] (Aegan Empire)
 
