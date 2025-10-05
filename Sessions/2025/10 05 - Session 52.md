@@ -58,8 +58,12 @@ At night in the gold district
 Kathkach Street names
 
 	Chalk Close
+		Mokun's Stitchery
+		Javek's Butchers
+		Flint Shops
 	Meat Alley
 	Hiver Street
+
 
 
 
