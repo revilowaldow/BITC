@@ -20,7 +20,11 @@ Kauliann created a tombstone for Tudor with a statue of a bird
 
 Aru heads north
 
-A lady from Topaz co
+A lady from Topaz commanda
+
+Two men from golden comanada
+
+
 
 
 
