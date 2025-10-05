@@ -139,4 +139,10 @@ Aru tells Thodunn that Topaz commanda was looking for status of elf from looming
 <hr>
 
 
+Get money from side gig
+Money from salary
+Paid rent
 
+<hr>
+
+Summoned to 
