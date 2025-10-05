@@ -6,3 +6,4 @@ Leomunds tiny hut
 
 Azure glow turns yellow after 1 minute
 
+For ye with wit and wisdom, all that you need, you have t
