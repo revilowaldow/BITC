@@ -9,4 +9,5 @@ writing on pauldrons
 <hr>
 
 Thodunn was an elf
-Lost at the vb
+Lost at the battle of looming rock
+was in a collapse, touched a rune in a cave
