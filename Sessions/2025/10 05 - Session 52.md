@@ -179,8 +179,10 @@ Attendees:
 Start immediately
 
 
-Delivery from 
+Delivery from Flint's Shops
 Slender straight longsword, engraved with ancient runes
+"REVANT"
+Made of tarnished steel
 
 
 
