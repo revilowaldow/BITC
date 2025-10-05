@@ -64,6 +64,10 @@ Kathkach Street names
 	Meat Alley
 	Hiver Street
 
+Flint shops
+	Two people
+	Elf woman
+	Half orc
 
-
+Dwarf
 

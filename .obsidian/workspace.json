@@ -68,6 +68,23 @@
               "icon": "lucide-file",
               "title": "List of Commanda"
             }
+          },
+          {
+            "id": "b6cb5cdc0bfc9748",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Dungeon of Destiny.canvas",
+                "viewState": {
+                  "x": 220,
+                  "y": 838,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dungeon of Destiny"
+            }
           }
         ],
         "currentTab": 2
@@ -272,17 +289,18 @@
   },
   "active": "53455e39c54038cb",
   "lastOpenFiles": [
+    "Locations/Dungeon of Destiny.canvas",
+    "Sessions/2025/09 07 - Session 51.md",
+    "Sessions/2025/10 05 - Session 52.md",
     "Factions/Helviti/List of Commanda.md",
     "Factions/Helviti/Lion Comanda.md",
     "Factions/Helviti/Cobalt Comanda.md",
     "Factions/Helviti/Devil Comanda.md",
-    "Sessions/2025/10 05 - Session 52.md",
     "Locations/Battle of Looming Rock.md",
     "Sessions/2024/10 20 - Session 33.md",
     "Factions/Helviti/Scorpion Comanda.md",
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Ziardim Caverns.md",
-    "Sessions/2025/09 07 - Session 51.md",
     "Sessions/2025/08 10 - Session 50.md",
     "Sessions/2025/02 09 - Session 39.md",
     "Sessions/2025/07 27 - Session 49.md",
@@ -290,7 +308,6 @@
     "Sessions/2025/06 29 - Session 47.md",
     "Sessions/2025/07 13 - Session 48.md",
     "Sessions/2024/11 03 - Session 34.md",
-    "Locations/Dungeon of Destiny.canvas",
     "Sessions/2024/09 08 - Session 30.md",
     "Pasted image 20250921200842.png",
     "Pasted image 20250921192215.png",
@@ -307,7 +324,6 @@
     "Factions/The Cooking Association/Sousette Vorn.md",
     "Factions/Candaria Malain.md",
     "Sessions/2025/05 04 - Session 43.5 - Oliver One Shot.md",
-    "Factions/The Cooking Association/Palanda Macav.md",
     "Pasted image 20250615204540.png",
     "Pasted image 20250629194504.png",
     "Locations/The Pit.canvas",
