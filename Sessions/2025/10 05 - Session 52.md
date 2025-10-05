@@ -90,9 +90,6 @@ Helviti inquisition HQ in kathkach to be set up
 
 Silver company apparently investing in Chineria
 
-
-
-
 <hr>
 
 Aru returns to Kathkach
