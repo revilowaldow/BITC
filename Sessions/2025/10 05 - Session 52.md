@@ -4,3 +4,5 @@ Daryl Recapping
 
 Leomunds tiny hut
 
+Azure glow turns yellow after 1 minute
+
