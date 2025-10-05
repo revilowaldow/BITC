@@ -28,8 +28,11 @@ Two men from gold comanada
 Topaz comanda wants information on a status in exchange for information on a statue
 Grey, meticulously carved, elf
 (Probably the Dyvare statue in the [[Ziardim Caverns]])
+(Could also be thodunn? Came from the battle of looming rock and had been petrified)
 
 Looming Rock item
+
+
 
 
 
