@@ -179,6 +179,8 @@ Attendees:
 Start immediately
 
 
+Delivery from 
+Slender straight longsword, engraved with ancient runes
 
 
 
