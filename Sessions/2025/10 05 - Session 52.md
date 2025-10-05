@@ -186,7 +186,8 @@ Made of tarnished steel
 Pragmatic hilt and guard pommel
 Shorter and wider, but thin
 
-
+Cold to the touch
+Magical, no 
 
 
 
