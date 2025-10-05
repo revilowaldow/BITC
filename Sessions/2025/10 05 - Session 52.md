@@ -166,7 +166,10 @@ Kev used to be a squire for [[Lady Fara Eyelaine]], perhaps infatuated at the ti
 Not made a move on her though
 
 Meeting needs to happen within next two weeks 
-We don't need to be present at 
+We don't need to be present at meeting
+
+Gala will happen this evening
+
 
 
 
