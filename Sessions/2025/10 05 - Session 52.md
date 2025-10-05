@@ -45,6 +45,8 @@ Wailer confit
 
 Caenis assembles colleagues from the silver company as a performance of him creating the confit
 
+Larkin ate way too much spicy wailer
+
 
 
 <hr>
