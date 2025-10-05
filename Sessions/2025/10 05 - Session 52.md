@@ -169,7 +169,11 @@ Meeting needs to happen within next two weeks
 We don't need to be present at meeting
 
 Gala will happen this evening
-
+Attendees:
+- [[Palara Malain]]
+- [[Virtelle]]
+- [[Kev]]
+- 
 
 
 
