@@ -147,8 +147,6 @@ Paid rent
 
 Summoned to Kev's office
 
-Task:
-
 Malain trade empire growing in power
 This has cut into the Eyelaines' power
 
@@ -162,7 +160,10 @@ Same for [[Lady Fara Eyelaine]] being subbed out for [[Virtelle]]
 
 [[Virtelle]] has been missing for 2 days
 
-THe silver com
+The silver company is going to do additional trade with Chineria
+
+
+
 
 
 
