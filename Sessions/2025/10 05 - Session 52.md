@@ -84,7 +84,9 @@ Have to go over to the lady's library to deposit the ticket
 
 Thodunn finds [[Jokku Troph]] to work on heliotropic bronze
 
+Successfully craft a heliotropic bronze halberd
 
+Approached by a wounded comm
 
 
 
