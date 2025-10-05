@@ -59,6 +59,19 @@ What entities are going to be affecting the valley?
 
 At night in the gold district
 
+*two days later*
+
+
+
+
+
+
+
+
+
+
+
+
 <hr>
 
 Aru returns to Kathkach
@@ -105,7 +118,7 @@ Thodunn kills the person in the alley
 Aru tells Thodunn that Topaz commanda was looking for status of elf from looming rock
 
 
-
+<hr>
 
 
 
