@@ -25,7 +25,8 @@ Stopped from contacting [[Shree Aton]]
 A lady from Topaz commanda
 Two men from gold comanada
 
-
+Topaz comanda wants information on a status in exchange for information on a statue
+Grey, meticulously carved, elf
 
 
 
