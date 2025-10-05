@@ -194,7 +194,7 @@ Wielded by warriors who cannot be killed
 Used in the Northern Kingdoms 
 
 Originally crafted by an orcish knight, identity lost
-Knight who de
+Knight who defended a bridge from a neighbouring attack 
 
 
 
