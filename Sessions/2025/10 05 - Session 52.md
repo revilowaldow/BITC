@@ -51,6 +51,8 @@ Invitation, séance
 
 What entities are going to be affecting the valley?
 
+At night in the gold district
+
 
 
 
