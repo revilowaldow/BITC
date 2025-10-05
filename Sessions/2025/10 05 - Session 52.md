@@ -182,7 +182,7 @@ Start immediately
 Delivery from Flint's Shops
 Slender straight longsword, engraved with ancient runes
 "REVANT"
-Made of tarnished steel
+Made of tarnished iron
 Pragmatic hilt and guard pommel
 Shorter and wider, but thin
 
