@@ -162,6 +162,10 @@ Same for [[Lady Fara Eyelaine]] being subbed out for [[Virtelle]]
 
 The silver company is going to do additional trade with Chineria
 
+Kev used to be a squire for [[Lady Fara Eyelaine]], perhaps infatuated at the time
+Not made a move on her though
+
+
 
 
 
