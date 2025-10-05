@@ -181,7 +181,7 @@ Start immediately
 
 Delivery from Flint's Shops
 Slender straight longsword, engraved with ancient runes
-[]
+[[Revant]]
 Made of unchipped tarnished iron
 Pragmatic hilt and guard pommel
 Shorter and wider, but thin
