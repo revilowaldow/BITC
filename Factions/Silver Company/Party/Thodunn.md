@@ -14,4 +14,7 @@ was in a collapse, touched a rune in a cave
 petrified
 
 woke up in the aegan empire
-lied about which side of the 
+lied about which side of the war he was on
+was a soilder for them for years
+
+Piggy was to be his
