@@ -85,8 +85,14 @@ Have to go over to the lady's library to deposit the ticket
 Thodunn finds [[Jokku Troph]] to work on heliotropic bronze
 
 Successfully craft a heliotropic bronze halberd
++1 to damage
 
-Approached by a wounded comm
+Approached by a wounded Aegan commoner
+
+> "Thodunn where the fuck have you been?"
+
+I work for general Duty
+
 
 
 
