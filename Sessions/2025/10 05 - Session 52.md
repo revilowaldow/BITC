@@ -34,7 +34,9 @@ Looming Rock item
 
 Find the nomads of the helviti wastes
 
+[[Shree Aton]] would probably let you pass
 
+Does the name [[Maya]]  ring a bell?
 
 
 
