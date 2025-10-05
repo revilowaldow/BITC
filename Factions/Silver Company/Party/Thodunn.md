@@ -17,4 +17,7 @@ woke up in the aegan empire
 lied about which side of the war he was on
 was a soilder for them for years
 
-Piggy was to be his
+Piggy was to be his handler in Kathkach
+Started feeding them false information from the silver company
+Fully switched sides
+
