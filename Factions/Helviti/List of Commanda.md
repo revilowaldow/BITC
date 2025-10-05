@@ -10,3 +10,8 @@
 [[Red Comanda]]
 [[Scorpion Comanda]] - Guard the pass to the wastes
 [[Obsidian Comanda]] - In Charge of [[Phlanx]], exit from Helviti Wastes to the North
+[[Titanium Comanda]] - Fearsome siege experts. They operate in kill-squads and often carry small portable ballista with them in battle in groups of three.
+[[|   |
+|---|
+|Kraken Comanda]]
+
