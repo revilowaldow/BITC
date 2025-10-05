@@ -32,6 +32,7 @@ Grey, meticulously carved, elf
 
 Looming Rock item
 
+Find the nomads of the helviti wastes
 
 
 
