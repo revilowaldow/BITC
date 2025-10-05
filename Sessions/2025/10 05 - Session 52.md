@@ -80,7 +80,7 @@ Two orbiting consteallations
 	Lantern star - bright, short apperance, short fires, heat and passion
 	Dagger constellation - night time activity, theft, betrayal
 
-
+Purple star and destiny, not at all lessened
 
 
 
