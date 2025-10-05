@@ -82,6 +82,8 @@ Have to go over to the lady's library to deposit the ticket
 
 <hr>
 
+Thodunn finds [[Jokku Troph]] to work on heliotropic bronze
+
 
 
 
