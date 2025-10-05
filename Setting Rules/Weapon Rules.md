@@ -17,7 +17,7 @@ Steel - flexible, light, negligible maintenance
 | ------------------ | :-: | :-: | :------------: | :-------------------: | :------------------: | :---: |
 | Iron               |     |     |       3        |       Whetstone       |                      |       |
 | Bronze             |     |     |       3        | Bending back (action) |     Damage -1d4      |       |
-| Heliotropic Bronze |  ?  |  ?  |       ?        |           ?           |          ?           |  +5%  |
+| Heliotropic Bronze |     | +1  |                |                       |                      |  +5%  |
 | Organic            | -1  | +1  |                |        Replace        |                      | -10%  |
 | Steel              | +1  |     |                |                       |                      | +50%  |
 
