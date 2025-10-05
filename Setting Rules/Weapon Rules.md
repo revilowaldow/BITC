@@ -35,7 +35,7 @@ Bronze is a pliable but versatile material. If an attack using a bronze melee we
 
 ### Heliotropic Bronze
 
-????????
+Using a strange ingredient that grants the metal a purple sheen, Heliotropic Bronze is capable of retaining its shape during combat with less maintenance required during and after combat, though they are not as easy to shape as contemporary steel weapons. Heliotropic bronze weapons deal an extra +1 damage.
 
 ### Iron
 
