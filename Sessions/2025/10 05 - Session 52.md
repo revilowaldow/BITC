@@ -29,6 +29,8 @@ Topaz comanda wants information on a status in exchange for information on a sta
 Grey, meticulously carved, elf
 (Probably the Dyvare statue in the [[Ziardim Caverns]])
 
+Looming Rock item
+
 
 
 
