@@ -88,7 +88,7 @@ Successfully craft a heliotropic bronze halberd
 +1 to damage
 
 Approached by a wounded Aegan commoner
-Shot with a crossbow
+Shot with a crossbow, by a giant monster with a 'ballista of a weapon'
 
 > "Thodunn where the fuck have you been?"
 
