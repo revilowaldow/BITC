@@ -88,9 +88,7 @@ Reflection realm rod probably less important
 
 Helviti inquisition HQ in kathkach to be set up
 
-
-
-
+Silver company apparently investing in Chineria
 
 
 
