@@ -94,6 +94,11 @@ Approached by a wounded Aegan commoner
 I work for [[General Duty]]
 
 Double agent broke up only a month ago
+Your handler went missing
+
+I'm with the Aegan empire, I was told you're also an Agent here
+
+
 
 
 
