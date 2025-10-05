@@ -182,7 +182,7 @@ Start immediately
 Delivery from Flint's Shops
 Slender straight longsword, engraved with ancient runes
 "REVANT"
-Made of tarnished iron
+Made of unchipped tarnished iron
 Pragmatic hilt and guard pommel
 Shorter and wider, but thin
 
@@ -195,7 +195,7 @@ Used in the Northern Kingdoms
 
 Originally crafted by an orcish knight, identity lost
 Knight who defended a bridge from a neighbouring attack 
-
+Was able to get up again and again
 
 
 
