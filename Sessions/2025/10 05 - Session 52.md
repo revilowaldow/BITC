@@ -12,4 +12,5 @@ Dungeon of Destiny disappears
 
 Thodunn takes the coins
 
-Tudor buried, 
+Tudor buried, drank some vermillion red
+
