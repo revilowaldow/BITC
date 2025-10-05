@@ -65,7 +65,7 @@ Cats are a sign of bad luck for Helviti
 
 Perhaps lion comanda
 
-
+Meditation
 
 
 
