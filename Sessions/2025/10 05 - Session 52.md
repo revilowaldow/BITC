@@ -91,8 +91,9 @@ Approached by a wounded Aegan commoner
 
 > "Thodunn where the fuck have you been?"
 
-I work for general Duty
+I work for [[General Duty]]
 
+Double agent broke up only a month ago
 
 
 
