@@ -11,3 +11,7 @@ writing on pauldrons
 Thodunn was an elf
 Lost at the battle of looming rock
 was in a collapse, touched a rune in a cave
+petrified
+
+woke up in the aegan empire
+lied about which side of the 
