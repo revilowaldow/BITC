@@ -43,7 +43,7 @@ Does the name [[Maya]] ring a bell?
 
 Wailer confit
 
-Caenis assembles colleagues from the silver company as a performance of him creating the cofit
+Caenis assembles colleagues from the silver company as a performance of him creating the confit
 
 
 
@@ -59,27 +59,28 @@ At night in the gold district
 
 <hr>
 
-Kathkach Street names
+Aru returns to Kathkach
 
+Street names
 	Chalk Close
 		Mokun's Stitchery
 		Javek's Butchers
 		Flint Shops
+			Two people
+			Elf woman
+			Dwarf
 	Meat Alley
 	Hiver Street
 
-Flint shops
-	Two people
-	Elf woman
-	Half orc
 
-Dwarf
-
+Running a tombola
 Have to go over to the lady's library to deposit the ticket
 
 "Enjoy your new sword"
 
 <hr>
+
+
 
 
 
