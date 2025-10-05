@@ -99,6 +99,8 @@ Your handler went missing
 
 I'm with the Aegan empire, I was told you're also an Agent here
 
+Thodunn kills the person in the alley
+
 
 
 
