@@ -61,11 +61,7 @@ At night in the gold district
 
 *two days later*
 
-
-
-
-
-
+Cats are a sign of bad luck for Helviti
 
 
 
