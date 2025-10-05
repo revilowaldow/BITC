@@ -53,6 +53,12 @@ What entities are going to be affecting the valley?
 
 At night in the gold district
 
+<hr>
+
+Kathkach 
+Chalk Close
+Meat Alley
+Hiver Street
 
 
 
