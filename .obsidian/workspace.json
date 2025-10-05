@@ -54,9 +54,26 @@
               "icon": "lucide-file",
               "title": "10 05 - Session 52"
             }
+          },
+          {
+            "id": "b85c28654248e654",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Lionhold/Ziardim Caverns.canvas",
+                "viewState": {
+                  "x": 3325.629182276466,
+                  "y": 987.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Ziardim Caverns"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dyvar",
+                "query": "statue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,12 +274,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d64d57bbfa4524a3",
+  "active": "b85c28654248e654",
   "lastOpenFiles": [
+    "Sessions/2025/10 05 - Session 52.md",
     "Sessions/2025/08 10 - Session 50.md",
     "Sessions/2025/07 27 - Session 49.md",
     "Sessions/2025/09 07 - Session 51.md",
-    "Sessions/2025/10 05 - Session 52.md",
     "Sessions/2025/09 21 - Session 51.5.md",
     "Sessions/2025/06 29 - Session 47.md",
     "Sessions/2025/07 13 - Session 48.md",
