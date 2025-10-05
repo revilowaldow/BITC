@@ -8,35 +8,88 @@
         "type": "tabs",
         "children": [
           {
-            "id": "708c5f23c751b323",
+            "id": "d62f1c56f898c06a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2025/09 21 - Session 51.5.md",
+                "file": "Sessions/2025/07 27 - Session 49.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "09 21 - Session 51.5"
+              "title": "07 27 - Session 49"
             }
           },
           {
-            "id": "6ecf7b4076075b34",
+            "id": "0b7f69c48ac6b1c3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025/08 10 - Session 50.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "08 10 - Session 50"
+            }
+          },
+          {
+            "id": "e707625320fca998",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025/09 07 - Session 51.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "09 07 - Session 51"
+            }
+          },
+          {
+            "id": "8b2f9379404af6b1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Dungeon of Destiny.canvas",
+                "viewState": {
+                  "x": 203.75278818431053,
+                  "y": 815.0111527372421,
+                  "zoom": 0
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Dungeon of Destiny"
+            }
+          },
+          {
+            "id": "a4c429b180473a42",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Sessions/2024/11 03 - Session 34.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "11 03 - Session 34"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,8 +172,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -192,32 +245,12 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
             "id": "5ba05176e1275f7b",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "001185b1861120a8",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "eb149c682a3a44fe",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -227,7 +260,7 @@
             }
           },
           {
-            "id": "a79e5bab718c717f",
+            "id": "001185b1861120a8",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -237,7 +270,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -256,27 +289,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ecf7b4076075b34",
+  "active": "e707625320fca998",
   "lastOpenFiles": [
+    "Locations/Dungeon of Destiny.canvas",
+    "Sessions/2024/11 03 - Session 34.md",
+    "Sessions/2025/09 07 - Session 51.md",
     "Sessions/2025/09 21 - Session 51.5.md",
-    "Assets/Characters/Caenis Token.png",
+    "Pasted image 20250921200842.png",
+    "Pasted image 20250921192215.png",
     "Assets/Characters/Thodunn Token.png",
     "Assets/Characters/Ruahd Token.png",
     "Assets/Characters/Captain Token.png",
-    "Setting Rules/Weapon Rules.md",
-    "Pasted image 20250921200842.png",
-    "Pasted image 20250921192215.png",
-    "Locations/Dungeon of Destiny.canvas",
-    "Sessions/2025/09 07 - Session 51.md",
-    "Sessions/2025/08 10 - Session 50.md",
-    "Sessions/2025/07 27 - Session 49.md",
-    "Sessions/2024/11 03 - Session 34.md",
+    "Assets/Characters/Caenis Token.png",
     "Pasted image 20250907205402.png",
     "Pasted image 20250907201732.png",
     "Factions/Brayk Brasshand.md",
     "Sessions/2025/07 13 - Session 48.md",
     "Sessions/2025/06 29 - Session 47.md",
     "Locations/The Second Founding.md",
+    "Sessions/2025/07 27 - Session 49.md",
+    "Sessions/2025/08 10 - Session 50.md",
     "Sessions/2025/06 01 - Session 45.md",
     "Sessions/2025/06 15 - Session 46.md",
     "Factions/The Cooking Association/Sousette Vorn.md",
@@ -294,6 +326,7 @@
     "Sessions/2025/05 18 - Session 44.md",
     "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2025/03 30 - Session 42.md",
+    "Sessions/2025/03 09 - Session 41.md",
     "Locations/The Pit.canvas",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Abdos Woodland.canvas",
