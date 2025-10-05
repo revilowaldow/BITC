@@ -67,6 +67,9 @@ Perhaps lion comanda
 
 Meditation
 
+Dark star associated with dread and dark magic, blood star, growing in strength
+Fa
+
 
 
 
