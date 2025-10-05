@@ -158,7 +158,11 @@ More trade gets to flow through Kathkach
 [[Candaria Malain]] is not heading up the negotiations
 Instead her daughter will be [[Palara Malain]]
 
-Same for [[Lady Fara Eyelaine]] being subbed in for [[]]
+Same for [[Lady Fara Eyelaine]] being subbed out for [[Virtelle]]
+
+[[Virtelle]] has been missing for 2 days
+
+THe silver com
 
 
 
