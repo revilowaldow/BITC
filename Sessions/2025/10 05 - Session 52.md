@@ -8,3 +8,7 @@ Azure glow turns yellow after 1 minute
 
 > "For ye with wit and wisdom, all that you need, you have taken"
 
+Dungeon of Destiny disappears
+
+Thodunn takes the coins
+
