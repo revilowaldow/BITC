@@ -102,7 +102,9 @@ I'm with the Aegan empire, I was told you're also an Agent here
 Thodunn kills the person in the alley
 
 Thodunn tells the party
-Aru tells T
+Aru tells Thodunn that Topaz commanda was looking for status of elf from looming rock
+
+
 
 
 
