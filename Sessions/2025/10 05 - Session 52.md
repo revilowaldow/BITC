@@ -92,7 +92,7 @@ Shot with a crossbow, by a giant monster with a 'ballista of a weapon'
 
 > "Thodunn where the fuck have you been?"
 
-I work for [[General Duty]]
+I work for [[General Duty]], in Barbakn
 
 Double agent broke up only a month ago
 Your handler went missing
