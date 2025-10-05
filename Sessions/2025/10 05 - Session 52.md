@@ -68,7 +68,9 @@ Perhaps lion comanda
 Meditation
 
 Dark star associated with dread and dark magic, blood star, growing in strength
-Fa
+Favourable sign for mages of evil intent
+
+Scales, balance and monetary tr
 
 
 
