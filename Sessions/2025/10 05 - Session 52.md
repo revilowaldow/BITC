@@ -70,9 +70,10 @@ Meditation
 Dark star associated with dread and dark magic, blood star, growing in strength
 Favourable sign for mages of evil intent
 
-Scales, balance and monetary tr
+Scales, balance and monetary transaction
+Constellation of the dragon, powerful entity, separate from mortality
 
-
+Constellation of the lord, rulership, author
 
 
 <hr>
