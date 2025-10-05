@@ -82,6 +82,12 @@ Two orbiting consteallations
 
 Purple star and destiny, not at all lessened
 
+Dark cloud on the horizon, hiding in shadows between stars, a force we can't see
+
+
+
+
+
 
 
 <hr>
