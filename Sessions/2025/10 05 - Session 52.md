@@ -197,5 +197,7 @@ Originally crafted by an orcish knight, identity lost
 Knight who defended a bridge from a neighbouring attack 
 Was able to get up again and again
 
+2/4
+
 
 
