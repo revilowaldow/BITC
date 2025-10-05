@@ -76,6 +76,11 @@ Constellation of the dragon, powerful entity, separate from mortality
 Constellation of the lord, rulership, authority and inheritance
 Hover between each side (red star and scales)
 
+Two orbiting consteallations
+	Lantern star - bright, short apperance, short fires, heat and passion
+	Dagger constellation - night time activity, theft, betrayal
+
+
 
 
 
