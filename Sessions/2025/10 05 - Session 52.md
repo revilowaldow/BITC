@@ -73,7 +73,10 @@ Favourable sign for mages of evil intent
 Scales, balance and monetary transaction
 Constellation of the dragon, powerful entity, separate from mortality
 
-Constellation of the lord, rulership, author
+Constellation of the lord, rulership, authority and inheritance
+Hover between each side (red star and scales)
+
+
 
 
 <hr>
