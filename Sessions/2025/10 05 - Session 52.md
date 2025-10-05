@@ -14,10 +14,13 @@ Thodunn takes the coins
 
 Tudor buried, drank some vermillion red
 
-Kauliann created a tombstone for tudor wit
-
+Kauliann created a tombstone for Tudor with a statue of a bird
 
 <hr>
+
+Aru heads north
+
+
 
 
 
