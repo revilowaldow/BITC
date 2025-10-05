@@ -149,4 +149,10 @@ Summoned to Kev's office
 
 Task:
 
+Malain trade empire growing in power
+This has cut into the Eyelaines' power
+
+They want to make a non-compete trade deal
+
+
 
