@@ -189,8 +189,9 @@ Shorter and wider, but thin
 Cold to the touch
 Magical, no school
 
-A weapon who's fame outstripps it's users
-
+A weapon who's fame outstrips it's users
+Wielded by warriors who cannot be killed
+Used in the Northern Kingdoms 
 
 
 
