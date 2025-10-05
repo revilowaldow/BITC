@@ -181,7 +181,7 @@ Start immediately
 
 Delivery from Flint's Shops
 Slender straight longsword, engraved with ancient runes
-"REVANT"
+[]
 Made of unchipped tarnished iron
 Pragmatic hilt and guard pommel
 Shorter and wider, but thin
@@ -198,6 +198,7 @@ Knight who defended a bridge from a neighbouring attack
 Was able to get up again and again
 
 2/4
-
-
+[[Whilspar]]
+[[Mercy]]
+[[Revant]]
 
