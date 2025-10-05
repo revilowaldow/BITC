@@ -47,6 +47,10 @@ Wailer confit
 
 [[Jay Connar]] appears at door with [[Gigr]]
 
+Invitation, séance 
+
+What entities are going to be affecting the valley?
+
 
 
 
