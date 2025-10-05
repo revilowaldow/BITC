@@ -43,6 +43,8 @@ Does the name [[Maya]] ring a bell?
 
 Wailer confit
 
+
+
 <hr>
 
 [[Jay Connar]] appears at door with [[Gigr]]
@@ -71,6 +73,12 @@ Flint shops
 
 Dwarf
 
-Have to go over to the lady's library
+Have to go over to the lady's library to deposit the ticket
+
+"Enjoy your new sword"
+
+<hr>
+
+
 
 
