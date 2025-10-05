@@ -84,6 +84,11 @@ Purple star and destiny, not at all lessened
 
 Dark cloud on the horizon, hiding in shadows between stars, a force we can't see
 
+Reflection realm rod probably less important
+
+Helviti inquisition HQ in kathkach to be set up
+
+
 
 
 
