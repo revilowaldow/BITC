@@ -68,9 +68,21 @@
               "icon": "lucide-file",
               "title": "09 29 - Session 31"
             }
+          },
+          {
+            "id": "2c7cf7e8f4f94d3f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -270,7 +282,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "2c7cf7e8f4f94d3f",
   "lastOpenFiles": [
     "Sessions/2024/09 29 - Session 31.md",
     "Flatek of the Flavours.md",
