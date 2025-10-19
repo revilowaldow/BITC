@@ -54,8 +54,9 @@ New Bridge
 Western fortified
 Comanda
 Huts on east side for dockworkers
+Members of the sea blooded organisation along the west edge of the north bank
+Evangeline Stifka
 
-Members of the sea blooded organisation along the west edge o
 
 
 
