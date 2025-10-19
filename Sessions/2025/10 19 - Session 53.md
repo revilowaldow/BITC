@@ -89,6 +89,7 @@ Thodunn can't see anything from an elevated position
 
 Virtelle not on Evangeline Stifka's barge
 
+Mastiff leads the group to a small alleyway
 
 
 
