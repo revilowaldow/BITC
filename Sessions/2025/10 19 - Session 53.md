@@ -62,7 +62,9 @@ Two large barges left
 Heading to Barbakn
 
 
-Virtelle's boat docked to the east of 
+Virtelle's boat docked to the east of sour grapes
+
+
 
 
 
