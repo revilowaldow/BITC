@@ -53,7 +53,10 @@ Exchange of good
 New Bridge
 Western fortified
 Comanda
-Hut
+Huts on east side for dockworkers
+
+Members ofthe sea blooded organisation
+
 
 
 
