@@ -99,7 +99,9 @@ Person laid down
 Restraints and rope in the trash
 Blood on walls from someone propped up
 Healing salve empty containers
-Regroup, heal up and leave north
+Regroup, heal up and leave towards the docks
+
+
 
 
 
