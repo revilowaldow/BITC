@@ -33,6 +33,8 @@ Some docks will be uncontested in future
 Some others will be opened to further use
 Potential future options if the heiresses get on
 
+Shortsword under the bed, chinerian, red hilt and sheath
+
 
 
 
