@@ -39,7 +39,9 @@ Box of medical equipment
 half of the supplies are used
 Two healing potions, two healing salves
 
-
+Kaulinan turns into a rat and rides vrin flying around the city
+Both invisible
+Locate creature
 
 
 
