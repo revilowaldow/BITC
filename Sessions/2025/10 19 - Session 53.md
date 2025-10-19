@@ -5,3 +5,5 @@ Alex recapping
 
 Aru keeps Revant on her person but does not attempt to immediately attune
 
+Party travels to the Eylaine estate to attempt to find Virtelle and check for boat at dock
+
