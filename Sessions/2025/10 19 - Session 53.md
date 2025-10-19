@@ -50,3 +50,10 @@ Small honey treat
 Exchange of good 
 
 
+New Bridge
+Western fortified
+Comanda
+Hut
+
+
+

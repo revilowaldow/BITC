@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bridge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -268,7 +269,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c38d71bd6edfa8f",
+  "active": "d64d57bbfa4524a3",
   "lastOpenFiles": [
     "Sessions/2025/09 07 - Session 51.md",
     "Sessions/2025/10 19 - Session 53.md",
