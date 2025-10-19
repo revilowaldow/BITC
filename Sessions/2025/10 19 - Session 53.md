@@ -96,10 +96,10 @@ Finally a good survival roll
 
 Pool of blood
 Person laid down
-Restrains and rope in the trash
+Restraints and rope in the trash
 Blood on walls from someone propped up
 Healing salve empty containers
-Regroup 
+Regroup, heal up and leave north
 
 
 
