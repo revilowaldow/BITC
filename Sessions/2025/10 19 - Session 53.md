@@ -31,8 +31,9 @@ Silver sword not present on the weapon rack
 
 Some docks will be uncontested in future
 Some others will be opened to further use
+Potential future options if the heiresses get on
 
-Potential future
+
 
 
 
