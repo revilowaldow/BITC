@@ -54,8 +54,13 @@ New Bridge
 Western fortified
 Comanda
 Huts on east side for dockworkers
+
 Members of the sea blooded organisation along the west edge of the north bank
-Evangeline Stifka
+Large group of guards
+Evangeline Stifka, gets on boat and leaves
+Two large barges left
+Heading to Barbakn
+
 
 
 
