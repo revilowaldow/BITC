@@ -71,7 +71,7 @@ Burn marks on edge of dinghy and docks
 Virtelle was not in Low town
 
 Scale of explosion is on par with an engine of war
-Blood splatter on a wall
+Blood splatter on a wall, slashing or piercing
 
 
 
