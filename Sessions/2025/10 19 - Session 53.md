@@ -25,6 +25,7 @@ Kaulinan familiarises himself with Eylain trees in the estate
 Very large bedroom for Virtelle
 Sparse except family portraits
 Training straw dummies
+Bed large enough for Thodunn & Kaulinan at once
 
 
 
