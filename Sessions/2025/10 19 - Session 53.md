@@ -91,6 +91,12 @@ Virtelle not on Evangeline Stifka's barge
 
 Mastiff leads the group to a small alleyway
 
+Finally a good survival roll
+
+
+Pool of blood
+
+
 
 
 
