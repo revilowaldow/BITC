@@ -20,6 +20,8 @@ Normally two boats, only one docked
 Also a yacht, has living quarters
 Given an address for the yacht 
 
+Kaulinan familiarises himself with Eylain trees in the estate
 
+Very large bedroom for Vir
 
 
