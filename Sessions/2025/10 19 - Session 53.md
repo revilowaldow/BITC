@@ -78,6 +78,7 @@ Caenis talking to bystander, offers help with cooking
 Katastrofik Kaboom
 Kettle
 
+Fly over a small house in south of gold district, feeling of nausea
 
 
 
