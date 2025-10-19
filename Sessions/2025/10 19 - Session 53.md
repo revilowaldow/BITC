@@ -63,6 +63,11 @@ Heading to Barbakn
 
 
 Virtelle's boat docked to the east of sour grapes
+Two used healing salves
+Two used healing potions
+Burn marks on edge of dinghy and docks
+
+
 
 
 
