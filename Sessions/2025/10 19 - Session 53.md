@@ -18,6 +18,8 @@ Taken aside by Jerome
 
 Normally two boats, only one docked
 Also a yacht, has living quarters
-Given an 
+Given an address for the yacht 
+
+
 
 
