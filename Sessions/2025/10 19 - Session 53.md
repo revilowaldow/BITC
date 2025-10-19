@@ -36,6 +36,9 @@ Potential future options if the heiresses get on
 Shortsword under the bed, chinerian, red hilt and sheath
 
 Box of medical equipment
+half of the supplies are used
+Two healing potions, two healing salves
+
 
 
 
