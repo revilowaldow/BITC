@@ -61,28 +61,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2024/09 29 - Session 31.md",
+                "file": "Sessions/2025/10 19 - Session 53.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 29 - Session 31"
-            }
-          },
-          {
-            "id": "2c7cf7e8f4f94d3f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "10 19 - Session 53"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -282,9 +270,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c7cf7e8f4f94d3f",
+  "active": "5cd93076f6652eae",
   "lastOpenFiles": [
     "Sessions/2024/09 29 - Session 31.md",
+    "Sessions/2025/10 19 - Session 53.md",
     "Flatek of the Flavours.md",
     "Sessions/2025/10 05 - Session 52.md",
     "Sessions/2025/09 07 - Session 51.md",
@@ -312,7 +301,6 @@
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Ziardim Caverns.md",
     "Sessions/2025/02 09 - Session 39.md",
-    "Sessions/2025/07 27 - Session 49.md",
     "Pasted image 20250921200842.png",
     "Pasted image 20250921192215.png",
     "Assets/Characters/Thodunn Token.png",
