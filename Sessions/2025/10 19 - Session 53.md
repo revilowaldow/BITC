@@ -14,6 +14,8 @@ Guards fetch [[Jerome]]
 
 Chilled lemon water provided
 
+Taken aside by Jerome
+
 
 
 
