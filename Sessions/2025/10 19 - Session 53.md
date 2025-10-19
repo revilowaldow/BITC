@@ -85,6 +85,9 @@ Virtelle not in the city
 Conjured mastiff lost the scent
 Aru cast speak with animals
 
+Thodunn can't see anything from an elevated position
+
+
 
 
 
