@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -354,10 +354,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5cd93076f6652eae",
+  "active": "53455e39c54038cb",
   "lastOpenFiles": [
-    "Sessions/2025/10 05 - Session 52.md",
     "Sessions/2025/10 19 - Session 53.md",
+    "Sessions/2025/10 05 - Session 52.md",
     "Sessions/2025/09 21 - Session 51.5.md",
     "Sessions/2025/09 07 - Session 51.md",
     "Sessions/2025/08 10 - Session 50.md",
