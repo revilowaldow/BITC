@@ -55,7 +55,7 @@ Western fortified
 Comanda
 Huts on east side for dockworkers
 
-Members ofthe sea blooded organisation
+Members of the sea blooded organisation along the west edge o
 
 
 
