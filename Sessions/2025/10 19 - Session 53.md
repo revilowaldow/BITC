@@ -43,5 +43,8 @@ Kaulinan turns into a rat and rides vrin flying around the city
 Both invisible
 Locate creature
 
+Wedding,
+ dwarf
+ bride hobgoblin
 
 
