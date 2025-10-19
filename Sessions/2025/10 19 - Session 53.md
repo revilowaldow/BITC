@@ -80,6 +80,9 @@ Kettle
 
 Fly over a small house in south of gold district, feeling of nausea
 
+Virtelle not in the city
+
+Conjured mastiff
 
 
 
