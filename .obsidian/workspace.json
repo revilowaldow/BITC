@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,12 +296,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "637d3e86cbce2608",
+  "active": "3c38d71bd6edfa8f",
   "lastOpenFiles": [
-    "Factions/Vermillion Hand/Virtelle The Silver Blade.md",
-    "Sessions/2025/10 19 - Session 53.md",
-    "Sessions/2025/09 21 - Session 51.5.md",
     "Sessions/2025/09 07 - Session 51.md",
+    "Sessions/2025/10 19 - Session 53.md",
+    "Setting Rules/Valid Wild Shapes.md",
+    "Factions/Vermillion Hand/Virtelle The Silver Blade.md",
+    "Sessions/2025/09 21 - Session 51.5.md",
     "Sessions/2025/10 05 - Session 52.md",
     "Sessions/2025/08 10 - Session 50.md",
     "Sessions/2025/06 01 - Session 45.md",
@@ -324,7 +325,6 @@
     "Locations/Battle of Looming Rock.md",
     "Sessions/2024/10 20 - Session 33.md",
     "Sessions/2024/03 24 - Session 19.md",
-    "Jokku Troph.md",
     "Locations/Dog Prince Caves.canvas",
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Pasted image 20250921200842.png",
