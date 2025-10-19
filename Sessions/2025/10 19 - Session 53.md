@@ -22,6 +22,10 @@ Given an address for the yacht
 
 Kaulinan familiarises himself with Eylain trees in the estate
 
-Very large bedroom for Vir
+Very large bedroom for Virtelle
+Sparse except family portraits
+Training straw dummies
+
+
 
 
