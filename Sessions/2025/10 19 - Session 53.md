@@ -26,6 +26,9 @@ Very large bedroom for Virtelle
 Sparse except family portraits
 Training straw dummies
 Bed large enough for Thodunn & Kaulinan at once
+Desk
+Silver sword not present on the weapon rack
+
 
 
 
