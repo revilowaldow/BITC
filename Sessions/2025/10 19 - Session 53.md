@@ -10,4 +10,6 @@ Party travels to the Eylaine estate to attempt to find Virtelle and check for bo
 It may or may not be Tuesday
 
 
+Guards fetch Jerome
+
 
