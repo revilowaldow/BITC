@@ -68,6 +68,8 @@ Two used healing potions
 Burn marks on edge of dinghy and docks
 
 
+Virtelle was not in Low town
+
 
 
 
