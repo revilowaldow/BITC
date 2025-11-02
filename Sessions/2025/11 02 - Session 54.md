@@ -17,4 +17,7 @@ One was wearing steeel
 One was wearing a fancy merchant dress
 Fancier than and not aepoptosis robes
 
+Half a dozen
+Man in helmet
+
 
