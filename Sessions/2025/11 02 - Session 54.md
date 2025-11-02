@@ -11,3 +11,7 @@ Werth, kids: Charles and Franq
 
 Throk - can move the biggest box
 
+Not knifenails boys
+Out of towners
+One was wearing steeel
+One w
