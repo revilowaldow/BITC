@@ -50,6 +50,7 @@ Named swords:
 	- Scimitar, so beautiful that those who wield it dazzle any combatants
 - [[Mercy]] (axe)
 	- Weapon of tragedy, was meant to do good but was only ever bent to evil
-- 
+- [[The Answer of Aepoptosis]]
+	- Ancient scriptures that predate collapse of magic, something that was bestowed by a dead god
 
 
