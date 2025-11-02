@@ -87,18 +87,17 @@
             "id": "4a408885211877fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Sessions/2024/11 17 - Session 35.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "11 17 - Session 35"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -161,8 +160,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -299,12 +297,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d589ec1ec8c68cd9",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
+    "Sessions/2024/11 17 - Session 35.md",
+    "Untitled.base",
+    "Factions/Arach.md",
     "Sessions/2025/10 19 - Session 53.md",
     "Sessions/2025/11 02 - Session 54.md",
-    "Sessions/2024/11 17 - Session 35.md",
-    "Factions/Arach.md",
     "Sessions/2025/10 05 - Session 52.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2025/09 07 - Session 51.md",
@@ -326,7 +325,6 @@
     "Sessions/2025/03 30 - Session 42.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/02 11 - Session 16.md",
-    "Sessions/2025/05 04 - Session 43.5 - Oliver One Shot.md",
     "Locations/Dungeon of Destiny.canvas",
     "Locations/Dog Prince Caves.canvas",
     "Locations/Lionhold/Ziardim Caverns.canvas",
@@ -354,7 +352,6 @@
     "Factions/Eastern City States/Parche",
     "Factions/Vermillion Hand",
     "Factions/Helviti",
-    "Locations/Lachaka/Lachaka Bandit Base.canvas",
-    "Factions/Local Arcanists"
+    "Locations/Lachaka/Lachaka Bandit Base.canvas"
   ]
 }
