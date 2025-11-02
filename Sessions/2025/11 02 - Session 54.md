@@ -14,7 +14,8 @@ Throk - can move the biggest box
 Not knifenails boys
 Out of towners
 One was wearing steeel
-One was wearing a fancy merchant dress
+One was wearing a fancy merchant dress bright red yellow motifs, lots of jewel 
+
 Fancier than and not aepoptosis robes
 
 Half a dozen
