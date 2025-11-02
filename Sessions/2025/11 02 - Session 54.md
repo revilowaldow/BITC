@@ -70,6 +70,7 @@ Declare weapons
 
 [[Palara Malain]] Well dressed, athletic young dwarf woman
 	Elegantly dressed older human male, kathkachan
+	[[Pulio Mangane]]
 
 [[Arach]] Mountain lion pelt around shoulders, kathkachan
 	Here on behalf of [[Quta Leon]]
