@@ -61,6 +61,8 @@ Named swords:
 Declare weapons
 
 [[Brayk Brasshand]]
+	Perhaps you sh
+
 
 [[Regilius Ponta]] Tall human male, ceremonial breastplate, steel shortsword, Sea blooded org
 	SBO are happy to take goods that were blocked and sell them in Barbakan
