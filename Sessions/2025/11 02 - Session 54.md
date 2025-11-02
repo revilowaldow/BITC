@@ -22,3 +22,8 @@ Half a dozen
 Man in helmet
 
 
+
+Gave the guy a gold
+
+[[Karla]]
+
