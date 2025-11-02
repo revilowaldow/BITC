@@ -38,7 +38,11 @@ Story 1
 Story 2
 	Duellest who came upon Revant who would fight and win with the sword
 	Warrior wished to die in battle but was unable to
-	Fought in wars,
+	Fought in wars, duels, against evil and good.
+	Was not able to achieve this goal
+	Started a family and gave away Revant at old age and died
+
+
 
 
 
