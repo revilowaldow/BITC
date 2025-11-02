@@ -31,7 +31,9 @@ Gave the guy a gold
 Party reported to Kev that Virtelle was missing, kidnapped
 [[Thodunn]] told Kav about his backstory and being a double agent
 
-Aru investigates in the Lyberry
+
+Aru investigates in the Lyberry:
+
 Story 1
 	Story of an orc who held a bridge against a much larger force
 	Formation of Northern Kingdoms several hundred years ago
@@ -41,7 +43,6 @@ Story 2
 	Fought in wars, duels, against evil and good.
 	Was not able to achieve this goal
 	Started a family and gave away Revant at old age and died
-
 
 Named swords:
 - [[Whilspar]]
