@@ -64,4 +64,7 @@ Declare weapons
 Tall human male, ceremonial breastplate, steel shortsword, Sea blooded org
 Well dressed, athletic young dwarf woman
 	Elegantly dressed older human male, kathkachan
-[[man we met on way to ]] Mountain lion pelt around shoulders, kathkachan
+[[Arach]] Mountain lion pelt around shoulders, kathkachan
+
+
+
