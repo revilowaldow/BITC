@@ -24,6 +24,20 @@
             }
           },
           {
+            "id": "7cfafb474849f0b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025/09 21 - Session 51.5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09 21 - Session 51.5"
+            }
+          },
+          {
             "id": "3c38d71bd6edfa8f",
             "type": "leaf",
             "pinned": true,
@@ -66,9 +80,135 @@
               "icon": "lucide-file",
               "title": "09 07 - Session 51"
             }
+          },
+          {
+            "id": "8730e7bd02efb274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025/08 10 - Session 50.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08 10 - Session 50"
+            }
+          },
+          {
+            "id": "601d66cab2b378ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025/07 27 - Session 49.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07 27 - Session 49"
+            }
+          },
+          {
+            "id": "4004f2b2c922d46a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025/07 13 - Session 48.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07 13 - Session 48"
+            }
+          },
+          {
+            "id": "9bfb2cb87beb3ac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025/06 29 - Session 47.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06 29 - Session 47"
+            }
+          },
+          {
+            "id": "9c30cabfdca2b5dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025/06 15 - Session 46.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06 15 - Session 46"
+            }
+          },
+          {
+            "id": "d2ec439e256da5d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025/06 01 - Session 45.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06 01 - Session 45"
+            }
+          },
+          {
+            "id": "add0e69d9917ffb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025/05 18 - Session 44.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 18 - Session 44"
+            }
+          },
+          {
+            "id": "1adc1cad3bfc0778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025/05 04 - Session 43.5 - Oliver One Shot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 04 - Session 43.5 - Oliver One Shot"
+            }
+          },
+          {
+            "id": "c40e4d634b487e90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025/11 02 - Session 54.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11 02 - Session 54"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -268,20 +408,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c38d71bd6edfa8f",
+  "active": "c40e4d634b487e90",
   "lastOpenFiles": [
-    "Sessions/2025/09 07 - Session 51.md",
-    "Sessions/2025/10 19 - Session 53.md",
-    "Setting Rules/Valid Wild Shapes.md",
-    "Sessions/2025/09 21 - Session 51.5.md",
-    "Factions/Vermillion Hand/Virtelle The Silver Blade.md",
-    "Sessions/2025/10 05 - Session 52.md",
-    "Sessions/2025/08 10 - Session 50.md",
+    "Sessions/2025/05 04 - Session 43.5 - Oliver One Shot.md",
+    "Sessions/2025/05 18 - Session 44.md",
     "Sessions/2025/06 01 - Session 45.md",
     "Sessions/2025/06 15 - Session 46.md",
     "Sessions/2025/06 29 - Session 47.md",
     "Sessions/2025/07 13 - Session 48.md",
     "Sessions/2025/07 27 - Session 49.md",
+    "Sessions/2025/08 10 - Session 50.md",
+    "Sessions/2025/09 07 - Session 51.md",
+    "Sessions/2025/09 21 - Session 51.5.md",
+    "Sessions/2025/10 05 - Session 52.md",
+    "Sessions/2025/11 02 - Session 54.md",
+    "Sessions/2025/10 19 - Session 53.md",
+    "Setting Rules/Valid Wild Shapes.md",
+    "Factions/Vermillion Hand/Virtelle The Silver Blade.md",
     "Locations/Dungeon of Destiny.canvas",
     "Sessions/2024/09 29 - Session 31.md",
     "Flatek of the Flavours.md",
@@ -294,9 +437,6 @@
     "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2023/07 02 - Session 5.md",
-    "Locations/Battle of Looming Rock.md",
-    "Sessions/2024/10 20 - Session 33.md",
-    "Sessions/2024/03 24 - Session 19.md",
     "Locations/Dog Prince Caves.canvas",
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Pasted image 20250921200842.png",
