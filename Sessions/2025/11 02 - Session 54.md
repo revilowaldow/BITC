@@ -62,7 +62,8 @@ Declare weapons
 
 [[Brayk Brasshand]]
 	Perhaps you should converse with Larch
-	Told him tha
+	Told him that Virtelle had been kidnapped
+	You should investigate the Malains (younger)
 
 
 [[Regilius Ponta]] Tall human male, ceremonial breastplate, steel shortsword, Sea blooded org
@@ -74,12 +75,6 @@ Declare weapons
 	Elegantly dressed older human male, kathkachan
 	Aide - [[Larch Manders]]
 	Prior engagement
-
-
-
-
-
-
 
 [[Arach]] Mountain lion pelt around shoulders, kathkachan
 	Here on behalf of [[Quta Leon]]
