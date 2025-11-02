@@ -63,9 +63,8 @@ Declare weapons
 [[Brayk Brasshand]]
 
 [[Regilius Ponta]] Tall human male, ceremonial breastplate, steel shortsword, Sea blooded org
+	SBO are happy to take goods that were blocked and sell them in Barbakan
 	
-
-
 
 
 [[Palara Malain]] Well dressed, athletic young dwarf woman
