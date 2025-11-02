@@ -37,13 +37,16 @@ Story 1
 	Formation of Northern Kingdoms several hundred years ago
 Story 2
 	Duellest who came upon Revant who would fight and win with the sword
-	Warrior wished to die in battle but was unable to
+	Warrior wished to die in battle to absolve himself of a prior misdeed but was unable to
 	Fought in wars, duels, against evil and good.
 	Was not able to achieve this goal
 	Started a family and gave away Revant at old age and died
 
 
 Named swords:
-	
+- Whilspar
+- Revant
+- Liquidia
+	- Scimitar, so beatuiful that those who weild it dazzle any wo 
 
 
