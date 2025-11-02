@@ -44,9 +44,12 @@ Story 2
 
 
 Named swords:
-- Whilspar
-- Revant
-- Lykuidia
-	- Scimitar, so beautiful that those who wield it dazzle any wo
+- [[Whilspar]]
+- [[Revant]]
+- [[Lykuidia]]
+	- Scimitar, so beautiful that those who wield it dazzle any combatants
+- [[Mercy]] (axe)
+	- Weapon of tragedy, was meant to do good but was only ever bent to evil
+- 
 
 
