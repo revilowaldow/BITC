@@ -58,4 +58,9 @@ Named swords:
 
 <hr>
 
+Declare weapons
+
+[[Brayk Brasshand]]
+Tall human male, ceremonial breastplate, steel shortsword, Sea blooded org
+Well dressed, athletic young dwarf woman
 
