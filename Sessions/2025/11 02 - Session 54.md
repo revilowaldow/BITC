@@ -28,8 +28,13 @@ Gave the guy a gold
 [[Karla]]
 
 
-Party reported to Ke vthat Virtelle was missing, kidnapped
+Party reported to Kev that Virtelle was missing, kidnapped
 [[Thodunn]] told Kav about his backstory and being a double agent
+
+Aru investigates in the Lyberry
+	Story of an orc who held a bridge against a much larger force
+	Formation of Northern Kingdoms several hundred years ago
+
 
 
 
