@@ -61,7 +61,7 @@ Named swords:
 Declare weapons
 
 [[Brayk Brasshand]]
-	Perhaps you sh
+	Perhaps you should converse with 
 
 
 [[Regilius Ponta]] Tall human male, ceremonial breastplate, steel shortsword, Sea blooded org
