@@ -31,6 +31,7 @@ Gave the guy a gold
 Party reported to Kev that Virtelle was missing, kidnapped
 [[Thodunn]] told Kav about his backstory and being a double agent
 
+<hr>
 
 Aru investigates in the Lyberry:
 
@@ -53,5 +54,8 @@ Named swords:
 	- Weapon of tragedy, was meant to do good but was only ever bent to evil
 - [[The Answer of Aepoptosis]]
 	- Ancient scriptures that predate collapse of magic, something that was bestowed by a dead god
+
+
+<hr>
 
 
