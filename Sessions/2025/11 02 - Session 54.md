@@ -46,7 +46,7 @@ Story 2
 Named swords:
 - Whilspar
 - Revant
-- Liquidia
-	- Scimitar, so beatuiful that those who weild it dazzle any wo 
+- Lykuidia
+	- Scimitar, so beautiful that those who wield it dazzle any wo
 
 
