@@ -61,10 +61,14 @@ Named swords:
 Declare weapons
 
 [[Brayk Brasshand]]
+
 [[Regilius Ponta]] Tall human male, ceremonial breastplate, steel shortsword, Sea blooded org
-Well dressed, athletic young dwarf woman
+
+[[Palara Malain]] Well dressed, athletic young dwarf woman
 	Elegantly dressed older human male, kathkachan
+
 [[Arach]] Mountain lion pelt around shoulders, kathkachan
+	Here on behalf of [[Quta Leon]]
 
 
 
