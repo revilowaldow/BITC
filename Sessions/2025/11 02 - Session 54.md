@@ -27,3 +27,10 @@ Gave the guy a gold
 
 [[Karla]]
 
+
+Party reported to Ke vthat Virtelle was missing, kidnapped
+[[Thodunn]] told Kav about his backstory and being a double agent
+
+
+
+
