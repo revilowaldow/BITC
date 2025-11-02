@@ -63,6 +63,10 @@ Declare weapons
 [[Brayk Brasshand]]
 
 [[Regilius Ponta]] Tall human male, ceremonial breastplate, steel shortsword, Sea blooded org
+	
+
+
+
 
 [[Palara Malain]] Well dressed, athletic young dwarf woman
 	Elegantly dressed older human male, kathkachan
