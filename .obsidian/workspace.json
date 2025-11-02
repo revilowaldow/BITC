@@ -82,22 +82,8 @@
               "icon": "lucide-file",
               "title": "Arach"
             }
-          },
-          {
-            "id": "4a408885211877fa",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,13 +283,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "53455e39c54038cb",
   "lastOpenFiles": [
-    "Sessions/2024/11 17 - Session 35.md",
+    "Sessions/2025/11 02 - Session 54.md",
     "Untitled.base",
+    "Sessions/2024/11 17 - Session 35.md",
     "Factions/Arach.md",
     "Sessions/2025/10 19 - Session 53.md",
-    "Sessions/2025/11 02 - Session 54.md",
     "Sessions/2025/10 05 - Session 52.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2025/09 07 - Session 51.md",
