@@ -70,6 +70,8 @@ Declare weapons
 [[Arach]] Mountain lion pelt around shoulders, kathkachan
 	Here on behalf of [[Quta Leon]]
 	On the side of the Malain's
+	Kathkach is not allies with Lionhold
+
 
 
 
