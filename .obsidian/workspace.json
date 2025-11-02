@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -299,11 +299,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a23688bd2db90bc",
+  "active": "4a408885211877fa",
   "lastOpenFiles": [
-    "Sessions/2025/10 05 - Session 52.md",
-    "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2025/11 02 - Session 54.md",
+    "Sessions/2024/11 17 - Session 35.md",
+    "Sessions/2025/10 05 - Session 52.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2025/09 07 - Session 51.md",
     "Sessions/2025/08 10 - Session 50.md",
