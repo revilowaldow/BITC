@@ -70,7 +70,7 @@ Declare weapons
 [[Palara Malain]] Well dressed, athletic young dwarf woman
 	Elegantly dressed older human male, kathkachan
 	Aide - [[Larch Manders]]
-	
+	Prior engagement
 
 
 
