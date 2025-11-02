@@ -64,12 +64,18 @@ Declare weapons
 
 [[Regilius Ponta]] Tall human male, ceremonial breastplate, steel shortsword, Sea blooded org
 	SBO are happy to take goods that were blocked and sell them in Barbakan
-	
+	[[Pulio Mangane]] - SBO bard
 
 
 [[Palara Malain]] Well dressed, athletic young dwarf woman
 	Elegantly dressed older human male, kathkachan
-	[[Pulio Mangane]]
+	
+
+
+
+
+
+
 
 [[Arach]] Mountain lion pelt around shoulders, kathkachan
 	Here on behalf of [[Quta Leon]]
