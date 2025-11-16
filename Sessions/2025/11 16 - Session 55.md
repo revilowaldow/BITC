@@ -35,3 +35,7 @@ Set up by Larch
 ![[Pasted image 20251116185428.png]]
 
 
+Caenis turns invisible, but animates a statue to lift up the assassin
+
+Aru and Thodunn run for it
+
