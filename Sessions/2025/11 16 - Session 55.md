@@ -69,6 +69,7 @@ Awoke Shiendo Kadan
 waiting to question cultists from earlier
 
 
+Heal cultist
 
 
 
