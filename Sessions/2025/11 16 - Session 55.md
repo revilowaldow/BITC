@@ -63,7 +63,10 @@ Found a map of current area/docks, tactical battlemap preparing for ambush
 Directions for cart movements to sea blooded organisation headquarters
 
 
-Went to the helviti 
+Went to the helviti garrison
+summoned Regilius Pontar
+
+waiting to question cultists from earlier
 
 
 
