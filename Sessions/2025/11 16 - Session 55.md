@@ -29,4 +29,9 @@ Caenis hailed by rando and immediately stabbed
 
 Set up by Larch
 
+
 ![[Pasted image 20251116182747.png]]
+
+![[Pasted image 20251116185428.png]]
+
+
