@@ -13,9 +13,10 @@ Cut ahead out of the gold district to be across the bridge before them
 Followed by Vrin in the air
 
 Don cloaks and hoods
-
+Arrive at ambush site
 Palara: "so when in virtelle due to show up?"
 
+Sending message telling party to catch up with Kaulinan
 
 
 
