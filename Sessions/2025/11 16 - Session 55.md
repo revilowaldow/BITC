@@ -18,11 +18,6 @@ Palara: "so when in virtelle due to show up?"
 
 Sending message telling party to catch up with Kaulinan
 
-Caenis hailed by rando
+Caenis hailed by rando and immediately stabbed
 
-
-
-
-Rest of the party head to the Platinum Pot
-
-
+![[Pasted image 20251116180045.png]]
