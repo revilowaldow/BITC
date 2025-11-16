@@ -49,8 +49,9 @@ Instructions
 	- Ensure capture
 	- Kill Palara Malain
 	- Let Aepoptosis Return
-
-
+Spellcasting focus was Parchian in design
+	Worth 10 gp
+	
 
 
 
