@@ -18,6 +18,9 @@ Palara: "so when in virtelle due to show up?"
 
 Sending message telling party to catch up with Kaulinan
 
+Caenis hailed by rando
+
+
 
 
 Rest of the party head to the Platinum Pot
