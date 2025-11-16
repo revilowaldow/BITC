@@ -56,6 +56,132 @@
             }
           },
           {
+            "id": "5123ab0dc2c500d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 07 - Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 07 - Session 1"
+            }
+          },
+          {
+            "id": "4801178980f29b41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/05 28 - Session 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 28 - Session 2"
+            }
+          },
+          {
+            "id": "ea08263f05f583bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/06 04 - Session 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06 04 - Session 3"
+            }
+          },
+          {
+            "id": "7b38e76dc054f02a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/06 18 - Session 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06 18 - Session 4"
+            }
+          },
+          {
+            "id": "f094f18213b56707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/07 02 - Session 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07 02 - Session 5"
+            }
+          },
+          {
+            "id": "47466a64c1ddff1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/07 16 - Session 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07 16 - Session 6"
+            }
+          },
+          {
+            "id": "08c137a8864e5550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/08 13 - Session 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08 13 - Session 7"
+            }
+          },
+          {
+            "id": "b461e6eda0ebc05c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/09 10 - Session 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09 10 - Session 8"
+            }
+          },
+          {
+            "id": "9ed5e970c1ece419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023/09 24 - Session 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09 24 - Session 9"
+            }
+          },
+          {
             "id": "1b77101c0e35af11",
             "type": "leaf",
             "state": {
@@ -70,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -270,10 +396,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b3561464a314140e",
+  "active": "5123ab0dc2c500d3",
   "lastOpenFiles": [
-    "Sessions/2025/11 02 - Session 54.md",
+    "Sessions/2023/05 28 - Session 2.md",
+    "Sessions/2023/09 24 - Session 9.md",
+    "Sessions/2023/09 10 - Session 8.md",
+    "Sessions/2023/08 13 - Session 7.md",
+    "Sessions/2023/07 16 - Session 6.md",
+    "Sessions/2023/07 02 - Session 5.md",
+    "Sessions/2023/06 18 - Session 4.md",
+    "Sessions/2023/06 04 - Session 3.md",
+    "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2025/11 16 - Session 55.md",
+    "Sessions/2025/11 02 - Session 54.md",
     "Pasted image 20251116185428.png",
     "Pasted image 20251116182747.png",
     "Pasted image 20251116180045.png",
@@ -286,7 +421,6 @@
     "Sessions/2025/07 27 - Session 49.md",
     "Sessions/2024/09 29 - Session 31.md",
     "Sessions/2025/10 05 - Session 52.md",
-    "Sessions/2023/09 24 - Session 9.md",
     "Untitled.base",
     "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2025/07 13 - Session 48.md",
@@ -294,13 +428,6 @@
     "Sessions/2025/06 15 - Session 46.md",
     "Sessions/2025/06 01 - Session 45.md",
     "Sessions/2025/05 18 - Session 44.md",
-    "Locations/Kathkach/The Cooking Association/The Bloodmarble Butchery.md",
-    "Factions/Liera Lov.md",
-    "Factions/Kerytoph Myondo.md",
-    "Factions/Aepoptosian Cult/Chikitan Miasmar.md",
-    "Factions/Candaria Malain.md",
-    "Sessions/2023/09 10 - Session 8.md",
-    "Sessions/2023/06 18 - Session 4.md",
     "Locations/Dungeon of Destiny.canvas",
     "Locations/Dog Prince Caves.canvas",
     "Locations/Lionhold/Ziardim Caverns.canvas",
