@@ -6,3 +6,5 @@ Thodunn steals 11 small flatbreads
 
 Palara and Larch joined by two extra guards
 
+Poor stealth roll
+
