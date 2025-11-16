@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brayk",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
