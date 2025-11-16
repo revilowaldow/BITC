@@ -21,3 +21,8 @@ Sending message telling party to catch up with Kaulinan
 Caenis hailed by rando and immediately stabbed
 
 ![[Pasted image 20251116180045.png]]
+
+
+5 individuals arriving
+	1 heavy armour, steelmonger Celeres
+	
