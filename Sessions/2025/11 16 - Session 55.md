@@ -12,6 +12,11 @@ Cut ahead out of the gold district to be across the bridge before them
 
 Followed by Vrin in the air
 
+Don cloaks and hoods
+
+
+
+
 
 
 Rest of the party head to the Platinum Pot
