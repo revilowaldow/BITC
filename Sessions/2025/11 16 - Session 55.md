@@ -14,4 +14,6 @@ Followed by Vrin in the air
 
 
 
-Rest of the party h
+Rest of the party head to the Platinum Pot
+
+
