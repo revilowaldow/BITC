@@ -63,7 +63,7 @@ Found a map of current area/docks, tactical battlemap preparing for ambush
 Directions for cart movements to sea blooded organisation headquarters
 
 
-
+Went to the helviti 
 
 
 
