@@ -40,5 +40,17 @@ Caenis turns invisible, but animates a statue to lift up the assassin 200ft
 Aru and Thodunn run for it, and bump into cobalt comanda patrol who floor the cultists
 
 
+Speak to Palara and suggest working together
+
+Larch's equipment
+27gp
+Instructions
+	- Lure Virtelle to low district
+	- Ensure capture
+	- Kill Palara Malain
+	- Hail Aepoptosis
+
+
+
 
 
