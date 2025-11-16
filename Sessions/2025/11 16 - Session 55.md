@@ -48,7 +48,9 @@ Instructions
 	- Lure Virtelle to low district
 	- Ensure capture
 	- Kill Palara Malain
-	- Hail Aepoptosis
+	- Let Aepoptosis Return
+
+
 
 
 
