@@ -52,6 +52,8 @@ Instructions
 Spellcasting focus was Parchian in design
 	Worth 10 gp
 	
+Seablooded Organisation working with the cult
+Nemos, orders from Evangeli
 
 
 
