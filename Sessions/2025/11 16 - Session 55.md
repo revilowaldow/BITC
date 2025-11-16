@@ -59,7 +59,10 @@ Nemos, orders from Evangeline Stifka
 	- Keep from all steelmongers
 	- Kill Larch Manders and return to Barbakan
 Note not written by a scribe, official document
-Find a map
+Found a map of current area/docks, tactical battlemap preparing for ambush
+Directions for cart movements to sea blooded organisation headquarters
+
+
 
 
 
