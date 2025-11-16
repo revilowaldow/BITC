@@ -64,9 +64,10 @@ Directions for cart movements to sea blooded organisation headquarters
 
 
 Went to the helviti garrison
-summoned Regilius Pontar
-
+summoned Regilius Pontar & Kev
+Awoke Shiendo Kadan
 waiting to question cultists from earlier
+
 
 
 
