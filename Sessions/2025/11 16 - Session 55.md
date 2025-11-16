@@ -10,3 +10,8 @@ Poor stealth roll
 
 Cut ahead out of the gold district to be across the bridge before them
 
+Followed by Vrin in the air
+
+
+
+Rest of the party h
