@@ -70,6 +70,7 @@ waiting to question cultists from earlier
 
 
 Heal cultist
+Question him,
 
 
 
