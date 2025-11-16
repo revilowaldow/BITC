@@ -53,7 +53,12 @@ Spellcasting focus was Parchian in design
 	Worth 10 gp
 	
 Seablooded Organisation working with the cult
-Nemos, orders from Evangeli
+Nemos, orders from Evangeline Stifka
+	- Assist Larch Manders in his activities
+	- Important and Secretive Work
+	- Keep from all steelmongers
+	- Kill Larch Manders and return to Barbakan
+	- 
 
 
 
