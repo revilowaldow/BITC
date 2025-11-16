@@ -8,3 +8,5 @@ Palara and Larch joined by two extra guards
 
 Poor stealth roll
 
+Cut ahead out of the gold district to be across the bridge before them
+
