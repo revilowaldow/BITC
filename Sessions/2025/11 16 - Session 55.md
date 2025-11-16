@@ -25,4 +25,8 @@ Caenis hailed by rando and immediately stabbed
 
 5 individuals arriving
 	1 heavy armour, steelmonger Celeres
-	
+
+
+Set up by Larch
+
+![[Pasted image 20251116182747.png]]
