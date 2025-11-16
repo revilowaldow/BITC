@@ -35,7 +35,8 @@ Set up by Larch
 ![[Pasted image 20251116185428.png]]
 
 
-Caenis turns invisible, but animates a statue to lift up the assassin
+Caenis turns invisible, but animates a statue to lift up the assassin 200ft
 
-Aru and Thodunn run for it
+Aru and Thodunn run for it, and bump into cobalt comanda
+
 
