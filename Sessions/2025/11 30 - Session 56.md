@@ -100,3 +100,5 @@ group of at least 3 tough individuals watching but not assaulting, emblazoned wi
 
 Talked to the helviti, need to send a mesage to [[Hex'tan]]
 
+<hr>
+
