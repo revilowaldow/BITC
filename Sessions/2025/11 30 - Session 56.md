@@ -98,3 +98,4 @@ Send Vrin
 1 tied up person
 group of at least 3 tough individuals watching but not assaulting, emblazoned with two lions 
 
+Talked to the 
