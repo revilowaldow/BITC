@@ -19,7 +19,11 @@ Short, Nice Clothes
 - Primary library
 	- Recent records
 	- Crucial agreements, regular access
-	- 
+	- Small scale, reciepts
+	- Salaries
+	- Warehouse storage contracts
+- Lady's library
+	- Older and historical documents
 
 
 
