@@ -77,5 +77,6 @@ Two pronged dagger
 
 Lady Jacqueline's Revenge
 
-Captained by [[Kop]]
+Captained by hobgoblin [[Kop]]
+
 
