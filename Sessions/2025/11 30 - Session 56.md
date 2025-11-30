@@ -104,6 +104,6 @@ Talked to the helviti, need to send a mesage to [[Hex'tan]]
 
 Flamboyant man is [[Pulio Mangane]]
 Agent had gone rogue
-agent defected
+agent defected, searching for him
 
 Drank potion of heroism
