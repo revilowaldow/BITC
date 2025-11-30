@@ -89,4 +89,6 @@ Caenis messaged Kev
 Caenis messaged Kana
 
 Wind coming from the south, smell of smoke
-Structure 20 miles south
+Structure 20 miles south on fire
+
+Babalos' Goat Farm
