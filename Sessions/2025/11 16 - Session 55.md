@@ -75,6 +75,7 @@ Question him, barbakan has an associated sense of focus
 Aru was hurt by Revant
 When going to sleep, trickle of blood along arm join to Revant, feel very very cold
 
+Allow item that reaches hq immediate passage
 
 
 
