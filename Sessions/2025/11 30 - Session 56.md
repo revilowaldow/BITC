@@ -36,9 +36,9 @@ Personal bodyguard/accomplice of evangeline
 
 Nemos arrived a week ago from Barbakan, very little correspondence
 
-Burned 
-
-Last chance
-for 
+Burned ash document
+	"Last chance
+	....
+	for [[Victis]]"
 
 
