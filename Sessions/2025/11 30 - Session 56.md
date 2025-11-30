@@ -16,7 +16,10 @@ Saluted by the Cobalt Comanda
 [[Marjerene]] - Human Female Sea Blooded Organisation Scribe
 Short, Nice Clothes
 
-
+- Primary library
+	- Recent records
+	- Crucial agreements, regular access
+	- 
 
 
 
