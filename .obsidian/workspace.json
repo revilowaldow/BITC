@@ -58,6 +58,7 @@
           {
             "id": "5f80a8d5a50605f0",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -65,6 +66,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "11 30 - Session 56"
             }
@@ -84,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -284,13 +286,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f80a8d5a50605f0",
+  "active": "3a23688bd2db90bc",
   "lastOpenFiles": [
-    "Sessions/2025/11 16 - Session 55.md",
+    "Sessions/2025/10 19 - Session 53.md",
     "Sessions/2025/11 30 - Session 56.md",
+    "Sessions/2025/11 16 - Session 55.md",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Deity/Aepoptosis.md",
-    "Sessions/2025/10 19 - Session 53.md",
     "Sessions/2025/11 02 - Session 54.md",
     "Factions/Wesken.md",
     "Locations/Ziardim Caverns.md",
