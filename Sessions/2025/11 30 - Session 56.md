@@ -19,7 +19,7 @@ Short, Nice Clothes
 - Primary library
 	- Recent records
 	- Crucial agreements, regular access
-	- Small scale, reciepts
+	- Small scale, receipts
 	- Salaries
 	- Warehouse storage contracts
 - Offices near top of building
