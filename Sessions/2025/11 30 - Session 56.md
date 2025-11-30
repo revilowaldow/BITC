@@ -13,6 +13,7 @@ Visit the Sea Blooded Organisation
 
 Saluted by the Cobalt Comanda
 
-[[Marjerene]] 
+[[Marjerene]] - Human Female Sea Blooded Organisation S
+
 
 
