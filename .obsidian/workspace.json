@@ -77,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2025/10 05 - Session 52.md",
+                "file": "Factions/Helviti/List of Commanda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 05 - Session 52"
+              "title": "List of Commanda"
             }
           },
           {
@@ -132,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "King ",
+                "query": "topaz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +163,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -300,12 +301,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "5f80a8d5a50605f0",
   "lastOpenFiles": [
-    "Sessions/2025/11 16 - Session 55.md",
-    "Sessions/2025/11 30 - Session 56.md",
-    "Sessions/2025/10 05 - Session 52.md",
+    "Factions/Helviti/List of Commanda.md",
     "Locations/Battle of Looming Rock.md",
+    "Sessions/2025/10 05 - Session 52.md",
+    "Sessions/2023/04 23 - Session 0.5.md",
+    "Sessions/2025/11 30 - Session 56.md",
+    "Sessions/2025/11 16 - Session 55.md",
     "Locations/Abdos Woodland.canvas",
     "Factions/Silver Company/'Stealth'.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
@@ -315,7 +318,6 @@
     "Locations/Coprun/Copper Mines.md",
     "Factions/Sea Blooded Org/Sea Blooded Organisation.md",
     "Factions/Sea Blooded Org/Evangeline Stifka.md",
-    "Sessions/2023/04 23 - Session 0.5.md",
     "Sessions/2025/11 02 - Session 54.md",
     "Sessions/2025/10 19 - Session 53.md",
     "Deity/Aepoptosis.md",
@@ -340,7 +342,6 @@
     "Sessions/2023/08 13 - Session 7.md",
     "Sessions/2023/07 16 - Session 6.md",
     "Sessions/2023/07 02 - Session 5.md",
-    "Sessions/2023/06 18 - Session 4.md",
     "Locations/Dungeon of Destiny.canvas",
     "Locations/Dog Prince Caves.canvas",
     "Locations/Lionhold/Ziardim Caverns.canvas",
