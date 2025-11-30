@@ -95,3 +95,5 @@ Babalos' Goat Farm
 Send Vrin
 
 4 Chimera Comanda holed up in ruined structure
+1 tied up person
+group of at least 3 tough individuals watching but not assaulting 
