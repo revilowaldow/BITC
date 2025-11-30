@@ -48,6 +48,8 @@ Letter from unknown to Evangeline, in the same hand as the letter to larch
 Loaned to the sea blooded org from the Aegan empire, on orders of General Duty
 [[Guatus]]
 
-Piggy used to be called Agent Warthog, weilds two daggers like two tusks
+Piggy used to be called Agent Warthog, wields two daggers like two tusks
+Engaged in espionage and counter espionage
+
 
 
