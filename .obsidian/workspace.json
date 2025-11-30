@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -300,10 +300,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f80a8d5a50605f0",
+  "active": "b3561464a314140e",
   "lastOpenFiles": [
-    "Sessions/2025/10 05 - Session 52.md",
     "Sessions/2025/11 30 - Session 56.md",
+    "Sessions/2025/10 05 - Session 52.md",
     "Locations/Battle of Looming Rock.md",
     "Locations/Abdos Woodland.canvas",
     "Factions/Silver Company/'Stealth'.md",
