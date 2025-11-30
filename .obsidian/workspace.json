@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -300,8 +300,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ba5238044d4891c",
+  "active": "5f80a8d5a50605f0",
   "lastOpenFiles": [
+    "Sessions/2025/10 05 - Session 52.md",
     "Sessions/2025/11 30 - Session 56.md",
     "Locations/Battle of Looming Rock.md",
     "Locations/Abdos Woodland.canvas",
