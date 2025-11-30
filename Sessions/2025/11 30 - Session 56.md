@@ -63,7 +63,7 @@ King Hekare?
 
 <hr>
 
-Palara Malain indicated she had sufficient goald to hire Topaz Comanda
+Palara Malain indicated she had sufficient gold to hire Topaz Comanda
 
 Larch Mander's Room
 Scorching on side of door from trap
@@ -72,5 +72,8 @@ Scorching on side of door from trap
 2 healing potions
 Unidentified potion
 Two pronged dagger
+
+<hr>
+
 
 
