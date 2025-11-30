@@ -68,5 +68,6 @@ Palara Malain indicated she had sufficient goald to hire Topaz Comanda
 Larch Mander's Room
 Scorching on side of door from trap
 
-
+28gp
+2 healing potions
 
