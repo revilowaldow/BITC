@@ -70,4 +70,5 @@ Scorching on side of door from trap
 
 28gp
 2 healing potions
-
+Unidentified potion
+Two 
