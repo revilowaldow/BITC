@@ -45,4 +45,6 @@ Thodunn may have heard this before from Granstar, might not be an uncommon name
 "If you receive this letter, good job"
 Letter from unknown to Evangeline, in the same hand as the letter to larch
 
-Loaned to the sea blooded org from the aegan empire, on orders of General Duty
+Loaned to the sea blooded org from the Aegan empire, on orders of General Duty
+[[Guatus]]
+
