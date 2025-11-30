@@ -42,3 +42,4 @@ Burned ash document
 	for [[Victis]]"
 Thodunn may have heard this before from Granstar, might not be an uncommon name
 
+"If you recieve this letter, good job"
