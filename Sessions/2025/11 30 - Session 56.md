@@ -30,7 +30,9 @@ Short, Nice Clothes
 - Lady's library
 	- Older and historical documents
 
-
+When was Piggy last here?
+Went with Evangeline to Barbakan last time
+Personal bodyguard/
 
 
 
