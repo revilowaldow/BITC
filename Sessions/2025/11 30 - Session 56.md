@@ -34,7 +34,8 @@ When was Piggy last here?
 Went with Evangeline to Barbakan last time
 Personal bodyguard/accomplice of evangeline
 
-Nemos arrived a week ago from Barbakan
+Nemos arrived a week ago from Barbakan, very little correspondence
+
 
 
 
