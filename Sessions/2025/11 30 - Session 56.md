@@ -55,6 +55,8 @@ SBO were not able to hire Calamxis
 
 Was hired several months ago by the tower of eyes
 
+Base in barbakan not far from steelmonger's HQ
+Under strong guard
 
 
 
