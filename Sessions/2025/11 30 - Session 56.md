@@ -79,4 +79,8 @@ Lady Jacqueline's Revenge
 
 Captained by hobgoblin [[Kop]]
 
+Mostly commoners or crew
+One flamboyant guy
+90ft by 20ft barge
+3 masts
 
