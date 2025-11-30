@@ -65,4 +65,6 @@ King Hekare?
 
 
 
+Larch Mander's Room
+Scorching on side of door
 
