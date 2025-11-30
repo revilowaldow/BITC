@@ -51,6 +51,8 @@ Loaned to the sea blooded org from the Aegan empire, on orders of General Duty
 Piggy used to be called Agent Warthog, wields two daggers like two tusks
 Engaged in espionage and counter espionage
 
+SBO were not able to hire Calamxis
+
 
 
 
