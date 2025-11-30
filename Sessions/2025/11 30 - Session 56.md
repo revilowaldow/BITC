@@ -22,6 +22,10 @@ Short, Nice Clothes
 	- Small scale, reciepts
 	- Salaries
 	- Warehouse storage contracts
+- Offices near top of building
+	- Records there
+	- Evangeline's office
+	- Regilus' 
 - Lady's library
 	- Older and historical documents
 
