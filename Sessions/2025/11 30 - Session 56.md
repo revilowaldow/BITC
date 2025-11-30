@@ -94,3 +94,4 @@ Structure 20 miles south on fire
 Babalos' Goat Farm
 Send Vrin
 
+4 Chimera Comanda holed up in ruined structure
