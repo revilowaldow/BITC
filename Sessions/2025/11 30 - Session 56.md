@@ -26,7 +26,7 @@ Short, Nice Clothes
 	- Records there
 	- Evangeline's office
 	- Regilus' Office
-	- Nemos' personal 
+	- Nemos' personal effects
 - Lady's library
 	- Older and historical documents
 
