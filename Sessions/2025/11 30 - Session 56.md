@@ -63,8 +63,10 @@ King Hekare?
 
 <hr>
 
-Palara Malain indicated she had sufficient goald to hire Topa
+Palara Malain indicated she had sufficient goald to hire Topaz Comanda
 
 Larch Mander's Room
 Scorching on side of door from trap
+
+
 
