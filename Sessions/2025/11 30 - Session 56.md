@@ -40,5 +40,6 @@ Burned ash document
 	"Last chance
 	....
 	for [[Victis]]"
-Thodunn may have heard this before from Grandstar, might not be an uncommon name
+Thodunn may have heard this before from Granstar, might not be an uncommon name
 
+                                                                                                                       
