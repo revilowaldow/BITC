@@ -56,115 +56,21 @@
             }
           },
           {
-            "id": "532f2fdb4919180e",
+            "id": "7ef9f8cbf4632a93",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250112192828.png"
+                "file": "Factions/Wesken.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250112192828"
-            }
-          },
-          {
-            "id": "2de61e74c542f391",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250223184136.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250223184136"
-            }
-          },
-          {
-            "id": "a56dcad8209a6972",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250615204540.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250615204540"
-            }
-          },
-          {
-            "id": "b50006ee02667338",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250629194504.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250629194504"
-            }
-          },
-          {
-            "id": "99a6cf7dd20edfe6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250907201732.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250907201732"
-            }
-          },
-          {
-            "id": "bfebe82a9857020d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250907205402.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250907205402"
-            }
-          },
-          {
-            "id": "df107d6200f06b17",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250921200842.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250921200842"
-            }
-          },
-          {
-            "id": "296228dc7fdffc9e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Pasted image 20251116180045.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251116180045"
-            }
-          },
-          {
-            "id": "864e61848747c72d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Pasted image 20250921192215.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250921192215"
+              "icon": "lucide-file",
+              "title": "Wesken"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -366,16 +272,18 @@
   },
   "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
-    "Pasted image 20250921200842.png",
-    "Assets/Maps/Pasted image 20251116180045.png",
-    "Pasted image 20250907205402.png",
-    "Assets/Maps/Pasted image 20250921192215.png",
-    "Pasted image 20250907201732.png",
-    "Pasted image 20250629194504.png",
-    "Pasted image 20250615204540.png",
-    "Pasted image 20250223184136.png",
-    "Pasted image 20250112192828.png",
+    "Untitled.base",
     "Sessions/2025/11 16 - Session 55.md",
+    "Pasted image 20250921200842.png",
+    "Assets/Characters/Palara Malain.png",
+    "Pasted image 20250112192828.png",
+    "Pasted image 20250223184136.png",
+    "Pasted image 20250615204540.png",
+    "Pasted image 20250629194504.png",
+    "Pasted image 20250907201732.png",
+    "Pasted image 20250907205402.png",
+    "Assets/Maps/Pasted image 20251116180045.png",
+    "Assets/Maps/Pasted image 20250921192215.png",
     "Sessions/2023/05 07 - Session 1.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2023/09 24 - Session 9.md",
@@ -387,8 +295,6 @@
     "Sessions/2023/06 04 - Session 3.md",
     "Sessions/2023/05 28 - Session 2.md",
     "Sessions/2025/11 02 - Session 54.md",
-    "Pasted image 20251116185428.png",
-    "Pasted image 20251116182747.png",
     "Sessions/2025/10 19 - Session 53.md",
     "Sessions/2025/09 21 - Session 51.5.md",
     "Factions/Arach.md",
@@ -397,7 +303,6 @@
     "Sessions/2025/07 27 - Session 49.md",
     "Sessions/2024/09 29 - Session 31.md",
     "Sessions/2025/10 05 - Session 52.md",
-    "Untitled.base",
     "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2025/07 13 - Session 48.md",
     "Sessions/2025/06 29 - Session 47.md",

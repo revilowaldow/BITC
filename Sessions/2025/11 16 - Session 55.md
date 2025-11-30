@@ -32,7 +32,7 @@ Set up by Larch
 
 ![[Pasted image 20251116182747.png]]
 
-![[Pasted image 20251116185428.png]]
+![[Palara Malain.png]]
 
 
 Caenis turns invisible, but animates a statue to lift up the assassin 200ft
