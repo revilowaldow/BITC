@@ -25,9 +25,12 @@ Short, Nice Clothes
 - Offices near top of building
 	- Records there
 	- Evangeline's office
-	- Regilus' 
+	- Regilus' Office
+	- Nemos' personal 
 - Lady's library
 	- Older and historical documents
+
+
 
 
 
