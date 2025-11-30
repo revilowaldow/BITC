@@ -13,7 +13,10 @@ Visit the Sea Blooded Organisation
 
 Saluted by the Cobalt Comanda
 
-[[Marjerene]] - Human Female Sea Blooded Organisation S
+[[Marjerene]] - Human Female Sea Blooded Organisation Scribe
+Short, Nice Clothes
+
+
 
 
 
