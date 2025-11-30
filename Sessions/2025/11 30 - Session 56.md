@@ -102,3 +102,6 @@ Talked to the helviti, need to send a mesage to [[Hex'tan]]
 
 <hr>
 
+Flamboyant man is [[Pulio Mangane]]
+Agent had gone rogue
+agent defected
