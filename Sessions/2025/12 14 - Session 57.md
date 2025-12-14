@@ -78,5 +78,7 @@ Child Tiefling:
 - [[Korvi]] - "8"
 
 
+Start next session with locate creature
+
 
 
