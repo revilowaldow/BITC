@@ -9,7 +9,7 @@ Crew picked up two weeks ago, came with Mangione
 14gp
 26sp
 43cp
-	Distirbuted to crew and commoners
+	Distributed to crew and commoners
 
 3 scimitar
 3 light crossbow
