@@ -39,7 +39,11 @@ Thodunn dreaming, wakes up on boat alone, armour grows legs and starts running a
 Nothing from Revant
 
 Aru, memory vision of dismembered body in kathkach
-Scene, conversation, 
+Scene, conversation, helviti discussing gruesome death in the wastes with Aru
+Whirlwind of sand, names "Maya", "Gotha", "Aepoptosis", Empty chamber with Revant in center
+
+
+
 
 
 
