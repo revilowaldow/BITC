@@ -56,6 +56,20 @@
             }
           },
           {
+            "id": "d62e32fdaaa26fb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/01 14 - Session 14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 14 - Session 14"
+            }
+          },
+          {
             "id": "37164c87feae297b",
             "type": "leaf",
             "state": {
@@ -68,303 +82,9 @@
               "icon": "lucide-file",
               "title": "02 25 - Session 17"
             }
-          },
-          {
-            "id": "1b8d0d972b286dc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/03 10 - Session 18.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 10 - Session 18"
-            }
-          },
-          {
-            "id": "23dfa83e95abcb96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2025/02 09 - Session 39.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 09 - Session 39"
-            }
-          },
-          {
-            "id": "1195d73d7ddacf8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2025/02 23 - Session 40.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 23 - Session 40"
-            }
-          },
-          {
-            "id": "3ac5540c39da793a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/09 24 - Session 9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09 24 - Session 9"
-            }
-          },
-          {
-            "id": "b148a20e0c398f37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2025/03 30 - Session 42.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 30 - Session 42"
-            }
-          },
-          {
-            "id": "d69bd6cbf2303a9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2025/04 06 - Session 43.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 06 - Session 43"
-            }
-          },
-          {
-            "id": "2a38c066fc503733",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2025/05 04 - Session 43.5 - Oliver One Shot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05 04 - Session 43.5 - Oliver One Shot"
-            }
-          },
-          {
-            "id": "85b90690f7c6446d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/03 24 - Session 19.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 24 - Session 19"
-            }
-          },
-          {
-            "id": "25d26d2559e50d6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/04 07 - Session 20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 07 - Session 20"
-            }
-          },
-          {
-            "id": "b70d3851e8258037",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/04 21 - Session 21.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 21 - Session 21"
-            }
-          },
-          {
-            "id": "aa64836eefec5758",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/05 19 - Session 22.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05 19 - Session 22"
-            }
-          },
-          {
-            "id": "7441c257b8199990",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/06 02 - Session 23.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06 02 - Session 23"
-            }
-          },
-          {
-            "id": "11556e24e6269fc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/06 16 - Session 24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06 16 - Session 24"
-            }
-          },
-          {
-            "id": "6a998b43e306d0be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/06 30 - Session 25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06 30 - Session 25"
-            }
-          },
-          {
-            "id": "34d649cc09db0d3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/07 14 - Session 26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07 14 - Session 26"
-            }
-          },
-          {
-            "id": "6ca453cd44b05d60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/07 28 - Session 27.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07 28 - Session 27"
-            }
-          },
-          {
-            "id": "a0a1eb271f31621c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/08 11 - Session 28.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08 11 - Session 28"
-            }
-          },
-          {
-            "id": "fd303edc85d4d244",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/09 01 - Session 29.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09 01 - Session 29"
-            }
-          },
-          {
-            "id": "512c24c6c40704c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/09 08 - Session 30.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09 08 - Session 30"
-            }
-          },
-          {
-            "id": "115ad235013fb67e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/09 29 - Session 31.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09 29 - Session 31"
-            }
-          },
-          {
-            "id": "50cf5bbd22445a38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/01 28 - Session 15.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 28 - Session 15"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -427,8 +147,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -565,36 +284,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ac5540c39da793a",
+  "active": "d62e32fdaaa26fb6",
   "lastOpenFiles": [
-    "Sessions/2025/03 09 - Session 41.md",
-    "Sessions/2025/05 04 - Session 43.5 - Oliver One Shot.md",
-    "Sessions/2025/04 06 - Session 43.md",
-    "Sessions/2025/03 30 - Session 42.md",
-    "Sessions/2025/02 23 - Session 40.md",
-    "Sessions/2025/02 09 - Session 39.md",
-    "Sessions/2024/03 10 - Session 18.md",
-    "Sessions/2024/02 25 - Session 17.md",
-    "Sessions/2024/01 28 - Session 15.md",
-    "Sessions/2024/09 29 - Session 31.md",
-    "Sessions/2024/09 08 - Session 30.md",
-    "Sessions/2024/09 01 - Session 29.md",
-    "Sessions/2024/08 11 - Session 28.md",
-    "Sessions/2024/07 28 - Session 27.md",
-    "Sessions/2024/07 14 - Session 26.md",
-    "Sessions/2024/06 30 - Session 25.md",
-    "Sessions/2024/06 16 - Session 24.md",
-    "Sessions/2024/06 02 - Session 23.md",
-    "Sessions/2024/05 19 - Session 22.md",
-    "Sessions/2024/04 21 - Session 21.md",
-    "Sessions/2024/04 07 - Session 20.md",
-    "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2025/12 14 - Session 57.md",
+    "Sessions/2024/02 25 - Session 17.md",
+    "Sessions/2024/03 10 - Session 18.md",
+    "Sessions/2025/02 09 - Session 39.md",
+    "Sessions/2025/02 23 - Session 40.md",
+    "Sessions/2023/09 24 - Session 9.md",
+    "Corsaro.md",
+    "Sessions/2025/03 30 - Session 42.md",
+    "Sessions/2025/04 06 - Session 43.md",
+    "Sessions/2025/05 04 - Session 43.5 - Oliver One Shot.md",
+    "Sessions/2024/03 24 - Session 19.md",
+    "Sessions/2024/04 07 - Session 20.md",
+    "Sessions/2024/04 21 - Session 21.md",
+    "Sessions/2024/05 19 - Session 22.md",
+    "Sessions/2024/06 02 - Session 23.md",
+    "Sessions/2024/06 16 - Session 24.md",
+    "Sessions/2024/06 30 - Session 25.md",
+    "Sessions/2024/07 14 - Session 26.md",
+    "Sessions/2024/07 28 - Session 27.md",
+    "Sessions/2024/08 11 - Session 28.md",
+    "Sessions/2024/09 01 - Session 29.md",
+    "Sessions/2024/09 08 - Session 30.md",
+    "Sessions/2024/09 29 - Session 31.md",
+    "Sessions/2024/01 28 - Session 15.md",
+    "Sessions/2025/03 09 - Session 41.md",
     "Pasted image 20251214184703.png",
     "Setting Rules/Valid Wild Shapes.md",
-    "Sessions/2025/11 30 - Session 56.md",
     "Sessions/2026",
-    "Sessions/2025/11 16 - Session 55.md",
     "Locations/Abdos Woodland.canvas",
     "Locations/The Pit.canvas",
     "Untitled.base",

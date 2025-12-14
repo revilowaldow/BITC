@@ -50,7 +50,7 @@ Barbakan
 Stone walls
 Siege weapons
 
-Karlos
+[[Corsaro]] - Same steelmonger from the Wisteria
 
 
 
