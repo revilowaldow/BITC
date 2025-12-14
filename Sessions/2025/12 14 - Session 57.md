@@ -42,6 +42,8 @@ Aru, memory vision of dismembered body in kathkach
 Scene, conversation, helviti discussing gruesome death in the wastes with Aru
 Whirlwind of sand, names "Maya", "Gotha", "Aepoptosis", Empty chamber with Revant in center
 
+Passed the pit but can't see it
+
 
 
 
