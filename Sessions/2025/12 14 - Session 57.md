@@ -20,4 +20,4 @@ Temporary contract as shiphand for a month
 Sponsored by SBO
 
 
-"Chimera comanda in need of help"
+"Hi Hextan Chimera comanda in need of help, South bank babalos' goat farm, surrounded lionhold soilders, can hold out for two more days"
