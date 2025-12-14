@@ -74,7 +74,9 @@ Evangeline Stifka's ship is in the harbour
 
 Child Tiefling:
 - [[Setanta]] - old? "a million years old"
-- [[Kuwae]] - "maybe 50"
-- [[Korvi]]
+- [[Kuwae]] - "maybe 50 thousand"
+- [[Korvi]] - "8"
+
+
 
 
