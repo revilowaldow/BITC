@@ -12,12 +12,15 @@ Crew picked up two weeks ago, came with Mangione
 26sp
 43cp
 
+	distirbuted to crew and commoners
+
 3 scimitar
 3 light crossbow
 18 bolts
 
 Temporary contract as shiphand for a month
 	Asterisk sponsored
+Sponsored by SBO
 
 
 
