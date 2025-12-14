@@ -48,7 +48,8 @@ Passed the pit but can't see it
 Barbakan
 
 Stone walls
-Siege weapon
+Siege weapons
+
 
 
 
