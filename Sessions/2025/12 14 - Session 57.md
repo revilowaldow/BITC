@@ -45,7 +45,10 @@ Whirlwind of sand, names "Maya", "Gotha", "Aepoptosis", Empty chamber with Revan
 Passed the pit but can't see it
 
 
+Barbakan
 
+Stone walls
+Siege weapon
 
 
 
