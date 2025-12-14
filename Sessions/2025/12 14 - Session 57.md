@@ -57,6 +57,10 @@ Are you travelling with someone called Thodunn
 Thodunn invited to visit headquarters of steelmongers in town center
 
 Small town
+Silver Wing Tavern - Barbakan outer square
+Through residential district
+Then main gate other side, and also access to industrial district
+
 
 
 
