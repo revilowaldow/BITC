@@ -73,5 +73,8 @@ Harbour district
 Evangeline Stifka's ship is in the harbour
 
 Child Tiefling:
-- [[Setanta]]
-  -[[Kuwae]]
+- [[Setanta]] - old?
+- [[Kuwae]]
+- [[Korvi]]
+
+
