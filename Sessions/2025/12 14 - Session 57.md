@@ -6,13 +6,10 @@ Adam recapping
 
 Crew picked up two weeks ago, came with Mangione
 
-
-
 14gp
 26sp
 43cp
-
-istirbuted to crew and commoners
+	Distirbuted to crew and commoners
 
 3 scimitar
 3 light crossbow
