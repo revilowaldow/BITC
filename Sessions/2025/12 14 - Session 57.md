@@ -63,5 +63,7 @@ Then main gate other side, and also access to industrial district
 
 Caravan outside main gate, many tieflings with ill will to Aegean society
 
+Aegen empire founding myth with silver clad knights defeating demonic horde, so tiefligns distrusted and division brews from there
+
 
 
