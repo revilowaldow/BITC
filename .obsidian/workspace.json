@@ -24,6 +24,20 @@
             }
           },
           {
+            "id": "d1779244e5f66c1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025/10 05 - Session 52.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 05 - Session 52"
+            }
+          },
+          {
             "id": "3a23688bd2db90bc",
             "type": "leaf",
             "pinned": true,
@@ -142,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -348,6 +362,8 @@
     "Sessions/2025/12 14 - Session 57.md",
     "Sessions/2025/11 16 - Session 55.md",
     "Sessions/2025/11 02 - Session 54.md",
+    "Sessions/2025/10 19 - Session 53.md",
+    "Sessions/2025/10 05 - Session 52.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/09 29 - Session 31.md",
     "Sessions/2024/05 19 - Session 22.md",
@@ -355,7 +371,6 @@
     "Sessions/2025/09 21 - Session 51.5.md",
     "Factions/Helviti/List of Commanda.md",
     "Locations/Battle of Looming Rock.md",
-    "Sessions/2025/10 05 - Session 52.md",
     "Locations/Abdos Woodland.canvas",
     "Factions/Silver Company/'Stealth'.md",
     "Locations/Kathkach/Silver Company Headquarters.md",
@@ -365,7 +380,6 @@
     "Locations/Coprun/Copper Mines.md",
     "Factions/Sea Blooded Org/Sea Blooded Organisation.md",
     "Factions/Sea Blooded Org/Evangeline Stifka.md",
-    "Sessions/2025/10 19 - Session 53.md",
     "Deity/Aepoptosis.md",
     "Factions/Wesken.md",
     "Locations/Ziardim Caverns.md",
