@@ -52,6 +52,8 @@ Siege weapons
 
 [[Corsaro]] - Same steelmonger from the Wisteria
 
+Are you travelling with someone called Thodunn
 
+Thodunn invited to visit headquarters of steelmongers in 
 
 
