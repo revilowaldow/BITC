@@ -36,6 +36,11 @@ Giant pot filled with fish and butter
 
 Thodunn dreaming, wakes up on boat alone, armour grows legs and starts running away
 
+Nothing from Revant
+
+Aru, memory vision of dismembered body in kathkach
+Scene, conversation, 
+
 
 
 
