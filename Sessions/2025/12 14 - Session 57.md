@@ -73,8 +73,8 @@ Harbour district
 Evangeline Stifka's ship is in the harbour
 
 Child Tiefling:
-- [[Setanta]] - old?
-- [[Kuwae]]
+- [[Setanta]] - old? "a million years old"
+- [[Kuwae]] - "maybe 50"
 - [[Korvi]]
 
 
