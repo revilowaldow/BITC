@@ -67,5 +67,6 @@ Aegen empire founding myth with silver clad knights defeating demonic horde, so 
 
 Harbour district
 - A large heavily fortified castle
-- One large Warehouse
+- One large warehouse
+- Large stone structure, tower with cordoned off area, a little bit of beauty (large flag of SBO on it)
 
