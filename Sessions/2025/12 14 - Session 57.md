@@ -34,7 +34,7 @@ Vrin stands atop a majestic rock
 monsters, lions goats, bowing in respect fear, duty, to protect guide, benevelonce
 Giant pot filled with fish and butter
 
-
+Thodunn dreaming, wakes up on boat alone, armour grows legs and starts running away
 
 
 
