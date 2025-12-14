@@ -30,7 +30,12 @@ Hmm
 	Kop does not dream
 	
 	Caenis greenish eyes, yuan ti alchemist, recipe 
-Vrin stands atop a majestic 
-monsters, lions goats, bowing in respest fear
+Vrin stands atop a majestic rock
+monsters, lions goats, bowing in respect fear, duty, to protect guide, benevelonce
+Giant pot filled with fish and butter
+
+
+
+
 
 
