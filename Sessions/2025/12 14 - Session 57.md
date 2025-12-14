@@ -22,4 +22,7 @@ Sponsored by SBO
 
 "Hi Hextan Chimera comanda in need of help, South bank babalos' goat farm, surrounded lionhold soilders, can hold out for two more days"
 
-Weather to the
+Weather to the West more moist/humid/temperate
+It's Autumn!
+
+
