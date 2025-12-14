@@ -54,7 +54,7 @@ Siege weapons
 
 Are you travelling with someone called Thodunn
 
-Thodunn invited to visit headquarters of steelmongers in town center
+Thodunn invited to visit headquarters of steelmongers in harbour
 
 Small town
 Silver Wing Tavern - Barbakan outer square
