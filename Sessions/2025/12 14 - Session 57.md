@@ -61,6 +61,7 @@ Silver Wing Tavern - Barbakan outer square
 Through residential district
 Then main gate other side, and also access to industrial district
 
+Caravan outside main gate, many tieflings with ill will to Aegean society
 
 
 
