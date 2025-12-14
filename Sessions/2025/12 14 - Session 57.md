@@ -54,6 +54,9 @@ Siege weapons
 
 Are you travelling with someone called Thodunn
 
-Thodunn invited to visit headquarters of steelmongers in 
+Thodunn invited to visit headquarters of steelmongers in town center
+
+Small town
+
 
 
