@@ -70,3 +70,5 @@ Harbour district
 - One large warehouse
 - Large stone structure, tower with cordoned off area, a little bit of beauty (large flag of SBO on it)
 
+Evangeline Stifka's ship is in the harbour
+
