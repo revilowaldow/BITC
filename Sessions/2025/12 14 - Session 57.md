@@ -20,4 +20,4 @@ Temporary contract as shiphand for a month
 Sponsored by SBO
 
 
-
+"Chimera comanda in need of help"
