@@ -8,3 +8,6 @@ Crew picked up two weeks ago, came with Mangione
 
 
 
+14gp
+26sp
+
