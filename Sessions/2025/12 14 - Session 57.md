@@ -29,7 +29,8 @@ Watch dreams
 Hmm
 	Kop does not dream
 	
-	Caenis greenish eyes, yuan ti alchemist
-	
+	Caenis greenish eyes, yuan ti alchemist, recipe 
+Vrin stands atop a majestic 
+monsters, lions goats, bowing in respest fear
 
 
