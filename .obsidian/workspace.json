@@ -70,49 +70,7 @@
             }
           },
           {
-            "id": "6871f23069acef2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Hirelings & Mounts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hirelings & Mounts"
-            }
-          },
-          {
-            "id": "2f9473061f15adb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Ration Rules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ration Rules"
-            }
-          },
-          {
-            "id": "affd26dbe4b210df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Rules/Rules Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rules Index"
-            }
-          },
-          {
-            "id": "ea40033f82c4bef6",
+            "id": "ee3a24abdee8e958",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -124,119 +82,9 @@
               "icon": "lucide-file",
               "title": "Valid Wild Shapes"
             }
-          },
-          {
-            "id": "1055dc487a2f76b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Party/Kaulinan Badag.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kaulinan Badag"
-            }
-          },
-          {
-            "id": "2689b730a6530952",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lady Jaquline's Revenge.png"
-              },
-              "icon": "lucide-image",
-              "title": "Lady Jaquline's Revenge"
-            }
-          },
-          {
-            "id": "0639b4832f62fc8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/04 23 - Session 0.5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 23 - Session 0.5"
-            }
-          },
-          {
-            "id": "3592dcfa6bd660d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/07 02 - Session 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07 02 - Session 5"
-            }
-          },
-          {
-            "id": "d62e32fdaaa26fb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/01 14 - Session 14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 14 - Session 14"
-            }
-          },
-          {
-            "id": "ffa0bf0ce5f63f31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/11 19 - Session 12.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11 19 - Session 12"
-            }
-          },
-          {
-            "id": "d2a29c480755661f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/09 24 - Session 9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09 24 - Session 9"
-            }
-          },
-          {
-            "id": "37164c87feae297b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/02 25 - Session 17.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 25 - Session 17"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -436,22 +284,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "ee3a24abdee8e958",
   "lastOpenFiles": [
-    "Factions/Silver Company/Party/Kaulinan Badag.md",
-    "Setting Rules/Valid Wild Shapes.md",
-    "Setting Rules/Rules Index.md",
-    "Setting Rules/Ration Rules.md",
-    "Setting Rules/Hirelings & Mounts.md",
     "Sessions/2023/05 07 - Session 1.md",
-    "Sessions/2025/12 14 - Session 57.md",
-    "Sessions/2024/02 25 - Session 17.md",
-    "Sessions/2025/11 30 - Session 56.md",
-    "Sessions/2023/07 02 - Session 5.md",
+    "Setting Rules/Hirelings & Mounts.md",
+    "Setting Rules/Ration Rules.md",
+    "Setting Rules/Rules Index.md",
+    "Setting Rules/Valid Wild Shapes.md",
+    "Factions/Silver Company/Party/Kaulinan Badag.md",
+    "Assets/Maps/Lady Jaquline's Revenge.png",
+    "Pasted image 20250921200842.png",
+    "Pasted image 20250907205402.png",
+    "Pasted image 20250907201732.png",
+    "Pasted image 20250629194504.png",
+    "Pasted image 20250615204540.png",
+    "Pasted image 20250223184136.png",
+    "Pasted image 20250112192828.png",
     "Sessions/2023/04 23 - Session 0.5.md",
-    "Sessions/2023/09 24 - Session 9.md",
-    "Sessions/2023/11 19 - Session 12.md",
+    "Sessions/2023/07 02 - Session 5.md",
     "Sessions/2024/01 14 - Session 14.md",
+    "Sessions/2023/11 19 - Session 12.md",
+    "Sessions/2023/09 24 - Session 9.md",
+    "Sessions/2024/02 25 - Session 17.md",
+    "Sessions/2025/12 14 - Session 57.md",
+    "Sessions/2025/11 30 - Session 56.md",
     "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2025/02 09 - Session 39.md",
     "Sessions/2025/02 23 - Session 40.md",
@@ -463,20 +319,11 @@
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/05 19 - Session 22.md",
-    "Sessions/2024/06 02 - Session 23.md",
-    "Lady Jaquline's Revenge.png",
     "Sessions/2026",
     "Locations/Abdos Woodland.canvas",
     "Locations/The Pit.canvas",
     "Untitled.base",
-    "Pasted image 20250921200842.png",
     "Assets/Characters/Palara Malain.png",
-    "Pasted image 20250112192828.png",
-    "Pasted image 20250223184136.png",
-    "Pasted image 20250615204540.png",
-    "Pasted image 20250629194504.png",
-    "Pasted image 20250907201732.png",
-    "Pasted image 20250907205402.png",
     "Assets/Maps/Pasted image 20251116180045.png",
     "Locations/Dungeon of Destiny.canvas",
     "Locations/Dog Prince Caves.canvas",
