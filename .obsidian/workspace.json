@@ -140,6 +140,18 @@
             }
           },
           {
+            "id": "2689b730a6530952",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251214184703.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251214184703"
+            }
+          },
+          {
             "id": "0639b4832f62fc8f",
             "type": "leaf",
             "state": {
@@ -224,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -424,8 +436,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1055dc487a2f76b8",
+  "active": "2689b730a6530952",
   "lastOpenFiles": [
+    "Factions/Silver Company/Party/Kaulinan Badag.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Setting Rules/Rules Index.md",
     "Setting Rules/Ration Rules.md",
@@ -451,7 +464,6 @@
     "Sessions/2024/04 21 - Session 21.md",
     "Sessions/2024/05 19 - Session 22.md",
     "Sessions/2024/06 02 - Session 23.md",
-    "Sessions/2024/06 16 - Session 24.md",
     "Pasted image 20251214184703.png",
     "Sessions/2026",
     "Locations/Abdos Woodland.canvas",
