@@ -2,7 +2,7 @@ Adam recapping
 
 > That my friend was a signal
 
-![[Pasted image 20251214184703.png]]
+![[Lady Jaquline's Revenge.png]]
 
 Crew picked up two weeks ago, came with Mangione
 
