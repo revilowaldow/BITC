@@ -20,5 +20,9 @@ Virtelle this is Caenis, where are you, can you describe your immediate surround
 
 > "Step raise left arm lunge parry riposte step step"
 
-[[Maegar]] - door 
+[[Maegar]] - door guard, 7 hour shift, noon-7pm
+Door opened for recognised faces
+
+
+
 
