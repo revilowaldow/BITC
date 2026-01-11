@@ -39,7 +39,10 @@ table with deck of cards
 Ostentatious dress, Tiefling woman
 "Welcome to my boutique"
 
-
+Tarot Reading
+	- Sun
+		- Answer will be plain, but do you recognise them
+		-  
 
 
 
