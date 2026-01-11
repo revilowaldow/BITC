@@ -42,7 +42,7 @@ Ostentatious dress, Tiefling woman
 Tarot Reading
 	- Sun
 		- Answer will be plain, but do you recognise them
-		-  You might see the answer 
+		-  You might see the answer as soon as you leave the tent
 
 
 
