@@ -28,6 +28,8 @@ Aegan flag post marking boundary of territory with kathkach
 Korvi sat at campfire
 Others sat around washing linens and bandages
 
+[[Kuwae]] in the tent with the flags
+
 
 
 
