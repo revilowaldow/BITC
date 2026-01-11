@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"e2124c775e7e2181","x":-130,"y":11,"width":250,"height":249,"type":"text","text":"Sea Blooded Organisation Tower\n\nWooden modern structure\n\nRoof troops (guards)"},
-		{"id":"3c68921130b83ec5","x":190,"y":-19,"width":250,"height":60,"type":"text","text":"Warehouses"},
-		{"id":"393786c3d9372243","type":"text","text":"Steel Monger fortress\n\nAnti-seige ","x":-100,"y":-240,"width":250,"height":171}
+		{"id":"3c68921130b83ec5","x":180,"y":-160,"width":250,"height":259,"type":"text","text":"Warehouses"},
+		{"id":"e2124c775e7e2181","x":-130,"y":0,"width":250,"height":249,"type":"text","text":"Sea Blooded Organisation Tower\n\nWooden modern structure\n\nRoof troops (guards)"},
+		{"id":"393786c3d9372243","type":"text","text":"Steel Monger Fortress\n\nAnti-siege stone building\n\nBalistae & Mangonel (Anti-ship)","x":-160,"y":-340,"width":310,"height":260}
 	],
 	"edges":[]
 }

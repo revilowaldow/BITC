@@ -86,7 +86,7 @@
             }
           },
           {
-            "id": "c7b716182c009bc5",
+            "id": "0d8a3c5dfcf6a672",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -94,8 +94,8 @@
               "state": {
                 "file": "Locations/Barbakan/Barbakan.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 90,
+                  "y": 70,
                   "zoom": 0
                 }
               },
@@ -210,7 +210,7 @@
               "state": {
                 "file": "Locations/Barbakan/Harbour District.canvas",
                 "viewState": {
-                  "x": 101.87639409215528,
+                  "x": 0,
                   "y": 0,
                   "zoom": 0
                 }
@@ -220,7 +220,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -420,8 +420,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5005b8819b984a75",
+  "active": "0d8a3c5dfcf6a672",
   "lastOpenFiles": [
+    "Factions/Silver Company/Asset List.md",
     "Locations/Barbakan/Barbakan.canvas",
     "Locations/Barbakan/Harbour District.canvas",
     "Locations/Barbakan",
@@ -437,7 +438,6 @@
     "Factions/Wesken.md",
     "Factions/Silver Company/Employee List.md",
     "Factions/Silver Company/Asset Roster.md",
-    "Factions/Silver Company/Asset List.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Setting Rules/Hirelings & Mounts.md",
     "Setting Rules/Ration Rules.md",
@@ -476,7 +476,6 @@
     "Setting Rules/Untitled",
     "Sessions/2025",
     "Locations/Lionhold",
-    "Factions/The Cooking Association",
-    "Locations/Lachaka/Lachaka Bandit Base.canvas"
+    "Factions/The Cooking Association"
   ]
 }
