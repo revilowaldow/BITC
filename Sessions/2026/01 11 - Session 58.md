@@ -30,6 +30,7 @@ Others sat around washing linens and bandages
 
 [[Kuwae]] in the tent with the flags
 
+Health of general population is poor, healiest are young, lots of cloaks for protection
 
 
 
