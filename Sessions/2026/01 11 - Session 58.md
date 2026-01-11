@@ -51,4 +51,7 @@ Small icons of the Azure Artist and the Celestial Queen
 
 
 
+Aepoptosians staying in a small house in the residential district
+
+
 
