@@ -23,6 +23,6 @@ Virtelle this is Caenis, where are you, can you describe your immediate surround
 [[Maegar]] - door guard, 7 hour shift, noon-7pm
 Door opened for recognised faces
 
-
+Aegan flag post marking boundary of territory with kath
 
 
