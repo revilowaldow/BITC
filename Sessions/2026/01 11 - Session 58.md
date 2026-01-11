@@ -48,7 +48,7 @@ Hostile about questions related to the bandages
 One person with a long staff watching the tent intently
 Small icons of the Azure Artist and the Celestial Queen
 
-
+Told Kuwae 
 
 
 Aepoptosians staying in a small house in the residential district
