@@ -8,3 +8,7 @@ Not within 1000ft of harbour
 
 Thodunn gives the Krusty Koin to Caenis
 
+Invisible Kaulinan and Vrin return, slightly squashing Aru
+
+Virtelle was not in the city
+
