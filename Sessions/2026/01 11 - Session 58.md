@@ -39,10 +39,13 @@ table with deck of cards
 Ostentatious dress, Tiefling woman
 "Welcome to my boutique"
 
+Hostile about questiosn related to the bandages
+
 Tarot Reading
 	- Sun
 		- Answer will be plain, but do you recognise them
 		-  You might see the answer as soon as you leave the tent
+	- 
 
 
 
