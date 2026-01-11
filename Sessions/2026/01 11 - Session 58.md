@@ -39,7 +39,7 @@ table with deck of cards
 Ostentatious dress, Tiefling woman
 "Welcome to my boutique"
 
-Hostile about questiosn related to the bandages
+Hostile about questions related to the bandages
 
 Tarot Reading
 	- Sun
