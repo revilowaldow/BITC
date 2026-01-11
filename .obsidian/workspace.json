@@ -86,6 +86,23 @@
             }
           },
           {
+            "id": "21910f50dacd733b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Lionhold/Ziardim Caverns.canvas",
+                "viewState": {
+                  "x": 1651.421523649702,
+                  "y": -59.93336122061666,
+                  "zoom": -0.20010127674286204
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Ziardim Caverns"
+            }
+          },
+          {
             "id": "0d8a3c5dfcf6a672",
             "type": "leaf",
             "pinned": true,
@@ -248,7 +265,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -280,7 +297,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hound",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -311,8 +328,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -449,12 +465,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90decdf93abd48c0",
+  "active": "21910f50dacd733b",
   "lastOpenFiles": [
+    "Sessions/2026/01 11 - Session 58.md",
     "Locations/Barbakan/Harbour District.canvas",
     "Sessions/2025/10 05 - Session 52.md",
     "Locations/Barbakan/Barbakan.canvas",
-    "Sessions/2026/01 11 - Session 58.md",
     "Sessions/2025/10 19 - Session 53.md",
     "Sessions/2025/11 16 - Session 55.md",
     "Locations/Coprun/Market.md",
