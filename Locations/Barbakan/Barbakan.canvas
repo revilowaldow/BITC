@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"6f26d0ea370c464d","type":"file","file":"Locations/Barbakan/Harbour District.canvas","x":-160,"y":-160,"width":300,"height":260},
-		{"id":"2c9aa12a969f4369","x":-270,"y":200,"width":520,"height":240,"type":"text","text":"Residential District"}
+		{"id":"2c9aa12a969f4369","x":-270,"y":200,"width":520,"height":240,"type":"text","text":"Residential District\n\n- No notable landmarks\n- Slanted rooves"}
 	],
 	"edges":[
 		{"id":"41c834ffe3052374","fromNode":"6f26d0ea370c464d","fromSide":"bottom","toNode":"2c9aa12a969f4369","toSide":"top"}
