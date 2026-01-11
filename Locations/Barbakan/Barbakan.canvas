@@ -1,9 +1,11 @@
 {
 	"nodes":[
 		{"id":"6f26d0ea370c464d","type":"file","file":"Locations/Barbakan/Harbour District.canvas","x":-160,"y":-160,"width":300,"height":260},
-		{"id":"2c9aa12a969f4369","x":-270,"y":200,"width":520,"height":240,"type":"text","text":"Residential District\n\n- No notable landmarks\n- Slanted rooves"}
+		{"id":"2c9aa12a969f4369","x":-270,"y":200,"width":520,"height":200,"type":"text","text":"Residential District\n\n- No notable landmarks\n- Slanted rooves, some gutters - rain"},
+		{"id":"945fbde8ac55cb30","x":-270,"y":520,"width":520,"height":200,"type":"text","text":"Barbakan Outer Square\n\n- Ciurcular\n- "}
 	],
 	"edges":[
-		{"id":"41c834ffe3052374","fromNode":"6f26d0ea370c464d","fromSide":"bottom","toNode":"2c9aa12a969f4369","toSide":"top"}
+		{"id":"41c834ffe3052374","fromNode":"6f26d0ea370c464d","fromSide":"bottom","toNode":"2c9aa12a969f4369","toSide":"top"},
+		{"id":"e396e8176bf78137","fromNode":"2c9aa12a969f4369","fromSide":"bottom","toNode":"945fbde8ac55cb30","toSide":"top"}
 	]
 }
