@@ -32,7 +32,9 @@ Others sat around washing linens and bandages
 
 Health of general population is poor, healthiest are young, lots of cloaks for protection
 
-Setanta is super gross
+Setanta is super gross, covered in wrinkles
+
+
 
 
 
