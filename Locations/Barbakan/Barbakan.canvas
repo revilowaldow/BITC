@@ -4,7 +4,7 @@
 		{"id":"6f26d0ea370c464d","type":"file","file":"Locations/Barbakan/Harbour District.canvas","x":-870,"y":-240,"width":300,"height":260},
 		{"id":"2c9aa12a969f4369","x":-740,"y":247,"width":340,"height":200,"type":"text","text":"Residential District\n\n- No notable landmarks\n- Slanted rooves, some gutters - rain"},
 		{"id":"1410ee59a839bde9","x":300,"y":347,"width":250,"height":60,"type":"text","text":"Industrial district"},
-		{"id":"34d9ef572dce970f","x":-270,"y":940,"width":370,"height":180,"type":"text","text":"Outskirts\n\n"}
+		{"id":"34d9ef572dce970f","x":-270,"y":940,"width":370,"height":260,"type":"text","text":"Outskirts\n\n- Quite swampish, reeds\n- Gathering of tents and carts\n\n"}
 	],
 	"edges":[
 		{"id":"41c834ffe3052374","fromNode":"6f26d0ea370c464d","fromSide":"bottom","toNode":"2c9aa12a969f4369","toSide":"top"},
