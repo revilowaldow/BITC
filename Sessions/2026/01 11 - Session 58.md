@@ -46,7 +46,7 @@ Tarot Reading
 
 Hostile about questions related to the bandages
 One person with a long staff watching the tent intently
-Small icon of the Azure Artist and the Celestial Q
+Small icons of the Azure Artist and the Celestial Queen
 
 
 
