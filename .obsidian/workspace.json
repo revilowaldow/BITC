@@ -86,23 +86,6 @@
             }
           },
           {
-            "id": "21910f50dacd733b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Lionhold/Ziardim Caverns.canvas",
-                "viewState": {
-                  "x": 1651.421523649702,
-                  "y": -59.93336122061666,
-                  "zoom": -0.20010127674286204
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ziardim Caverns"
-            }
-          },
-          {
             "id": "0d8a3c5dfcf6a672",
             "type": "leaf",
             "pinned": true,
@@ -112,7 +95,7 @@
                 "file": "Locations/Barbakan/Barbakan.canvas",
                 "viewState": {
                   "x": -477.2880723619337,
-                  "y": 585.3991496601022,
+                  "y": 191.7444592255255,
                   "zoom": -0.3651483659217034
                 }
               },
@@ -465,8 +448,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21910f50dacd733b",
+  "active": "0d8a3c5dfcf6a672",
   "lastOpenFiles": [
+    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2026/01 11 - Session 58.md",
     "Locations/Barbakan/Harbour District.canvas",
     "Sessions/2025/10 05 - Session 52.md",
@@ -512,7 +496,6 @@
     "Assets/Characters/Palara Malain.png",
     "Assets/Maps/Pasted image 20251116180045.png",
     "Locations/Dungeon of Destiny.canvas",
-    "Locations/Lionhold/Ziardim Caverns.canvas",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Locations/Kathkach/Abandoned House.canvas",
