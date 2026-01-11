@@ -76,4 +76,5 @@ Clearly caught in being in a lie
 
 Allowed to do what we need to do, but quietly
 
-No 
+No reinformcents sent to tower of sea blooded org
+
