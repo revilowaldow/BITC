@@ -57,6 +57,8 @@ Aepoptosians staying in a small house in the residential district
 	Teifling, reccomended to post by General Duty
 	
 
-Be careful, there's a kraetura 
+Be careful, there's a kraetura in the wilderness
+
+Heading to the steelmongers
 
 
