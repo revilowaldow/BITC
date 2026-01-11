@@ -78,3 +78,6 @@ Allowed to do what we need to do, but quietly
 
 No reinformcents sent to tower of sea blooded org
 
+Warned him about the caravan having Kana
+
+If they're attacking in kathkach they're bandits
