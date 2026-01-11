@@ -171,14 +171,17 @@
             "id": "c7b716182c009bc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Sessions/2026/01 11 - Session 58.md",
-                "mode": "source",
-                "source": false
+                "file": "Sessions/2026/Barbakan.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "01 11 - Session 58"
+              "icon": "lucide-layout-dashboard",
+              "title": "Barbakan"
             }
           }
         ],
@@ -382,13 +385,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7b716182c009bc5",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
-    "Sessions/2025/11 16 - Session 55.md",
     "Sessions/2026/01 11 - Session 58.md",
+    "Sessions/2026/Barbakan.canvas",
+    "Untitled.md",
+    "Sessions/2025/12 14 - Session 57.md",
+    "Sessions/2025/11 16 - Session 55.md",
     "Sessions/2025/11 02 - Session 54.md",
     "Sessions/2025/11 30 - Session 56.md",
-    "Sessions/2025/12 14 - Session 57.md",
     "Sessions/2025/Untitled",
     "Setting Rules/Valid Wild Shapes.md",
     "Factions/Toryk Jamal.md",
@@ -417,8 +422,6 @@
     "Sessions/2024/02 25 - Session 17.md",
     "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2025/02 09 - Session 39.md",
-    "Sessions/2025/02 23 - Session 40.md",
-    "Corsaro.md",
     "Sessions/2026",
     "Locations/Abdos Woodland.canvas",
     "Locations/The Pit.canvas",
