@@ -25,7 +25,8 @@ Door opened for recognised faces
 
 Aegan flag post marking boundary of territory with kathkach
 
-
+Korvi sat at campfire
+Others sat around a
 
 
 
