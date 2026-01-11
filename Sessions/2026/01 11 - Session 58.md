@@ -34,6 +34,11 @@ Health of general population is poor, healthiest are young, lots of cloaks for p
 
 Setanta is super gross, covered in wrinkles
 
+Incense and perfumes
+table with deck of cards
+
+
+
 
 
 
