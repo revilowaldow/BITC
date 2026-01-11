@@ -36,6 +36,10 @@ Setanta is super gross, covered in wrinkles
 
 Incense and perfumes
 table with deck of cards
+Ostentatious dress, Tiefling woman
+"Welcome to my boutique"
+
+
 
 
 
