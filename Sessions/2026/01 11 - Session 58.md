@@ -68,4 +68,7 @@ Wake up General Duty amd fetch COsaro
 Winding corridor
 
 General Duty is an old man
-
+70-s 80s
+short cut well trimmed hair
+	viewed as a health thing, frequent cut/trim
+	
