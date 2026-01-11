@@ -239,16 +239,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2025/10 19 - Session 53.md",
+                "file": "Sessions/2025/10 05 - Session 52.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 19 - Session 53"
+              "title": "10 05 - Session 52"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -280,7 +280,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "revant",
+                "query": "hound",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -449,9 +449,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0eed41da9f0d930c",
+  "active": "d64d57bbfa4524a3",
   "lastOpenFiles": [
     "Sessions/2025/10 05 - Session 52.md",
+    "Sessions/2025/10 19 - Session 53.md",
     "Sessions/2025/11 16 - Session 55.md",
     "Locations/Coprun/Market.md",
     "Factions/Silver Company/Yayek.md",
@@ -482,7 +483,6 @@
     "Sessions/2023/05 07 - Session 1.md",
     "Setting Rules/Hirelings & Mounts.md",
     "Setting Rules/Ration Rules.md",
-    "Setting Rules/Rules Index.md",
     "Assets/Maps/Lady Jaquline's Revenge.png",
     "Pasted image 20250921200842.png",
     "Pasted image 20250907205402.png",
