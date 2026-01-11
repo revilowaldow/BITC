@@ -4,7 +4,7 @@ Adam recapping
 
 ![[Lady Jaquline's Revenge.png]]
 
-Crew picked up two weeks ago, came with Mangione
+Crew picked up two weeks ago, came with  [[Pulio Mangione]]
 
 14gp
 26sp
