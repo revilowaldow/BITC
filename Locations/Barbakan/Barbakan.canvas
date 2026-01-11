@@ -1,17 +1,17 @@
 {
 	"nodes":[
-		{"id":"945fbde8ac55cb30","x":-270,"y":520,"width":370,"height":260,"type":"text","text":"Barbakan Outer Square\n\n- Ciurcular\n- Near to walls\n\n- Tavern, outdoor seating\n\t- [[Silver Wing Tavern]]\n- Smaller square with workshops\n- Stable next to gate\n- "},
-		{"id":"6f26d0ea370c464d","type":"file","file":"Locations/Barbakan/Harbour District.canvas","x":-870,"y":-240,"width":300,"height":260},
-		{"id":"2c9aa12a969f4369","x":-740,"y":247,"width":340,"height":200,"type":"text","text":"Residential District\n\n- No notable landmarks\n- Slanted rooves, some gutters - rain"},
 		{"id":"1410ee59a839bde9","x":300,"y":347,"width":250,"height":60,"type":"text","text":"Industrial district"},
-		{"id":"34d9ef572dce970f","x":-270,"y":940,"width":370,"height":260,"type":"text","text":"Outskirts\n\n- Quite swampish, reeds\n- Gathering of tents and carts\n\n"},
-		{"id":"4bbe8bf83e868be4","x":-1160,"y":-520,"width":250,"height":164,"type":"text","text":"Island\n\n- Fishing lodges\n- Not much else, forest"}
+		{"id":"945fbde8ac55cb30","x":-320,"y":480,"width":370,"height":300,"type":"text","text":"Barbakan Outer Square\n\n- Ciurcular\n- Near to walls\n\n- Tavern, outdoor seating\n\t- [[Silver Wing Tavern]]\n- Smaller square with workshops\n- Stable next to gate\n- "},
+		{"id":"34d9ef572dce970f","x":-320,"y":860,"width":370,"height":260,"type":"text","text":"Outskirts\n\n- Quite swampish, reeds\n- Gathering of tents and carts\n\n"},
+		{"id":"2c9aa12a969f4369","x":-720,"y":231,"width":340,"height":233,"type":"text","text":"Residential District\n\n- No notable landmarks\n- Slanted rooves, some gutters - rain"},
+		{"id":"6f26d0ea370c464d","type":"file","file":"Locations/Barbakan/Harbour District.canvas","x":-850,"y":-160,"width":300,"height":260},
+		{"id":"4bbe8bf83e868be4","x":-1120,"y":-500,"width":250,"height":164,"type":"text","text":"Island\n\n- Fishing lodges\n- Not much else, forest"}
 	],
 	"edges":[
 		{"id":"41c834ffe3052374","fromNode":"6f26d0ea370c464d","fromSide":"bottom","toNode":"2c9aa12a969f4369","toSide":"top"},
 		{"id":"b421b8cd4be6e49d","fromNode":"945fbde8ac55cb30","fromSide":"bottom","toNode":"34d9ef572dce970f","toSide":"top","label":"Main Gate"},
 		{"id":"b795c64c0422b477","fromNode":"945fbde8ac55cb30","fromSide":"right","toNode":"1410ee59a839bde9","toSide":"bottom"},
 		{"id":"c2138535bf435191","fromNode":"2c9aa12a969f4369","fromSide":"bottom","toNode":"945fbde8ac55cb30","toSide":"left"},
-		{"id":"d5c1efda94987933","fromNode":"6f26d0ea370c464d","fromSide":"left","toNode":"4bbe8bf83e868be4","toSide":"bottom"}
+		{"id":"d5c1efda94987933","fromNode":"6f26d0ea370c464d","fromSide":"left","toNode":"4bbe8bf83e868be4","toSide":"bottom","color":"5","label":"River"}
 	]
 }
