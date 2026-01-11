@@ -12,3 +12,8 @@ Invisible Kaulinan and Vrin return, slightly squashing Aru
 
 Virtelle was not in the city
 
+THodunn aprehensive about meeting Steelmongers
+
+Caenis casts sending
+
+Virtell this is cae
