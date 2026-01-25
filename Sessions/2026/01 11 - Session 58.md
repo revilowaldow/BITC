@@ -63,7 +63,7 @@ Heading to the steelmongers
 
 Giving names
 
-Wake up General Duty amd fetch COsaro
+Wake up General Duty amd fetch Corsaro
 
 Winding corridor
 
