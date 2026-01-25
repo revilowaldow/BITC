@@ -178,8 +178,8 @@
               "state": {
                 "file": "Locations/Barbakan/Barbakan.canvas",
                 "viewState": {
-                  "x": -48.369026563486514,
-                  "y": 509.44036520174024,
+                  "x": -761.5037852085734,
+                  "y": -101.81799935119149,
                   "zoom": 1.1102230246251565e-16
                 }
               },
@@ -205,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -405,11 +405,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d8a3c5dfcf6a672",
+  "active": "90decdf93abd48c0",
   "lastOpenFiles": [
+    "Locations/Barbakan/Barbakan.canvas",
     "Sessions/2026/01 25 - Session 59.md",
     "Locations/Barbakan/Harbour District.canvas",
-    "Locations/Barbakan/Barbakan.canvas",
     "Sessions/2026/01 11 - Session 58.md",
     "Sessions/2025/11 16 - Session 55.md",
     "Sessions/2025/11 02 - Session 54.md",
