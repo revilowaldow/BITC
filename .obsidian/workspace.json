@@ -40,6 +40,78 @@
             }
           },
           {
+            "id": "2201711c55d17213",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Evangeline Stifka.png"
+              },
+              "icon": "lucide-image",
+              "title": "Evangeline Stifka"
+            }
+          },
+          {
+            "id": "42fc0685dd1a7519",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Piggy.png"
+              },
+              "icon": "lucide-image",
+              "title": "Piggy"
+            }
+          },
+          {
+            "id": "70f2f15185554d3f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "SBO L5.png"
+              },
+              "icon": "lucide-image",
+              "title": "SBO L5"
+            }
+          },
+          {
+            "id": "30a2f78c87c17433",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260125195354.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260125195354"
+            }
+          },
+          {
+            "id": "a5a80cf820d87c0c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260125184741.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260125184741"
+            }
+          },
+          {
+            "id": "5bbc18404e173d2e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "SBO L4.png"
+              },
+              "icon": "lucide-image",
+              "title": "SBO L4"
+            }
+          },
+          {
             "id": "0d8a3c5dfcf6a672",
             "type": "leaf",
             "pinned": true,
@@ -73,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -273,20 +345,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ca548440fbb4529",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
-    "Pasted image 20260125212805.png",
-    "Pasted image 20260125212758.png",
-    "Pasted image 20260125201148.png",
-    "Pasted image 20260125195354.png",
-    "Factions/Local Arcanists/Vixel.md",
-    "Sessions/2026/01 25 - Session 59.md",
+    "SBO L5.png",
+    "SBO L4.png",
+    "Pasted image 20260125184432.png",
     "Pasted image 20260125184741.png",
+    "Pasted image 20260125195354.png",
+    "Piggy.png",
+    "Evangeline Stifka.png",
+    "Sessions/2026/01 25 - Session 59.md",
+    "Factions/Local Arcanists/Vixel.md",
     "Locations/Barbakan/Barbakan.canvas",
     "Sessions/2024/12 01 - Session 36.md",
     "Untitled.base",
-    "Pasted image 20260125184432.png",
-    "Pasted image 20260125184419.png",
     "Sessions/2026/01 11 - Session 58.md",
     "Sessions/2025/11 16 - Session 55.md",
     "Sessions/2025/11 30 - Session 56.md",
@@ -318,7 +390,6 @@
     "Locations/Dog Prince Caves.canvas",
     "Locations/Barbakan",
     "Sessions/2025/Untitled",
-    "Assets/Maps/Lady Jaquline's Revenge.png",
     "Sessions/2026",
     "Locations/Abdos Woodland.canvas",
     "Locations/Dungeon of Destiny.canvas",

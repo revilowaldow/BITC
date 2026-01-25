@@ -48,9 +48,7 @@ Owl 7 19/19
 Owl 8 19/19
 
 ![[Pasted image 20260125184741.png]]
-![[Pasted image 20260125212758.png]]
-![[Pasted image 20260125184432.png]]
-
+![[Piggy.png]]
 > "[[Torniar Maluka|Torniar]] will hear of this"
 
 Revant gets stuck in a celeres, mortal wound but not causing an effect?
@@ -68,7 +66,7 @@ Shaved head
 > - Evangelene Stifka
 
 
-![[Pasted image 20260125201148.png]]
+![[SBO L5.png]]
 
 > "I killed my mother"
 > - Piggy
@@ -76,4 +74,4 @@ Shaved head
 > "I didn't mean to."
 > - Piggy
 
-![[Pasted image 20260125212758.png]]![[Pasted image 20260125212805.png]]
+![[Piggy.png]]![[Evangeline Stifka.png]]
