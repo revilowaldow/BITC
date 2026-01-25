@@ -37,9 +37,9 @@ Scowliest owls for thodunn
 
 "Right on cue"
 
-Owl 1 with thodun 4/19
-Owl 2 with thodun 19/19
-Owl 3 Aru 19/19
+~~Owl 1 with thodun 4/19~~
+Owl 2 with thodun 6/19
+Owl 3 Aru 6/19
 Vrin
 Owl 4 Caenis 19/19
 Owl 5 Kaulinan 19/19
