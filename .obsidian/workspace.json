@@ -94,8 +94,8 @@
               "state": {
                 "file": "Locations/Barbakan/Barbakan.canvas",
                 "viewState": {
-                  "x": -477.2880723619337,
-                  "y": 191.7444592255255,
+                  "x": -193.68740253819777,
+                  "y": 586.810153802215,
                   "zoom": -0.3651483659217034
                 }
               },
@@ -103,9 +103,25 @@
               "icon": "lucide-layout-dashboard",
               "title": "Barbakan"
             }
+          },
+          {
+            "id": "4ca548440fbb4529",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2026/01 25 - Session 59.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "01 25 - Session 59"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -305,8 +321,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d8a3c5dfcf6a672",
+  "active": "90decdf93abd48c0",
   "lastOpenFiles": [
+    "Locations/Barbakan/Barbakan.canvas",
+    "Sessions/2026/01 25 - Session 59.md",
     "Factions/Silver Company/Asset List.md",
     "Factions/Silver Company/Asset Roster.md",
     "Factions/Silver Company/Employee List.md",
@@ -317,7 +335,6 @@
     "Locations/Barbakan/Harbour District.canvas",
     "Locations/Coprun/Market.md",
     "Sessions/2025/10 05 - Session 52.md",
-    "Locations/Barbakan/Barbakan.canvas",
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Sessions/2026/01 11 - Session 58.md",
     "Sessions/2025/10 19 - Session 53.md",
@@ -338,7 +355,6 @@
     "Sessions/2025/11 02 - Session 54.md",
     "Sessions/2025/11 30 - Session 56.md",
     "Sessions/2025/Untitled",
-    "Setting Rules/Hirelings & Mounts.md",
     "Assets/Maps/Lady Jaquline's Revenge.png",
     "Pasted image 20250921200842.png",
     "Pasted image 20250907205402.png",
