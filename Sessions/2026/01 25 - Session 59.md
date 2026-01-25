@@ -73,4 +73,6 @@ Shaved head
 > "I killed my mother"
 > - Piggy
 
+> "I didn't mean to."
+> - Piggy
 
