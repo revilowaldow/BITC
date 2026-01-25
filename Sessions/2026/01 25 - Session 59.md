@@ -58,6 +58,8 @@ Revant gets stuck in a celeres, mortal wound but not causing an effect?
 Tower collapses in explosion
 
 
-Evangeline Stifka, cylinders
+Evangeline Stifka, cylinders by her side
+Shaved head
+
 
 
