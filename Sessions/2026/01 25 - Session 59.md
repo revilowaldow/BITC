@@ -30,3 +30,7 @@ Summoned owls
 Most flamboyant owl for caenis
 Scowliest owls for thodunn
 
+6 individuals on roof
+Steelmonger celeres
+
+
