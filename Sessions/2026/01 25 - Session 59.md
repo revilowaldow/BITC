@@ -32,7 +32,7 @@ Scowliest owls for thodunn
 
 6 individuals on roof
 	4 Steelmonger celeres
-	1 person in robes, not aepoptosian, maybe magus
+	1 person in robes, not aepoptosian, Blood Magus
 	1 Piggy with a balistae
 
 "Right on cue"
@@ -47,7 +47,7 @@ Owl 6  Kaulinan 19/19
 Owl 7 19/19
 Owl 8 19/19
 
-![[Pasted image 20260125184419.png]]
+![[Pasted image 20260125184741.png]]
 
 ![[Pasted image 20260125184432.png]]
 
