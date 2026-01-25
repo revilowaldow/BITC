@@ -64,6 +64,8 @@ Shaved head
 
 ![[Pasted image 20260125195354.png]]
 
+> "They got to me first"
+> - Evangelene Stifka
 
 
 
