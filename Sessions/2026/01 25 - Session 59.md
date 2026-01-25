@@ -62,5 +62,8 @@ Evangeline Stifka, cylinders by her side
 Shaved head
 
 
+![[Pasted image 20260125195354.png]]
+
+
 
 
