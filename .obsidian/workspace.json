@@ -119,9 +119,19 @@
               "icon": "lucide-file",
               "title": "01 25 - Session 59"
             }
+          },
+          {
+            "id": "75e8f090018b4700",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -321,14 +331,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90decdf93abd48c0",
+  "active": "75e8f090018b4700",
   "lastOpenFiles": [
+    "Sessions/2026/01 11 - Session 58.md",
     "Locations/Barbakan/Barbakan.canvas",
     "Sessions/2026/01 25 - Session 59.md",
     "Pasted image 20250907201732.png",
     "Pasted image 20250907205402.png",
     "Pasted image 20250921200842.png",
-    "Sessions/2026/01 11 - Session 58.md",
     "Factions/Silver Company/Asset List.md",
     "Factions/Silver Company/Asset Roster.md",
     "Factions/Silver Company/Employee List.md",
