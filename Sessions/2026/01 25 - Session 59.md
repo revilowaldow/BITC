@@ -32,7 +32,7 @@ Scowliest owls for thodunn
 
 6 individuals on roof
 	4 Steelmonger celeres
-	1 person in robes
+	1 person in robes, not aepoptosian, maybe a
 	1 Piggy with a balistae
 
 
