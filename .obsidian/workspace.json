@@ -178,9 +178,9 @@
               "state": {
                 "file": "Locations/Barbakan/Barbakan.canvas",
                 "viewState": {
-                  "x": -517.2836478185588,
-                  "y": 39.10970179087809,
-                  "zoom": 0.7302967318434072
+                  "x": -48.369026563486514,
+                  "y": 509.44036520174024,
+                  "zoom": 1.1102230246251565e-16
                 }
               },
               "pinned": true,
@@ -203,36 +203,9 @@
               "icon": "lucide-file",
               "title": "01 25 - Session 59"
             }
-          },
-          {
-            "id": "75e8f090018b4700",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "2605554bcc493222",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Barbakan/Harbour District.canvas",
-                "viewState": {
-                  "x": 65,
-                  "y": -150,
-                  "zoom": -0.3651483659217035
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Harbour District"
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -432,11 +405,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2605554bcc493222",
+  "active": "0d8a3c5dfcf6a672",
   "lastOpenFiles": [
+    "Sessions/2026/01 25 - Session 59.md",
+    "Locations/Barbakan/Harbour District.canvas",
     "Locations/Barbakan/Barbakan.canvas",
     "Sessions/2026/01 11 - Session 58.md",
-    "Sessions/2026/01 25 - Session 59.md",
     "Sessions/2025/11 16 - Session 55.md",
     "Sessions/2025/11 02 - Session 54.md",
     "Sessions/2025/10 19 - Session 53.md",
@@ -457,7 +431,6 @@
     "Factions/Toryk Jamal.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Setting Rules/Valid Wild Shapes.md",
-    "Locations/Barbakan/Harbour District.canvas",
     "Locations/Coprun/Market.md",
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Factions/Silver Company/Yayek.md",
