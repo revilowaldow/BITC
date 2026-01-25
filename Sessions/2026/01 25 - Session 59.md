@@ -46,3 +46,8 @@ Owl 5 Kaulinan 19/19
 Owl 6  Kaulinan 19/19
 Owl 7 19/19
 Owl 8 19/19
+
+![[Pasted image 20260125184419.png]]
+
+![[Pasted image 20260125184432.png]]
+
