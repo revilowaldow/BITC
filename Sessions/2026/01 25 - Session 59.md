@@ -55,6 +55,8 @@ Owl 8 19/19
 
 Revant gets stuck in a celeres, mortal wound but not causing an effect?
 
+Tower collapses in explosion
+
 
 
 
