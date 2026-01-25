@@ -48,7 +48,7 @@ Owl 7 19/19
 Owl 8 19/19
 
 ![[Pasted image 20260125184741.png]]
-
+![[Pasted image 20260125212758.png]]
 ![[Pasted image 20260125184432.png]]
 
 > "[[Torniar Maluka|Torniar]] will hear of this"
@@ -76,3 +76,4 @@ Shaved head
 > "I didn't mean to."
 > - Piggy
 
+![[Pasted image 20260125212758.png]]![[Pasted image 20260125212805.png]]
