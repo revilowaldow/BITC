@@ -178,9 +178,9 @@
               "state": {
                 "file": "Locations/Barbakan/Barbakan.canvas",
                 "viewState": {
-                  "x": -456.12386282791556,
-                  "y": 586.810153802215,
-                  "zoom": -0.3651483659217034
+                  "x": -517.2836478185588,
+                  "y": 39.10970179087809,
+                  "zoom": 0.7302967318434072
                 }
               },
               "pinned": true,
@@ -213,9 +213,26 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "2605554bcc493222",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Barbakan/Harbour District.canvas",
+                "viewState": {
+                  "x": 65,
+                  "y": -150,
+                  "zoom": -0.3651483659217035
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Harbour District"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -415,8 +432,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ca548440fbb4529",
+  "active": "2605554bcc493222",
   "lastOpenFiles": [
+    "Locations/Barbakan/Barbakan.canvas",
+    "Sessions/2026/01 11 - Session 58.md",
     "Sessions/2026/01 25 - Session 59.md",
     "Sessions/2025/11 16 - Session 55.md",
     "Sessions/2025/11 02 - Session 54.md",
@@ -428,8 +447,6 @@
     "Sessions/2025/07 27 - Session 49.md",
     "Sessions/2025/11 30 - Session 56.md",
     "Sessions/2025/12 14 - Session 57.md",
-    "Sessions/2026/01 11 - Session 58.md",
-    "Locations/Barbakan/Barbakan.canvas",
     "Pasted image 20250907201732.png",
     "Pasted image 20250907205402.png",
     "Pasted image 20250921200842.png",
@@ -449,7 +466,6 @@
     "Locations/The Pit.canvas",
     "Sessions/2023/06 18 - Session 4.md",
     "Sessions/2025/04 06 - Session 43.md",
-    "Sessions/2025/02 23 - Session 40.md",
     "Locations/Dog Prince Caves.canvas",
     "Locations/Barbakan",
     "Sessions/2025/Untitled",
