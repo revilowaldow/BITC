@@ -51,5 +51,7 @@ Owl 8 19/19
 
 ![[Pasted image 20260125184432.png]]
 
-Torniar will hear of this
+> "[[Torniar Maluka|Torniar]] will hear of this"
+
+
 

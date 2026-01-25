@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pidgeon",
+                "query": "torni",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -259,7 +260,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ca548440fbb4529",
+  "active": "d64d57bbfa4524a3",
   "lastOpenFiles": [
     "Pasted image 20260125184741.png",
     "Locations/Barbakan/Barbakan.canvas",
