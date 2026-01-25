@@ -12,5 +12,9 @@ Alternative SBO branch leader [[Nilophte]]
 
 20ft doors, little doorbell
 
-Tree in 
+Tree in courtyard
+
+well patrolled roof, courtyard seems lax
+
+
 
