@@ -40,78 +40,6 @@
             }
           },
           {
-            "id": "2201711c55d17213",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Evangeline Stifka.png"
-              },
-              "icon": "lucide-image",
-              "title": "Evangeline Stifka"
-            }
-          },
-          {
-            "id": "42fc0685dd1a7519",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Piggy.png"
-              },
-              "icon": "lucide-image",
-              "title": "Piggy"
-            }
-          },
-          {
-            "id": "70f2f15185554d3f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "SBO L5.png"
-              },
-              "icon": "lucide-image",
-              "title": "SBO L5"
-            }
-          },
-          {
-            "id": "30a2f78c87c17433",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260125195354.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260125195354"
-            }
-          },
-          {
-            "id": "a5a80cf820d87c0c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260125184741.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260125184741"
-            }
-          },
-          {
-            "id": "5bbc18404e173d2e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "SBO L4.png"
-              },
-              "icon": "lucide-image",
-              "title": "SBO L4"
-            }
-          },
-          {
             "id": "0d8a3c5dfcf6a672",
             "type": "leaf",
             "pinned": true,
@@ -145,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -345,18 +273,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "4ca548440fbb4529",
   "lastOpenFiles": [
-    "SBO L5.png",
+    "Locations/Barbakan/Barbakan.canvas",
+    "Pasted image 20250907205402.png",
+    "Pasted image 20250921200842.png",
+    "SBO L6 (Roof).png",
+    "SBO L3.png",
     "SBO L4.png",
-    "Pasted image 20260125184432.png",
-    "Pasted image 20260125184741.png",
-    "Pasted image 20260125195354.png",
     "Piggy.png",
+    "Pasted image 20250907201732.png",
+    "Pasted image 20260125184432.png",
     "Evangeline Stifka.png",
     "Sessions/2026/01 25 - Session 59.md",
     "Factions/Local Arcanists/Vixel.md",
-    "Locations/Barbakan/Barbakan.canvas",
     "Sessions/2024/12 01 - Session 36.md",
     "Untitled.base",
     "Sessions/2026/01 11 - Session 58.md",
@@ -373,9 +303,6 @@
     "Sessions/2025/09 07 - Session 51.md",
     "Sessions/2025/08 10 - Session 50.md",
     "Sessions/2025/07 27 - Session 49.md",
-    "Pasted image 20250907201732.png",
-    "Pasted image 20250907205402.png",
-    "Pasted image 20250921200842.png",
     "Factions/Silver Company/Asset List.md",
     "Factions/Silver Company/Asset Roster.md",
     "Factions/Silver Company/Employee List.md",

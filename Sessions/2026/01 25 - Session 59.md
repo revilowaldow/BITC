@@ -47,7 +47,7 @@ Owl 6  Kaulinan 19/19
 Owl 7 19/19
 Owl 8 19/19
 
-![[Pasted image 20260125184741.png]]
+![[SBO L6 (Roof).png]]
 ![[Piggy.png]]
 > "[[Torniar Maluka|Torniar]] will hear of this"
 
@@ -56,22 +56,21 @@ Revant gets stuck in a celeres, mortal wound but not causing an effect?
 Tower collapses in explosion
 
 
+![[Evangeline Stifka.png]]
 Evangeline Stifka, cylinders by her side
 Shaved head
 
 
-![[Pasted image 20260125195354.png]]
+![[SBO L3.png]]
 
 > "They got to me first"
 > - Evangelene Stifka
 
 
-![[SBO L5.png]]
+![[SBO L4.png]]
 
 > "I killed my mother"
 > - Piggy
 
 > "I didn't mean to."
 > - Piggy
-
-![[Piggy.png]]![[Evangeline Stifka.png]]
