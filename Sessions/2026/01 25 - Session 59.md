@@ -31,6 +31,9 @@ Most flamboyant owl for caenis
 Scowliest owls for thodunn
 
 6 individuals on roof
-Steelmonger celeres
+	4 Steelmonger celeres
+	1 person in robes
+	1 Piggy with a balistae
+
 
 
