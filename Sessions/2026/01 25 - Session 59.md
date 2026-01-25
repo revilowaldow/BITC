@@ -16,5 +16,6 @@ Tree in courtyard
 
 well patrolled roof, courtyard seems lax
 
+Unkempt back passage
 
-
+Weak point on ground floor wall, growth of tree as high as second floor
