@@ -28,5 +28,5 @@ Sulphuric acrid smell of reagent from north eastern corner of ground floor
 Paid off two drunkards to make themselves scarce
 Summoned owls
 Most flamboyant owl for caenis
-scowliest owls for thodunn
+Scowliest owls for thodunn
 
