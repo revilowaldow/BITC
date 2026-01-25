@@ -22,4 +22,5 @@ Weak point on ground floor wall, growth of tree as high as second floor
 
 Front entrance to south
 
-Sulphuric acrid smell of reagent
+Sulphuric acrid smell of reagent from north eastern corner of ground floor
+
