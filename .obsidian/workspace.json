@@ -59,6 +59,34 @@
             }
           },
           {
+            "id": "f7bd592bb3c9ce54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Corsaro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Corsaro"
+            }
+          },
+          {
+            "id": "55d4c8bf8275777d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flatek of the Flavours.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flatek of the Flavours"
+            }
+          },
+          {
             "id": "bd31a59bd26b805b",
             "type": "leaf",
             "state": {
@@ -73,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -273,19 +301,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ca548440fbb4529",
+  "active": "55d4c8bf8275777d",
   "lastOpenFiles": [
+    "Corsaro.md",
     "Locations/Barbakan/Barbakan.canvas",
+    "Untitled.md",
+    "Sessions/2026/01 25 - Session 59.md",
     "Pasted image 20250907205402.png",
     "Pasted image 20250921200842.png",
-    "SBO L6 (Roof).png",
-    "SBO L3.png",
-    "SBO L4.png",
-    "Piggy.png",
+    "Assets/Maps/SBO L6 (Roof).png",
+    "Assets/Maps/SBO L3.png",
+    "Assets/Maps/SBO L4.png",
+    "Assets/Characters/Piggy.png",
     "Pasted image 20250907201732.png",
     "Pasted image 20260125184432.png",
-    "Evangeline Stifka.png",
-    "Sessions/2026/01 25 - Session 59.md",
+    "Assets/Characters/Evangeline Stifka.png",
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/12 01 - Session 36.md",
     "Untitled.base",
@@ -312,7 +342,6 @@
     "Setting Rules/Valid Wild Shapes.md",
     "Locations/Coprun/Market.md",
     "Locations/Lionhold/Ziardim Caverns.canvas",
-    "Factions/Silver Company/Yayek.md",
     "Locations/The Pit.canvas",
     "Locations/Dog Prince Caves.canvas",
     "Locations/Barbakan",
