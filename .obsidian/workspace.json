@@ -71,22 +71,9 @@
               "icon": "lucide-file",
               "title": "12 01 - Session 36"
             }
-          },
-          {
-            "id": "74cc6f1fcfe7f135",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
