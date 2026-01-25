@@ -53,7 +53,9 @@ Owl 8 19/19
 
 > "[[Torniar Maluka|Torniar]] will hear of this"
 
-Revant gets stuck in a celeres, mortal wound but not 
+Revant gets stuck in a celeres, mortal wound but not causing an effect?
+
+
 
 
 
