@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "torni",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,8 +136,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -274,7 +273,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd31a59bd26b805b",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Sessions/2026/01 25 - Session 59.md",
     "Pasted image 20260125184741.png",
