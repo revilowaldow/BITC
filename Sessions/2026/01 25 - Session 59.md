@@ -69,3 +69,8 @@ Shaved head
 
 
 ![[Pasted image 20260125201148.png]]
+
+> "I killed my mother"
+> - Piggy
+
+
