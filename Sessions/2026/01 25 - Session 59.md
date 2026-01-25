@@ -24,3 +24,7 @@ Front entrance to south
 
 Sulphuric acrid smell of reagent from north eastern corner of ground floor
 
+
+Paid off 
+
+Most flamboyant 
