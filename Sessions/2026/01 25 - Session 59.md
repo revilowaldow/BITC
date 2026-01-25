@@ -20,3 +20,6 @@ Unkempt back passage
 
 Weak point on ground floor wall, growth of tree as high as second floor
 
+Front entrance to south
+
+Sulphuric acrid smell of reagent
