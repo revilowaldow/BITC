@@ -54,7 +54,7 @@ Told Kuwae we were looking for virtelle, were allowed to see Setana, who was rev
 Aepoptosians staying in a small house in the residential district
 
 [[Questis]]  - professional bard
-	Teifling, reccomended to post by General Duty
+	Teifling, recommended to post by General Duty
 	
 
 Be careful, there's a kraetura in the wilderness
