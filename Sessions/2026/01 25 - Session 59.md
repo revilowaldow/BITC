@@ -6,5 +6,11 @@ Sea blooded org: 5 story keep with walled courtyard
 
 Alternative SBO branch leader [[Nilophte]]
 
-100ft square
+100ft square tower
+
+75 ft courtyard projection
+
+20ft doors, little doorbell
+
+
 
