@@ -39,4 +39,9 @@ Scowliest owls for thodunn
 
 Owl 1 with thodun 4/19
 Owl 2 with thodun 19/19
-Owl 3 19/19
+Owl 3 Aru 19/19
+Owl 4 Caenis 19/19
+Owl 5 Kaulinan 19/19
+Owl 6  Kaulinan 19/19
+Owl 7 19/19
+Owl 8 19/19
