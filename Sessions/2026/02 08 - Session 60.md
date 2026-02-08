@@ -23,3 +23,6 @@ For Thodunn:
 > - Evangeline Stifka
 
 Iron chain carved with anti-divinatory 
+
+> Kathkach isn't big enough for both of us
+
