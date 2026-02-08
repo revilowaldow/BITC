@@ -13,8 +13,8 @@ For Thodunn:
 - ⁠If I kill him I want to convey that he meant nothing to me. I think piggy has a hatred for Thodunn and it will destroy piggy if thinks he wasn’t considered a rival or nemesis
 - ⁠I’d quite like to live but I do have a runic shield left to defend someone within 60ft.
 - ⁠I might swap to warhammer and shield or mining grinding and shield for the extra AC.
-- ⁠lastly my shortswords are called dead and alive. Might be something cool there if I kill piggy. 
-- ⁠I will also be insighting the fuck out of piggy and Vertelle with advantage
+- ⁠lastly my shortswords are called Dead and Alive. Might be something cool there if I kill piggy. 
+- ⁠I will also be insight-ing the fuck out of piggy and [[Virtelle]] with advantage
 
 <hr>
 
