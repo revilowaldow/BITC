@@ -24,5 +24,9 @@ For Thodunn:
 
 Iron chain carved with anti-divinatory 
 
-> Kathkach isn't big enough for both of us
+> "Kathkach isn't big enough for both of us"
+> - Thodunn
+
+
+
 
