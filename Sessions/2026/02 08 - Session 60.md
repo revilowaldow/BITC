@@ -46,4 +46,4 @@ Tielfing asks for help for caravan
 
 ![[Pasted image 20260208193450.png]]
 
-
+I was going to give you the opportunity 
