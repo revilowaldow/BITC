@@ -97,7 +97,8 @@
               "title": "10 19 - Session 53"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -297,12 +298,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90decdf93abd48c0",
+  "active": "00a04ec169695e61",
   "lastOpenFiles": [
     "Sessions/2025/10 19 - Session 53.md",
+    "Sessions/2026/02 08 - Session 60.md",
     "Sessions/2026/01 11 - Session 58.md",
     "Sessions/2026/01 25 - Session 59.md",
-    "Sessions/2026/02 08 - Session 60.md",
     "Sessions/2025/11 02 - Session 54.md",
     "Locations/Barbakan/Barbakan.canvas",
     "Factions/Local Arcanists/Vixel.md",
