@@ -22,4 +22,4 @@ For Thodunn:
 > "Please save Victis"
 > - Evangeline Stifka
 
-Iron chain carved with anti divinatory 
+Iron chain carved with anti-divinatory 
