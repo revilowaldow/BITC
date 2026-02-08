@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "torniar",
+                "query": "Gotha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -360,19 +360,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f58d651c787724e8",
+  "active": "00a04ec169695e61",
   "lastOpenFiles": [
+    "Sessions/2024/02 11 - Session 16.md",
+    "Sessions/2026/02 08 - Session 60.md",
     "Sessions/2026/01 25 - Session 59.md",
     "Factions/Local Arcanists/Vixel.md",
     "Jobs/Level 3/Soirée.md",
     "Factions/Local Arcanists/Mholok Krass.md",
     "Sessions/2025/03 09 - Session 41.md",
-    "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2025/11 02 - Session 54.md",
     "Sessions/2025/10 19 - Session 53.md",
     "Sessions/2025/10 05 - Session 52.md",
     "Sessions/2025/09 07 - Session 51.md",
-    "Sessions/2026/02 08 - Session 60.md",
     "Locations/Barbakan/Barbakan.canvas",
     "Sessions/2026/01 11 - Session 58.md",
     "Sessions/2025/06 29 - Session 47.md",

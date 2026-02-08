@@ -28,5 +28,8 @@ Iron chain carved with anti-divinatory
 > - Thodunn
 
 
-
+Torniar teleported
+He did the runes
+Base in the north
+Gotha 
 
