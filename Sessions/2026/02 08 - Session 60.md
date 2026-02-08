@@ -36,6 +36,12 @@ Gotha
 [[Slopes of Prynlope]]
 mountain ranges south of kathkach, old ruined buildings
 
-Tiefling
+
+<hr>
+
+Tielfing asks for help for caravan
+[[Questis]] not present
+
+5 steelmonger celeres
 
 
