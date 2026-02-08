@@ -44,4 +44,6 @@ Tielfing asks for help for caravan
 
 5 steelmonger celeres
 
+![[Pasted image 20260208193450.png]]
+
 
