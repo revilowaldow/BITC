@@ -30,8 +30,10 @@ Iron chain carved with anti-divinatory
 
 Torniar teleported
 He did the runes
-Base in the north [[Tower of kuldatar]]
+Base in the north [[Tower of Kuldatar]]
 Gotha 
 
 [[Slopes of Prynlope]]
-mountain ranges south of kathkach, old 
+mountain ranges south of kathkach, old ruined buildings
+
+
