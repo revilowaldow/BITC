@@ -157,6 +157,23 @@
               "icon": "lucide-file",
               "title": "02 11 - Session 16"
             }
+          },
+          {
+            "id": "4c15370faeb64422",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/The Pit.canvas",
+                "viewState": {
+                  "x": 69,
+                  "y": 575,
+                  "zoom": -1.7785634049415604
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "The Pit"
+            }
           }
         ],
         "currentTab": 2
@@ -222,8 +239,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -362,8 +378,11 @@
   },
   "active": "00a04ec169695e61",
   "lastOpenFiles": [
-    "Sessions/2024/02 11 - Session 16.md",
+    "Locations/The Pit.canvas",
     "Sessions/2026/02 08 - Session 60.md",
+    "Sessions/2026/01 11 - Session 58.md",
+    "Sessions/2023/06 18 - Session 4.md",
+    "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2026/01 25 - Session 59.md",
     "Factions/Local Arcanists/Vixel.md",
     "Jobs/Level 3/Soirée.md",
@@ -374,7 +393,6 @@
     "Sessions/2025/10 05 - Session 52.md",
     "Sessions/2025/09 07 - Session 51.md",
     "Locations/Barbakan/Barbakan.canvas",
-    "Sessions/2026/01 11 - Session 58.md",
     "Sessions/2025/06 29 - Session 47.md",
     "Sessions/2025/07 27 - Session 49.md",
     "Sessions/2025/07 13 - Session 48.md",
@@ -397,11 +415,8 @@
     "Sessions/2024/12 01 - Session 36.md",
     "Untitled.base",
     "Sessions/2025/11 16 - Session 55.md",
-    "Sessions/2025/11 30 - Session 56.md",
-    "Sessions/2025/12 14 - Session 57.md",
     "Locations/Barbakan/Harbour District.canvas",
     "Locations/Lionhold/Ziardim Caverns.canvas",
-    "Locations/The Pit.canvas",
     "Locations/Dog Prince Caves.canvas",
     "Locations/Barbakan",
     "Sessions/2025/Untitled",
