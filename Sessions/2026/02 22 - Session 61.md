@@ -23,5 +23,3 @@ Thodunn gets flashes of history from inspecting piggy's daggers
 
 
 
-
-Hello Kevin, virtel
