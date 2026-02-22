@@ -67,3 +67,5 @@ Question Evangeline Stifka's corpse at the temple
 
 Levelled up
 
+Took skill expert
+Took 
