@@ -30,3 +30,5 @@ Clouds are in the sky
 
 Kop's crew may be in the sour grapes
 
+Kaulinan recommended to Virtelle to not expose herself in the low district
+
