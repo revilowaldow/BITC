@@ -35,6 +35,7 @@ Gotha
 
 [[Slopes of Prynlope]]
 mountain ranges south of kathkach, old ruined buildings
+A vault?
 
 
 <hr>
