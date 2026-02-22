@@ -51,3 +51,6 @@ Grand Agent
 
 Kevin's birthday is in winter
 
+Kana will be added
+
+Utu/Grotuk Mimi/Veronica/
