@@ -38,4 +38,6 @@ JokJok & Grotuk Mimi here.
 
 Torniar either not here or in hiding, Mholok Krass kicking up a fuss
 
-Expedition being put together by Lyan Thorp, 
+Expedition being put together by [[Lyan Thorp]], and [[Toryk Jamal]]
+group of nobles
+
