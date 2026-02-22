@@ -57,3 +57,6 @@ Utu/Grotuk Mimi/Veronica/Harven/Chitican misasmar/Setanta
 
 Veronica to be leader of the b team
 
+Larch Transmuter
+
+Telekini
