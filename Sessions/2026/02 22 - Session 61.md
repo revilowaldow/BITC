@@ -61,4 +61,5 @@ Larch Transmuter MPMM
 
 Need to check out house in gold district
 Need to sell things
+Side gig at the temple
 
