@@ -49,3 +49,5 @@ Grand Agent
 - Influence (With helviti inquisition)
 - Research (Expand Pit)
 
+Kevin's birthday is in winter
+
