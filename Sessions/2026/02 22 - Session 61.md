@@ -54,3 +54,6 @@ Kevin's birthday is in winter
 Kana will be added
 
 Utu/Grotuk Mimi/Veronica/Harven/Chitican misasmar/Setanta
+
+Veronica to be leader of the b team
+
