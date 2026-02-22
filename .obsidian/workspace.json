@@ -54,9 +54,37 @@
               "icon": "lucide-file",
               "title": "02 22 - Session 61"
             }
+          },
+          {
+            "id": "0f6127f8b81439ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Rules/Valid Wild Shapes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Valid Wild Shapes"
+            }
+          },
+          {
+            "id": "e79e51c377562298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Rules/Weapon Rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weapon Rules"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -256,10 +284,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13ba63e11ba01531",
+  "active": "e79e51c377562298",
   "lastOpenFiles": [
-    "Sessions/2026/02 08 - Session 60.md",
+    "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2026/02 22 - Session 61.md",
+    "Sessions/2026/02 08 - Session 60.md",
     "Sessions/2025/10 19 - Session 53.md",
     "Sessions/2025/10 05 - Session 52.md",
     "Sessions/2026/01 25 - Session 59.md",
@@ -286,7 +315,6 @@
     "Sessions/2025/06 15 - Session 46.md",
     "Virtelle.md",
     "Factions/Sea Blooded Org/Corsaro.md",
-    "Flatek of the Flavours.md",
     "Pasted image 20250907205402.png",
     "Pasted image 20250921200842.png",
     "Assets/Maps/SBO L6 (Roof).png",
