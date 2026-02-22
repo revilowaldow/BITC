@@ -70,3 +70,5 @@ Levelled up
 Took skill expert
 Took connosouir
 
+Vault of Gotha
+
