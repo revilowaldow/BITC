@@ -28,3 +28,5 @@ Thodunn gets flashes of history from inspecting piggy's daggers
 It's Autmn, easterly wind
 Clouds are in the sky
 
+Kop's crew may be in the sour grapes
+
