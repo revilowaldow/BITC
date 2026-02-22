@@ -57,6 +57,8 @@ Utu/Grotuk Mimi/Veronica/Harven/Chitican misasmar/Setanta
 
 Veronica to be leader of the b team
 
-Larch Transmuter
+Larch Transmuter MPMM
 
-Telekini
+Need to check out house in gold district
+Need to sell things
+
