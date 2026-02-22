@@ -131,12 +131,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Local Arcanists/Mholok Krass.md",
+                "file": "Jobs/Level 3/Soirée.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mholok Krass"
+              "title": "Soirée"
             }
           }
         ],
@@ -343,6 +343,7 @@
   },
   "active": "54fdea248c643008",
   "lastOpenFiles": [
+    "Factions/Local Arcanists/Mholok Krass.md",
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2026/01 25 - Session 59.md",
     "Sessions/2025/10 05 - Session 52.md",
@@ -363,7 +364,6 @@
     "Locations/The Pit.canvas",
     "Sessions/2023/06 18 - Session 4.md",
     "Jobs/Level 3/Soirée.md",
-    "Factions/Local Arcanists/Mholok Krass.md",
     "Sessions/2025/03 09 - Session 41.md",
     "Sessions/2025/06 29 - Session 47.md",
     "Sessions/2025/07 27 - Session 49.md",
