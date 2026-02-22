@@ -46,5 +46,6 @@ Grand Administrator Kevin Aldragosh
 Grand Agent
 
 - Finance
-- Influence (With )
+- Influence (With helviti inquisition)
 - Research (Expand Pit)
+
