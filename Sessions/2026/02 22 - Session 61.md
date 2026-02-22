@@ -45,3 +45,6 @@ Grand Administrator Kevin Aldragosh
 
 Grand Agent
 
+- Finance
+- Influence (With )
+- Research (Expand Pit)
