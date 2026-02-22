@@ -68,9 +68,19 @@
               "icon": "lucide-file",
               "title": "09 08 - Session 30"
             }
+          },
+          {
+            "id": "63f061b4257b2473",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -270,15 +280,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13ba63e11ba01531",
+  "active": "63f061b4257b2473",
   "lastOpenFiles": [
+    "Sessions/2026/02 22 - Session 61.md",
     "Sessions/2024/09 08 - Session 30.md",
     "Sessions/2026/01 25 - Session 59.md",
     "Sessions/2026/01 11 - Session 58.md",
     "Sessions/2025/12 14 - Session 57.md",
     "Sessions/2025/11 30 - Session 56.md",
     "Sessions/2026/02 08 - Session 60.md",
-    "Sessions/2026/02 22 - Session 61.md",
     "Factions/Silver Company/Asset Roster.md",
     "Sessions/2024/09 29 - Session 31.md",
     "Factions/Aepoptosian Cult/Chikitan Miasmar.md",
