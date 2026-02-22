@@ -17,6 +17,6 @@ Equidistant between dragon and dark star
 
 Dark star waxing in strength
 
-
+Why virtelle was kidnapped if a full strength was n
 
 
