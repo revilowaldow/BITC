@@ -110,9 +110,37 @@
               "icon": "lucide-file",
               "title": "10 05 - Session 52"
             }
+          },
+          {
+            "id": "be46723838b071b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Local Arcanists/Vixel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vixel"
+            }
+          },
+          {
+            "id": "54fdea248c643008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Local Arcanists/Mholok Krass.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mholok Krass"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -144,7 +172,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lord",
+                "query": "torniar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,7 +203,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -312,14 +341,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13ba63e11ba01531",
+  "active": "54fdea248c643008",
   "lastOpenFiles": [
+    "Factions/Local Arcanists/Vixel.md",
+    "Sessions/2026/01 25 - Session 59.md",
+    "Sessions/2025/10 05 - Session 52.md",
+    "Sessions/2026/02 22 - Session 61.md",
     "Sessions/2026/01 11 - Session 58.md",
     "Sessions/2026/02 08 - Session 60.md",
     "Sessions/2025/12 14 - Session 57.md",
-    "Sessions/2026/01 25 - Session 59.md",
-    "Sessions/2026/02 22 - Session 61.md",
-    "Sessions/2025/10 05 - Session 52.md",
     "Setting Rules/Weapon Rules.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2025/10 19 - Session 53.md",
@@ -328,7 +358,6 @@
     "Pasted image 20260208193450.png",
     "Sessions/2025/11 02 - Session 54.md",
     "Locations/Barbakan/Barbakan.canvas",
-    "Factions/Local Arcanists/Vixel.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/07 28 - Session 27.md",
     "Locations/The Pit.canvas",
