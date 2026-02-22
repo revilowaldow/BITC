@@ -44,7 +44,7 @@ Tielfing asks for help for caravan
 
 5 steelmonger celeres
 
-![[Pasted image 20260208193450.png]]
+![[Tiefling Camp.png]]
 
 > "I was going to give you the opportunity to tell the governor that if he attacks people on Kathkachan soil again we'll turn Barbakan into a Kathkachan Outpost."
 > - Kaulinan

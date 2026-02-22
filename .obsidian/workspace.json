@@ -133,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -273,6 +272,9 @@
   },
   "active": "13ba63e11ba01531",
   "lastOpenFiles": [
+    "Assets/Maps/Tiefling Camp.png",
+    "Pasted image 20250921200842.png",
+    "Sessions/2026/02 22 - Session 61.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Setting Rules/Weapon Rules.md",
     "Sessions/2025/10 05 - Session 52.md",
@@ -280,14 +282,12 @@
     "Jobs/Level 3/Soirée.md",
     "Factions/Local Arcanists/Vixel.md",
     "Sessions/2026/01 25 - Session 59.md",
-    "Sessions/2026/02 22 - Session 61.md",
     "Sessions/2026/01 11 - Session 58.md",
     "Sessions/2026/02 08 - Session 60.md",
     "Sessions/2025/12 14 - Session 57.md",
     "Sessions/2025/10 19 - Session 53.md",
     "Sessions/2025/11 30 - Session 56.md",
     "Sessions/2025/09 07 - Session 51.md",
-    "Pasted image 20260208193450.png",
     "Sessions/2025/11 02 - Session 54.md",
     "Locations/Barbakan/Barbakan.canvas",
     "Sessions/2024/02 11 - Session 16.md",
@@ -301,9 +301,7 @@
     "Sessions/2025/06 01 - Session 45.md",
     "Sessions/2025/06 15 - Session 46.md",
     "Virtelle.md",
-    "Factions/Sea Blooded Org/Corsaro.md",
     "Pasted image 20250907205402.png",
-    "Pasted image 20250921200842.png",
     "Assets/Maps/SBO L6 (Roof).png",
     "Assets/Maps/SBO L3.png",
     "Assets/Maps/SBO L4.png",
