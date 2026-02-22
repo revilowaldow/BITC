@@ -32,4 +32,6 @@ Kop's crew may be in the sour grapes
 
 Kaulinan recommended to Virtelle to not expose herself in the low district
 
-Huascan's present in silver compnay courtyar
+Huascan's present in silver compnay courtyard.
+JokJok & Grotuk Mimi here.
+
