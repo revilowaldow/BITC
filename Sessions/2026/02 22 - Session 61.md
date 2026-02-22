@@ -17,6 +17,10 @@ Equidistant between dragon and dark star
 
 Dark star waxing in strength
 
-Why virtelle was kidnapped if a full strength was n
+Why Virtelle was kidnapped if a full strength was not brought to bear on us?
+
+Thodunn gets flashes of history from inspecting piggy's daggers
+
+
 
 
