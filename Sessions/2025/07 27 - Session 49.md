@@ -19,7 +19,7 @@ Vrin gets carpet to replace bed that was broken
 
 <hr>
 
-Wersalia - acolyte of the eternal queen
+[[Wersalia]] - acolyte of the eternal queen
 
 [[Chikitan Miasmar]] is also present, casts bless on Caenis, Aru and Thodunn
 
