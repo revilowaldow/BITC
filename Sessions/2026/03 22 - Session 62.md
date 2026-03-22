@@ -94,4 +94,10 @@ Pontificate the Gecko
 Emperor Constable
 Almondo the Great Gumption
 Spectrum Zippy
-Wistful ListerineBoat LarryWhimsy Whipped CreamMarzipan TyphoonMurmur d'Odour
+Wistful Listerine
+Boat Larry
+Whimsy Whipped Cream
+Marzipan Typhoon
+Murmur d'Odour
+
+
