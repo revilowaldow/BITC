@@ -32,8 +32,8 @@ Thodunn was a member of the topaz comanada
 [[Delimira Triszeiros]]
 > "She wasn't behaving by herself but I'm fairly certain that was my wife."
 > - Thodunn
-
-
+> - 
+Thodunn left 
 
 
 
