@@ -43,18 +43,18 @@ Rejected by [[Liera Lov]] for the lifegiver
 Go to the [[Eternal Queen]] instead
 [[Wersalia]] assists us
 
-
-
-Questions
-
+Questions:
 - Who is Victis
 	- He is my one true love
 - Why did you assist Torniar
 	- I was left with no choice
 - Why did piggy assist you
 	- Because I paid him
-- Why were we lured to Barbakan
+- What is the underlying goal of why we were lured to Barbakan
 	- Chaos
 - Has Virtelle been compromised by the cult in some way?
 	- From the very beginning she was made into a Dyvare, from as far back as birth, she was never not compromised. I should have killed her when I had the chance. Beyond that I do not know what the cult wanted
+
+
+
 
