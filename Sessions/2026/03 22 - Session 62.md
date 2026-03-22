@@ -168,7 +168,9 @@ Bert, Fiona and Derek are all pleased to have learned so much.
 Caenis nominates Larking as his inheritor in his will
 
 
-Going to the library next, on spitli
+Going to the library next, on spitlizards
+
+
 
 
 
