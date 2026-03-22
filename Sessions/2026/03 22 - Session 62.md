@@ -152,6 +152,16 @@ Snakelike creature with two wings, head fallen off.
 > "The 101st warrior of the dyvare, Zheevaglishgar"
 > -  on the small limestone statue
 
+Returns to the hospice
+
+<hr>
+
+
+Thodun's armour completed
+
+Bert, Fiona and Derek are all pleased to have learned
+
+
 
 
 
