@@ -48,7 +48,9 @@ Go to the [[Eternal Queen]] instead
 Questions
 
 - Who is Victis
+	- He is my one true love
 - Why did you assist Torniar
+	- I was left with no choice
 - Why did piggy assist you
 - Why were we lured to Barbakan
 - Has Virtelle been compromised by the cult in some way?
