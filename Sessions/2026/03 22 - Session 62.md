@@ -138,6 +138,9 @@ Thodunn attacks Aru but she fails to block it and reacts slowly.
 <hr>
 
 
+Summoned to the Low Ziggurat by [[Wersalia]]
+Aegan's want the protector to do the final rites
+
 
 
 
