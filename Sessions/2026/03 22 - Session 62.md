@@ -51,4 +51,5 @@ Questions
 - Why did you assist Torniar
 - Why did piggy assist you
 - Why were we lured to Barbakan
-- 
+- Has Virtelle been compromised by the cult in some way?
+
