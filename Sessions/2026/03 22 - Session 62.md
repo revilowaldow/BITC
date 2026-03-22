@@ -15,7 +15,9 @@ Thodunn practices filigree on a spare broken sword hilt
 The moulds used by them are likely poor 
 (Nb armour is forged not cast but whatever)
 Nat 20 on reviewing notes produced by Burt
-There is a clear indication that he's preparing to make his own version of armour, with spiked gauntlets
+There is a clear indication that he's preparing to make his own version of armour, with spiked gauntlets. Pre calamity item trying to be recreated. Perhaps the first or second brasshand
+
+
 
 
 
