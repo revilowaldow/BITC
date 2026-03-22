@@ -144,11 +144,14 @@ Aegan's want the protector to do the final rites
 Rites conducted by a low acolyte
 
 
-Small forgotten status in a disused aclove that is not on the bridge.
+Small forgotten statue in a disused alcove that is not on the bridge.
 Snakelike creature with two wings, head fallen off.
 
 > "The 101st warrior of the dyvare, Zheevaglishgar"
-- on the small 
+> -  on the small limestone statue
+
+
+
 
 
 
