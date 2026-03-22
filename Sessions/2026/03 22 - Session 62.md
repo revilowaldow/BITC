@@ -11,6 +11,7 @@ opportunity to make extraordinary creations here
 Burt is one of the trainees
 Facility has primarily been limited by knowledge rather than by the facility itself
 
+Thodunn explains to the trainees where they went wrong on prior
 
 
 Kaulinan sold items:
