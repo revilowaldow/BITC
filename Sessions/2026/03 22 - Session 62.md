@@ -132,6 +132,8 @@ Aru cannot die while attuned, if reduced to 0 while in 5 feet, 1 hp and stunned.
 Resurrection and true resurrection undo the curse.
 
 
+Thodunn attacks Aru but she fails to block it and reacts slowly.
+
 
 
 
