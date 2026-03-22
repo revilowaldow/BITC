@@ -127,7 +127,9 @@ Her heart stops at one hour then restarts
 Curse of lethargy
 	Can't move as fast as previously able
 
-Aru cannot die while attuned, if reduced to 0 while in 5 feet, 1 hp and stunned. Killed in 60 f
+Aru cannot die while attuned, if reduced to 0 while in 5 feet, 1 hp and stunned. Killed in 60 ft,  reanimate. Body destroyed, reforms.
+
+Ressurection and true ressurection undo the curse
 
 
 
