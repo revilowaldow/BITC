@@ -11,7 +11,7 @@ opportunity to make extraordinary creations here
 Burt is one of the trainees
 
 
-Kaulinan sold items
+Kaulinan sold items:
 
 | Item              | Value (gp) | Quantity | Material Mult  | Total (gp) |
 | ----------------- | ---------- | -------- | -------------- | ---------- |
