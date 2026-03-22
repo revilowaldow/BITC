@@ -52,7 +52,9 @@ Questions
 - Why did you assist Torniar
 	- I was left with no choice
 - Why did piggy assist you
+	- Because I paid him
 - Why were we lured to Barbakan
 	- Chaos
 - Has Virtelle been compromised by the cult in some way?
-	- From the very beginning she was made into a Dyvare, from as far back as birth, she was never not compromised. I should have killed her when I had the chance. Be
+	- From the very beginning she was made into a Dyvare, from as far back as birth, she was never not compromised. I should have killed her when I had the chance. Beyond that I do not know what the cult wanted
+
