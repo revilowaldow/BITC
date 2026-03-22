@@ -135,6 +135,9 @@ Resurrection and true resurrection undo the curse.
 Thodunn attacks Aru but she fails to block it and reacts slowly.
 
 
+<hr>
+
+
 
 
 
