@@ -86,161 +86,21 @@
             }
           },
           {
-            "id": "485ed0b86532f3e8",
+            "id": "96bb6a3caad4fed6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Sea Blooded Org/Evangeline Stifka.md",
+                "file": "Sessions/2024/06 16 - Session 24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evangeline Stifka"
-            }
-          },
-          {
-            "id": "be7a9bab836c5276",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2025/01 26 - Session 38.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 26 - Session 38"
-            }
-          },
-          {
-            "id": "c485446f352594a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Vermillion Hand/Virtelle The Silver Blade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Virtelle The Silver Blade"
-            }
-          },
-          {
-            "id": "ca1628a886c2c19e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wersalia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wersalia"
-            }
-          },
-          {
-            "id": "2e1fe3ce29200685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2025/10 05 - Session 52.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10 05 - Session 52"
-            }
-          },
-          {
-            "id": "2f1cb8e346a6f314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Angelica Snowsand.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Angelica Snowsand"
-            }
-          },
-          {
-            "id": "afc8612a919c4b82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Helviti/Utu Otaka.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Utu Otaka"
-            }
-          },
-          {
-            "id": "e28e4bc86143a391",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Aepoptosian Cult/Rev.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rev"
-            }
-          },
-          {
-            "id": "91966a9c466e6471",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Vermillion Hand/Kana.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kana"
-            }
-          },
-          {
-            "id": "93d7265d4c5b8147",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Asset Roster.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Asset Roster"
-            }
-          },
-          {
-            "id": "5315e0fcb3af8fe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Helviti/List of Commanda.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "List of Commanda"
+              "title": "06 16 - Session 24"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -272,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "topaz ",
+                "query": "nubbin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -334,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2026/03 22 - Session 62.md",
+                "file": "Sessions/2024/06 16 - Session 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03 22 - Session 62"
+              "title": "Backlinks for 06 16 - Session 24"
             }
           },
           {
@@ -353,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2026/03 22 - Session 62.md",
+                "file": "Sessions/2024/06 16 - Session 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 03 22 - Session 62"
+              "title": "Outgoing links from 06 16 - Session 24"
             }
           },
           {
@@ -382,13 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2026/03 22 - Session 62.md",
+                "file": "Sessions/2024/06 16 - Session 24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 22 - Session 62"
+              "title": "Outline of 06 16 - Session 24"
             }
           },
           {
@@ -440,34 +300,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "950e07bce442017d",
+  "active": "96bb6a3caad4fed6",
   "lastOpenFiles": [
     "Factions/Helviti/List of Commanda.md",
-    "Sessions/2023/08 13 - Session 7.md",
-    "Sessions/2026/03 22 - Session 62.md",
-    "Sessions/2026/02 22 - Session 61.md",
     "Factions/Silver Company/Asset Roster.md",
-    "Sessions/2024/11 17 - Session 35.md",
-    "Sessions/2025/01 26 - Session 38.md",
-    "Factions/Sea Blooded Org/Sea Blooded Organisation.md",
-    "Factions/Sea Blooded Org/Evangeline Stifka.md",
-    "Factions/Sea Blooded Org/Corsaro.md",
-    "Factions/Vermillion Hand/Virtelle The Silver Blade.md",
     "Factions/Vermillion Hand/Kana.md",
     "Factions/Aepoptosian Cult/Rev.md",
     "Factions/Helviti/Utu Otaka.md",
     "Factions/Angelica Snowsand.md",
     "Sessions/2025/10 05 - Session 52.md",
+    "Wersalia.md",
+    "Factions/Vermillion Hand/Virtelle The Silver Blade.md",
+    "Sessions/2025/01 26 - Session 38.md",
+    "Factions/Sea Blooded Org/Evangeline Stifka.md",
+    "Sessions/2024/06 16 - Session 24.md",
+    "Sessions/2026/03 22 - Session 62.md",
+    "Sessions/2023/08 13 - Session 7.md",
+    "Sessions/2026/02 22 - Session 61.md",
+    "Sessions/2024/11 17 - Session 35.md",
+    "Factions/Sea Blooded Org/Sea Blooded Organisation.md",
+    "Factions/Sea Blooded Org/Corsaro.md",
     "Deity/The Protector.md",
     "Deity/Lifegiver.md",
     "Deity/Eternal Queen.md",
     "Sessions/2025/11 30 - Session 56.md",
     "Locations/Battle of Looming Rock.md",
-    "Wersalia.md",
     "Sessions/2025/07 27 - Session 49.md",
     "Sessions/2026/01 25 - Session 59.md",
     "Sessions/2026/01 11 - Session 58.md",
-    "Sessions/2026/02 08 - Session 60.md",
     "Assets/Maps/Tiefling Camp.png",
     "Pasted image 20250921200842.png",
     "Locations/Barbakan/Barbakan.canvas",

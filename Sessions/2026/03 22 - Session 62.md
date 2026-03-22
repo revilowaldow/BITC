@@ -85,6 +85,7 @@ Questions:
 
 
 Caenis writing his will
-Virtelle has tickets to the arena
+Virtelle has tickets to the arena or to the races
+Calamsis and the crimson spear are both in the city at the moment.
 
-Calamsis and the crimson spear are 
+

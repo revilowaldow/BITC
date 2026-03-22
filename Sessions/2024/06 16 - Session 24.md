@@ -28,7 +28,7 @@ Eylaine's personal guard accompany Huascans
 
 [[Kaltta]] small Huascan
 
-[[Cloud]] [[Pickle]] [[Nubbin]] - Horses
+[[Cloud]] [[Pickle]] [[Nubbins Eyelaine]] - Horses
 
 Thodunn went to the blacksmith
 
