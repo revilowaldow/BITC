@@ -25,7 +25,7 @@ Thodunn gets flashes of history from inspecting piggy's daggers
 
 > Jolly good, grand to hear, hope to see you back soon, I've not heard of any developments on my end, I'll let palara and the
 
-It's Autmn, easterly wind
+It's Autumn, easterly wind
 Clouds are in the sky
 
 Kop's crew may be in the sour grapes
