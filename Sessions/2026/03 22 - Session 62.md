@@ -101,5 +101,9 @@ Marzipan Typhoon
 Murmur d'Odour
 
 Virtelle working to ensure SBO have a leash on them.
-[[Regilius Ponta]] still in charge, should the eyelaines support them to try and break the wider 
+[[Regilius Ponta]] still in charge, should the eyelaines support them to try and break the wider SBO?
+		How does Candaria feel about this?
+
+
+
 
