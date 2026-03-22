@@ -126,9 +126,23 @@
               "icon": "lucide-file",
               "title": "06 16 - Session 24"
             }
+          },
+          {
+            "id": "53799417b7437e20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Kathkach/Middle Zigg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Middle Zigg"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -160,7 +174,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "protector",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +205,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2026/03 22 - Session 62.md",
+                "file": "Locations/Kathkach/Middle Zigg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +246,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03 22 - Session 62"
+              "title": "Backlinks for Middle Zigg"
             }
           },
           {
@@ -240,12 +255,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2026/03 22 - Session 62.md",
+                "file": "Locations/Kathkach/Middle Zigg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 03 22 - Session 62"
+              "title": "Outgoing links from Middle Zigg"
             }
           },
           {
@@ -269,13 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2026/03 22 - Session 62.md",
+                "file": "Locations/Kathkach/Middle Zigg.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 22 - Session 62"
+              "title": "Outline of Middle Zigg"
             }
           },
           {
@@ -327,15 +342,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "950e07bce442017d",
+  "active": "53799417b7437e20",
   "lastOpenFiles": [
+    "Sessions/2026/03 22 - Session 62.md",
+    "Sessions/2024/06 16 - Session 24.md",
     "Deity/Eternal Queen.md",
     "Deity/Lifegiver.md",
     "Deity/The Protector.md",
     "Untitled 1.base",
     "Untitled.base",
-    "Sessions/2026/03 22 - Session 62.md",
-    "Sessions/2024/06 16 - Session 24.md",
     "Factions/Sea Blooded Org/Corsaro.md",
     "Factions/Helviti/List of Commanda.md",
     "Factions/Silver Company/Asset Roster.md",
