@@ -11,7 +11,8 @@ opportunity to make extraordinary creations here
 Burt is one of the trainees
 Facility has primarily been limited by knowledge rather than by the facility itself
 
-Thodunn practices filigree on 
+Thodunn practices filigree on a spare broken sword hilt
+
 
 
 
