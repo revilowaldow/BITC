@@ -147,7 +147,8 @@ Rites conducted by a low acolyte
 Small forgotten status in a disused aclove that is not on the bridge.
 Snakelike creature with two wings, head fallen off.
 
-
+> "The 101st warrior of the dyvare, Zheevaglishgar"
+- on the small 
 
 
 
