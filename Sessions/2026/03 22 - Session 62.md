@@ -36,7 +36,9 @@ Thodunn was a member of the topaz comanada
 Thodunn left to join Topaz Comanda 120-160BC
 
 [[Theodred Ralocan]] 221yo
-They who whisper to steel
+"They who whisper to steel"
+
+Caenis reinforced the room door at Kaulinan's request
 
 <hr>
 
@@ -79,5 +81,5 @@ Questions:
 	- From the very beginning she was made into a Dyvare, from as far back as birth, she was never not compromised. I should have killed her when I had the chance. Beyond that I do not know what the cult wanted
 
 
-
+<hr>
 
