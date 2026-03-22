@@ -142,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wersalia.md",
+                "file": "Sessions/2026/03 22 - Session 62.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wersalia"
+              "title": "Backlinks for 03 22 - Session 62"
             }
           },
           {
@@ -254,12 +254,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wersalia.md",
+                "file": "Sessions/2026/03 22 - Session 62.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wersalia"
+              "title": "Outgoing links from 03 22 - Session 62"
             }
           },
           {
@@ -283,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wersalia.md",
+                "file": "Sessions/2026/03 22 - Session 62.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Wersalia"
+              "title": "Outline of 03 22 - Session 62"
             }
           },
           {
@@ -341,11 +341,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca1628a886c2c19e",
+  "active": "950e07bce442017d",
   "lastOpenFiles": [
     "Factions/Vermillion Hand/Virtelle The Silver Blade.md",
-    "Sessions/2026/03 22 - Session 62.md",
     "Wersalia.md",
+    "Sessions/2026/03 22 - Session 62.md",
     "Sessions/2025/07 27 - Session 49.md",
     "Sessions/2026/01 25 - Session 59.md",
     "Sessions/2026/01 11 - Session 58.md",
