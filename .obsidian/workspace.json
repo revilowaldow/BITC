@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2026/03 22 - Session 62.md",
+                "file": "Sessions/2023/09 10 - Session 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03 22 - Session 62"
+              "title": "Backlinks for 09 10 - Session 8"
             }
           },
           {
@@ -269,12 +269,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2026/03 22 - Session 62.md",
+                "file": "Sessions/2023/09 10 - Session 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 03 22 - Session 62"
+              "title": "Outgoing links from 09 10 - Session 8"
             }
           },
           {
@@ -298,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2026/03 22 - Session 62.md",
+                "file": "Sessions/2023/09 10 - Session 8.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 22 - Session 62"
+              "title": "Outline of 09 10 - Session 8"
             }
           },
           {
@@ -356,10 +356,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "950e07bce442017d",
+  "active": "27b3c3abd0de9efa",
   "lastOpenFiles": [
-    "Sessions/2023/09 10 - Session 8.md",
     "Sessions/2026/03 22 - Session 62.md",
+    "Sessions/2023/09 10 - Session 8.md",
     "Locations/Kathkach/Middle Zigg.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Deity/Eternal Queen.md",
