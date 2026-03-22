@@ -18,7 +18,9 @@ Nat 20 on reviewing notes produced by Burt
 There is a clear indication that he's preparing to make his own version of armour, with spiked gauntlets. Pre calamity item trying to be recreated. Perhaps the first or second brasshand
 
 
-On retunring ho
+On returning home from the forge, Thodunn finds his door has been disturbed
+Uses deepest lore to investigate the doorknob
+
 
 
 
