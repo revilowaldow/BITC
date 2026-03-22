@@ -25,6 +25,7 @@ Topaz Comanda with drugged weapon in Thodun's room
 Who are you? 
 Sea Blooded organisation
 You blew up their base, looking for documents
+Statue, "my ..."? 
 
 
 
