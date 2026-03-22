@@ -12,6 +12,9 @@ Burt is one of the trainees
 Facility has primarily been limited by knowledge rather than by the facility itself
 
 Thodunn practices filigree on a spare broken sword hilt
+The moulds used by them are likely poor 
+(Nb armour is forged not cast but whatever)
+
 
 
 
