@@ -144,7 +144,10 @@ Aegan's want the protector to do the final rites
 Rites conducted by a low acolyte
 
 
-Small forgotten status in a disused aclove that is not 
+Small forgotten status in a disused aclove that is not on the bridge.
+Snakelike creature with two wings, head fallen off.
+
+
 
 
 
