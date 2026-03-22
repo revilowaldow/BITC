@@ -105,11 +105,17 @@ Virtelle working to ensure SBO have a leash on them.
 		How does Candaria feel about this?
 
 Caenis sends message to Vrin asking if she'd like to make money on races betting
+Gets 25 yes'
 
-
+Virtelle observes that Kaulinan does not like violence
 
 
 <hr>
+
+Aru takes Revant to Thodunn
+Thodunn inspects with deepest lore and sees it being weilded by an orc
+Many blows fail to fell the weil
+
 
 
 
