@@ -38,13 +38,6 @@ Thodunn left to join Topaz Comanda 120-160BC
 [[Theodred Ralocan]] 221yo
 They who whisper to steel
 
-
-
-
-
-
-
-
 <hr>
 
 Kaulinan sold items:
