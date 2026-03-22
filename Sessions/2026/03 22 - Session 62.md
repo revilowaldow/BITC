@@ -159,7 +159,9 @@ Returns to the hospice
 
 Thodun's armour completed
 
-Bert, Fiona and Derek are all pleased to have learned
+Bert, Fiona and Derek are all pleased to have learned so much.
+
+5 steel javelins and a scabbard for also acquired
 
 
 
