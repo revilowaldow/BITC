@@ -48,7 +48,7 @@ Kaulinan sold items:
 
 <hr>
 
-Take body of evangeline stifka to the temple of the lifegiver
+Take body of Evangeline stifka to the temple of the lifegiver
 
 Rejected by [[Liera Lov]] for the lifegiver
 Go to the [[Eternal Queen]] instead
