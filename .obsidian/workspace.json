@@ -170,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deity/The Protector.md",
+                "file": "Deity/Eternal Queen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Protector"
+              "title": "Backlinks for Eternal Queen"
             }
           },
           {
@@ -282,12 +282,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deity/The Protector.md",
+                "file": "Deity/Eternal Queen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Protector"
+              "title": "Outgoing links from Eternal Queen"
             }
           },
           {
@@ -311,13 +311,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deity/The Protector.md",
+                "file": "Deity/Eternal Queen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Protector"
+              "title": "Outline of Eternal Queen"
             }
           },
           {
@@ -369,8 +369,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b524c03ba74cba77",
+  "active": "b077b6f41abda9dd",
   "lastOpenFiles": [
+    "Deity/The Protector.md",
     "Deity/Lifegiver.md",
     "Deity/Gotha.md",
     "Deity/Eternal Queen.md",
@@ -398,7 +399,6 @@
     "Pasted image 20250921200842.png",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2025/10 05 - Session 52.md",
-    "Factions/Local Arcanists/Mholok Krass.md",
     "Locations/Barbakan/Barbakan.canvas",
     "Locations/The Pit.canvas",
     "Pasted image 20250907205402.png",
