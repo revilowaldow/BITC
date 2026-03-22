@@ -140,9 +140,37 @@
               "icon": "lucide-file",
               "title": "Utu Otaka"
             }
+          },
+          {
+            "id": "e28e4bc86143a391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Aepoptosian Cult/Rev.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rev"
+            }
+          },
+          {
+            "id": "91966a9c466e6471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Vermillion Hand/Kana.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kana"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -235,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Helviti/Utu Otaka.md",
+                "file": "Sessions/2026/03 22 - Session 62.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Utu Otaka"
+              "title": "Backlinks for 03 22 - Session 62"
             }
           },
           {
@@ -254,12 +282,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Helviti/Utu Otaka.md",
+                "file": "Sessions/2026/03 22 - Session 62.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Utu Otaka"
+              "title": "Outgoing links from 03 22 - Session 62"
             }
           },
           {
@@ -283,13 +311,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Helviti/Utu Otaka.md",
+                "file": "Sessions/2026/03 22 - Session 62.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Utu Otaka"
+              "title": "Outline of 03 22 - Session 62"
             }
           },
           {
@@ -341,8 +369,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afc8612a919c4b82",
+  "active": "950e07bce442017d",
   "lastOpenFiles": [
+    "Factions/Vermillion Hand/Virtelle The Silver Blade.md",
+    "Factions/Vermillion Hand/Kana.md",
+    "Factions/Aepoptosian Cult/Rev.md",
+    "Factions/Helviti/Utu Otaka.md",
     "Factions/Angelica Snowsand.md",
     "Sessions/2025/10 05 - Session 52.md",
     "Deity/The Protector.md",
@@ -350,7 +382,6 @@
     "Deity/Eternal Queen.md",
     "Sessions/2026/03 22 - Session 62.md",
     "Sessions/2025/11 30 - Session 56.md",
-    "Factions/Vermillion Hand/Virtelle The Silver Blade.md",
     "Factions/Helviti/List of Commanda.md",
     "Locations/Battle of Looming Rock.md",
     "Wersalia.md",
@@ -366,9 +397,6 @@
     "Deity/Aepoptosis.md",
     "Factions/Elder Jimbolee.md",
     "Factions/Candaria Malain.md",
-    "Deity/Gotha.md",
-    "Factions/Biff Bumble.md",
-    "Factions/Brayk Brasshand.md",
     "Assets/Maps/Tiefling Camp.png",
     "Pasted image 20250921200842.png",
     "Locations/Barbakan/Barbakan.canvas",
