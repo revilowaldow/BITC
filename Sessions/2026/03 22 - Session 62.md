@@ -46,3 +46,7 @@ Go to the [[Eternal Queen]] instead
 
 
 Questions
+
+- Who is Victis
+- Why did you assist Torniar
+- 
