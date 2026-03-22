@@ -219,8 +219,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -356,7 +355,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "950e07bce442017d",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Sessions/2025/07 27 - Session 49.md",
     "Wersalia.md",
