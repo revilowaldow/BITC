@@ -70,6 +70,22 @@
             }
           },
           {
+            "id": "950e07bce442017d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2026/03 22 - Session 62.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "03 22 - Session 62"
+            }
+          },
+          {
             "id": "b077b6f41abda9dd",
             "type": "leaf",
             "state": {
@@ -109,22 +125,6 @@
               },
               "icon": "lucide-file",
               "title": "The Protector"
-            }
-          },
-          {
-            "id": "950e07bce442017d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2026/03 22 - Session 62.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03 22 - Session 62"
             }
           }
         ],
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deity/Eternal Queen.md",
+                "file": "Sessions/2026/03 22 - Session 62.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Eternal Queen"
+              "title": "Backlinks for 03 22 - Session 62"
             }
           },
           {
@@ -240,12 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deity/Eternal Queen.md",
+                "file": "Sessions/2026/03 22 - Session 62.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Eternal Queen"
+              "title": "Outgoing links from 03 22 - Session 62"
             }
           },
           {
@@ -269,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deity/Eternal Queen.md",
+                "file": "Sessions/2026/03 22 - Session 62.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eternal Queen"
+              "title": "Outline of 03 22 - Session 62"
             }
           },
           {
@@ -327,12 +327,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b077b6f41abda9dd",
+  "active": "950e07bce442017d",
   "lastOpenFiles": [
+    "Sessions/2026/02 22 - Session 61.md",
+    "Deity/Eternal Queen.md",
     "Deity/The Protector.md",
     "Deity/Lifegiver.md",
     "Factions/Flambard Hawk.md",
-    "Deity/Eternal Queen.md",
     "Deity/Dyvare.md",
     "Deity/Aepoptosis.md",
     "Factions/Elder Jimbolee.md",
@@ -344,7 +345,6 @@
     "Factions/Jay Connar.md",
     "Factions/Kerytoph Myondo.md",
     "Factions/Lyan Thorp.md",
-    "Sessions/2026/02 22 - Session 61.md",
     "Sessions/2026/03 22 - Session 62.md",
     "Setting Rules/Weapon Rules.md",
     "Sessions/2026/01 11 - Session 58.md",

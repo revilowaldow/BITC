@@ -39,3 +39,4 @@ Kaulinan sold items:
 
 Take body of evangeline stifka to the temple of the lifegiver
 
+Rejected by [[]]
