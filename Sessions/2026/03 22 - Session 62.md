@@ -118,6 +118,8 @@ Many blows fail to fell the weilder and the vision ends with many people fleeing
 Armoured foes, not villagers
 
 Aru decides to attune in the accomodation courtyard
+Aru cuts her hand on the blade intentionally
+
 
 
 
