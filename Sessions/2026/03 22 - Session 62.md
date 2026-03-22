@@ -9,6 +9,8 @@ Very well appointed and maintained forge
 opportunity to make extraordinary creations here
 
 Burt is one of the trainees
+Facility has primarily been limited by knowledge rather than by the facility itself
+
 
 
 Kaulinan sold items:
