@@ -212,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2024/11 17 - Session 35.md",
+                "file": "Sessions/2026/03 22 - Session 62.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 11 17 - Session 35"
+              "title": "Outgoing links from 03 22 - Session 62"
             }
           },
           {
@@ -281,12 +281,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
-    "collapsed": true
+    "width": 427.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,7 +299,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "950e07bce442017d",
+  "active": "e94228e425415f02",
   "lastOpenFiles": [
     "Setting Rules/Weapon Rules.md",
     "Sessions/2026/02 22 - Session 61.md",
