@@ -226,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -320,7 +320,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2026/03 22 - Session 62.md",
+                "file": "Sessions/2026/02 22 - Session 61.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,7 +330,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03 22 - Session 62"
+              "title": "Backlinks for 02 22 - Session 61"
             }
           },
           {
@@ -339,12 +339,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2026/03 22 - Session 62.md",
+                "file": "Sessions/2026/02 22 - Session 61.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 03 22 - Session 62"
+              "title": "Outgoing links from 02 22 - Session 61"
             }
           },
           {
@@ -368,13 +368,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2026/03 22 - Session 62.md",
+                "file": "Sessions/2026/02 22 - Session 61.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 22 - Session 62"
+              "title": "Outline of 02 22 - Session 61"
             }
           },
           {
@@ -426,8 +426,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "950e07bce442017d",
+  "active": "13ba63e11ba01531",
   "lastOpenFiles": [
+    "Sessions/2026/03 22 - Session 62.md",
     "Factions/Silver Company/Asset Roster.md",
     "Sessions/2024/11 17 - Session 35.md",
     "Sessions/2026/02 22 - Session 61.md",
@@ -435,7 +436,6 @@
     "Factions/Sea Blooded Org/Sea Blooded Organisation.md",
     "Factions/Sea Blooded Org/Evangeline Stifka.md",
     "Factions/Sea Blooded Org/Corsaro.md",
-    "Sessions/2026/03 22 - Session 62.md",
     "Factions/Vermillion Hand/Virtelle The Silver Blade.md",
     "Factions/Vermillion Hand/Kana.md",
     "Factions/Aepoptosian Cult/Rev.md",
