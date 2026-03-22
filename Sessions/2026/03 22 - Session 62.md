@@ -121,7 +121,9 @@ Aru decides to attune in the accommodation courtyard
 Aru cuts her hand on the blade intentionally
 
 Feeling of cold
-Clear feeling of intert
+Clear feeling of intertwining her life force with the weapon
+Her heart stops at one hour
+
 
 
 
