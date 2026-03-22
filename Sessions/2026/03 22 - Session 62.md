@@ -55,4 +55,4 @@ Questions
 - Why were we lured to Barbakan
 	- Chaos
 - Has Virtelle been compromised by the cult in some way?
-
+	- From the very beginning she was made into a Dyvare, from as far back as birth, she was never not compromised. I should have killed her when I had the chance. Be
