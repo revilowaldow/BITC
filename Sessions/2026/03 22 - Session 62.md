@@ -30,6 +30,9 @@ Statue, "my ..."?
 Caenis administers a singing antitoxin to Thodunn
 Thodunn was a member of the topaz comanada
 [[Delimira Triszeiros]]
+> "She wasn't behaving by herself but I'm fairly certain that was my wife."
+> - Thodunn
+
 
 
 
