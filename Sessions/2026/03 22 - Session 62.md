@@ -113,13 +113,14 @@ Virtelle observes that Kaulinan does not like violence
 <hr>
 
 Aru takes Revant to Thodunn
-Thodunn inspects with deepest lore and sees it being weilded by an orc
-Many blows fail to fell the weilder and the vision ends with many people fleeing before the weilder
+Thodunn inspects with deepest lore and sees it being wielded by an orc
+Many blows fail to fell the wielder and the vision ends with many people fleeing before the wielder
 Armoured foes, not villagers
 
-Aru decides to attune in the accomodation courtyard
+Aru decides to attune in the accommodation courtyard
 Aru cuts her hand on the blade intentionally
 
+Feeling of cold
 
 
 
