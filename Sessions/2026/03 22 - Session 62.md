@@ -85,4 +85,6 @@ Questions:
 
 
 Caenis writing his will
+Virtelle has tickets to the arena
 
+Calamsis and the crimson spear are 
