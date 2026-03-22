@@ -85,7 +85,13 @@ Questions:
 
 
 Caenis writing his will
-Virtelle has tickets to the arena or to the races
+Virtelle has tickets to the arena or to the races, including [[Nubbins d'Eyelaine]]
 Calamsis and the crimson spear are both in the city at the moment.
 
-
+Nubbins Da Eyelane
+Magnolia McMegazoom
+Pontificate the Gecko
+Emperor Constable
+Almondo the Great Gumption
+Spectrum Zippy
+Wistful ListerineBoat LarryWhimsy Whipped CreamMarzipan TyphoonMurmur d'Odour
