@@ -17,13 +17,6 @@ The moulds used by them are likely poor
 Nat 20 on reviewing notes produced by Burt
 There is a clear indication that he's preparing to make his own version of armour, with spiked gauntlets. Pre calamity item trying to be recreated. Perhaps the first or second brasshand
 
-
-
-
-
-
-
-
 Kaulinan sold items:
 
 | Item              | Value (gp) | Quantity | Material Mult  | Total (gp) |
@@ -41,3 +34,8 @@ Kaulinan sold items:
 |                   |            |          | sp             | 2          |
 |                   |            |          | cp             | 7          |
 |                   |            |          | Remaining (cp) | 2          |
+
+<hr>
+
+Take body of evangeline stifka to the temple of the lifegiver
+
