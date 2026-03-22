@@ -53,5 +53,6 @@ Questions
 	- I was left with no choice
 - Why did piggy assist you
 - Why were we lured to Barbakan
+	- Chaos
 - Has Virtelle been compromised by the cult in some way?
 
