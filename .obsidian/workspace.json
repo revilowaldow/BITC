@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Bloodmarble Butchery.md",
+                "file": "Sessions/2026/03 22 - Session 62.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Bloodmarble Butchery"
+              "title": "Backlinks for 03 22 - Session 62"
             }
           },
           {
@@ -241,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Kathkach/The Cooking Association/The Bloodmarble Butchery.md",
+                "file": "Sessions/2026/03 22 - Session 62.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Bloodmarble Butchery"
+              "title": "Outline of 03 22 - Session 62"
             }
           },
           {
@@ -280,12 +280,12 @@
               "title": "Todo List"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 427.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,7 +299,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e94228e425415f02",
+  "active": "950e07bce442017d",
   "lastOpenFiles": [
     "Setting Rules/Weapon Rules.md",
     "Sessions/2026/02 22 - Session 61.md",
