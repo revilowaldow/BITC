@@ -122,7 +122,12 @@ Aru cuts her hand on the blade intentionally
 
 Feeling of cold
 Clear feeling of intertwining her life force with the weapon
-Her heart stops at one hour
+Her heart stops at one hour then restarts
+
+Curse of lethargy
+	Can't move as fast as previously able
+
+
 
 
 
