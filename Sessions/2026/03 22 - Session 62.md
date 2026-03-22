@@ -14,6 +14,9 @@ Facility has primarily been limited by knowledge rather than by the facility its
 Thodunn practices filigree on a spare broken sword hilt
 The moulds used by them are likely poor 
 (Nb armour is forged not cast but whatever)
+Nat 20 on reviewing notes produced by Burt
+There is a clear indication that he's preparing to make his own version of armour, with spiked gauntlets
+
 
 
 
