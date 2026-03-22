@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -188,7 +188,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zhee",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,8 +219,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -250,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
+                "file": "Deity/The Protector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +259,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 09 10 - Session 8"
+              "title": "Backlinks for The Protector"
             }
           },
           {
@@ -269,12 +268,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
+                "file": "Deity/The Protector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 09 10 - Session 8"
+              "title": "Outgoing links from The Protector"
             }
           },
           {
@@ -298,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
+                "file": "Deity/The Protector.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 09 10 - Session 8"
+              "title": "Outline of The Protector"
             }
           },
           {
@@ -356,11 +355,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "27b3c3abd0de9efa",
+  "active": "d1b1e12b6de50a73",
   "lastOpenFiles": [
+    "Sessions/2023/09 10 - Session 8.md",
     "Locations/The Pit.canvas",
     "Sessions/2026/03 22 - Session 62.md",
-    "Sessions/2023/09 10 - Session 8.md",
     "Locations/Kathkach/Middle Zigg.md",
     "Sessions/2024/06 16 - Session 24.md",
     "Deity/Eternal Queen.md",
