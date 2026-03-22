@@ -22,6 +22,8 @@ On returning home from the forge, Thodunn finds his door has been disturbed
 Uses deepest lore to investigate the doorknob
 Topaz Comanda with drugged weapon in Thodun's room
 
+Who are you? 
+Sea Blooded organisation
 
 
 
