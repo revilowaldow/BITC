@@ -141,10 +141,12 @@ Thodunn attacks Aru but she fails to block it and reacts slowly.
 Summoned to the Low Ziggurat by [[Wersalia]]
 Aegan's want the protector to do the final rites
 
-Rites conducted by a low acolyte
+Rites conducted by a low acolyte.
 
+Buy ruby dust in the merchant district. 
+Visit the temple of the protector and leave a continual flame in a disused alcove.
 
-Small forgotten statue in a disused alcove that is not on the bridge.
+Spot a small forgotten statue in a disused alcove that is not on the bridge.
 Snakelike creature with two wings, head fallen off.
 
 > "The 101st warrior of the dyvare, Zheevaglishgar"
