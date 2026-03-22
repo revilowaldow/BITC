@@ -72,6 +72,20 @@
             }
           },
           {
+            "id": "c485446f352594a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Vermillion Hand/Virtelle The Silver Blade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtelle The Silver Blade"
+            }
+          },
+          {
             "id": "ca1628a886c2c19e",
             "type": "leaf",
             "state": {
@@ -128,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -221,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2026/03 22 - Session 62.md",
+                "file": "Wersalia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +245,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03 22 - Session 62"
+              "title": "Backlinks for Wersalia"
             }
           },
           {
@@ -240,12 +254,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2026/03 22 - Session 62.md",
+                "file": "Wersalia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 03 22 - Session 62"
+              "title": "Outgoing links from Wersalia"
             }
           },
           {
@@ -269,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2026/03 22 - Session 62.md",
+                "file": "Wersalia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 22 - Session 62"
+              "title": "Outline of Wersalia"
             }
           },
           {
@@ -327,15 +341,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "950e07bce442017d",
+  "active": "ca1628a886c2c19e",
   "lastOpenFiles": [
+    "Factions/Vermillion Hand/Virtelle The Silver Blade.md",
+    "Sessions/2026/03 22 - Session 62.md",
     "Wersalia.md",
     "Sessions/2025/07 27 - Session 49.md",
     "Sessions/2026/01 25 - Session 59.md",
     "Sessions/2026/01 11 - Session 58.md",
     "Sessions/2026/02 08 - Session 60.md",
     "Sessions/2026/02 22 - Session 61.md",
-    "Sessions/2026/03 22 - Session 62.md",
     "Sessions/2025/07 13 - Session 48.md",
     "Factions/Melinda Palov.md",
     "Deity/Eternal Queen.md",
@@ -354,7 +369,6 @@
     "Factions/Kerytoph Myondo.md",
     "Factions/Lyan Thorp.md",
     "Setting Rules/Weapon Rules.md",
-    "Sessions/2024/09 08 - Session 30.md",
     "Assets/Maps/Tiefling Camp.png",
     "Pasted image 20250921200842.png",
     "Locations/Barbakan/Barbakan.canvas",
