@@ -26,3 +26,7 @@ Sand storms
 Stick to the mountains
 find a nomad
 
+[[Hend]] - gnome
+
+[[Miar]] - 200 year old record
+
