@@ -86,18 +86,6 @@
             }
           },
           {
-            "id": "d5c3c211b6c116ad",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
             "id": "923a484446b73dd0",
             "type": "leaf",
             "state": {
@@ -367,7 +355,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5c3c211b6c116ad",
+  "active": "923a484446b73dd0",
   "lastOpenFiles": [
     "Sessions/2023/09 10 - Session 8.md",
     "Locations/The Pit.canvas",
