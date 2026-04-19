@@ -51,6 +51,13 @@ Masks to help with toxic gas
 
 You have come a very long way
 
-Adult Bronze/Brass Lizard
+Adult Bronze Lizards
 
-Hendariz
+[[Hendarizil]] 
+
+[[Heldrexil]] is my sister
+
+> "Welcome to the empty library"
+> -  [[Hendarizil]]  & [[Heldrexil]] 
+
+
