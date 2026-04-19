@@ -86,18 +86,6 @@
             }
           },
           {
-            "id": "d5c3c211b6c116ad",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
             "id": "923a484446b73dd0",
             "type": "leaf",
             "state": {
@@ -251,8 +239,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -324,12 +312,32 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
             "id": "5ba05176e1275f7b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "001185b1861120a8",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "aeb287fc7fde27ea",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -339,7 +347,7 @@
             }
           },
           {
-            "id": "001185b1861120a8",
+            "id": "f08062255744ab4e",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -348,7 +356,8 @@
               "title": "Todo List"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -367,7 +376,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5c3c211b6c116ad",
+  "active": "f08062255744ab4e",
   "lastOpenFiles": [
     "Sessions/2023/09 10 - Session 8.md",
     "Locations/The Pit.canvas",
