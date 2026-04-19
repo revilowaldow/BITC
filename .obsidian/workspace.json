@@ -8,52 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ca548440fbb4529",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2026/01 25 - Session 59.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01 25 - Session 59"
-            }
-          },
-          {
-            "id": "727c4d7ef8141314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2026/01 11 - Session 58.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 11 - Session 58"
-            }
-          },
-          {
-            "id": "00a04ec169695e61",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2026/02 08 - Session 60.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02 08 - Session 60"
-            }
-          },
-          {
             "id": "13ba63e11ba01531",
             "type": "leaf",
             "pinned": true,
@@ -67,6 +21,20 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "02 22 - Session 61"
+            }
+          },
+          {
+            "id": "f3e8d891556e7a77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2026/02 08 - Session 60.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 08 - Session 60"
             }
           },
           {
@@ -86,92 +54,9 @@
             }
           },
           {
-            "id": "d1b1e12b6de50a73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deity/The Protector.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Protector"
-            }
-          },
-          {
-            "id": "923a484446b73dd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deity/Lifegiver.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lifegiver"
-            }
-          },
-          {
-            "id": "0f9c5ecab63bb99e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deity/Eternal Queen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eternal Queen"
-            }
-          },
-          {
-            "id": "c1de722f3066e596",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024/06 16 - Session 24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06 16 - Session 24"
-            }
-          },
-          {
-            "id": "53799417b7437e20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kathkach/Middle Zigg.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Middle Zigg"
-            }
-          },
-          {
-            "id": "27b3c3abd0de9efa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2023/09 10 - Session 8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09 10 - Session 8"
-            }
-          },
-          {
             "id": "9f5627f249e1a863",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -179,12 +64,27 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "04 19 - Session 63"
             }
+          },
+          {
+            "id": "22f21849f795cb6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Helviti/List of Commanda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "List of Commanda"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -325,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2026/03 22 - Session 62.md",
+                "file": "Sessions/2026/04 19 - Session 63.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 22 - Session 62"
+              "title": "Outline of 04 19 - Session 63"
             }
           },
           {
@@ -340,8 +240,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -384,11 +284,13 @@
               "title": "Todo List"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 919.5
+    "width": 232.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -402,25 +304,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b1c0b9b6efd09be3",
+  "active": "9f5627f249e1a863",
   "lastOpenFiles": [
+    "Factions/Helviti/List of Commanda.md",
+    "Assets/Characters/Arach.png",
     "Sessions/2026/04 19 - Session 63.md",
+    "Assets/Maps/PevicContinent.png",
+    "Assets/Maps/Topographic Map.png",
+    "Factions/Helviti/Devil Comanda.md",
+    "Setting Rules/Hirelings & Mounts.md",
     "Sessions/2026/03 22 - Session 62.md",
-    "Sessions/2026/01 11 - Session 58.md",
-    "Sessions/2026/01 25 - Session 59.md",
     "Sessions/2026/02 08 - Session 60.md",
     "Sessions/2026/02 22 - Session 61.md",
-    "Deity/Eternal Queen.md",
+    "Sessions/2026/01 25 - Session 59.md",
+    "Sessions/2026/01 11 - Session 58.md",
+    "Deity/The Protector.md",
     "Deity/Lifegiver.md",
+    "Deity/Eternal Queen.md",
+    "Sessions/2024/06 16 - Session 24.md",
+    "Locations/Kathkach/Middle Zigg.md",
     "Sessions/2023/09 10 - Session 8.md",
     "Locations/The Pit.canvas",
-    "Locations/Kathkach/Middle Zigg.md",
-    "Sessions/2024/06 16 - Session 24.md",
-    "Deity/The Protector.md",
     "Untitled 1.base",
     "Untitled.base",
     "Factions/Sea Blooded Org/Corsaro.md",
-    "Factions/Helviti/List of Commanda.md",
     "Factions/Silver Company/Asset Roster.md",
     "Factions/Vermillion Hand/Kana.md",
     "Factions/Aepoptosian Cult/Rev.md",
@@ -430,9 +337,6 @@
     "Wersalia.md",
     "Factions/Vermillion Hand/Virtelle The Silver Blade.md",
     "Sessions/2025/01 26 - Session 38.md",
-    "Factions/Sea Blooded Org/Evangeline Stifka.md",
-    "Sessions/2023/08 13 - Session 7.md",
-    "Sessions/2024/11 17 - Session 35.md",
     "Assets/Maps/Tiefling Camp.png",
     "Pasted image 20250921200842.png",
     "Locations/Barbakan/Barbakan.canvas",
@@ -441,9 +345,6 @@
     "Assets/Maps/SBO L3.png",
     "Assets/Maps/SBO L4.png",
     "Assets/Characters/Piggy.png",
-    "Pasted image 20250907201732.png",
-    "Pasted image 20260125184432.png",
-    "Assets/Characters/Evangeline Stifka.png",
     "Locations/Barbakan/Harbour District.canvas",
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Locations/Dog Prince Caves.canvas",
