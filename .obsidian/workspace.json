@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bond ties",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -306,6 +306,8 @@
   },
   "active": "9f5627f249e1a863",
   "lastOpenFiles": [
+    "Factions/Silver Company/Party/Vrindrilliax.md",
+    "Sessions/2026/04 19 - Session 63.md",
     "Factions/Helviti/List of Commanda.md",
     "Sessions/2025/03 09 - Session 41.md",
     "Sessions/2024/11 03 - Session 34.md",
@@ -313,7 +315,6 @@
     "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2024/04 07 - Session 20.md",
     "Sessions/2025/10 05 - Session 52.md",
-    "Sessions/2026/04 19 - Session 63.md",
     "Sessions/2025/06 29 - Session 47.md",
     "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2025/07 27 - Session 49.md",
@@ -337,7 +338,6 @@
     "Untitled 1.base",
     "Untitled.base",
     "Factions/Sea Blooded Org/Corsaro.md",
-    "Factions/Silver Company/Asset Roster.md",
     "Assets/Maps/Tiefling Camp.png",
     "Pasted image 20250921200842.png",
     "Locations/Barbakan/Barbakan.canvas",
