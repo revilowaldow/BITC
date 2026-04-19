@@ -30,3 +30,22 @@ find a nomad
 
 [[Miar]] - 200 year old record
 
+[[Hekhtor]]
+[[Chiles]]
+
+Constellation of the Lord spotted by Aru
+
+Thodunn spots constellations of the golem and mage in close proximity
+
+golem
+ - patterns
+ - life imposed to pattern
+ - living creatures being automatic
+ - literal golem
+ - lifeless things being granted life
+
+
+Leather cloaks from archer dragonflies and acid rain
+
+Masks to help with toxic gas
+
