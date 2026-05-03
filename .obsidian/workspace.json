@@ -8,36 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13ba63e11ba01531",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2026/02 22 - Session 61.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02 22 - Session 61"
-            }
-          },
-          {
-            "id": "f3e8d891556e7a77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2026/02 08 - Session 60.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 08 - Session 60"
-            }
-          },
-          {
             "id": "950e07bce442017d",
             "type": "leaf",
             "pinned": true,
@@ -70,21 +40,79 @@
             }
           },
           {
-            "id": "22f21849f795cb6a",
+            "id": "3e05ece1c2eb7121",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2026/05 03 - Session 64.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "05 03 - Session 64"
+            }
+          },
+          {
+            "id": "68700cff4ed7f95e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Helviti/List of Commanda.md",
+                "file": "Setting Rules/Valid Wild Shapes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List of Commanda"
+              "title": "Valid Wild Shapes"
+            }
+          },
+          {
+            "id": "4d982e962f4f5e24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2026/02 22 - Session 61.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 22 - Session 61"
+            }
+          },
+          {
+            "id": "a876867f2efa614d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Local Arcanists/Vixel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vixel"
+            }
+          },
+          {
+            "id": "692313e26f626a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Local Arcanists/Mholok Krass.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mholok Krass"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bond ties",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -304,12 +332,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f5627f249e1a863",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
-    "Factions/Silver Company/Party/Vrindrilliax.md",
+    "Setting Rules/Valid Wild Shapes.md",
+    "Factions/Local Arcanists/Mholok Krass.md",
+    "Factions/Local Arcanists/Vixel.md",
+    "Sessions/2026/05 03 - Session 64.md",
+    "Sessions/2026/02 22 - Session 61.md",
+    "Sessions/2026/03 22 - Session 62.md",
     "Sessions/2026/04 19 - Session 63.md",
-    "Factions/Helviti/List of Commanda.md",
+    "Sessions/2026/02 08 - Session 60.md",
+    "Factions/Silver Company/Karta.md",
+    "Locations/Coprun/Miners Pick.md",
+    "Sessions/2023/09 24 - Session 9.md",
+    "Factions/Silver Company/Kevin Aldragosh.md",
     "Sessions/2025/03 09 - Session 41.md",
+    "Sessions/2024/02 11 - Session 16.md",
+    "Sessions/2023/08 13 - Session 7.md",
+    "Factions/Silver Company/Employee List.md",
+    "Pasted image 20260503170906.png",
+    "Factions/Silver Company/Party/Vrindrilliax.md",
+    "Factions/Helviti/List of Commanda.md",
     "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2025/09 07 - Session 51.md",
     "Sessions/2024/01 14 - Session 14.md",
@@ -318,26 +361,12 @@
     "Sessions/2025/06 29 - Session 47.md",
     "Sessions/2025/04 06 - Session 43.md",
     "Sessions/2025/07 27 - Session 49.md",
-    "Sessions/2026/03 22 - Session 62.md",
-    "Sessions/2026/02 22 - Session 61.md",
     "Assets/Characters/Arach.png",
     "Assets/Maps/PevicContinent.png",
     "Assets/Maps/Topographic Map.png",
-    "Factions/Helviti/Devil Comanda.md",
-    "Setting Rules/Hirelings & Mounts.md",
-    "Sessions/2026/02 08 - Session 60.md",
-    "Sessions/2026/01 25 - Session 59.md",
-    "Sessions/2026/01 11 - Session 58.md",
-    "Deity/The Protector.md",
-    "Deity/Lifegiver.md",
-    "Deity/Eternal Queen.md",
-    "Sessions/2024/06 16 - Session 24.md",
-    "Locations/Kathkach/Middle Zigg.md",
-    "Sessions/2023/09 10 - Session 8.md",
     "Locations/The Pit.canvas",
     "Untitled 1.base",
     "Untitled.base",
-    "Factions/Sea Blooded Org/Corsaro.md",
     "Assets/Maps/Tiefling Camp.png",
     "Pasted image 20250921200842.png",
     "Locations/Barbakan/Barbakan.canvas",
@@ -345,7 +374,6 @@
     "Assets/Maps/SBO L6 (Roof).png",
     "Assets/Maps/SBO L3.png",
     "Assets/Maps/SBO L4.png",
-    "Assets/Characters/Piggy.png",
     "Locations/Barbakan/Harbour District.canvas",
     "Locations/Lionhold/Ziardim Caverns.canvas",
     "Locations/Dog Prince Caves.canvas",

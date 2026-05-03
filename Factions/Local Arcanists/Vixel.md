@@ -4,6 +4,7 @@ Vixel was interested in:
 
 Half Elf
 Murdered
+Diviner
 
 Not a personal associate
 Third greatest practitioner after [[Mholok Krass]] and [[Torniar Maluka]]

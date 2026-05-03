@@ -7,3 +7,5 @@ Mholok to travel to Chineria soon, though [[Torniar Maluka]] will remain
 - Perfecting autonomous human
 - Bronze golem?
 - Given aways suit to [[Sea Blooded Organisation]]
+
+Transmuter
