@@ -47,4 +47,5 @@ predominantly trans, conj and necro
 Crackle con save entering room
 
 Magical shape under cloth, smooth white material
-Br
+Bronze, bone
+
