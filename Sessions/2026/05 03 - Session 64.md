@@ -47,5 +47,7 @@ predominantly trans, conj and necro
 Crackle con save entering room
 
 Magical shape under cloth, smooth white material
-Bronze, bone
+Bronze, bone, smell of machine oil
+
+
 
