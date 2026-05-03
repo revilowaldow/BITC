@@ -49,5 +49,10 @@ Crackle con save entering room
 Magical shape under cloth, smooth white material
 Bronze, bone, smell of machine oil
 
+8-9ft tall bronze and bone necromantic creature, armed
+at least 4 iron longswords
+two long bows
+four humanoid arms
 
+3 to 4 human corpses to 
 
