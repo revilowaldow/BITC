@@ -58,3 +58,6 @@ four humanoid arms
 
 ![[Pasted image 20260503191144.png]]
 
+> We thought you'd make us stronger, we didn't want this
+
+
