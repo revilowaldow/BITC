@@ -54,9 +54,81 @@
               "icon": "lucide-file",
               "title": "05 03 - Session 64"
             }
+          },
+          {
+            "id": "dfd2938b5184f0fb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2026/05 17 - Session 65.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "05 17 - Session 65"
+            }
+          },
+          {
+            "id": "a4d8c96a47f9cfde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2026/02 08 - Session 60.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 08 - Session 60"
+            }
+          },
+          {
+            "id": "e1efd0a0c439e22d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2026/02 22 - Session 61.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 22 - Session 61"
+            }
+          },
+          {
+            "id": "71f3caa320e6e5e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2026/01 25 - Session 59.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 25 - Session 59"
+            }
+          },
+          {
+            "id": "a7072afc09796b3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2026/01 11 - Session 58.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 11 - Session 58"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -276,22 +348,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e05ece1c2eb7121",
+  "active": "dfd2938b5184f0fb",
   "lastOpenFiles": [
+    "Sessions/2026/01 11 - Session 58.md",
+    "Sessions/2026/05 17 - Session 65.md",
+    "Sessions/2026/05 03 - Session 64.md",
+    "Sessions/2026/04 19 - Session 63.md",
+    "Sessions/2026/03 22 - Session 62.md",
+    "Sessions/2026/02 22 - Session 61.md",
     "Sessions/2026/02 08 - Session 60.md",
     "Sessions/2026/01 25 - Session 59.md",
-    "Sessions/2026/01 11 - Session 58.md",
-    "Sessions/2026/04 19 - Session 63.md",
-    "Sessions/2026/05 03 - Session 64.md",
     "Setting Rules/Valid Wild Shapes.md",
-    "Sessions/2026/02 22 - Session 61.md",
     "Factions/Local Arcanists/Vixel.md",
     "Factions/Local Arcanists/Mholok Krass.md",
     "Sessions/2024/09 01 - Session 29.md",
     "Sessions/2024/09 08 - Session 30.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Pasted image 20260503191144.png",
-    "Sessions/2026/03 22 - Session 62.md",
     "Factions/Silver Company/Karta.md",
     "Locations/Coprun/Miners Pick.md",
     "Sessions/2023/09 24 - Session 9.md",
@@ -305,7 +378,6 @@
     "Factions/Helviti/List of Commanda.md",
     "Sessions/2024/11 03 - Session 34.md",
     "Sessions/2025/09 07 - Session 51.md",
-    "Sessions/2024/01 14 - Session 14.md",
     "Assets/Characters/Arach.png",
     "Assets/Maps/PevicContinent.png",
     "Assets/Maps/Topographic Map.png",
