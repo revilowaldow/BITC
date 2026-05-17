@@ -58,4 +58,6 @@ One silver dragon still remains, [[Sheiliantris]] who was pulled though the gate
 
 No dragon can harm the descendants of the tribes that took part in the battle with the dragons against the fiends
 
-[[Zheevaglishgar]] liv
+[[Zheevaglishgar]] lives in tower to the south
+
+Creature lives far beneath the surface, loathing that l
