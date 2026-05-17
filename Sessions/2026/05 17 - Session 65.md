@@ -48,7 +48,7 @@ Held summons sand storms
 
 Created a ring of fire, dispelled it for repulsion breath
 
-Not as strong as Tarknurker
+Not as strong as [[Tarknurker]] - dragon
 
 The silver company (of dragons)
 
@@ -56,4 +56,6 @@ Aegan Empire founding myth is a corruption of this company
 
 One silver dragon still remains, [[Sheiliantris]] who was pulled though the gate to the hells/fiends
 
-No dragon can harm the descendant
+No dragon can harm the descendants of the tribes that took part in the battle with the dragons against the fiends
+
+[[Zheevaglishgar]] liv
