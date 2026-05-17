@@ -52,4 +52,6 @@ Not as strong as Tarknurker
 
 The silver company (of dragons)
 
+Aegan Empire founding myth is a corruption of this company
+
 
