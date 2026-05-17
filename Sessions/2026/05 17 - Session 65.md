@@ -2,12 +2,14 @@
 Daryl Recapping
 
 Scrolls:
-- death armour
-- false life
-- flaming sphere - druid
-- jump - druid
-- magic weapon - concentration
-- unseen servant
+- death armour - caenis
+- false life - thodunn
+- flaming sphere - druid, vrin
+- jump - druid, thodunn
+- magic weapon - concentration, thodunn
+- unseen servant - caenis
 
 <hr>
+
+
 
