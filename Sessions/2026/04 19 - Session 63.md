@@ -61,4 +61,4 @@ Adult Bronze Lizards
 > -  [[Hendarizil]]  & [[Heldrexil]] 
 
 
-![[Pasted image 20260503170906.png]]
+![[Library Prepared Spells.png]]

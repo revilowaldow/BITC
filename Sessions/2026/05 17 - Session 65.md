@@ -1,12 +1,13 @@
 
 Daryl Recapping
 
-death armour
-false life
-flaming sphere
-jump
-magic weapon
-unseen servant
+Scrolls:
+- death armour
+- false life
+- flaming sphere - druid
+- jump - druid
+- magic weapon - concentration
+- unseen servant
 
 <hr>
 
