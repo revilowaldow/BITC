@@ -14,4 +14,7 @@ Scrolls:
 Constantly shifting walls, ancient stone floors of unfamiliar architecture 
 Shelves, mostly empty
 
+[[Hendarizil]] - brass, male
+[[Heldrexil]] bronze, female
+
 
