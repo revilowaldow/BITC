@@ -24,7 +24,7 @@ Cursed line
 [[Zheevaglishgar]] - 'the sire'
 Something hunts his children
 
-[[Mair Arrakis]] a  golddragon, mother of vrin
+[[Mair Arrakis]] a gold dragon, mother of vrin, founded gold commanda
 vanished like many of [[Zheevaglishgar]]'s offspring
 
 Rivalling even the silvers
