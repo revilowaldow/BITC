@@ -61,3 +61,14 @@ four humanoid arms
 > We thought you'd make us stronger, we didn't want this
 
 
+[[Shiendo Kadan]]
+
+Sword and armour both enchanted
+
+Vixel gave orbs to torniar
+- The dog prince
+- Torniar's
+- Soldiers training and fighting, animalistic sounds, woman's commanding voice
+- Dark chamber forgotten from world, whisper to the orb, cautious 
+- Eerie green glow, cold wet, guttural crocodile rumble, draconic
+
