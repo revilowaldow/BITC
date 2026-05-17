@@ -17,4 +17,11 @@ Shelves, mostly empty
 [[Hendarizil]] - brass, male
 [[Heldrexil]] bronze, female
 
+Mages filled the library with creatures that escaped, becoming the current wastes
 
+Cursed line
+
+[[Zheevaglishgar]] - 'the sire'
+Something hunts his children
+
+Mair Arrakis 
