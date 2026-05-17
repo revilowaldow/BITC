@@ -46,6 +46,6 @@ Wardship can be transferred
 Fight commences
 Held summons sand storms
 
-Created a ring of fire, dispelled it for repulsion breah
+Created a ring of fire, dispelled it for repulsion breath
 
 
