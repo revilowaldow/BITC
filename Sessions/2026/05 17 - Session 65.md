@@ -7,3 +7,4 @@ flaming sphere
 jump
 magic weapon
 unseen servant
+
