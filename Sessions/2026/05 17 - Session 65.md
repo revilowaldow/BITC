@@ -43,4 +43,7 @@ Letting go of Vrin means she becomes a full dragon
 
 Wardship can be transferred 
 
+Fight commences
+Held summons sand storms
+
 
