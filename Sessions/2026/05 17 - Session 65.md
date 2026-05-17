@@ -49,3 +49,7 @@ Held summons sand storms
 Created a ring of fire, dispelled it for repulsion breath
 
 Not as strong as Tarknurker
+
+The silver company (of dragons)
+
+
