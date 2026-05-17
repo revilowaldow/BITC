@@ -1,5 +1,5 @@
 
-Daryl Recapping
+Oliver Recapping
 
 Scrolls:
 - death armour - caenis
@@ -24,5 +24,13 @@ Cursed line
 [[Zheevaglishgar]] - 'the sire'
 Something hunts his children
 
-Mair Arrakis 
+[[Mair Arrakis]] a dragon, mother of vrin
+vanished like many of [[Zheevaglishgar]]'s offspring
+
+Rivalling even the silvers
+
+Held: One remains, Hend: two survived
+
+100 companions to the dyvare, none as fervent
+
 
