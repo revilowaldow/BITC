@@ -60,4 +60,8 @@ No dragon can harm the descendants of the tribes that took part in the battle wi
 
 [[Zheevaglishgar]] lives in tower to the south
 
-Creature lives far beneath the surface, loathing that l
+Creature lives far beneath the surface, loathing that lurks, [[Tarknurker]] black dragon
+Ancient god of destruction and degradation, Aepoptosis
+
+
+
