@@ -32,5 +32,13 @@ Rivalling even the silvers
 Held: One remains, Hend: two survived
 
 100 companions to the dyvare, none as fervent
+Preferred to have a low profile
 
+When the dyvare vanished his heart was struck into many pieces
+Still a gold dragon
 
+Alluded that they changed colour
+
+Letting go of Vrin means she becomes a full dragon
+
+Wardship can be transferred 
