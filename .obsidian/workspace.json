@@ -104,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "knight",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,8 +135,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -293,7 +292,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfd2938b5184f0fb",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
     "Sessions/2023/09 10 - Session 8.md",
     "Sessions/2023/05 07 - Session 1.md",

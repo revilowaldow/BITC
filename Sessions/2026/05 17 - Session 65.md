@@ -54,4 +54,6 @@ The silver company (of dragons)
 
 Aegan Empire founding myth is a corruption of this company
 
-One silver dragon still remains, [[Sheiliantris]] who was pulled thoguh the gate 
+One silver dragon still remains, [[Sheiliantris]] who was pulled though the gate to the hells/fiends
+
+No dragon can harm the descendant
