@@ -8,3 +8,5 @@ Rune as backup character for
 
 
 - Rev
+- City State Wizard, torniar apprentice, geas?
+- 
