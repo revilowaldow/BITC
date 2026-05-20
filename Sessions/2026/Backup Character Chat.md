@@ -9,4 +9,5 @@ Rune as backup character for
 
 - Rev
 - City State Wizard, torniar apprentice, geas?
-- 
+- Far traveller to Lionhold, arena, brash?
+
