@@ -1,1 +1,4 @@
 
+kana and rev, clericy
+
+
