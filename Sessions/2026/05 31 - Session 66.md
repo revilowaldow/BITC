@@ -66,7 +66,13 @@ They will find you, be prepared for when that happens
 You cannot defeat them by tactics and might, only by overriding their wills
 Lookout for hardship, hand of the gods, hidden/obscured identity
 Must find "the last will of gotha", messages left in this valley that can explain the rest
-Prepare your mind and body
+Prepare your mind and body both
+Abandon your preconception
+Blind spot of the enemy
+You are in the sights of the enemy
+Irrelevant to their plans
+
+
 
 
 
