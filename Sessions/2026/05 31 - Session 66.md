@@ -37,5 +37,7 @@ Flew to low water crossing
 
 Revant noted as a noble weapon, continuing to fight when all else failed
 
-Kana reintroduced, 
+Kana reintroduced, to party
+
+Kana thanks Caenis for initiating contact and says it may have changed h
 
