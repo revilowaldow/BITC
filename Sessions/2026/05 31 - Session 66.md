@@ -50,6 +50,11 @@ I can't talk to all of you, but there is one other
 I'm a spirit
 Caenis' date with Karta went alright
 Orc and thodunn teleport to caenis
+I sense power in you and your group
+I am a servant of Gotha, back from when she still lived
+I am the dyvare that forged the city of kathkach
+Can't give you more than a warning
+Threat in this valle
 
 
 
