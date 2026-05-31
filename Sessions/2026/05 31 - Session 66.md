@@ -59,7 +59,12 @@ I fear that when I fought it all it learned was how destructive dyvares could be
 Limitations to my side (old order, must follow rules restrictions, bound not to interfere)
 No restrictions on this foe
 You can stop them, many dyvares, all potential to cause great harm and devastation, allies among them, help has arrived one day you must find them.
-Remain wary, rule governing what creates a dyvare
+Remain wary, rule governing what creates a dyvare are flexible, enemy has had 300 years to perfect
+Seeds sown a long time ago are bearing fruit
+
+They will find you, be prepared for when that happens
+You cannot defaeat them by tactics and might, only by overriding their wills
+
 
 
 
