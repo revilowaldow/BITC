@@ -28,7 +28,8 @@ Needle and vials of coloured liquid
 Tattoos of elven origin
 Requires strength of mind
 No split goals
-
 Retribution from loss
+
+Cooked a sand squid
 
 
