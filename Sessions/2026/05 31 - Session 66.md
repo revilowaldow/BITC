@@ -93,7 +93,9 @@ Investigating the story of gotha's riddle
 
 Two monkeys/apes, found a grain of wheat, not enough to share?
 Civilisation, growth, agriculture, community
-Protect them
+Protect them.
+Hired high ranking gladiators, crimson spear hired by toryk jamal
+
 
 
 
