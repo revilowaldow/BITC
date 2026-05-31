@@ -98,7 +98,6 @@ Hired high ranking gladiators, crimson spear hired by toryk jamal
 Escorted by a small group from lionhold
 Consequences of betraying us would be war
 
-Arach?
 
 Meeting lionhold group in crutan
 
@@ -108,6 +107,9 @@ Vault of Gotha
 Opportunity this afternoon to ask about the mission and prepare
 
 We didn't visit the arena to watch the gladiators
+
+Lyan thorp knocking on door
+Calamsis 
 
 
 
