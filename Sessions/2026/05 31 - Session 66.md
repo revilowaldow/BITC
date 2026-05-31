@@ -91,7 +91,8 @@ Lead on the slopes of prynlope
 Old civilisation pre collapse
 Investigating the story of gotha's riddle
 
-Two monkeys/apes, found a grain of wheat
+Two monkeys/apes, found a grain of wheat, not enough to share?
+
 
 
 
