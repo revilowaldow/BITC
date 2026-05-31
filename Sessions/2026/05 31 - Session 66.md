@@ -45,5 +45,7 @@ Have you met Rowan?
 Lieutenant of the dog prince?
 
 Thodunn crafting
-Orcish figure in gold armor
+Orcish figure in gold armour out of corner of eye
+
+
 
