@@ -83,7 +83,12 @@ Thodunn makes a set of knee braces, advantage on one strength or dex saving thro
 <hr>
 
 Kevin no info on the origins of the silver company
-Founded by a guy in 
+Founded by a guy in the aegan empire
+
+Toryk Jamal & Lyan Thorp
+Lyan likes ruins archeology, history
+
+
 
 
 
