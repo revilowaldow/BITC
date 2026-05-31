@@ -23,3 +23,7 @@ Enough space here to hold every type of life in Gol, and maybe a few more
 
 Secrecy is even more important than usual
 
+Needle and vials of coloured liquid
+
+Tattoos of elven origin
+
