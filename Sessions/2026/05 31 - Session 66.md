@@ -13,5 +13,9 @@ Dragon are extremes
 - Held is violence
 - Hend is protection, good and evil
 
+Aru and Thodunn explore with Vrin, searching for magic
+
+Find crystal vaults
+
 
 
