@@ -21,5 +21,5 @@ Find crystal vaults, deepest lore
 Uncountable number of canisters
 Enough space here to hold every type of life in Gol, and maybe a few more
 
-
+Secrecy is even more important than usual
 
