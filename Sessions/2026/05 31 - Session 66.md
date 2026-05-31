@@ -17,5 +17,5 @@ Aru and Thodunn explore with Vrin, searching for magic
 
 Find crystal vaults, deepest lore
 > A canister containing blue fluid and a creature, a mage killed by a giant crab
-
+Uncountable number of canisters
 
