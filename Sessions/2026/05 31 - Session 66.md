@@ -37,5 +37,5 @@ Flew to low water crossing
 
 Revant noted as a noble weapon, continuing to fight when all else failed
 
-
+Kana reintroduced, 
 
