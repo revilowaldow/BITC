@@ -89,7 +89,10 @@ Toryk Jamal & Lyan Thorp
 Lyan likes ruins archeology, history
 Lead on the slopes of prynlope
 Old civilisation pre collapse
-Investigating the story of gotha's 
+Investigating the story of gotha's riddle
+
+Two monkeys/apes, found a grain of wheat
+
 
 
 
