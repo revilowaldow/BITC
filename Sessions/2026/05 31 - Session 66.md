@@ -102,6 +102,9 @@ Arach?
 
 Meeting lionhold group in crutan
 
+Taking Chikitan Miasmar with us
+
+Vault of Got
 
 
 
