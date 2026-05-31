@@ -63,8 +63,10 @@ Remain wary, rule governing what creates a dyvare are flexible, enemy has had 30
 Seeds sown a long time ago are bearing fruit
 
 They will find you, be prepared for when that happens
-You cannot defaeat them by tactics and might, only by overriding their wills
-
+You cannot defeat them by tactics and might, only by overriding their wills
+Lookout for hardship, hand of the gods, hidden/obscured identity
+Must find "the last will of gotha", messages left in this valley that can explain the rest
+Prepare your mind and body
 
 
 
