@@ -6,8 +6,8 @@ Oliver Recapping
 
 Scrolls:
 - death armour - caenis
-- false life - thodunn
-- flaming sphere - druid, vrin
+- false life - vrin
+- flaming sphere - druid, thodunn
 - jump - druid, thodunn
 - magic weapon - concentration, thodunn
 - unseen servant - caenis
