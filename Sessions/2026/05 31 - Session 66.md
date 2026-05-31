@@ -27,4 +27,6 @@ Needle and vials of coloured liquid
 
 Tattoos of elven origin
 Requires strength of mind
-No 
+No split goals
+
+
