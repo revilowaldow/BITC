@@ -100,6 +100,8 @@ Consequences of betraying us would be war
 
 Arach?
 
+Meeting lionhold group in crutan
+
 
 
 
