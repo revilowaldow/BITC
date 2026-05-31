@@ -104,8 +104,8 @@ Meeting lionhold group in crutan
 
 Taking Chikitan Miasmar with us
 
-Vault of Got
-
+Vault of Gotha
+Opportunity this afternoon to ask about the mission and prepare
 
 
 
