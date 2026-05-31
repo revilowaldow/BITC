@@ -118,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kevin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,8 +149,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -307,7 +306,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d64d57bbfa4524a3",
+  "active": "41f6b437e588d7d2",
   "lastOpenFiles": [
     "Sessions/2026/Backup Character Chat.md",
     "Locations/Dog Prince Caves.canvas",
