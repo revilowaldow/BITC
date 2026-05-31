@@ -92,7 +92,8 @@ Old civilisation pre collapse
 Investigating the story of gotha's riddle
 
 Two monkeys/apes, found a grain of wheat, not enough to share?
-
+Civilisation, growth, agriculture, community
+Protect them
 
 
 
