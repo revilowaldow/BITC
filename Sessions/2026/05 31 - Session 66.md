@@ -44,4 +44,6 @@ Kana thanks Caenis for initiating contact and says it may have saved her life
 Have you met Rowan?
 Lieutenant of the dog prince?
 
+Thodunn crafting
+Orcish figure in gold armor
 
