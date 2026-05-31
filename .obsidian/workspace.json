@@ -118,12 +118,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brayk",
+                "query": "kevin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -149,7 +149,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -306,7 +307,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41f6b437e588d7d2",
+  "active": "d64d57bbfa4524a3",
   "lastOpenFiles": [
     "Sessions/2026/Backup Character Chat.md",
     "Locations/Dog Prince Caves.canvas",
