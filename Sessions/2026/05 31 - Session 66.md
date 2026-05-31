@@ -29,4 +29,6 @@ Tattoos of elven origin
 Requires strength of mind
 No split goals
 
+Retribution from loss
+
 
