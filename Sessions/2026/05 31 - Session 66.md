@@ -10,5 +10,8 @@ Movement restricted
 Heldr was originally blue
 
 Dragon are extremes 
-- 
+- Held is violence
+- Hend is protection, good and evil
+
+
 
