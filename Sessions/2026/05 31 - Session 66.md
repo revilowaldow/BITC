@@ -46,6 +46,6 @@ Lieutenant of the dog prince?
 
 Thodunn crafting
 Orcish figure in gold armour out of corner of eye
-
+I can't talk to all of you
 
 
