@@ -41,5 +41,7 @@ Kana reintroduced, to party
 
 Kana thanks Caenis for initiating contact and says it may have saved her life
 
-Rowan
+Have you met Rowan?
+Lieutenant of the dog prince?
+
 
