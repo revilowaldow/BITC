@@ -76,7 +76,7 @@ in the Eye of Aepoptosis, but this plot does not concern that
 This is about turning the centre of the world into a gladiatorial match
 You may be our last chance, you are strong
 
-Face changes, kana, another golden armour, shadow bathed in darkness, twin purple eyes
+Face changes, kana, another golden armour, shadow bathed in darkness, twin purple eyes female voice "who are you"
 
 
 
