@@ -87,7 +87,9 @@ Founded by a guy in the aegan empire
 
 Toryk Jamal & Lyan Thorp
 Lyan likes ruins archeology, history
-
+Lead on the slopes of prynlope
+Old civilisation pre collapse
+Investigating the story of gotha's 
 
 
 
