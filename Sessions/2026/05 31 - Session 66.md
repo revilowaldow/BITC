@@ -78,7 +78,7 @@ You may be our last chance, you are strong
 
 Face changes, kana, another golden armour, shadow bathed in darkness, twin purple eyes female voice "who are you"
 
-
+Thodunn makes a set of knee braces, advantage on one strength or dex saving throw per long rest
 
 
 
