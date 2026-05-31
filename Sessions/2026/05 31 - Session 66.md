@@ -95,7 +95,10 @@ Two monkeys/apes, found a grain of wheat, not enough to share?
 Civilisation, growth, agriculture, community
 Protect them.
 Hired high ranking gladiators, crimson spear hired by toryk jamal
+Escorted by a small group from lionhold
+Consequences of betraying us would be war
 
+Arach?
 
 
 
