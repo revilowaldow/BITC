@@ -16,6 +16,6 @@ Dragon are extremes
 Aru and Thodunn explore with Vrin, searching for magic
 
 Find crystal vaults
-
+A canister containing blue fluid and a creature, a mage killed
 
 
