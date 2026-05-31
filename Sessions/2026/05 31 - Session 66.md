@@ -54,7 +54,11 @@ I sense power in you and your group
 I am a servant of Gotha, back from when she still lived
 I am the dyvare that forged the city of kathkach
 Can't give you more than a warning
-Threat in this valle
+Threat in this valley, since I chased it from the city, learned and grown and adapted
+I fear that when I fought it all it learned was how destructive dyvares could be and it is making more
+Limitations to my side (old order, must follow rules restrictions, bound not to interfere)
+No restrictions on this foe
+
 
 
 
