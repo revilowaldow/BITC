@@ -49,7 +49,9 @@ Orcish figure in gold armour out of corner of eye
 I can't talk to all of you, but there is one other
 I'm a spirit
 
-Caenis' date with
+Caenis' date with Karta went alright
+
+
 
 
 
