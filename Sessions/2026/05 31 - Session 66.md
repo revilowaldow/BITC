@@ -80,7 +80,10 @@ Face changes, kana, another golden armour, shadow bathed in darkness, twin purpl
 
 Thodunn makes a set of knee braces, advantage on one strength or dex saving throw per long rest, only while injured
 
+<hr>
 
+Kevin no info on the origins of the silver company
+Founded by a guy in 
 
 
 
