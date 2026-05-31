@@ -32,4 +32,10 @@ Retribution from loss
 
 Cooked a sand squid
 
+Kaulinan didn't eat it despite it being good
+Flew to low water crossing
+
+Revant noted as a noble weapon, continuing to fight when all else failed
+
+
 
