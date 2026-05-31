@@ -58,7 +58,8 @@ Threat in this valley, since I chased it from the city, learned and grown and ad
 I fear that when I fought it all it learned was how destructive dyvares could be and it is making more
 Limitations to my side (old order, must follow rules restrictions, bound not to interfere)
 No restrictions on this foe
-
+You can stop them, many dyvares, all potential to cause great harm and devastation, allies among them, help has arrived one day you must find them.
+Remain wary, rule governing what creates a dyvare
 
 
 
