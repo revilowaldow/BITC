@@ -107,5 +107,5 @@ Taking Chikitan Miasmar with us
 Vault of Gotha
 Opportunity this afternoon to ask about the mission and prepare
 
-
+We didn't visit the arena to watch the glad
 
