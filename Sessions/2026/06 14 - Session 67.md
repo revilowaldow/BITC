@@ -6,8 +6,10 @@ Calamsis retracts his assertion that Aru is unworthy of her drake
 
 Suggested calamsis may have been invited with the other gladiator for 
 
-Calamsis address provided
+Calamsis small house in gold district address provided
 
 ![[Calamxis2_Token.png]]
 
 One sword, metal armour
+Height of Aru
+
