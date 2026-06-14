@@ -29,6 +29,8 @@ Toryk looking after logistics
 
 Lyan is keen to receive any information
 
+[[Shaku Toto]] coming from Lionhold
+
 
 
 
