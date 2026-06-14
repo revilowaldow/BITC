@@ -8,7 +8,7 @@ Suggested calamsis may have been invited with the other gladiator for
 
 Calamsis small house in gold district address provided
 
-![[Calamxis2_Token.png]]
+![[Calamxis2_Token.png|442]]
 
 One sword, metal armour
 Height of Aru
@@ -38,6 +38,7 @@ Chikitan has been in touch with the Moth
 Rev will never go back fully to normal
 Same in Setanta, path to being a dyvarre has halted but not stopped entirely
 
+Rev is due to arrive in a month's time
 
 
 
