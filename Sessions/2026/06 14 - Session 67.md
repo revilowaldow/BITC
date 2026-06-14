@@ -18,6 +18,6 @@ Thodunn gives the knee braces to Kaulinan
 Lyan Thorp
 Half Orc, scrawny
 Glass spectacles
-
-
+Trades in information, requested a dossier on our activities in barbakan
+Stores information on behalf
 
