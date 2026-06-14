@@ -88,4 +88,5 @@ Vrin is glowing, still blue but tints of teal
 Calamsis wants us to convince the crimson spear to fuck off
 Crimson Spear wants us to convince calamsis to fight him
 
-Calamsis will reward us with Mercy for 
+Calamsis will reward us with [[Mercy]] for this task
+
