@@ -78,5 +78,7 @@ Original copy of  The Research of Master Woodworker Eddy Woody Woodwards
 
 Obsidian experience
 
-Fermentation option rather than stoning, contorting, 
+Fermentation option rather than stoning, contorting, scraping
+You end smelling slightly of dill
+
 
