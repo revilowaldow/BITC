@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "06 14 - Session 67"
             }
+          },
+          {
+            "id": "2d6850a459683365",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/Calamxis2_Token.png"
+              },
+              "icon": "lucide-image",
+              "title": "Calamxis2_Token"
+            }
+          },
+          {
+            "id": "858adf9ab2dba04d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/Calamxis_Token.png"
+              },
+              "icon": "lucide-image",
+              "title": "Calamxis_Token"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -276,10 +300,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dda6c66131615670",
+  "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
-    "Sessions/2026/05 31 - Session 66.md",
+    "Assets/Characters/Calamxis2_Token.png",
+    "Assets/Characters/Calamxis_Token.png",
     "Sessions/2026/06 14 - Session 67.md",
+    "Sessions/2026/05 31 - Session 66.md",
     "Sessions/2026/05 17 - Session 65.md",
     "Sessions/2026/04 19 - Session 63.md",
     "Sessions/2026/05 03 - Session 64.md",
@@ -304,7 +330,6 @@
     "Sessions/2025/12 14 - Session 57.md",
     "Sessions/2025/10 05 - Session 52.md",
     "Setting Rules/Named swords.md",
-    "Sessions/2025/11 16 - Session 55.md",
     "Pasted image 20260520195610.png",
     "Pasted image 20260520195559.png",
     "Assets/Characters/Bone Devestator.png",
@@ -314,7 +339,6 @@
     "Pasted image 20250907201732.png",
     "Pasted image 20250615204540.png",
     "Pasted image 20250629194504.png",
-    "Pasted image 20250223184136.png",
     "Locations/The Pit.canvas",
     "Untitled 1.base",
     "Untitled.base",
