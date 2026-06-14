@@ -60,7 +60,10 @@ Need to buy 50gp worth of incense
 Thodunn buys an oar at Moanoar's shop
 > "Please please come again"
 
-Thodunn buys "Where's My Spitlizard" 
+Thodunn buys "Where's My Spitlizard" in Elvish and Common
+Orc is a mem
+
+
 
 
 
