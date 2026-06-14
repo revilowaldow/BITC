@@ -48,7 +48,10 @@ Very tall rugged half orc
 Face paint
 Tribal equipment
 Large steel spear
-Cole
+Colburn
+"Coal"
+
+
 
 
 
