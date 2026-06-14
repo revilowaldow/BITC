@@ -25,6 +25,8 @@ Has detailed knowledge of passageways under arenas and old worships
 
 Asked about Guidance
 
+Toryk looking after logistics
 
+Lyan is keen to receive any 
 
 
