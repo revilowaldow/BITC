@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -300,10 +300,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d6430cf8b2ed580",
+  "active": "2d6850a459683365",
   "lastOpenFiles": [
-    "Assets/Characters/Calamxis2_Token.png",
     "Assets/Characters/Calamxis_Token.png",
+    "Assets/Characters/Calamxis2_Token.png",
     "Sessions/2026/06 14 - Session 67.md",
     "Sessions/2026/05 31 - Session 66.md",
     "Sessions/2026/05 17 - Session 65.md",
