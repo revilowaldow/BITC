@@ -109,3 +109,9 @@ Debate on the merits of having access to mercy
 Supervision vs temptation
 
 
+<hr>
+
+> "Fret not for strife internal, beware thyself against the hordes emergent. The riddles within are but a test. Those that follow are your foe to best."
+
+It is my 300th birthday.
+
