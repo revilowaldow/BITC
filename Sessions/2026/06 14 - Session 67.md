@@ -93,4 +93,13 @@ Calamsis will reward us with [[Mercy]] for this task
 
 
 
-Sometimes it feels like there
+Sometimes it feels like there are two cults
+
+One with the chaos and grandmaster
+
+Old rituals and structure that aren't manifested
+
+Multiple factions in the cult
+
+
+
