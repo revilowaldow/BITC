@@ -13,3 +13,5 @@ Calamsis small house in gold district address provided
 One sword, metal armour
 Height of Aru
 
+Thodunn gives the knee braces to Kaulinan
+
