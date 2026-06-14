@@ -15,4 +15,8 @@ Height of Aru
 
 Thodunn gives the knee braces to Kaulinan
 
+Lyan Thorp
+Half Orc, scrawny
+Glass spectacles
+
 
