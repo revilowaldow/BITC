@@ -60,7 +60,7 @@ Need to buy 50gp worth of incense
 Thodunn buys an oar at Moanoar's shop
 > "Please please come again"
 
-Thodunn buy
+Thodunn buys "Where's My Spitlizard" 
 
 
 
