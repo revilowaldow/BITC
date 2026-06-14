@@ -90,3 +90,7 @@ Crimson Spear wants us to convince calamsis to fight him
 
 Calamsis will reward us with [[Mercy]] for this task
 
+
+
+
+Sometimes it feels like there
