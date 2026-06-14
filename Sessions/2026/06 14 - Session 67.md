@@ -44,6 +44,10 @@ Chikitan is getting healers kits and written documents with scope relevant to hi
 
 <hr>
 
+Very tall rugged half orc
+Face paint
+Tribal equipment
+Large steel spear
 
 
 
