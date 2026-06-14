@@ -31,6 +31,9 @@ Lyan is keen to receive any information
 
 [[Shaku Toto]] coming from Lionhold
 
+Party at the platinum pot, nightfall
+
+
 
 
 
