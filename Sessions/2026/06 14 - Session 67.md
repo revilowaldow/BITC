@@ -23,4 +23,8 @@ Stores information on behalf of silver company
 
 Has detailed knowledge of passageways under arenas and old worships
 
+Asked about Guidance
+
+
+
 
