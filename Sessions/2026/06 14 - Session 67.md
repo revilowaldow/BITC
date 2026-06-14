@@ -35,6 +35,10 @@ Party at the platinum pot, nightfall
 
 Chikitan has been in touch with the Moth
 
+Rev will never go back fully to normal
+Same in Setanta, path to being a dyvarre has halted but not stopped entirely
+
+
 
 
 
