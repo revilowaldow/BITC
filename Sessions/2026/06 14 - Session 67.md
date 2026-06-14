@@ -8,3 +8,6 @@ Suggested calamsis may have been invited with the other gladiator for
 
 Calamsis address provided
 
+![[Calamxis2_Token.png]]
+
+One sword, metal armour
