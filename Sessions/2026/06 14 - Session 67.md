@@ -21,5 +21,6 @@ Glass spectacles
 Trades in information, requested a dossier on our activities in barbakan
 Stores information on behalf of silver company
 
+Has detailed knowledge of passageways under arenas and old worships
 
 
