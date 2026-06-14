@@ -33,6 +33,8 @@ Lyan is keen to receive any information
 
 Party at the platinum pot, nightfall
 
+Chikitan has been in touch with the Moth
+
 
 
 
