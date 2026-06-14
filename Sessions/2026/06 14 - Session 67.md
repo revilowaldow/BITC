@@ -40,7 +40,10 @@ Same in Setanta, path to being a dyvarre has halted but not stopped entirely
 
 Rev is due to arrive in a month's time
 
-Chikitan is getting healers kits and written documents with scope 
+Chikitan is getting healers kits and written documents with scope relevant to his history and perspective on gotha
+
+
+
 
 
 
