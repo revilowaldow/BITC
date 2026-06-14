@@ -102,4 +102,10 @@ Old rituals and structure that aren't manifested
 Multiple factions in the cult
 
 
+<hr>
+
+Debate on the merits of having access to mercy
+
+Supervision vs temptation
+
 
