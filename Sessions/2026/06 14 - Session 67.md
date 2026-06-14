@@ -19,5 +19,7 @@ Lyan Thorp
 Half Orc, scrawny
 Glass spectacles
 Trades in information, requested a dossier on our activities in barbakan
-Stores information on behalf
+Stores information on behalf of silver company
+
+
 
