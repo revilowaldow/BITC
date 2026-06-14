@@ -64,7 +64,12 @@ Thodunn buys "Where's My Spitlizard" in Elvish and Common
 Orc is a member of club of woodworkers and craftsmen
 Would you like to join?
 Woad Workers
-Meet on the last day of the week above the chair mak
+Meet on the last day of the week above the chair makers shop
+You must say "The legs look very even today"
+"Aye, they were chiselled by a dog"
+"Tis a good chair for a dog"
+
+
 
 
 
