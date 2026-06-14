@@ -27,6 +27,8 @@ Asked about Guidance
 
 Toryk looking after logistics
 
-Lyan is keen to receive any 
+Lyan is keen to receive any information
+
+
 
 
