@@ -70,7 +70,7 @@ You must say "The legs look very even today"
 "Aye, they were chiselled by a dog"
 "Tis a good chair for a dog"
 
-
+Prize is a small carved statue of a lizard
 
 
 
