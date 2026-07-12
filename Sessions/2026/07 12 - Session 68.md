@@ -64,4 +64,7 @@ Gladiators can give us training while we are here
 
 Vrin vomits while trying to use lightning during a duel
 
+Vrin saying that it feels wrong
+Not sure what though
+
 
