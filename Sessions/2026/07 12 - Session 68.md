@@ -22,6 +22,9 @@ Gothic beat old camp
 
 Weather phenomena
 
+Calamxis bought Kaulinan a wine
+on Arach: "he rubs me the wrong way"> "I feel it too"
+
 
 
 
