@@ -420,7 +420,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -640,8 +640,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad7988789d6f43a9",
+  "active": "a73ff6491681fe35",
   "lastOpenFiles": [
+    "Sessions/2023/11 05 - Session 11.md",
+    "Sessions/2023/11 19 - Session 12.md",
+    "Sessions/2023/12 17 - Session 13.md",
     "Sessions/2024/06 30 - Session 25.md",
     "Sessions/2024/06 02 - Session 23.md",
     "Sessions/2024/05 19 - Session 22.md",
@@ -653,9 +656,6 @@
     "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/01 14 - Session 14.md",
-    "Sessions/2023/12 17 - Session 13.md",
-    "Sessions/2023/11 19 - Session 12.md",
-    "Sessions/2023/11 05 - Session 11.md",
     "Sessions/2023/10 22 - Session 10.md",
     "Sessions/2023/09 24 - Session 9.md",
     "Sessions/2023/09 10 - Session 8.md",
