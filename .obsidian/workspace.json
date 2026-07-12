@@ -114,6 +114,7 @@
           {
             "id": "615a14e0f22b1c88",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -121,6 +122,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "07 12 - Session 68"
             }
@@ -182,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -402,11 +404,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dda6c66131615670",
+  "active": "754e59d2fb57cc44",
   "lastOpenFiles": [
-    "Sessions/2026/02 22 - Session 61.md",
-    "Sessions/2026/06 14 - Session 67.md",
     "Sessions/2026/07 12 - Session 68.md",
+    "Sessions/2026/06 14 - Session 67.md",
+    "Sessions/2026/02 22 - Session 61.md",
     "Sessions/2026/05 17 - Session 65.md",
     "Sessions/2026/05 31 - Session 66.md",
     "Sessions/2026/02 08 - Session 60.md",
