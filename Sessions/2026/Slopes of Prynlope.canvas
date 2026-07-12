@@ -4,7 +4,7 @@
 		{"id":"ffb36a843bdb24ac","x":-390,"y":-239,"width":250,"height":60,"type":"text","text":""},
 		{"id":"350019bae9ee8a98","x":-390,"y":237,"width":250,"height":60,"type":"text","text":""},
 		{"id":"63cd0ae58566df10","x":110,"y":-239,"width":250,"height":60,"type":"text","text":""},
-		{"id":"436026d30e1a3758","x":-140,"y":-60,"width":250,"height":120,"type":"text","text":"Sheltered Divot\nMain Camp"}
+		{"id":"436026d30e1a3758","x":-120,"y":-60,"width":200,"height":120,"type":"text","text":"Sheltered Divot\nMain Camp"}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"left","toNode":"ffb36a843bdb24ac","toSide":"bottom"},
