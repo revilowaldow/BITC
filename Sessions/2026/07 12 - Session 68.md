@@ -50,7 +50,9 @@ Agreed team split if necessary would be:
 
 Aru wakes to a voice in her mind "We're here"
 
-Lost some resources
+Lost some resources, we have 6 days plus return
+
+
 
 
 
