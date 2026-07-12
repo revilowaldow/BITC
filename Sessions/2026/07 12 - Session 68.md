@@ -37,8 +37,7 @@ Flour - default, Thodunn
 Kazpian - Runty small, fierce spitlizard, Caenis
 Sweet Talon - Long legs, Coal
 
-
-![]
+![[Slopes of Prynlope.canvas]]
 
 
 
