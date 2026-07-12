@@ -34,8 +34,10 @@ Spitlizard:
 
 Butter - golden colouration, Kaulinan
 Flour - default, Thodunn
-Kazpian - Runty small, fierce spitlizard
-Sweet Talon - Long legs
+Kazpian - Runty small, fierce spitlizard, Caenis
+Sweet Talon - Long legs, Coal
+
+
 
 
 
