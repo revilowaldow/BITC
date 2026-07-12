@@ -32,10 +32,11 @@ Aid at 4th level
 
 Spitlizard:
 
-Butter - golden colouration
-Flour - default
+Butter - golden colouration, Kaulinan
+Flour - default, Thodunn
 Kazpian - Runty small, fierce spitlizard
-Sweet Talon - 
+Sweet Talon - Long legs
+
 
 
 
