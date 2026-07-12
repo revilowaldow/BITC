@@ -30,11 +30,12 @@ Aid at 4th level
 
 <hr>
 
-Spitlizard
-Butter
-Flour
-Kazpian
-Sweet Talon
+Spitlizard:
+
+Butter - golden colouration
+Flour - default
+Kazpian - Runty small, fierce spitlizard
+Sweet Talon - 
 
 
 
