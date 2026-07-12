@@ -51,9 +51,11 @@ Agreed team split if necessary would be:
 Aru wakes to a voice in her mind "We're here"
 
 Lost some resources, we have 6 days plus return
-Toryk Jamal is staying in and managing 
+Toryk Jamal is staying in and managing the camps
 
 Lyan thorp is interested in artifacts
+
+Diagrams of things that originate here, stone artefacts
 
 
 
