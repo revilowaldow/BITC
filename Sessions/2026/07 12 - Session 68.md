@@ -67,4 +67,6 @@ Vrin vomits while trying to use lightning during a duel
 Vrin saying that it feels wrong
 Not sure what though
 
-South 
+South West direction
+
+
