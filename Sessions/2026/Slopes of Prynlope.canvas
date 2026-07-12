@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"839a8becea920803","x":110,"y":237,"width":250,"height":60,"type":"text","text":""},
-		{"id":"ffb36a843bdb24ac","x":-390,"y":-239,"width":250,"height":60,"type":"text","text":""},
-		{"id":"350019bae9ee8a98","x":-390,"y":237,"width":250,"height":60,"type":"text","text":""},
-		{"id":"63cd0ae58566df10","x":110,"y":-239,"width":250,"height":60,"type":"text","text":""},
-		{"id":"436026d30e1a3758","x":-120,"y":-60,"width":200,"height":120,"type":"text","text":"Sheltered Divot\nMain Camp"}
+		{"id":"ffb36a843bdb24ac","x":-450,"y":-340,"width":250,"height":60,"type":"text","text":""},
+		{"id":"63cd0ae58566df10","x":160,"y":-340,"width":250,"height":60,"type":"text","text":""},
+		{"id":"436026d30e1a3758","x":-200,"y":-220,"width":360,"height":360,"type":"text","text":"Sheltered Divot\nMain Camp\n\n3 tents\n- Lion hold\n- Nobles\n- Unknown\n\nCovered tables"},
+		{"id":"350019bae9ee8a98","x":-450,"y":297,"width":250,"height":60,"type":"text","text":""},
+		{"id":"839a8becea920803","x":160,"y":297,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"left","toNode":"ffb36a843bdb24ac","toSide":"bottom"},
