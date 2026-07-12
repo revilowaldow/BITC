@@ -51,8 +51,9 @@ Agreed team split if necessary would be:
 Aru wakes to a voice in her mind "We're here"
 
 Lost some resources, we have 6 days plus return
+Toryk Jamal is staying in and managing 
 
-
+Lyan thorp is interested in artifacts
 
 
 
