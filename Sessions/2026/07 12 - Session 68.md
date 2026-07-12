@@ -48,6 +48,9 @@ Agreed team split if necessary would be:
 - Vrin
 - Kaulinan
 
+Aru wakes to a voice in her mind "We're here"
+
+
 
 
 
