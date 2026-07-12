@@ -62,4 +62,6 @@ Gladiators can give us training while we are here
 
 ![[Pasted image 20260712201710.png]]
 
-Vrin vomit
+Vrin vomits while trying to use lightning during a duel
+
+
