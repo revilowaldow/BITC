@@ -38,6 +38,13 @@ Kazpian - Runty small, fierce spitlizard, Caenis
 Sweet Talon - Long legs, Coal
 
 ![[Slopes of Prynlope.canvas]]
+Agreed team split if necessary would be:
 
+- Caenis
+- Thodunn 
+- Chikitan
+
+- Aru
+- 
 
 
