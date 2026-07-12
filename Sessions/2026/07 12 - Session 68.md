@@ -45,6 +45,9 @@ Agreed team split if necessary would be:
 - Chikitan
 
 - Aru
-- 
+- Vrin
+- Kaulinan
+
+
 
 
