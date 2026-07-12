@@ -69,4 +69,6 @@ Not sure what though
 
 South West direction
 
+Vrin's not allowed to harm crimson spear because of affiliation with Silver Wing
+Silver Wing Tavern
 
