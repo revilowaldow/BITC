@@ -54,7 +54,7 @@ Colburn
 Drank some imported aged chinerian red wine
 
 
-Need to buy 50gp worth of incense
+Need to buy 50gp worth of incense for Divination
 
 
 Thodunn buys an oar at Moanoar's shop
