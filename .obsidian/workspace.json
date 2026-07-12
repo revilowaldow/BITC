@@ -194,9 +194,26 @@
               "icon": "lucide-file",
               "title": "08 10 - Session 50"
             }
+          },
+          {
+            "id": "ddebf9b91f6c4f7d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sessions/2026/Slopes of Prynlope.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Slopes of Prynlope"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -416,10 +433,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "615a14e0f22b1c88",
+  "active": "ddebf9b91f6c4f7d",
   "lastOpenFiles": [
-    "Sessions/2025/08 10 - Session 50.md",
     "Sessions/2026/07 12 - Session 68.md",
+    "Sessions/2026/Slopes of Prynlope.canvas",
+    "Sessions/2025/08 10 - Session 50.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2025/02 23 - Session 40.md",
     "Sessions/2025/02 09 - Session 39.md",
@@ -444,7 +462,6 @@
     "Sessions/2025/10 19 - Session 53.md",
     "Sessions/2024/11 03 - Session 34.md",
     "Assets/Characters/Calamxis2_Token.png",
-    "Sessions/2024/05 19 - Session 22.md",
     "Assets/Characters/Calamxis_Token.png",
     "Locations/Dog Prince Caves.canvas",
     "Pasted image 20260520195610.png",
@@ -468,7 +485,6 @@
     "Locations/Dungeon of Destiny.canvas",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
-    "Locations/Kathkach/Abandoned House.canvas",
     "Locations/Kathkach/The Cooking Association",
     "Factions/Aepoptosian Cult",
     "Setting Rules/Untitled",
