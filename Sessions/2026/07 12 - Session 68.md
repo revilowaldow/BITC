@@ -12,3 +12,6 @@ Calamxis
 "Dragons have a habit of showing themselves to those that are ready"
 "The young dragon's form is not bad"
 
+Group music check
+Gothic beat old camp
+
