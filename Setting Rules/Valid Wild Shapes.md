@@ -117,6 +117,7 @@
 - Stirge
 - Tiger
 - Vulture
+- Brass Knuckle Bass (Kathkachan Predatory River Fish)
 
 ## Full
 
