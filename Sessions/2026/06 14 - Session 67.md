@@ -63,6 +63,7 @@ Thodunn buys an oar at Moanoar's shop
 Thodunn buys "Where's My Spitlizard" in Elvish and Common
 Chatoyancy
 Orc is a member of club of woodworkers and craftsmen
+shopkeeper called [[Ghyrol]] - Books, woodworking - orc
 Would you like to join?
 Woad Workers
 Meet on the last day of the week above the chair makers shop
