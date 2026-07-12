@@ -58,5 +58,6 @@ Diagrams of things that originate here, stone artefacts
 Stone tables lets cast spell
 Stone sword, magical, explosive 1 use
 
+Gladiators can give us training while we are here
 
 
