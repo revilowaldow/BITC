@@ -73,3 +73,6 @@ Vrin's not allowed to harm crimson spear because of affiliation with Silver Wing
 Silver Wing Tavern
 
 
+Calamsis +5 to hit 1/LR
+Coal -10 damage 1/LR
+
