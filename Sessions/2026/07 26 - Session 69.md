@@ -13,3 +13,4 @@ We head SW
 Odd feeling of rightness, away from pollution and city
 
 ### 8:30am
+Clear, cool dat
