@@ -9,7 +9,7 @@
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"left","toNode":"ffb36a843bdb24ac","toSide":"bottom"},
 		{"id":"46c39a8445859e24","fromNode":"436026d30e1a3758","fromSide":"right","toNode":"63cd0ae58566df10","toSide":"bottom","label":"Arrived from this direction"},
-		{"id":"200e0ba7b4dc3594","fromNode":"436026d30e1a3758","fromSide":"bottom","toNode":"350019bae9ee8a98","toSide":"top"},
+		{"id":"200e0ba7b4dc3594","fromNode":"436026d30e1a3758","fromSide":"bottom","toNode":"350019bae9ee8a98","toSide":"top","label":"Heading this way,\nday 1"},
 		{"id":"64e7874d3103c47b","fromNode":"436026d30e1a3758","fromSide":"bottom","toNode":"839a8becea920803","toSide":"top"}
 	]
 }
