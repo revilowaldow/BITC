@@ -22,3 +22,7 @@ Burned ankheg corpses
 
 ### 9:00am
 Leave ankhegs, head south
+
+### 9:30am
+Arrive at mound with 
+
