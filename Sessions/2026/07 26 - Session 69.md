@@ -17,4 +17,4 @@ Large burrowing creature
 ### 8:30am
 Clear, cool day
 Ambushed by ankhegs
-Butchered ankhegs and 
+Butchered ankhegs and got 
