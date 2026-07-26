@@ -8,7 +8,7 @@ We might find food or other resources to supplement this, tell Toryk if found
 
 Aru trained by coal 
 
-8am
+### 8am
 We head SW
 Odd feeling of rightness, away from pollution and city
 
