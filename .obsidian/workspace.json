@@ -56,7 +56,8 @@
               "title": "Valid Wild Shapes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,7 +277,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b7e648857793476",
+  "active": "d458cc0e221abdcd",
   "lastOpenFiles": [
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2026/07 26 - Session 69.md",

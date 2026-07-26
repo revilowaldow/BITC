@@ -9,7 +9,7 @@
 		{"id":"ffb36a843bdb24ac","type":"text","text":"","x":-450,"y":-420,"width":250,"height":60},
 		{"id":"63cd0ae58566df10","type":"text","text":"","x":220,"y":-450,"width":250,"height":60},
 		{"id":"cf455a852330a9ce","x":-560,"y":1260,"width":400,"height":380,"color":"5","type":"text","text":"Moist and shaded area\nlimited light in canyon\nGain in elevation\nDrips of water and puddles off wall\n\nPuddles are moving\n\nSlithering trackers\nLighting storm\n\nBoulder falls upon caenis\nKaulinana tries to burn the crevasse as we pass\n\nFind a desiccated human skeleton that we rebury\nPotable water source? Maybe needs cleaning"},
-		{"id":"c42edb4b2925f82c","x":-770,"y":1800,"width":410,"height":340,"color":"1","type":"text","text":"Cave opening\nLong gelatinous strands\nSmell of putrescent rot\n\nMovement\n\nWebs are not adhesive\nAlso not flammable\n\nOoze?\nShapes moving around the large caverns"}
+		{"id":"c42edb4b2925f82c","x":-770,"y":1800,"width":410,"height":440,"color":"1","type":"text","text":"Cave opening\nLong gelatinous strands\nSmell of putrescent rot\n\nMovement\n\nWebs are not adhesive\nAlso not flammable\n\nOoze?\nShapes moving around the large caverns\nOozes and a giant spider\n"}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
