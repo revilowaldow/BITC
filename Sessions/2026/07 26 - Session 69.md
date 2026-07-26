@@ -18,6 +18,7 @@ Large burrowing creature
 Clear, cool day
 Ambushed by ankhegs
 Butchered ankhegs and got 11 eyes (about 1kg of eyes 0.2lb each)
+Burned
 
 ### 9:00am
-Leave ankhegs
+Leave ankhegs, head south
