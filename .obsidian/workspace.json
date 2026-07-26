@@ -87,9 +87,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Slopes of Prynlope"
             }
+          },
+          {
+            "id": "3f4eb1f4e5c71ac6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Crimson Spear.png"
+              },
+              "icon": "lucide-image",
+              "title": "Crimson Spear"
+            }
+          },
+          {
+            "id": "dded64a0ece58279",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260726180238.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260726180238"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -311,9 +335,12 @@
   },
   "active": "5d6430cf8b2ed580",
   "lastOpenFiles": [
+    "Pasted image 20260726180238.png",
+    "Crimson Spear.png",
+    "Pasted image 20260726180155.png",
+    "Sessions/2026/Slopes of Prynlope.canvas",
     "Assets/Maps/Ankheg Fight.png",
     "Sessions/2026/07 26 - Session 69.md",
-    "Sessions/2026/Slopes of Prynlope.canvas",
     "Sessions/2026/07 12 - Session 68.md",
     "Sessions/2026/Backup Character Chat.md",
     "Sessions/2026/05 17 - Session 65.md",
@@ -338,7 +365,6 @@
     "Sessions/2024/03 10 - Session 18.md",
     "Sessions/2024/03 24 - Session 19.md",
     "Sessions/2024/04 07 - Session 20.md",
-    "Pasted image 20260712201710.png",
     "Assets/Characters/Calamxis2_Token.png",
     "Assets/Characters/Calamxis_Token.png",
     "Locations/Dog Prince Caves.canvas",
@@ -346,9 +372,6 @@
     "Pasted image 20260520195559.png",
     "Assets/Characters/Bone Devestator.png",
     "Library Prepared Spells.png",
-    "Pasted image 20250921200842.png",
-    "Pasted image 20250907205402.png",
-    "Pasted image 20250907201732.png",
     "Locations/The Pit.canvas",
     "Untitled 1.base",
     "Untitled.base",
