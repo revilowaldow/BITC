@@ -38,5 +38,7 @@ Rebury a skeleton of a small humanoid we found
 ### 11:00am
 Leave the crevasse
 
+### 11:30am
+Arrive at the opening of a cave
 
 
