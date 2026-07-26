@@ -8,7 +8,7 @@
 		{"id":"2942eb6f5523d172","type":"file","file":"Assets/Maps/Ankheg Fight.png","x":-1040,"y":341,"width":400,"height":341},
 		{"id":"a9025b046107acfe","x":-290,"y":820,"width":365,"height":260,"type":"text","text":"#### Crossways\nSerpentine shaped Stone atop mound\nTwigs and small bones at base left by animals\nAbandoned creature nest\nNatural stone but brought from a different location"},
 		{"id":"2a09d74bc732f13f","x":140,"y":580,"width":250,"height":60,"type":"text","text":""},
-		{"id":"cf455a852330a9ce","x":-450,"y":1440,"width":250,"height":60,"type":"text","text":""}
+		{"id":"cf455a852330a9ce","x":-610,"y":1300,"width":343,"height":360,"type":"text","text":"Moist and shaded area\nlimited light in canyon\n"}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"left","toNode":"ffb36a843bdb24ac","toSide":"bottom"},

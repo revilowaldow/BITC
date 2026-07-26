@@ -29,4 +29,6 @@ Arrive at mound with serpent marker
 ### 10:00am
 Leave serpent stone
 
+### 10:30am
+Arrive at 
 
