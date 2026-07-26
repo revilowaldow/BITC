@@ -19,3 +19,5 @@ Clear, cool day
 Ambushed by ankhegs
 Butchered ankhegs and got 11 eyes (about 1kg of eyes 0.2lb each)
 
+### 9:00am
+Leave ankhegs
