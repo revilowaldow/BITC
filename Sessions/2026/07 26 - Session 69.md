@@ -9,5 +9,4 @@ We might find food or other resources to supplement this, tell Toryk if found
 Aru trained by coal 
 
 8am
-
 We head SW
