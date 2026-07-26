@@ -8,7 +8,6 @@
 		{"id":"2942eb6f5523d172","type":"file","file":"Assets/Maps/Ankheg Fight.png","x":-940,"y":362,"width":400,"height":341},
 		{"id":"a9025b046107acfe","x":-200,"y":1020,"width":365,"height":320,"type":"text","text":"#### Crossways\nSerpentine shaped Stone atop mound\nTwigs and small bones at base left by animals\nAbandoned creature nest\n"},
 		{"id":"2a09d74bc732f13f","x":137,"y":758,"width":250,"height":60,"type":"text","text":""},
-		{"id":"bab5e3a4d05082ff","x":56,"y":863,"width":250,"height":60,"type":"text","text":"NE"},
 		{"id":"cf455a852330a9ce","x":-450,"y":1560,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
@@ -17,7 +16,7 @@
 		{"id":"200e0ba7b4dc3594","fromNode":"436026d30e1a3758","fromSide":"bottom","toNode":"350019bae9ee8a98","toSide":"top","label":"SW"},
 		{"id":"64e7874d3103c47b","fromNode":"436026d30e1a3758","fromSide":"bottom","toNode":"839a8becea920803","toSide":"top"},
 		{"id":"a261be8105881be2","fromNode":"350019bae9ee8a98","fromSide":"bottom","toNode":"a9025b046107acfe","toSide":"top","label":"Passage between stones\nSE"},
-		{"id":"95502f1579bc5c8e","fromNode":"a9025b046107acfe","fromSide":"top","toNode":"2a09d74bc732f13f","toSide":"bottom"},
+		{"id":"95502f1579bc5c8e","fromNode":"a9025b046107acfe","fromSide":"top","toNode":"2a09d74bc732f13f","toSide":"bottom","label":"NE winding path"},
 		{"id":"97f0fa44b307b005","fromNode":"a9025b046107acfe","fromSide":"bottom","toNode":"cf455a852330a9ce","toSide":"top","label":"Crevassy Path"}
 	]
 }
