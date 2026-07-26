@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41f6b437e588d7d2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2026/05 31 - Session 66.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "05 31 - Session 66"
-            }
-          },
-          {
             "id": "d064733ea689ce04",
             "type": "leaf",
             "state": {
@@ -72,6 +56,7 @@
           {
             "id": "3b7e648857793476",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -79,6 +64,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "07 26 - Session 69"
             }
@@ -86,6 +72,7 @@
           {
             "id": "d458cc0e221abdcd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -96,12 +83,13 @@
                   "zoom": -0.3333333333333333
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Slopes of Prynlope"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -321,13 +309,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d458cc0e221abdcd",
+  "active": "615a14e0f22b1c88",
   "lastOpenFiles": [
-    "Sessions/2026/07 26 - Session 69.md",
-    "Sessions/2026/07 12 - Session 68.md",
-    "Sessions/2026/Slopes of Prynlope.canvas",
     "Sessions/2026/05 17 - Session 65.md",
     "Sessions/2026/05 31 - Session 66.md",
+    "Sessions/2026/07 26 - Session 69.md",
+    "Sessions/2026/Slopes of Prynlope.canvas",
+    "Sessions/2026/07 12 - Session 68.md",
     "Sessions/2026/06 14 - Session 67.md",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Sessions/2023/05 07 - Session 1.md",
