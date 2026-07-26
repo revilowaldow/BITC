@@ -16,4 +16,5 @@ Large burrowing creature
 20 ft
 ### 8:30am
 Clear, cool day
-
+Ambushed by ankhegs
+Butchered ankhegs and 
