@@ -31,4 +31,6 @@ Leave serpent stone
 
 ### 10:30am
 Arrive at moist wet location
+Ambushed by slithering trackers
+Caenis struck by boulder
 
