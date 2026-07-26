@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dda6c66131615670",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2026/06 14 - Session 67.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "06 14 - Session 67"
-            }
-          },
-          {
             "id": "615a14e0f22b1c88",
             "type": "leaf",
             "pinned": true,
@@ -74,8 +58,7 @@
               "title": "Slopes of Prynlope"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -295,11 +278,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d458cc0e221abdcd",
+  "active": "615a14e0f22b1c88",
   "lastOpenFiles": [
     "Sessions/2026/07 26 - Session 69.md",
-    "Sessions/2026/05 17 - Session 65.md",
+    "Sessions/2026/06 14 - Session 67.md",
     "Sessions/2026/Slopes of Prynlope.canvas",
+    "Sessions/2026/05 17 - Session 65.md",
     "Assets/Maps/Ankheg Fight.png",
     "Pasted image 20250921200842.png",
     "Pasted image 20250907205402.png",
@@ -310,7 +294,6 @@
     "Sessions/2026/07 12 - Session 68.md",
     "Sessions/2026/Backup Character Chat.md",
     "Sessions/2026/05 31 - Session 66.md",
-    "Sessions/2026/06 14 - Session 67.md",
     "Sessions/2023/04 23 - Session 0.5.md",
     "Sessions/2023/05 07 - Session 1.md",
     "Sessions/2023/06 04 - Session 3.md",
