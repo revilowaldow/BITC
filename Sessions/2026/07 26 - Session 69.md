@@ -7,7 +7,7 @@ We might find food or other resources to supplement this, tell Toryk if found
 30 minutes to travel between zones unless otherwise noted
 
 Aru trained by coal 
-
+## Day 1
 ### 8am
 We head SW
 Odd feeling of rightness, away from pollution and city
@@ -24,5 +24,9 @@ Burned ankheg corpses
 Leave ankhegs, head south
 
 ### 9:30am
-Arrive at mound with 
+Arrive at mound with serpent marker
+
+### 10:00am
+Leave serpent stone
+
 
