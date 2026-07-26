@@ -11,9 +11,9 @@
 		{"id":"cf455a852330a9ce","x":-610,"y":1300,"width":343,"height":360,"color":"5","type":"text","text":"Moist and shaded area\nlimited light in canyon\nGain in elevation\nDrips of water and puddles off wall"}
 	],
 	"edges":[
-		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"left","toNode":"ffb36a843bdb24ac","toSide":"bottom"},
+		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom"},
 		{"id":"46c39a8445859e24","fromNode":"436026d30e1a3758","fromSide":"right","toNode":"63cd0ae58566df10","toSide":"bottom","label":"Arrived from this direction"},
-		{"id":"200e0ba7b4dc3594","fromNode":"436026d30e1a3758","fromSide":"bottom","toNode":"350019bae9ee8a98","toSide":"top","label":"SW"},
+		{"id":"200e0ba7b4dc3594","fromNode":"436026d30e1a3758","fromSide":"left","toNode":"350019bae9ee8a98","toSide":"top","label":"SW"},
 		{"id":"64e7874d3103c47b","fromNode":"436026d30e1a3758","fromSide":"bottom","toNode":"839a8becea920803","toSide":"top"},
 		{"id":"a261be8105881be2","fromNode":"350019bae9ee8a98","fromSide":"bottom","toNode":"a9025b046107acfe","toSide":"left","label":"Passage between stones\nSE"},
 		{"id":"95502f1579bc5c8e","fromNode":"a9025b046107acfe","fromSide":"top","toNode":"2a09d74bc732f13f","toSide":"bottom","label":"NE winding path\nRustling leaves, camp activity"},
