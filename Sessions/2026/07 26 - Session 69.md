@@ -12,6 +12,6 @@ Aru trained by coal
 We head SW
 Odd feeling of rightness, away from pollution and city
 Shrubs along this path are arid
-Large burrowing
+Large burrowing creature
 ### 8:30am
 Clear, cool day
