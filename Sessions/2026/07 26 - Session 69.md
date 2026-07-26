@@ -13,5 +13,7 @@ We head SW
 Odd feeling of rightness, away from pollution and city
 Shrubs along this path are arid
 Large burrowing creature
+20 ft
 ### 8:30am
 Clear, cool day
+
