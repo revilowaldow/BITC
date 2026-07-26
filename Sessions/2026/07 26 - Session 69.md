@@ -6,3 +6,4 @@ Camp has 6 days of resources
 We might find food or other resources to supplement this, tell Toryk if found
 30 minutes to travel between zones unless otherwise noted
 
+8am
