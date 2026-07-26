@@ -30,5 +30,5 @@ Arrive at mound with serpent marker
 Leave serpent stone
 
 ### 10:30am
-Arrive at 
+Arrive at moist wet location
 
