@@ -4,7 +4,7 @@
 		{"id":"436026d30e1a3758","type":"text","text":"Sheltered Divot\nMain Camp\n\n3 tents\n- Lion hold\n- Nobles\n- Unknown\n\nCovered tables, set up for eating and workspaces","x":-200,"y":-220,"width":360,"height":360},
 		{"id":"839a8becea920803","type":"text","text":"","x":160,"y":357,"width":250,"height":60},
 		{"id":"63cd0ae58566df10","type":"text","text":"","x":220,"y":-340,"width":250,"height":60},
-		{"id":"350019bae9ee8a98","type":"text","text":"Dry powder, sandy\nCracking sound, rumbling\n\nAmbushed by two ankhegs\n\nThrew one off with Thunderwave, thodunn cut another down.\nA third surprised Aru,\nAnd a 4th appeared after the boom from \n\n","x":-480,"y":357,"width":400,"height":346},
+		{"id":"350019bae9ee8a98","type":"text","text":"Dry powder, sandy\nCracking sound, rumbling\n\nAmbushed by two ankhegs\n\nThrew one off with Thunderwave, thodunn cut another down.\nA third surprised Aru,\nAnd a 4th appeared after the boom from thundewave\n\n","x":-480,"y":357,"width":400,"height":346},
 		{"id":"2942eb6f5523d172","type":"file","file":"Assets/Maps/Ankheg Fight.png","x":-920,"y":362,"width":400,"height":341}
 	],
 	"edges":[
