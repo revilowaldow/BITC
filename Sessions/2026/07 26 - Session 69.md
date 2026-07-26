@@ -40,7 +40,10 @@ Leave the crevasse
 
 ### 11:30am
 Arrive at the opening of a cave
-
 Retreat slightly from the location and set up the hut for a short rest
+Cast darkvision
+### 12:30pm
+
+
 
 
