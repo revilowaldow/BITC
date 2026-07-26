@@ -10,3 +10,4 @@ Aru trained by coal
 
 8am
 We head SW
+Odd feeling of rightness
