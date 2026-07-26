@@ -11,6 +11,6 @@ Aru trained by coal
 ### 8am
 We head SW
 Odd feeling of rightness, away from pollution and city
-
+Shrubs along this path are arid
 ### 8:30am
-Clear, cool dat
+Clear, cool day
