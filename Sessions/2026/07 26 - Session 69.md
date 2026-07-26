@@ -33,8 +33,10 @@ Leave serpent stone
 Arrive at moist wet location
 Ambushed by slithering trackers
 Caenis struck by boulder
+Cleansed the cavern
 Rebury a skeleton of a small humanoid we found
 ### 11:00am
 Leave the crevasse
+
 
 
