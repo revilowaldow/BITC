@@ -4,13 +4,13 @@
 		{"id":"839a8becea920803","type":"text","text":"","x":165,"y":341,"width":250,"height":60},
 		{"id":"350019bae9ee8a98","type":"text","text":"#### Ankheg Hunting Grounds\n\nDry powder, sandy\nCracking sound, rumbling\n\nAmbushed by two ankhegs\n\nThrew one off with Thunderwave, thodunn cut another down.\nA third surprised Aru,\nAnd a 4th appeared after the boom from thundewave\n\nOne shot by caenis\nOne detonated by Kaulinan\n\nRetrieved 11Ankheg eyes which can be consumed","x":-610,"y":264,"width":320,"height":439,"color":"2"},
 		{"id":"2942eb6f5523d172","type":"file","file":"Assets/Maps/Ankheg Fight.png","x":-1040,"y":341,"width":400,"height":341},
-		{"id":"a9025b046107acfe","x":-290,"y":820,"width":365,"height":260,"type":"text","text":"#### Crossways\nSerpentine shaped Stone atop mound\nTwigs and small bones at base left by animals\nAbandoned creature nest\nNatural stone but brought from a different location"},
-		{"id":"2a09d74bc732f13f","x":140,"y":580,"width":250,"height":60,"type":"text","text":""},
+		{"id":"a9025b046107acfe","type":"text","text":"#### Crossways\nSerpentine shaped Stone atop mound\nTwigs and small bones at base left by animals\nAbandoned creature nest\nNatural stone but brought from a different location","x":-290,"y":820,"width":365,"height":260},
+		{"id":"2a09d74bc732f13f","type":"text","text":"","x":140,"y":580,"width":250,"height":60},
 		{"id":"ffb36a843bdb24ac","type":"text","text":"","x":-450,"y":-420,"width":250,"height":60},
 		{"id":"63cd0ae58566df10","type":"text","text":"","x":220,"y":-450,"width":250,"height":60},
-		{"id":"cf455a852330a9ce","x":-560,"y":1260,"width":400,"height":380,"color":"5","type":"text","text":"Moist and shaded area\nlimited light in canyon\nGain in elevation\nDrips of water and puddles off wall\n\nPuddles are moving\n\nSlithering trackers\nLighting storm\n\nBoulder falls upon caenis\nKaulinana tries to burn the crevasse as we pass\n\nFind a desiccated human skeleton that we rebury\nPotable water source? Maybe needs cleaning"},
-		{"id":"c42edb4b2925f82c","x":-770,"y":1800,"width":410,"height":440,"color":"1","type":"text","text":"Wet Cave opening\nLong gelatinous strands\nSmell of putrescent rot\n\nMovement\n\nWebs are not adhesive\nAlso not flammable\n\nOoze?\nShapes moving around the large caverns\nGiant wet spiders\n"},
-		{"id":"159d1ea0874fe013","x":-1180,"y":1800,"width":370,"height":400,"type":"file","file":"Assets/Maps/Wet Cave.png"}
+		{"id":"cf455a852330a9ce","type":"text","text":"Moist and shaded area\nlimited light in canyon\nGain in elevation\nDrips of water and puddles off wall\n\nPuddles are moving\n\nSlithering trackers\nLighting storm\n\nBoulder falls upon caenis\nKaulinana tries to burn the crevasse as we pass\n\nFind a desiccated human skeleton that we rebury\nPotable water source? Maybe needs cleaning","x":-560,"y":1260,"width":400,"height":380,"color":"5"},
+		{"id":"c42edb4b2925f82c","type":"text","text":"Wet Cave opening\nLong gelatinous strands\nSmell of putrescent rot\n\nMovement\n\nWebs are not adhesive\nAlso not flammable\n\nOoze?\nShapes moving around the large caverns\nGiant wet spiders\n","x":-770,"y":1800,"width":410,"height":440,"color":"1"},
+		{"id":"159d1ea0874fe013","type":"file","file":"Assets/Maps/Wet Cave.png","x":-1180,"y":1800,"width":370,"height":400}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
