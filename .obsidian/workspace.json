@@ -63,7 +63,7 @@
                 "file": "Sessions/2026/Slopes of Prynlope.canvas",
                 "viewState": {
                   "x": -184.53052870271802,
-                  "y": 803.5475150902005,
+                  "y": 2870.3436847527973,
                   "zoom": -0.6666666666666667
                 }
               },
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -295,10 +295,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d458cc0e221abdcd",
+  "active": "4778934d5f8ef1aa",
   "lastOpenFiles": [
-    "Sessions/2026/08 09 - Session 70.md",
     "Sessions/2026/07 12 - Session 68.md",
+    "Sessions/2026/08 09 - Session 70.md",
     "Sessions/2026/Slopes of Prynlope.canvas",
     "Sessions/2026/07 26 - Session 69.md",
     "Assets/Maps/Elven Ruin.png",
