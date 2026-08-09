@@ -54,5 +54,6 @@ An advanced spell scroll that has two options
 
 ### 14:00pm
 Leave the Elven Ruin
-Discuss whether we should open the 
+Discuss whether we should open the vault
+
 
