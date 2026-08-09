@@ -29,3 +29,5 @@ Reaction when hit or failing a save, negate 50 points of damage
 > The ancient power in this amulet may be summoned as a reaction, rendering the amulet powerless forever. When hit by an attack or on failing a save, the stone amulet can be used to negate up to 50 points of damage of any type.
 
 
+### 13:00pm
+
