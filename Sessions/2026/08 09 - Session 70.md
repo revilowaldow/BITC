@@ -47,4 +47,4 @@ Stone tablet
 > "Liars and thieves"
 > "please leave"
 
-
+Stone tablet Elven Ruin
