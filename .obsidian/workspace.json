@@ -47,7 +47,7 @@
                 "file": "Sessions/2026/Slopes of Prynlope.canvas",
                 "viewState": {
                   "x": -404.3619707557696,
-                  "y": 1619.976291364287,
+                  "y": 1247.976291364287,
                   "zoom": -1
                 }
               },
@@ -70,8 +70,7 @@
               "title": "Backup Character Chat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -293,10 +292,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b3a839ce280f16b",
+  "active": "3b7e648857793476",
   "lastOpenFiles": [
-    "Sessions/2026/07 26 - Session 69.md",
     "Sessions/2026/Backup Character Chat.md",
+    "Sessions/2026/07 26 - Session 69.md",
     "Sessions/2026/Slopes of Prynlope.canvas",
     "Sessions/2026/07 12 - Session 68.md",
     "Pasted image 20260520195610.png",
