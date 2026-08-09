@@ -48,3 +48,6 @@ Stone tablet
 > "please leave"
 
 Stone tablet Elven Ruin
+An advanced spell scroll that has two options
+	Haste or Lightning Bolt
+
