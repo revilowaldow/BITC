@@ -49,5 +49,6 @@ Stone tablet
 
 Stone tablet Elven Ruin
 An advanced spell scroll that has two options
-	Haste or Lightning Bolt
+	Haste or Lightning Bolt DC13
+	
 
