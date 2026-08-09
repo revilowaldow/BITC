@@ -15,7 +15,7 @@
 		{"id":"9c179376fc9e71e1","type":"file","file":"Assets/Maps/Elven Ruin.png","x":-978,"y":2460,"width":543,"height":600},
 		{"id":"dad8a38f7c4598c0","x":55,"y":2140,"width":250,"height":100,"type":"text","text":"Blocked off exit to old roadway"},
 		{"id":"3e736223ef314a88","type":"text","text":"### Manticore Lair\n\nPlateau\nSmell of blood\n\nDead body of a giant\nManticore with a mane feasting on the giant, roars like a lion\n","x":-75,"y":3240,"width":515,"height":540,"color":"1"},
-		{"id":"e221ba45de0dde29","x":-640,"y":3240,"width":539,"height":540,"type":"file","file":"Manticore Lair.png"}
+		{"id":"e221ba45de0dde29","x":-640,"y":3240,"width":539,"height":540,"type":"file","file":"Assets/Maps/Manticore Lair.png"}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},

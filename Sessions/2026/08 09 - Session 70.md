@@ -56,4 +56,8 @@ An advanced spell scroll that has two options
 Leave the Elven Ruin
 Discuss whether we should open the vault
 
+### 14:30pm
+Arrive at manticore lair
+
+
 
