@@ -27,6 +27,57 @@
             }
           },
           {
+            "id": "79a3e213432c10da",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Dungeon of Destiny.canvas",
+                "viewState": {
+                  "x": 220,
+                  "y": 838,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dungeon of Destiny"
+            }
+          },
+          {
+            "id": "90770c0764bf5ab3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Dog Prince Caves.canvas",
+                "viewState": {
+                  "x": 3092.387132292396,
+                  "y": -601.9022890642021,
+                  "zoom": -1.689739707582137
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dog Prince Caves"
+            }
+          },
+          {
+            "id": "f995b0cb3cc4553f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Abdos Woodland.canvas",
+                "viewState": {
+                  "x": 63.58328469847575,
+                  "y": -815.4598235039377,
+                  "zoom": -0.09173527814140348
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Abdos Woodland"
+            }
+          },
+          {
             "id": "cd02a8414fa20b9c",
             "type": "leaf",
             "pinned": true,
@@ -42,7 +93,8 @@
               "title": "08 09 - Session 70"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -264,10 +316,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d458cc0e221abdcd",
+  "active": "f995b0cb3cc4553f",
   "lastOpenFiles": [
-    "Sessions/2026/08 09 - Session 70.md",
+    "Locations/Dog Prince Caves.canvas",
+    "Locations/Dungeon of Destiny.canvas",
     "Sessions/2026/Slopes of Prynlope.canvas",
+    "Sessions/2026/08 09 - Session 70.md",
     "Sessions/2026/07 12 - Session 68.md",
     "Sessions/2026/07 26 - Session 69.md",
     "Assets/Maps/Manticore Lair.png",
@@ -302,7 +356,6 @@
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/02 11 - Session 16.md",
     "Sessions/2024/02 25 - Session 17.md",
-    "Locations/Dog Prince Caves.canvas",
     "Locations/The Pit.canvas",
     "Untitled 1.base",
     "Untitled.base",
@@ -313,7 +366,6 @@
     "Sessions/2025/Untitled",
     "Sessions/2026",
     "Locations/Abdos Woodland.canvas",
-    "Locations/Dungeon of Destiny.canvas",
     "Locations/Coprun/Mine Layout.canvas",
     "Locations/Kathkach/Abandoned Arena Basement.canvas",
     "Locations/Kathkach/The Cooking Association",
