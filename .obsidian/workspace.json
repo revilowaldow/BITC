@@ -65,8 +65,8 @@
               "state": {
                 "file": "Locations/Dog Prince Caves.canvas",
                 "viewState": {
-                  "x": 3229.7021594236,
-                  "y": -318.5521579033493,
+                  "x": 3705.948826293143,
+                  "y": 633.9411758357372,
                   "zoom": -0.3564063742488039
                 }
               },
@@ -75,20 +75,20 @@
             }
           },
           {
-            "id": "f995b0cb3cc4553f",
+            "id": "89a1621a3df5c8f1",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Locations/Abdos Woodland.canvas",
+                "file": "Locations/The Pit.canvas",
                 "viewState": {
-                  "x": 63.58328469847575,
-                  "y": -815.4598235039377,
-                  "zoom": -1.0917352781414034
+                  "x": 138.47229330352246,
+                  "y": 149.88799851939746,
+                  "zoom": -0.5844307076664581
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Abdos Woodland"
+              "title": "The Pit"
             }
           },
           {
@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -330,13 +330,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90770c0764bf5ab3",
+  "active": "cd02a8414fa20b9c",
   "lastOpenFiles": [
     "Locations/Abdos Woodland.canvas",
+    "Locations/The Pit.canvas",
+    "Locations/Dog Prince Caves.canvas",
     "Locations/The Pit.md",
     "Sessions/2026/Slopes of Prynlope.canvas",
     "Sessions/2026/08 09 - Session 70.md",
-    "Locations/Dog Prince Caves.canvas",
     "Locations/Dungeon of Destiny.canvas",
     "Sessions/2026/07 12 - Session 68.md",
     "Sessions/2026/07 26 - Session 69.md",
@@ -371,7 +372,6 @@
     "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2024/01 28 - Session 15.md",
     "Sessions/2024/02 11 - Session 16.md",
-    "Locations/The Pit.canvas",
     "Untitled 1.base",
     "Untitled.base",
     "Locations/Barbakan/Barbakan.canvas",
