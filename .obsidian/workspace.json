@@ -62,8 +62,8 @@
               "state": {
                 "file": "Sessions/2026/Slopes of Prynlope.canvas",
                 "viewState": {
-                  "x": -184.53052870271802,
-                  "y": 2870.3436847527973,
+                  "x": -627.4154222018457,
+                  "y": 1246.4324085893281,
                   "zoom": -0.6666666666666667
                 }
               },
@@ -71,9 +71,81 @@
               "icon": "lucide-layout-dashboard",
               "title": "Slopes of Prynlope"
             }
+          },
+          {
+            "id": "82b83c7c0af1c5e4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260520195610.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260520195610"
+            }
+          },
+          {
+            "id": "e63af923ea1ebc3d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260520195559.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260520195559"
+            }
+          },
+          {
+            "id": "5cc79c7ce9a181a0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250907205402.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250907205402"
+            }
+          },
+          {
+            "id": "b325b7150898aeb6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250921200842.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250921200842"
+            }
+          },
+          {
+            "id": "0051377bd3035528",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250907201732.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250907201732"
+            }
+          },
+          {
+            "id": "044bc26622ce1f66",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250629194504.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250629194504"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -295,25 +367,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4778934d5f8ef1aa",
+  "active": "044bc26622ce1f66",
   "lastOpenFiles": [
-    "Sessions/2026/07 12 - Session 68.md",
-    "Sessions/2026/08 09 - Session 70.md",
+    "Pasted image 20250615204540.png",
+    "Pasted image 20250223184136.png",
+    "Pasted image 20250112192828.png",
+    "Pasted image 20250629194504.png",
+    "Pasted image 20250907201732.png",
+    "Pasted image 20250921200842.png",
+    "Pasted image 20250907205402.png",
+    "Pasted image 20260520195559.png",
+    "Pasted image 20260520195610.png",
     "Sessions/2026/Slopes of Prynlope.canvas",
+    "Sessions/2026/08 09 - Session 70.md",
+    "Sessions/2026/07 12 - Session 68.md",
     "Sessions/2026/07 26 - Session 69.md",
     "Assets/Maps/Elven Ruin.png",
     "Assets/Maps/Wet Cave 2.png",
     "Sessions/2026/05 31 - Session 66.md",
     "Sessions/2026/06 14 - Session 67.md",
     "Sessions/2026/Backup Character Chat.md",
-    "Pasted image 20260520195610.png",
-    "Pasted image 20260520195559.png",
-    "Pasted image 20250921200842.png",
-    "Pasted image 20250907201732.png",
-    "Pasted image 20250629194504.png",
-    "Pasted image 20250223184136.png",
-    "Pasted image 20250615204540.png",
-    "Pasted image 20250112192828.png",
     "Flatek of the Flavours.md",
     "Setting Rules/Valid Wild Shapes.md",
     "Sessions/2026/05 17 - Session 65.md",
