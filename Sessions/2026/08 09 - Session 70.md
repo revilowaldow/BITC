@@ -31,3 +31,5 @@ Reaction when hit or failing a save, negate 50 points of damage
 
 ### 13:00pm
 
+Leaving the cave
+
