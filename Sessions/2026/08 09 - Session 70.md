@@ -15,6 +15,7 @@ A stone amulet is retrieved from the pool
 Cracked, ancient intricate designs, can hear faint humming sound
 	Deepest lore
 		Marble houses of bright white stone
-		Crack, running as something pours out of you
+		Resounding crack sounds, running as something pours out of you, sensation of bleeding out without injury, something leaving you (magic?)
 		Grasping amulet
 		Slip and fall into cold dark
+
