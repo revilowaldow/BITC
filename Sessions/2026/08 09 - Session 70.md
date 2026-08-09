@@ -5,4 +5,4 @@ Daryl recapping
 
 Wall of fire
 
-Two more slithering track
+Two more slithering trackers appear
