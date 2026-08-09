@@ -57,20 +57,23 @@
             }
           },
           {
-            "id": "98c8db0370dc659b",
+            "id": "4778934d5f8ef1aa",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2026/Backup Character Chat.md",
+                "file": "Sessions/2026/08 09 - Session 70.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Backup Character Chat"
+              "title": "08 09 - Session 70"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,8 +295,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b7e648857793476",
+  "active": "9b3a839ce280f16b",
   "lastOpenFiles": [
+    "Sessions/2026/08 09 - Session 70.md",
     "Sessions/2026/Backup Character Chat.md",
     "Sessions/2026/07 26 - Session 69.md",
     "Sessions/2026/Slopes of Prynlope.canvas",
