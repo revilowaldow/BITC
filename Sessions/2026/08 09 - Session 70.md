@@ -22,5 +22,5 @@ Gothan amulet
 Stone amulet of barriers/absorption 
 Intended to protect user against danger and harm
 1 use left
-
+Reaction when hit or failing a save, negate 50 points of damage 
 
