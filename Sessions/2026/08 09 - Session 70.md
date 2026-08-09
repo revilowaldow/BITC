@@ -24,3 +24,8 @@ Intended to protect user against danger and harm
 1 use left
 Reaction when hit or failing a save, negate 50 points of damage 
 
+> A stone amulet of barriers, visibly cracked. It bears ancient intricate designs, carved by a caring hand.
+> When lifted to the ear, there is a faint humming sound.
+> The ancient power in this amulet may be summoned as a reaction, rendering the amulet powerless forever. When hit by an attack or on failing a save, the stone amulet can be used to negate up to 50 points of damage of any type.
+
+
