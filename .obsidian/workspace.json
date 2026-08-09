@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,10 +281,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d458cc0e221abdcd",
+  "active": "4778934d5f8ef1aa",
   "lastOpenFiles": [
-    "Sessions/2026/08 09 - Session 70.md",
     "Sessions/2026/Slopes of Prynlope.canvas",
+    "Sessions/2026/08 09 - Session 70.md",
     "Sessions/2026/07 26 - Session 69.md",
     "Sessions/2026/07 12 - Session 68.md",
     "Sessions/2026/05 31 - Session 66.md",
