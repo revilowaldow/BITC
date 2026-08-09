@@ -13,3 +13,5 @@ Spiders scared off via wall of fire
 
 A stone amulet is retrieved from the pool
 Cracked, ancient intricate designs, can hear faint humming sound
+	Deepest lore
+		
