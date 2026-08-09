@@ -48,7 +48,7 @@
               "state": {
                 "file": "Sessions/2026/Slopes of Prynlope.canvas",
                 "viewState": {
-                  "x": -475.32491496328936,
+                  "x": -358.1522573230661,
                   "y": 2708.554168041075,
                   "zoom": -0.3333333333333334
                 }
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -281,10 +281,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4778934d5f8ef1aa",
+  "active": "d458cc0e221abdcd",
   "lastOpenFiles": [
-    "Sessions/2026/Slopes of Prynlope.canvas",
     "Sessions/2026/08 09 - Session 70.md",
+    "Sessions/2026/Slopes of Prynlope.canvas",
     "Assets/Maps/Elven Ruin.png",
     "Sessions/2026/07 26 - Session 69.md",
     "Assets/Maps/Wet Cave 2.png",
