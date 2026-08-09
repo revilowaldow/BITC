@@ -37,4 +37,14 @@ Leaving the cave
 ### 13:30pm
 White marble ruin
 
+Mummy and allips
+Stone tablet
+
+> "city of cities, open the way"
+> "The last mandate, they must not reach the answer"
+> "They must not have it, please let them not reach it"
+> "I'm sorry, please"
+> "Liars and thieves"
+> "please leave"
+
 
