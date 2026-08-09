@@ -70,7 +70,8 @@
               "title": "Backup Character Chat"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,10 +293,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b7e648857793476",
+  "active": "9b3a839ce280f16b",
   "lastOpenFiles": [
-    "Sessions/2026/Backup Character Chat.md",
     "Sessions/2026/07 26 - Session 69.md",
+    "Sessions/2026/Backup Character Chat.md",
     "Sessions/2026/Slopes of Prynlope.canvas",
     "Sessions/2026/07 12 - Session 68.md",
     "Pasted image 20260520195610.png",
