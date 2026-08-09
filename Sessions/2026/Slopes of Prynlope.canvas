@@ -14,7 +14,8 @@
 		{"id":"dbee631026f4d5c2","type":"text","text":"### Elven Ruin\n\nWhite marble structure\nPartially collapsed no roof\nHouse 70x40ft\nOvergrown\nWords on the whistling wind in elvish:\n> \"city of cities, open the way\"\n\nTwo rooms, main chamber and a side room on the West\nArchitecture is reminiscent of kathkachan tunnel warren\n\nStone Tablet\nEveryone's skin goes cold\nAllip\n\n> \"The last mandate, they must not reach the answer\"\n> \"They must not have it, please let them not reach it\"\n> \"I'm sorry, please\"\n> \"Liars and thieves\"\n> \"please leave\"\n\n\n\n\n\n","x":-420,"y":2460,"width":475,"height":600},
 		{"id":"9c179376fc9e71e1","type":"file","file":"Assets/Maps/Elven Ruin.png","x":-978,"y":2460,"width":543,"height":600},
 		{"id":"dad8a38f7c4598c0","x":55,"y":2140,"width":250,"height":100,"type":"text","text":"Blocked off exit to old roadway"},
-		{"id":"3e736223ef314a88","type":"text","text":"### Manticore Lair\n\nPlateau\nSmell of blood\n\nDead body of a giant\nManticore with a mane feasting on the giant, roars like a lion\n","x":-75,"y":3240,"width":515,"height":540,"color":"1"}
+		{"id":"3e736223ef314a88","type":"text","text":"### Manticore Lair\n\nPlateau\nSmell of blood\n\nDead body of a giant\nManticore with a mane feasting on the giant, roars like a lion\n","x":-75,"y":3240,"width":515,"height":540,"color":"1"},
+		{"id":"e221ba45de0dde29","x":-640,"y":3240,"width":539,"height":540,"type":"file","file":"Manticore Lair.png"}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
