@@ -48,9 +48,9 @@
               "state": {
                 "file": "Sessions/2026/Slopes of Prynlope.canvas",
                 "viewState": {
-                  "x": -777.4983567177624,
-                  "y": 2090.817683883963,
-                  "zoom": -1.1102230246251565e-16
+                  "x": -666.4983567177624,
+                  "y": 2028.64502624374,
+                  "zoom": -0.3333333333333334
                 }
               },
               "pinned": true,
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -281,10 +281,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4778934d5f8ef1aa",
+  "active": "d458cc0e221abdcd",
   "lastOpenFiles": [
-    "Sessions/2026/Slopes of Prynlope.canvas",
     "Sessions/2026/08 09 - Session 70.md",
+    "Sessions/2026/Slopes of Prynlope.canvas",
     "Sessions/2026/07 26 - Session 69.md",
     "Sessions/2026/07 12 - Session 68.md",
     "Sessions/2026/05 31 - Session 66.md",
