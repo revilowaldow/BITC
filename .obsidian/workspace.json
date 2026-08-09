@@ -8,7 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4778934d5f8ef1aa",
+            "id": "d458cc0e221abdcd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sessions/2026/Slopes of Prynlope.canvas",
+                "viewState": {
+                  "x": 46.12677631688373,
+                  "y": 2134.6762440288358,
+                  "zoom": -0.6666666666666667
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Slopes of Prynlope"
+            }
+          },
+          {
+            "id": "cd02a8414fa20b9c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,28 +41,8 @@
               "icon": "lucide-file",
               "title": "08 09 - Session 70"
             }
-          },
-          {
-            "id": "d458cc0e221abdcd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Sessions/2026/Slopes of Prynlope.canvas",
-                "viewState": {
-                  "x": -322.3768333601446,
-                  "y": 500.2795436299588,
-                  "zoom": -0.3333333333333334
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Slopes of Prynlope"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
