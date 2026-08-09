@@ -9,9 +9,9 @@
 		{"id":"ffb36a843bdb24ac","type":"text","text":"","x":-450,"y":-420,"width":250,"height":60},
 		{"id":"63cd0ae58566df10","type":"text","text":"","x":220,"y":-450,"width":250,"height":60},
 		{"id":"cf455a852330a9ce","type":"text","text":"Moist and shaded area\nlimited light in canyon\nGain in elevation\nDrips of water and puddles off wall\n\nPuddles are moving\n\nSlithering trackers\nLighting storm\n\nBoulder falls upon caenis\nKaulinana tries to burn the crevasse as we pass\n\nFind a desiccated human skeleton that we rebury\nPotable water source? Maybe needs cleaning","x":-560,"y":1260,"width":400,"height":380,"color":"5"},
-		{"id":"c42edb4b2925f82c","type":"text","text":"#### Wet Cave\nopening\nLong gelatinous strands\nSmell of putrescent rot\n\nMovement\n\nWebs are not adhesive\nAlso not flammable\n\nOoze?\nShapes moving around the large caverns\nGiant wet spiders\n\nLeft a danger marking in charcoal\n\nRotting smell of carcassess trapped in webs ","x":-770,"y":1800,"width":410,"height":440,"color":"1"},
-		{"id":"dbee631026f4d5c2","type":"text","text":"","x":-300,"y":2480,"width":250,"height":140},
-		{"id":"16a3c95da6430419","type":"file","file":"Wet Cave 2.png","x":-1197,"y":1800,"width":400,"height":440}
+		{"id":"c42edb4b2925f82c","type":"text","text":"#### Wet Cave\nopening\nLong gelatinous strands\nSmell of putrescent rot\n\nMovement\n\nWebs are not adhesive\nAlso not flammable\n\nOoze?\nShapes moving around the large caverns\nGiant wet spiders\n\nLeft a danger marking in charcoal\n\nRotting smell of carcasses trapped in webs other side of cave","x":-770,"y":1800,"width":410,"height":480,"color":"1"},
+		{"id":"16a3c95da6430419","type":"file","file":"Wet Cave 2.png","x":-1197,"y":1800,"width":400,"height":440},
+		{"id":"dbee631026f4d5c2","type":"text","text":"","x":-400,"y":2520,"width":475,"height":420}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
@@ -22,6 +22,6 @@
 		{"id":"97f0fa44b307b005","fromNode":"a9025b046107acfe","fromSide":"bottom","toNode":"cf455a852330a9ce","toSide":"top","label":"Crevasse-y Path\nSW"},
 		{"id":"77071417a5252858","fromNode":"63cd0ae58566df10","fromSide":"bottom","toNode":"436026d30e1a3758","toSide":"top","label":"NE\narrived this way"},
 		{"id":"853f24c24034f977","fromNode":"cf455a852330a9ce","fromSide":"bottom","toNode":"c42edb4b2925f82c","toSide":"top","label":"SW"},
-		{"id":"d2b7b60b69f46378","fromNode":"c42edb4b2925f82c","fromSide":"bottom","toNode":"dbee631026f4d5c2","toSide":"top","label":"SE\n\n"}
+		{"id":"d2b7b60b69f46378","fromNode":"c42edb4b2925f82c","fromSide":"bottom","toNode":"dbee631026f4d5c2","toSide":"top","label":"SE\nmany nooks and crannies in crags above\nStill increasing elevation"}
 	]
 }
