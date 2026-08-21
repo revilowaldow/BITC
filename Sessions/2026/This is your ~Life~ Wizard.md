@@ -69,9 +69,11 @@ Siblings
 		Alive but doing poorly, due to injury financial troubles or relationship difficulties
 		Soldier
 		Indifferent
+		Older
 	Osteo
 		Neutral
 		Boney...
 		Artisan or guild member
-		
+		Friendly
+
 	
