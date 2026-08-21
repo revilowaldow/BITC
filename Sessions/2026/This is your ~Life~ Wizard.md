@@ -13,7 +13,7 @@ Wizard order of scribes
 ### Dyvare
 
 - In what way do you feel your identity is not your own?
-	- body
+	- body, constructed
 - In what way do you feel you must change things?
 - In what way do you feel you are touched by something greater than you?
 
