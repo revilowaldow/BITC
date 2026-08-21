@@ -48,7 +48,7 @@ You know who your parents are or were
 
 Father
 	Neutral Evil
-	Alive and Well
+	Alive and Well, but down on his luck (career)
 	Politician or Beurecrat
 	Friendly
 	Didn't raise me
@@ -78,4 +78,6 @@ Siblings
 		Artisan or guild member
 		Friendly
 
-	
+Comfortable Lifestyle +10
+
+
