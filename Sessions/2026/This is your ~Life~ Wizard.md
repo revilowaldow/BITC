@@ -105,6 +105,6 @@ You fell in love or got married
 You had a supernatural experience
 	You escaped certain death and believe it was the intervention of a god that saved you.
 	Retained consciousness after being merged
-	Aepoptosis
+	Aepoptosis intervened to ensure maximum suffering for all 
 
 You spend some time working a job start with an extra a 2d6 gp (8gp)
