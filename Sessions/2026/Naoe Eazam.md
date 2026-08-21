@@ -1,6 +1,6 @@
 
 
-![[Pasted image 20260520195610.png]]
+![[Pasted image 20260520195610.png|304]]
 
 Available:
 1d6 + 2 levels worth of scrolls (max lvl 3) rolled 4+2
