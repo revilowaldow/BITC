@@ -82,4 +82,4 @@ Comfortable Lifestyle +10
 
 Grew up in large house
 
-I had few close friends and lived an ordinary childhood
+Others saw me as being different or strange and so I had few companions
