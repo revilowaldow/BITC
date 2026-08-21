@@ -31,5 +31,7 @@ Background ruined
 |1|I've changed from my past, and I work to live up to my new path. (Balance, Throne)|
 Event occurs
 New path of vengeance upon captor
-Perhaps originally willing but my changed 
+Perhaps originally willing but may have changed after undergoing osteomorphesis
+
+
 
