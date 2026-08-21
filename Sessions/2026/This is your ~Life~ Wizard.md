@@ -99,3 +99,7 @@ Made enemy of adventurer
 
 Made a friend of an adventurer
 
+You fell in love or got married
+	 Use the merged individual
+
+
