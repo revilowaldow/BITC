@@ -68,6 +68,8 @@ Siblings
 		Neutral Good
 		Alive but doing poorly, due to injury financial troubles or relationship difficulties
 		Soldier
-		
+		Indifferent
 	Osteo
+		Neutral
+		
 	
