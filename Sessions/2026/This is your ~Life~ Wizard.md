@@ -88,3 +88,8 @@ I impressed a wizard who told me I was squandering my talents and should seek ou
 	Torniar
 
 While exploring an old tomb, library, or temple, I found a spellbook. I was immediately driven to learn all I could about becoming a wizard.
+
+Age: 35
+Age (torniar): 50
+
+5 life events
