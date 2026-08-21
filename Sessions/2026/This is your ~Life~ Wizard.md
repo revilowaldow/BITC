@@ -2,5 +2,6 @@
 
 ![[Pasted image 20260520195610.png]]
 
-
-1d6 + 2 levels worth of scrolls (max )
+Available:
+1d6 + 2 levels worth of scrolls (max lvl 3)
+2d6 spell levels worth of gold 
