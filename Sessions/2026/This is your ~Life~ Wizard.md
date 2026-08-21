@@ -46,3 +46,8 @@ Orc
 
 You know who your parents are or were
 
+Father
+Neutral Ev
+
+Mother
+
