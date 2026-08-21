@@ -62,4 +62,10 @@ Birthplace
 	Eastern City States
 	Forest 
 	City of Edge
+
+Siblings
+	Birth
+		Neutral Good
+		
+	Osteo
 	
