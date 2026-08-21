@@ -96,8 +96,9 @@ Age (~torniar): 50
 
 Made enemy of a faction 
 	Their fault
-	Kathkachan nobles sent a hit squad after torniar after it was revealed he wsas grandmaster
-	I was depoyed to defned hhim 
+	Kathkachan nobles sent a hit squad after Torniar after it was revealed he was grandmaster
+	I was deployed to defend him. One survivor deliberately allowed to live reported back
+
 
 Made a friend of a faction
 	Freedom City Ninjas
