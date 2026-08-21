@@ -57,6 +57,18 @@
             }
           },
           {
+            "id": "0f358ba0bcb10471",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/Topographic Map.png"
+              },
+              "icon": "lucide-image",
+              "title": "Topographic Map"
+            }
+          },
+          {
             "id": "3be804115615e463",
             "type": "leaf",
             "state": {
@@ -71,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -291,10 +303,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed3fe576aaface8d",
+  "active": "0f358ba0bcb10471",
   "lastOpenFiles": [
-    "Sessions/2026/Backup Character Chat.md",
     "Sessions/2026/This is your ~Life~ Wizard.md",
+    "Sessions/2026/Backup Character Chat.md",
     "Sessions/2026/08 09 - Session 70.md",
     "Locations/The Pit.md",
     "Locations/Dungeon of Destiny.canvas",
