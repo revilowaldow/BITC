@@ -85,3 +85,5 @@ Grew up in large house
 Others saw me as being different or strange and so I had few companions
 
 I impressed a wizard who told me I was squandering my talents and should seek out an education to take advantage of my gifts.
+	Torniar
+
