@@ -95,3 +95,7 @@ Age (~torniar): 50
 5 life events
 
 Made enemy of adventurer
+	Their fault
+
+Made a friend of an adventurer
+
