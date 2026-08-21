@@ -59,6 +59,7 @@ Mother
 	Friendly
 
 Birthplace 
-	Eastern Citiy States
+	Eastern City States
 	Forest 
-	City 
+	City of Edge
+	
