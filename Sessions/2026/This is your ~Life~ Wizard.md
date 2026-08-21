@@ -98,6 +98,7 @@ Made enemy of a faction
 	Their fault
 
 Made a friend of a faction
+	Freedom City
 	
 
 You fell in love or got married
