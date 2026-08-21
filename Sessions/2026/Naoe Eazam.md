@@ -17,6 +17,7 @@ Wizard order of scribes
 - In what way do you feel you must change things?
 	- Magic users must not have the ability to do this again
 - In what way do you feel you are touched by something greater than you?
+	- Aepoptosis, kept me '''''sane''''' 
 - In what way do you feel marked?
 	- Dem bones
 
