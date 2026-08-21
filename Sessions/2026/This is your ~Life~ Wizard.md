@@ -51,12 +51,14 @@ Father
 	Alive and Well
 	Politician or Beurecrat
 	Friendly
+	Didn't raise me
 
 Mother
 	Lawful Evil
 	Alive and Well
 	Explorer or wanderer
 	Friendly
+	Raised me
 
 Birthplace 
 	Eastern City States
