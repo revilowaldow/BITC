@@ -16,6 +16,8 @@ Wizard order of scribes
 	- body, constructed
 - In what way do you feel you must change things?
 - In what way do you feel you are touched by something greater than you?
+- In what way do you feel marked?
+	- Dem bones
 
 
 Dhampir (orc originally)
@@ -32,6 +34,10 @@ Background ruined
 Event occurs
 New path of vengeance upon captor
 Perhaps originally willing but may have changed after undergoing osteomorphesis
+
+|d6|Trinket|
+|---|---|
+|1|A rusted scrap of a once-beloved family heirloom|
 
 
 
