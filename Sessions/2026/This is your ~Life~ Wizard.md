@@ -12,11 +12,13 @@ Wizard order of scribes
 
 ### Dyvare
 
-- In what way do you feel you identity is not your own?
+- In what way do you feel your identity is not your own?
+	- body
 - In what way do you feel you must change things?
 - In what way do you feel you are touched by something greater than you?
 
 
-Dhampir
+Dhampir (orc originally)
 	Workshop bite
 	![[Bone Devestator.png]]
+
