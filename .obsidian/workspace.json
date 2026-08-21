@@ -69,6 +69,18 @@
             }
           },
           {
+            "id": "364b8fb7bdb4710d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/Bone Devestator.png"
+              },
+              "icon": "lucide-image",
+              "title": "Bone Devestator"
+            }
+          },
+          {
             "id": "3be804115615e463",
             "type": "leaf",
             "state": {
@@ -83,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -303,8 +315,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f358ba0bcb10471",
+  "active": "364b8fb7bdb4710d",
   "lastOpenFiles": [
+    "Assets/Maps/Topographic Map.png",
     "Sessions/2026/This is your ~Life~ Wizard.md",
     "Sessions/2026/Backup Character Chat.md",
     "Sessions/2026/08 09 - Session 70.md",
@@ -345,7 +358,6 @@
     "Sessions/2023/12 17 - Session 13.md",
     "Sessions/2024/01 14 - Session 14.md",
     "Sessions/2024/01 28 - Session 15.md",
-    "Sessions/2024/02 11 - Session 16.md",
     "Untitled 1.base",
     "Untitled.base",
     "Locations/Barbakan/Barbakan.canvas",
