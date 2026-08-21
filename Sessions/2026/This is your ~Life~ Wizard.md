@@ -102,4 +102,6 @@ Made a friend of an adventurer
 You fell in love or got married
 	 Use the merged individual
 
+You had a supernatural experience
 
+You spend some 
