@@ -103,5 +103,6 @@ You fell in love or got married
 	 Use the merged individual
 
 You had a supernatural experience
+	You witnessed a minor miracle
 
-You spend some 
+You spend some time working a job start with an exter a 2d6 gp (8gp)
