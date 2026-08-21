@@ -71,5 +71,7 @@ Siblings
 		Indifferent
 	Osteo
 		Neutral
+		Boney...
+		Artisan or guild member
 		
 	
