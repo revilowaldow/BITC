@@ -94,10 +94,11 @@ Age (~torniar): 50
 
 5 life events
 
-Made enemy of adventurer
+Made enemy of a faction 
 	Their fault
 
-Made a friend of an adventurer
+Made a friend of a faction
+	
 
 You fell in love or got married
 	 Use the merged individual
