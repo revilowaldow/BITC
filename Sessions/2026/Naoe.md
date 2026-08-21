@@ -72,7 +72,7 @@ Siblings
 		Soldier
 		Indifferent
 		Older
-	Osteo
+	Jangal
 		Neutral
 		Boney...
 		Artisan or guild member
@@ -92,7 +92,7 @@ While exploring an old tomb, library, or temple, I found a spellbook. I was imme
 Age: 35
 Age (~torniar): 50
 
-5 life events
+5 life events 
 
 Made enemy of a faction 
 	Their fault
