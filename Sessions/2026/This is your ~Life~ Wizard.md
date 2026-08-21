@@ -99,7 +99,7 @@ Made enemy of a faction
 
 Made a friend of a faction
 	Freedom City Ninjas
-	
+	Warned a group about an upcoming border skirmish with Chineria, avoided bloodshed
 
 You fell in love or got married
 	 Use the merged individual
