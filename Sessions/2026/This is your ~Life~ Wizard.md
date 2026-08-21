@@ -23,3 +23,13 @@ Dhampir (orc originally)
 	![[Bone Devestator.png]]
 
 Background ruined 
+
+
+
+|d6|Personality Trait|
+|---|---|
+|1|I've changed from my past, and I work to live up to my new path. (Balance, Throne)|
+Event occurs
+New path of vengeance upon captor
+Perhaps originally willing but my changed 
+
