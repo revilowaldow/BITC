@@ -58,4 +58,7 @@ Mother
 	Explorer or wanderer
 	Friendly
 
-
+Birthplace 
+	Eastern Citiy States
+	Forest 
+	City 
