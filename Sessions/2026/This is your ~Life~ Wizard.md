@@ -47,10 +47,11 @@ Orc
 You know who your parents are or were
 
 Father
-Neutral Evil
-Alive and Well
-Politician or Beurecrat
-
+	Neutral Evil
+	Alive and Well
+	Politician or Beurecrat
+	Friendly
 
 Mother
-
+	Lawful Evil
+	
