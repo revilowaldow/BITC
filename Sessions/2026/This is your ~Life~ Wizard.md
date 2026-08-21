@@ -87,6 +87,4 @@ Others saw me as being different or strange and so I had few companions
 I impressed a wizard who told me I was squandering my talents and should seek out an education to take advantage of my gifts.
 	Torniar
 
-|                                                                                                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------- |
-| While exploring an old tomb, library, or temple, I found a spellbook. I was immediately driven to learn all I could about becoming a wizard. |
+While exploring an old tomb, library, or temple, I found a spellbook. I was immediately driven to learn all I could about becoming a wizard.
