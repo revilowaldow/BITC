@@ -7,3 +7,5 @@ Available:
 2d6 spell levels worth of gold, rolled 1+2
 
 
+Wizard order of scribes
+
