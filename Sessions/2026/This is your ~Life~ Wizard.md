@@ -3,5 +3,7 @@
 ![[Pasted image 20260520195610.png]]
 
 Available:
-1d6 + 2 levels worth of scrolls (max lvl 3)
-2d6 spell levels worth of gold 
+1d6 + 2 levels worth of scrolls (max lvl 3) rolled 4+2
+2d6 spell levels worth of gold, rolled 1+2
+
+
