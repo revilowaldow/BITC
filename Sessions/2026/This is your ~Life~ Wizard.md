@@ -54,4 +54,8 @@ Father
 
 Mother
 	Lawful Evil
-	
+	Alive and Well
+	Explorer or wanderer
+	Friendly
+
+
