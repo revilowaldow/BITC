@@ -124,7 +124,8 @@ Build:
 Class
 Arcana Investigation
 ASI1: INTx2
-ASI2: 
+ASI2: Lightly armoured
+	Need to add armor
 
 Bacground
 Orc
