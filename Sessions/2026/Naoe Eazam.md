@@ -153,4 +153,11 @@ Crystal Focus
 Explorers pack
 dice set
 
-![[Pasted image 20260822104623.png]]
+
+Spell Selection:
+Cantrips
+	Mage Hand
+	Prestidigitation
+	Mind Sliver
+	Fire Bolt
+	
