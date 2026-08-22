@@ -160,4 +160,6 @@ Cantrips
 	Prestidigitation
 	Mind Sliver
 	Fire Bolt
-	
+
+
+![[Pasted image 20260822131702.png]]
