@@ -34,10 +34,11 @@ Background ruined
 | --- | ---------------------------------------------------------------------------------- |
 | 1   | I've changed from my past, and I work to live up to my new path. (Balance, Throne) |
 Ideal
-
+Self-Improvement. The goal of a life of study is the betterment of oneself. (Any)
 
 Bond
 My life's work is a series of tomes related to a specific field of lore. (Dimensional and planar crossover)
+
 Flaw
 
 
