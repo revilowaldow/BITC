@@ -128,6 +128,7 @@ ASI2:
 
 Bacground
 Orc
+Dice Set
 
 Speciies
 Elvish
