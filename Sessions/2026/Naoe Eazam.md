@@ -30,9 +30,17 @@ Background ruined
 
 
 
-|d6|Personality Trait|
-|---|---|
-|1|I've changed from my past, and I work to live up to my new path. (Balance, Throne)|
+| d6  | Personality Trait                                                                  |
+| --- | ---------------------------------------------------------------------------------- |
+| 1   | I've changed from my past, and I work to live up to my new path. (Balance, Throne) |
+Ideal
+
+
+Bond
+My life's work is a series of tomes related to a specific field of lore. (Dimensional and planar crossover)
+Flaw
+
+
 Event occurs
 New path of vengeance upon captor
 Perhaps originally willing but may have changed after undergoing osteomorphesis
