@@ -45,6 +45,7 @@
           {
             "id": "ed3fe576aaface8d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,20 +53,9 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Naoe Eazam"
-            }
-          },
-          {
-            "id": "541a9199e28e3aec",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
             }
           },
           {
@@ -107,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -329,7 +319,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "541a9199e28e3aec",
+  "active": "ed3fe576aaface8d",
   "lastOpenFiles": [
     "Assets/Maps/Topographic Map.png",
     "Sessions/2026/Backup Character Chat.md",
