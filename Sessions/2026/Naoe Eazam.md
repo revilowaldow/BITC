@@ -40,7 +40,7 @@ Bond
 My life's work is a series of tomes related to a specific field of lore. (Dimensional and planar crossover)
 
 Flaw
-
+Unlocking an ancient mystery is worth the price of a civilization.
 
 Event occurs
 New path of vengeance upon captor
