@@ -123,6 +123,8 @@ Build:
 
 Class
 Arcana Investigation
+ASI1: INTx2
+ASI2: 
 
 Bacground
 Orc
@@ -135,5 +137,9 @@ Conusouir
 company magic specialist
 	Sanctuary
 
+Equipment:
+Crystal Focus
+Explorers pack
+dice set
 
-
+![[Pasted image 20260822104623.png]]
