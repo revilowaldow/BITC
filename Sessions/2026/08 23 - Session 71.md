@@ -34,8 +34,8 @@ Encounter with goblin camp and fire giants
 ### 16:00pm
 Travel towards camp from arid highlands
 
-### 16:30pm
-Arrive at goblin camp
+### 16:45pm
+Arrive at redoubt
 
 
 
