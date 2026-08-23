@@ -25,10 +25,9 @@
 		{"id":"2156494cb7e3af61","x":738,"y":2945,"width":250,"height":60,"type":"text","text":""},
 		{"id":"dad5cf32ace1f8cc","x":1270,"y":3238,"width":250,"height":60,"type":"text","text":"Gloomy tunnel"},
 		{"id":"56d2f1b5ee16f624","x":1520,"y":3459,"width":250,"height":60,"type":"text","text":"Dry Mountain Passage"},
-		{"id":"03ce8daff917ea6e","x":1340,"y":3840,"width":398,"height":282,"type":"text","text":"### Fire Giant Castle\n\nUnfriendly humanoids held here"},
-		{"id":"e3c0c8afc67ddf68","x":1770,"y":3740,"width":250,"height":60,"color":"1","type":"text","text":"DANGER"},
-		{"id":"985670f5d240bdcd","x":1678,"y":3291,"width":250,"height":60,"type":"text","text":""},
-		{"id":"c23fa60ba221a296","x":1360,"y":3740,"width":250,"height":60,"color":"1","type":"text","text":""}
+		{"id":"c23fa60ba221a296","x":1360,"y":3740,"width":160,"height":60,"color":"1","type":"text","text":"Spider nest"},
+		{"id":"03ce8daff917ea6e","x":1729,"y":3740,"width":398,"height":282,"color":"1","type":"text","text":"### Fire Giant Castle\n\nCultists here"},
+		{"id":"985670f5d240bdcd","x":1700,"y":3238,"width":250,"height":60,"type":"text","text":"Gothan Ruin"}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
@@ -51,7 +50,7 @@
 		{"id":"77ae77aa70b0516b","fromNode":"8bf5994fb005e277","fromSide":"top","toNode":"2156494cb7e3af61","toSide":"bottom"},
 		{"id":"43a6740eeb453f67","fromNode":"9c4f1886974a3a43","fromSide":"bottom","toNode":"dad5cf32ace1f8cc","toSide":"top","label":"SE"},
 		{"id":"feb924ed1da3328c","fromNode":"dad5cf32ace1f8cc","fromSide":"bottom","toNode":"56d2f1b5ee16f624","toSide":"top","label":"SE"},
-		{"id":"f732470571eed45d","fromNode":"56d2f1b5ee16f624","fromSide":"bottom","toNode":"e3c0c8afc67ddf68","toSide":"top","label":"SE"},
+		{"id":"f732470571eed45d","fromNode":"56d2f1b5ee16f624","fromSide":"bottom","toNode":"03ce8daff917ea6e","toSide":"top","label":"SE"},
 		{"id":"caf3bc30b270acb0","fromNode":"56d2f1b5ee16f624","fromSide":"bottom","toNode":"c23fa60ba221a296","toSide":"top","label":"SW"},
 		{"id":"39aeabcced3ef423","fromNode":"56d2f1b5ee16f624","fromSide":"top","toNode":"985670f5d240bdcd","toSide":"bottom","label":"NE"}
 	]
