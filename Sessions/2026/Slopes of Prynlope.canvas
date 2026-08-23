@@ -11,7 +11,7 @@
 		{"id":"16a3c95da6430419","type":"file","file":"Assets/Maps/Wet Cave 2.png","x":-1197,"y":1800,"width":400,"height":440},
 		{"id":"dbee631026f4d5c2","type":"text","text":"### Elven Ruin\n\nWhite marble structure\nPartially collapsed no roof\nHouse 70x40ft\nOvergrown\nWords on the whistling wind in elvish:\n> \"city of cities, open the way\"\n\nTwo rooms, main chamber and a side room on the West\nArchitecture is reminiscent of kathkachan tunnel warren\n\nStone Tablet\nEveryone's skin goes cold\nAllip\n\n> \"The last mandate, they must not reach the answer\"\n> \"They must not have it, please let them not reach it\"\n> \"I'm sorry, please\"\n> \"Liars and thieves\"\n> \"please leave\"\n\n\n\n\n\n","x":-420,"y":2460,"width":475,"height":600},
 		{"id":"9c179376fc9e71e1","type":"file","file":"Assets/Maps/Elven Ruin.png","x":-978,"y":2460,"width":543,"height":600},
-		{"id":"dad8a38f7c4598c0","type":"text","text":"Blocked off exit to old roadway","x":55,"y":2140,"width":250,"height":100},
+		{"id":"dad8a38f7c4598c0","type":"text","text":"Blocked off exit to old roadway\nLandslide\n","x":-40,"y":2040,"width":440,"height":200},
 		{"id":"3e736223ef314a88","type":"text","text":"### Manticore Lair\n\nPlateau\nSmell of blood\n\nDead body of a giant\nManticore with a mane feasting on the giant, roars like a lion\n\nRemains distributed in the nest are similar to those around the serpentine statue","x":-75,"y":3240,"width":515,"height":540,"color":"1"},
 		{"id":"e221ba45de0dde29","type":"file","file":"Assets/Maps/Manticore Lair.png","x":-640,"y":3240,"width":539,"height":540},
 		{"id":"2a09d74bc732f13f","type":"text","text":"","x":165,"y":540,"width":250,"height":60},
@@ -28,6 +28,6 @@
 		{"id":"853f24c24034f977","fromNode":"cf455a852330a9ce","fromSide":"bottom","toNode":"c42edb4b2925f82c","toSide":"top","label":"SW"},
 		{"id":"d2b7b60b69f46378","fromNode":"c42edb4b2925f82c","fromSide":"bottom","toNode":"dbee631026f4d5c2","toSide":"top","label":"SE\nmany nooks and crannies in crags above\nStill increasing elevation"},
 		{"id":"0fc05c89a8a08fd4","fromNode":"dbee631026f4d5c2","fromSide":"bottom","toNode":"3e736223ef314a88","toSide":"top","label":"SE, winding clambering path"},
-		{"id":"cc702e4cfd0e6c59","fromNode":"dbee631026f4d5c2","fromSide":"top","toNode":"dad8a38f7c4598c0","toSide":"bottom"}
+		{"id":"cc702e4cfd0e6c59","fromNode":"dbee631026f4d5c2","fromSide":"top","toNode":"dad8a38f7c4598c0","toSide":"bottom","color":"3","label":"NE, landslide"}
 	]
 }
