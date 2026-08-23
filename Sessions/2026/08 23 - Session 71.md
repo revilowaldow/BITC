@@ -45,3 +45,7 @@ Humanoid encampment
 "Come out, we have guests for you to identify"
 Fighter
 Black beard
+
+[[Rowan]]
+[[Hobgoblin Warlord Pokin]]
+
