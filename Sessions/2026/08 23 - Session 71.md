@@ -18,4 +18,5 @@ replica of a stone shortsword
 Manticores could not have flow more than an hour
 Joint settlement between giants and another group, perhaps goblins
 
-15:00 pm
+### 14:45 pm
+Party return t
