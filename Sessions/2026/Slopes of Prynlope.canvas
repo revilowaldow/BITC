@@ -15,8 +15,8 @@
 		{"id":"e221ba45de0dde29","type":"file","file":"Assets/Maps/Manticore Lair.png","x":-640,"y":3240,"width":539,"height":540},
 		{"id":"2a09d74bc732f13f","type":"text","text":"","x":165,"y":540,"width":250,"height":60},
 		{"id":"839a8becea920803","type":"text","text":"","x":120,"y":341,"width":250,"height":60},
-		{"id":"391e719fe630b41d","x":118,"y":1560,"width":250,"height":60,"type":"text","text":""},
-		{"id":"9b4c0ddcddb040bb","type":"text","text":"### Arid Highland\nVery arid windblasted area\nBarren\nSteppe","x":800,"y":1700,"width":376,"height":340}
+		{"id":"9b4c0ddcddb040bb","type":"text","text":"### Arid Highland\nVery arid windblasted area\nBarren\nSteppe","x":520,"y":1780,"width":376,"height":340},
+		{"id":"391e719fe630b41d","x":520,"y":1420,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
@@ -30,6 +30,6 @@
 		{"id":"d2b7b60b69f46378","fromNode":"c42edb4b2925f82c","fromSide":"bottom","toNode":"dbee631026f4d5c2","toSide":"top","label":"SE\nmany nooks and crannies in crags above\nStill increasing elevation"},
 		{"id":"0fc05c89a8a08fd4","fromNode":"dbee631026f4d5c2","fromSide":"bottom","toNode":"3e736223ef314a88","toSide":"top","label":"SE, winding clambering path"},
 		{"id":"cc702e4cfd0e6c59","fromNode":"dbee631026f4d5c2","fromSide":"top","toNode":"9b4c0ddcddb040bb","toSide":"bottom","color":"3","label":"NE, landslide, blocked old roadway area"},
-		{"id":"d4504be909ad0a5b","fromNode":"9b4c0ddcddb040bb","fromSide":"top","toNode":"391e719fe630b41d","toSide":"bottom","label":"N, at least one path"}
+		{"id":"d4504be909ad0a5b","fromNode":"9b4c0ddcddb040bb","fromSide":"top","toNode":"391e719fe630b41d","toSide":"bottom","label":"N, at least one path\nGrassier areas"}
 	]
 }
