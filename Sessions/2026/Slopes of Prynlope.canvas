@@ -23,9 +23,12 @@
 		{"id":"211265e94c279159","x":488,"y":2920,"width":250,"height":60,"type":"text","text":""},
 		{"id":"8bf5994fb005e277","x":354,"y":3159,"width":250,"height":60,"type":"text","text":""},
 		{"id":"2156494cb7e3af61","x":738,"y":2945,"width":250,"height":60,"type":"text","text":""},
-		{"id":"dad5cf32ace1f8cc","x":1406,"y":3150,"width":250,"height":60,"type":"text","text":"Gloomy tunnel"},
-		{"id":"56d2f1b5ee16f624","x":1599,"y":3380,"width":250,"height":60,"type":"text","text":"Dry Mountain Passage"},
-		{"id":"03ce8daff917ea6e","x":1071,"y":3539,"width":398,"height":282,"type":"text","text":"### Fire Giant Castle\n\nUnfriendly humanoids held here"}
+		{"id":"dad5cf32ace1f8cc","x":1270,"y":3238,"width":250,"height":60,"type":"text","text":"Gloomy tunnel"},
+		{"id":"56d2f1b5ee16f624","x":1520,"y":3459,"width":250,"height":60,"type":"text","text":"Dry Mountain Passage"},
+		{"id":"03ce8daff917ea6e","x":1340,"y":3840,"width":398,"height":282,"type":"text","text":"### Fire Giant Castle\n\nUnfriendly humanoids held here"},
+		{"id":"e3c0c8afc67ddf68","x":1770,"y":3740,"width":250,"height":60,"color":"1","type":"text","text":"DANGER"},
+		{"id":"985670f5d240bdcd","x":1678,"y":3291,"width":250,"height":60,"type":"text","text":""},
+		{"id":"c23fa60ba221a296","x":1360,"y":3740,"width":250,"height":60,"color":"1","type":"text","text":""}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
@@ -43,11 +46,13 @@
 		{"id":"3c747df22977ab3e","fromNode":"9b4c0ddcddb040bb","fromSide":"bottom","toNode":"97423323147426c9","toSide":"top","label":"SE"},
 		{"id":"c985f4f5f3821571","fromNode":"97423323147426c9","fromSide":"bottom","toNode":"9c4f1886974a3a43","toSide":"top","label":"SE"},
 		{"id":"1396bb9914f21d51","fromNode":"9c4f1886974a3a43","fromSide":"bottom","toNode":"ea6f45f65a994d96","toSide":"top","label":"SW"},
-		{"id":"515e9d92f398565d","fromNode":"9c4f1886974a3a43","fromSide":"bottom","toNode":"03ce8daff917ea6e","toSide":"top","label":"SE"},
 		{"id":"8d24a77c7ef53eb0","fromNode":"97423323147426c9","fromSide":"bottom","toNode":"211265e94c279159","toSide":"top"},
 		{"id":"ce812d0aaedf9bb1","fromNode":"211265e94c279159","fromSide":"bottom","toNode":"8bf5994fb005e277","toSide":"top"},
 		{"id":"77ae77aa70b0516b","fromNode":"8bf5994fb005e277","fromSide":"top","toNode":"2156494cb7e3af61","toSide":"bottom"},
 		{"id":"43a6740eeb453f67","fromNode":"9c4f1886974a3a43","fromSide":"bottom","toNode":"dad5cf32ace1f8cc","toSide":"top","label":"SE"},
-		{"id":"feb924ed1da3328c","fromNode":"dad5cf32ace1f8cc","fromSide":"bottom","toNode":"56d2f1b5ee16f624","toSide":"top","label":"SE"}
+		{"id":"feb924ed1da3328c","fromNode":"dad5cf32ace1f8cc","fromSide":"bottom","toNode":"56d2f1b5ee16f624","toSide":"top","label":"SE"},
+		{"id":"f732470571eed45d","fromNode":"56d2f1b5ee16f624","fromSide":"bottom","toNode":"e3c0c8afc67ddf68","toSide":"top","label":"SE"},
+		{"id":"caf3bc30b270acb0","fromNode":"56d2f1b5ee16f624","fromSide":"bottom","toNode":"c23fa60ba221a296","toSide":"top","label":"SW"},
+		{"id":"39aeabcced3ef423","fromNode":"56d2f1b5ee16f624","fromSide":"top","toNode":"985670f5d240bdcd","toSide":"bottom","label":"NE"}
 	]
 }
