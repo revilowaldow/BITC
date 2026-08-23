@@ -15,4 +15,4 @@ replica of a stone shortsword
 		flowers nearby
 		"This shall help you guard against the threats from the north, and destroy our enemies." Male voice in common
 
-
+Manticores could not have flow more than an hour
