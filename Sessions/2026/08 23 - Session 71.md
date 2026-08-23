@@ -42,3 +42,6 @@ Crossroads
 
 ### 17:45 pm
 Humanoid encampment
+"Come out, we have guests for you to identify"
+Fighter
+Black beard
