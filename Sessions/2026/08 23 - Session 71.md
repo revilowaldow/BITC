@@ -32,11 +32,10 @@ Arrive at the arid highlands
 Encounter with goblin camp and fire giants
 
 ### 16:00pm
-
-
+Travel towards camp from arid highlands
 
 ### 16:30pm
-Ar
+Arrive at goblin camp
 
 
 
