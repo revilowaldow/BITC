@@ -62,8 +62,8 @@
               "state": {
                 "file": "Sessions/2026/Slopes of Prynlope.canvas",
                 "viewState": {
-                  "x": -363.4766468769485,
-                  "y": 1845.5386115718306,
+                  "x": 1408.0629271195621,
+                  "y": 3174.193292069215,
                   "zoom": -0.6666666666666667
                 }
               },
@@ -89,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -312,10 +312,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef63b4d74fe4c394",
+  "active": "d458cc0e221abdcd",
   "lastOpenFiles": [
-    "Sessions/2026/08 09 - Session 70.md",
     "Sessions/2026/08 23 - Session 71.md",
+    "Sessions/2026/08 09 - Session 70.md",
     "Sessions/2026/Slopes of Prynlope.canvas",
     "Sessions/2026/07 26 - Session 69.md",
     "Factions/Silver Company/Party/Naoe Eazam.md",
