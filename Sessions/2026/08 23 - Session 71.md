@@ -37,7 +37,6 @@ Travel towards camp from arid highlands
 ### 16:45pm
 Arrive at redoubt
 
-
 ### 17:15: pm
 Crossroads
 
