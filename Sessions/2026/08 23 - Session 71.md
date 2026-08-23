@@ -18,10 +18,14 @@ replica of a stone shortsword
 Manticores could not have flow more than an hour
 Joint settlement between giants and another group, perhaps goblins
 
-### 14:45 pm
+## 15:00pm
+Left manticore lair
+
+### 15:15 pm
 Party return to Elven Ruin quickly via owl use
 
 Landscape shift where road was
+
 
 
 
