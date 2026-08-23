@@ -57,3 +57,8 @@ Fred
 Cob
 
 ### 19:15pm
+
+
+
+Prepared spells:
+
