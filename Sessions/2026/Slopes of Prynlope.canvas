@@ -24,7 +24,8 @@
 		{"id":"985670f5d240bdcd","x":1729,"y":3136,"width":250,"height":162,"type":"text","text":"### Gothan Ruin\nGoblins won't venture here"},
 		{"id":"56d2f1b5ee16f624","x":1475,"y":3489,"width":280,"height":101,"type":"text","text":"### Dry Mountain Passage"},
 		{"id":"c23fa60ba221a296","x":1315,"y":3780,"width":160,"height":60,"color":"1","type":"text","text":"Spider nest"},
-		{"id":"dad5cf32ace1f8cc","x":1225,"y":3166,"width":250,"height":102,"type":"text","text":"### Gloomy tunnel"}
+		{"id":"dad5cf32ace1f8cc","x":1225,"y":3166,"width":250,"height":102,"type":"text","text":"### Gloomy tunnel"},
+		{"id":"9b4ccf8d94785f47","x":720,"y":3840,"width":400,"height":204,"type":"file","file":"Rowan's Encampment.png"}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
