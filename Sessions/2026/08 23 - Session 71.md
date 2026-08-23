@@ -38,5 +38,8 @@ Travel towards camp from arid highlands
 Arrive at redoubt
 
 
-17:15: pm
+### 17:15: pm
+Crossroads
 
+### 17:45 pm
+Humanoid encampment
