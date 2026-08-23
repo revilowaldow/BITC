@@ -19,7 +19,7 @@
 		{"id":"9b4c0ddcddb040bb","type":"text","text":"### Arid Highland\nVery arid windblasted area\nBarren\nSteppe\nGoblin figure, armed\n\"Oh shit oh god\"\n\nGoblin and giant camp\n\nYou may call me Nek\n","x":457,"y":1760,"width":376,"height":340},
 		{"id":"97423323147426c9","x":749,"y":2378,"width":351,"height":322,"type":"text","text":"### Whistling Redoubt\n\nCrevasse passable by giants\nManned by goblins and hobgoblins\nLarge dogs with heavy collars\n"},
 		{"id":"03ce8daff917ea6e","x":1202,"y":3298,"width":398,"height":282,"type":"text","text":"### Fire Giant Castle\n\nUnfriendly humanoids held here"},
-		{"id":"ea6f45f65a994d96","x":720,"y":3298,"width":363,"height":282,"type":"text","text":"### Humanoid Encampment\nEncampment for other humanoids\nDogs barking\nHumans orcs dwarves\n\nRemnants of dog prince\n"},
+		{"id":"ea6f45f65a994d96","x":720,"y":3298,"width":363,"height":382,"type":"text","text":"### Humanoid Encampment\nEncampment for other humanoids\nDogs barking\nHumans orcs dwarves\n\nRemnants of dog prince\nRowan\nKana will be pleased to hear you are alive and doing well\n\n"},
 		{"id":"9c4f1886974a3a43","x":1020,"y":2920,"width":250,"height":100,"type":"text","text":"### Crossroads\nJust a basic path change"}
 	],
 	"edges":[
