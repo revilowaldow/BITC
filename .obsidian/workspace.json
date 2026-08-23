@@ -143,9 +143,23 @@
               "icon": "lucide-file",
               "title": "Naoe Eazam"
             }
+          },
+          {
+            "id": "9fd2b5f8684cc614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/09 01 - Session 29.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09 01 - Session 29"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crutan",
+                "query": "lieu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +224,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -367,15 +382,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef63b4d74fe4c394",
+  "active": "d458cc0e221abdcd",
   "lastOpenFiles": [
-    "Sessions/2026/Slopes of Prynlope.canvas",
     "Factions/Helviti/List of Commanda.md",
+    "Factions/Silver Company/Party/Naoe Eazam.md",
+    "Sessions/2024/09 01 - Session 29.md",
+    "Sessions/2026/08 23 - Session 71.md",
+    "Sessions/2026/Slopes of Prynlope.canvas",
     "Factions/Helviti/Leader Jovil.md",
     "Factions/Helviti/Lion Comanda.md",
     "Factions/Helviti/Devil Comanda.md",
-    "Sessions/2026/08 23 - Session 71.md",
-    "Factions/Silver Company/Party/Naoe Eazam.md",
     "Assets/Maps/Kathkachan Wilderness.png",
     "Assets/Maps/Topographic Map.png",
     "Sessions/2026/08 09 - Session 70.md",
