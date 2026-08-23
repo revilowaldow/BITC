@@ -38,4 +38,5 @@ Travel towards camp from arid highlands
 Arrive at redoubt
 
 
+17:15: pm
 
