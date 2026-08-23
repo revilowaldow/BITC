@@ -6,5 +6,7 @@ Alex recapping
 Arrive at manticore lair
 
 Find old items in manticore nest
-Stone tablet
+Another stone tablet
 replica of a stone shortsword
+	carvings on surface
+
