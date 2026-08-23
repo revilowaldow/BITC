@@ -47,7 +47,7 @@ Fighter
 Black beard
 
 [[Rowan]]
-[[Hobgoblin Warlord Pokin]]
+[[Hobgoblin Warlord Poekin]]
 Cultists in the fire giant castle
 Wider Aepoptosian plan
 
