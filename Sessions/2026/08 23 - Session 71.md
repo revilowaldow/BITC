@@ -63,3 +63,6 @@ Go down into the valley, squash small people
 
 Prepared spells:
 
++Polymorph
+-Wall of fire
+
