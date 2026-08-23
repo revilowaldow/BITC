@@ -58,7 +58,8 @@ Cob
 
 ### 19:15pm
 
-
+Important to the plan
+Go down into the valley, squash small people
 
 Prepared spells:
 
