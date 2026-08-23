@@ -15,8 +15,8 @@
 		{"id":"e221ba45de0dde29","type":"file","file":"Assets/Maps/Manticore Lair.png","x":-640,"y":3240,"width":539,"height":540},
 		{"id":"2a09d74bc732f13f","type":"text","text":"","x":165,"y":540,"width":250,"height":60},
 		{"id":"839a8becea920803","type":"text","text":"","x":120,"y":341,"width":250,"height":60},
-		{"id":"9b4c0ddcddb040bb","type":"text","text":"### Arid Highland\nVery arid windblasted area\nBarren","x":55,"y":1820,"width":376,"height":340},
-		{"id":"391e719fe630b41d","x":118,"y":1560,"width":250,"height":60,"type":"text","text":""}
+		{"id":"391e719fe630b41d","x":118,"y":1560,"width":250,"height":60,"type":"text","text":""},
+		{"id":"9b4c0ddcddb040bb","type":"text","text":"### Arid Highland\nVery arid windblasted area\nBarren\nSteppe","x":800,"y":1700,"width":376,"height":340}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
