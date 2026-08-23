@@ -67,4 +67,7 @@ Prepared spells:
 -Wall of fire
 
 ### 03:15am
-Kaulinan is able to long 
+Kaulinan is able to long rest
+
+
+
