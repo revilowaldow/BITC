@@ -16,7 +16,7 @@
 		{"id":"2a09d74bc732f13f","type":"text","text":"","x":165,"y":540,"width":250,"height":60},
 		{"id":"839a8becea920803","type":"text","text":"","x":120,"y":341,"width":250,"height":60},
 		{"id":"391e719fe630b41d","x":520,"y":1420,"width":250,"height":60,"type":"text","text":""},
-		{"id":"9b4c0ddcddb040bb","type":"text","text":"### Arid Highland\nVery arid windblasted area\nBarren\nSteppe\nGoblin figure, armed\n\"Oh shit oh god\"\n\nGoblin and giant camp\n","x":457,"y":1760,"width":376,"height":340}
+		{"id":"9b4c0ddcddb040bb","type":"text","text":"### Arid Highland\nVery arid windblasted area\nBarren\nSteppe\nGoblin figure, armed\n\"Oh shit oh god\"\n\nGoblin and giant camp\n\nYou may call me Nek\n","x":457,"y":1760,"width":376,"height":340}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
