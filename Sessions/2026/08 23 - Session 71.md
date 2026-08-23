@@ -29,6 +29,14 @@ Landscape shift where road was
 ### 15:45 pm 
 Arrive at the arid highlands
 
+Encounter with goblin camp and fire giants
+
+### 16:00pm
+
+
+
+### 16:30pm
+Ar
 
 
 

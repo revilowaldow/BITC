@@ -62,8 +62,8 @@
               "state": {
                 "file": "Sessions/2026/Slopes of Prynlope.canvas",
                 "viewState": {
-                  "x": 372.09391847476473,
-                  "y": 1958.8516370757068,
+                  "x": 372.0939184747647,
+                  "y": 2193.1969523561534,
                   "zoom": -0.3333333333333334
                 }
               },
@@ -89,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -311,12 +311,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d458cc0e221abdcd",
+  "active": "ef63b4d74fe4c394",
   "lastOpenFiles": [
+    "Sessions/2026/Slopes of Prynlope.canvas",
     "Factions/Silver Company/Party/Naoe Eazam.md",
     "Assets/Maps/Kathkachan Wilderness.png",
     "Assets/Maps/Topographic Map.png",
-    "Sessions/2026/Slopes of Prynlope.canvas",
     "Sessions/2026/08 23 - Session 71.md",
     "Sessions/2026/08 09 - Session 70.md",
     "Sessions/2026/06 14 - Session 67.md",
