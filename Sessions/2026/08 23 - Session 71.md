@@ -26,6 +26,9 @@ Party return to Elven Ruin quickly via owl use
 
 Landscape shift where road was
 
+### 15:45 pm 
+Arrive at the arid highlands
+
 
 
 
