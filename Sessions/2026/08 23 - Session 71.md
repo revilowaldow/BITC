@@ -52,9 +52,8 @@ Cultists in the fire giant castle
 Wider Aepoptosian plan
 
 ### 18:15pm
-Hill giants arrive
-
-Two
+Two Hill giants arrive
 Fred
 Cob
+
 
