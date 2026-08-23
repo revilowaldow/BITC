@@ -48,4 +48,8 @@ Black beard
 
 [[Rowan]]
 [[Hobgoblin Warlord Pokin]]
+Cultists in the fire giant castle
+Wider Aepoptosian plan
+
+
 
