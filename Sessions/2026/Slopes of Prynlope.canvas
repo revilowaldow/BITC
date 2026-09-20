@@ -21,16 +21,16 @@
 		{"id":"dad5cf32ace1f8cc","type":"text","text":"### Gloomy tunnel","x":1225,"y":3166,"width":250,"height":102},
 		{"id":"b403338e1077ce0e","type":"file","file":"Rowan's Encampment 2.png","x":720,"y":3810,"width":380,"height":381},
 		{"id":"cf455a852330a9ce","type":"text","text":"### Hidden Crevase\n\nMoist and shaded area\nlimited light in canyon\nGain in elevation\nDrips of water and puddles off wall\n\nPuddles are moving\n\nSlithering trackers\nLighting storm\n\nBoulder falls upon caenis\nKaulinana tries to burn the crevasse as we pass\n\nFind a desiccated human skeleton that we rebury\nPotable water source? Maybe needs cleaning","x":-565,"y":1240,"width":400,"height":420,"color":"5"},
-		{"id":"63cd0ae58566df10","type":"text","text":"","x":255,"y":-502,"width":250,"height":60},
 		{"id":"ffb36a843bdb24ac","type":"text","text":"","x":-415,"y":-472,"width":250,"height":60},
 		{"id":"436026d30e1a3758","type":"text","text":"Sheltered Divot\nMain Camp\n\n3 tents\n- Lion hold\n- Nobles\n- Unknown\n\nCovered tables, set up for eating and workspaces","x":-145,"y":-272,"width":360,"height":360,"color":"4"},
 		{"id":"839a8becea920803","type":"text","text":"### Crossroads","x":215,"y":338,"width":250,"height":99},
 		{"id":"29dbe298384c500d","type":"text","text":"Rocks, slopes","x":465,"y":652,"width":250,"height":168},
 		{"id":"44f1a17ac8fefccb","type":"file","file":"Berry Pool.png","x":265,"y":-200,"width":293,"height":288},
-		{"id":"6479e04ad819b4c2","type":"text","text":"### Berry Pool\nReplete with berries\nManticore\n\n1 extra day worth of resources\n","x":590,"y":-200,"width":250,"height":288,"color":"5"},
-		{"id":"b4f66d2e155d3f36","x":428,"y":-415,"width":250,"height":60,"type":"text","text":""},
-		{"id":"420dac2afe3dd030","x":773,"y":-417,"width":250,"height":60,"type":"text","text":""},
-		{"id":"341e0411d67b484d","x":800,"y":308,"width":250,"height":60,"type":"text","text":""}
+		{"id":"6479e04ad819b4c2","type":"text","text":"### Berry Pool\nReplete with berries\nManticore\n\n1 extra day worth of resources\n","x":715,"y":-200,"width":250,"height":288,"color":"5"},
+		{"id":"341e0411d67b484d","x":965,"y":308,"width":250,"height":60,"type":"text","text":""},
+		{"id":"63cd0ae58566df10","type":"text","text":"","x":215,"y":-540,"width":250,"height":60},
+		{"id":"b4f66d2e155d3f36","x":520,"y":-480,"width":250,"height":95,"type":"text","text":""},
+		{"id":"420dac2afe3dd030","x":965,"y":-480,"width":250,"height":95,"type":"text","text":"Distant outline of "}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
