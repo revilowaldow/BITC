@@ -36,8 +36,8 @@ Everyone went to bed
 
 Spoke to Calamsis
 Crimson (Red)
-Kevin knows
-
+Kevin knows...
+Calamsis had seen 
 
 
 ### 12:00
