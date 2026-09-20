@@ -70,7 +70,5 @@ Prepared spells:
 Kaulinan is able to long rest
 
 
-### 03:45
-Arrive at crossroads
 
 

@@ -14,3 +14,11 @@ Jailbreak occurs
 
 Thodunn got pegged
 
+
+
+### 04:00
+Arrive at crossroads
+
+
+
+
