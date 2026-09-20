@@ -34,7 +34,14 @@ Met by Arash
 Listed off everything we fought
 Everyone went to bed
 
-Crimson colour
+Spoke to Calamsis
+Crimson (Red)
+
+
+
+
+### 12:00
+Everyone rested
 
 
 
