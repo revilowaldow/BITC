@@ -30,7 +30,7 @@
 		{"id":"b4f66d2e155d3f36","type":"text","text":"","x":520,"y":-480,"width":250,"height":95},
 		{"id":"341e0411d67b484d","type":"text","text":"","x":965,"y":308,"width":250,"height":60},
 		{"id":"6479e04ad819b4c2","type":"text","text":"### Berry Pool\nReplete with berries\nManticore\n\n1 extra day worth of resources\n","x":715,"y":-236,"width":250,"height":288,"color":"5"},
-		{"id":"420dac2afe3dd030","type":"text","text":"### Mossy Stone Statue\nDistant outline of an artificial stony feature\nMoss\n(Broken) Key and parchment in hands\n\nSmell of moss and ozone","x":965,"y":-660,"width":395,"height":275},
+		{"id":"420dac2afe3dd030","type":"text","text":"### Mossy Stone Statue\nDistant outline of an artificial stony feature\nMoss\n(Broken) Key and parchment in hands\n\nSmell of moss and ozone\n\nAllips appear, older civilisation","x":965,"y":-680,"width":395,"height":295},
 		{"id":"846e35d8c49deeab","type":"file","file":"Mossy Stone Statue.png","x":1420,"y":-660,"width":280,"height":280}
 	],
 	"edges":[
