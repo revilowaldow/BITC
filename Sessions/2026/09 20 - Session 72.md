@@ -19,8 +19,15 @@ Thodunn got pegged
 ### 04:00
 Arrive at crossroads
 
+### 04:30
+Arrive via flight to Hidden Crevasse
 
-Arrive via Fly to Hidden Crevase
+### 05:00
+Arrive oddly shaped stone
+
+### 05:30
+Arrive An
+
 
 
 
