@@ -64,7 +64,7 @@
               "state": {
                 "file": "Sessions/2026/Slopes of Prynlope.canvas",
                 "viewState": {
-                  "x": 1211.2251966755052,
+                  "x": 620.712005343335,
                   "y": 3336.108199369969,
                   "zoom": -0.6666666666666667
                 }
@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -313,10 +313,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d458cc0e221abdcd",
+  "active": "ef63b4d74fe4c394",
   "lastOpenFiles": [
-    "Sessions/2026/09 20 - Session 72.md",
     "Sessions/2026/Slopes of Prynlope.canvas",
+    "Sessions/2026/09 20 - Session 72.md",
     "Rowan's Encampment 2.png",
     "Sessions/2026/08 23 - Session 71.md",
     "Sessions/2026/08 09 - Session 70.md",
