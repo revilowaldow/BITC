@@ -29,7 +29,8 @@ Arrive Ankheg Hunting Grounds
 Darkvision cast on kaulinan and caenis
 
 ## 06:00
-
+Return to camp
+Met by Ara
 
 
 
