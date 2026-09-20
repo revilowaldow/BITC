@@ -44,9 +44,13 @@ He was there when the last silver fell
 ### 12:00
 Reconvene
 Identified Stone Sword of Crushing
-Sending message to Kevin about risk of fire giant and 
+Sending message to Kevin about risk of fire giant and cultists
 
+Thodunn trains with calmsis
+Aru trains with Coale
 ### 14:00
 Long rest finishes
+
+
 
 
