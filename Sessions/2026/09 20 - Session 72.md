@@ -29,7 +29,9 @@ Arrive oddly shaped stone
 
 ### 05:30
 Arrive Ankheg Hunting Grounds
-Darkvision cast on 
+Darkvision cast on kaulinan and caenis
+
+
 
 
 
