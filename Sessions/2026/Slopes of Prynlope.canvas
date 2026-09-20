@@ -27,7 +27,10 @@
 		{"id":"839a8becea920803","type":"text","text":"### Crossroads","x":215,"y":338,"width":250,"height":99},
 		{"id":"29dbe298384c500d","type":"text","text":"Rocks, slopes","x":465,"y":652,"width":250,"height":168},
 		{"id":"44f1a17ac8fefccb","type":"file","file":"Berry Pool.png","x":265,"y":-200,"width":293,"height":288},
-		{"id":"6479e04ad819b4c2","type":"text","text":"### Berry Pool\nReplete with berries\nManticore\n\n1 extra day worth of resources\n","x":590,"y":-200,"width":250,"height":288,"color":"5"}
+		{"id":"6479e04ad819b4c2","type":"text","text":"### Berry Pool\nReplete with berries\nManticore\n\n1 extra day worth of resources\n","x":590,"y":-200,"width":250,"height":288,"color":"5"},
+		{"id":"b4f66d2e155d3f36","x":428,"y":-415,"width":250,"height":60,"type":"text","text":""},
+		{"id":"420dac2afe3dd030","x":773,"y":-417,"width":250,"height":60,"type":"text","text":""},
+		{"id":"341e0411d67b484d","x":800,"y":308,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
@@ -52,6 +55,9 @@
 		{"id":"39aeabcced3ef423","fromNode":"56d2f1b5ee16f624","fromSide":"top","toNode":"985670f5d240bdcd","toSide":"bottom","label":"NE"},
 		{"id":"e1e21a4de0198c79","fromNode":"9c4f1886974a3a43","fromSide":"left","toNode":"cf455a852330a9ce","toSide":"right","color":"3","label":"W via owl flight"},
 		{"id":"91ce5b2fad1a016c","fromNode":"839a8becea920803","fromSide":"bottom","toNode":"29dbe298384c500d","toSide":"top","label":"SE"},
-		{"id":"7cb48e9924439324","fromNode":"839a8becea920803","fromSide":"top","toNode":"6479e04ad819b4c2","toSide":"bottom","label":"NE"}
+		{"id":"7cb48e9924439324","fromNode":"839a8becea920803","fromSide":"top","toNode":"6479e04ad819b4c2","toSide":"bottom","label":"NE"},
+		{"id":"47b4ecaafb0f2a53","fromNode":"6479e04ad819b4c2","fromSide":"top","toNode":"b4f66d2e155d3f36","toSide":"bottom","label":"NW"},
+		{"id":"66a208b5bb4c6ea7","fromNode":"6479e04ad819b4c2","fromSide":"top","toNode":"420dac2afe3dd030","toSide":"bottom","label":"NE"},
+		{"id":"29d3528235268238","fromNode":"6479e04ad819b4c2","fromSide":"bottom","toNode":"341e0411d67b484d","toSide":"top","label":"SE"}
 	]
 }
