@@ -1,4 +1,6 @@
 
+Adam recapping
+
 
 ![[Slopes of Prynlope.canvas]]
 
@@ -26,7 +28,9 @@ Arrive via flight to Hidden Crevasse
 Arrive oddly shaped stone
 
 ### 05:30
-Arrive An
+Arrive Ankheg Hunting Grounds
+
+
 
 
 
