@@ -30,7 +30,9 @@ Darkvision cast on kaulinan and caenis
 
 ## 06:00
 Return to camp
-Met by Ara
+Met by Arash
+Listed off everything we fought
+
 
 
 
