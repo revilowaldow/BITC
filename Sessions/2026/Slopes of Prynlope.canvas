@@ -6,7 +6,6 @@
 		{"id":"a9025b046107acfe","type":"text","text":"#### Crossways\nSerpentine shaped Stone atop mound\nTwigs and small bones at base left by animals\nAbandoned creature nest (perhaps manticore)\nNatural stone but brought from a different location","x":-290,"y":820,"width":390,"height":260},
 		{"id":"ffb36a843bdb24ac","type":"text","text":"","x":-450,"y":-420,"width":250,"height":60},
 		{"id":"63cd0ae58566df10","type":"text","text":"","x":220,"y":-450,"width":250,"height":60},
-		{"id":"cf455a852330a9ce","type":"text","text":"Moist and shaded area\nlimited light in canyon\nGain in elevation\nDrips of water and puddles off wall\n\nPuddles are moving\n\nSlithering trackers\nLighting storm\n\nBoulder falls upon caenis\nKaulinana tries to burn the crevasse as we pass\n\nFind a desiccated human skeleton that we rebury\nPotable water source? Maybe needs cleaning","x":-560,"y":1260,"width":400,"height":380,"color":"5"},
 		{"id":"c42edb4b2925f82c","type":"text","text":"#### Wet Cave\nopening\nLong gelatinous strands\nSmell of putrescent rot\n\nMovement\n\nWebs are not adhesive\nAlso not flammable\n\nOoze?\nShapes moving around the large caverns\nGiant wet spiders\n\nLeft a danger marking in charcoal\n\nRotting smell of carcasses trapped in webs other side of cave","x":-770,"y":1800,"width":410,"height":480,"color":"1"},
 		{"id":"16a3c95da6430419","type":"file","file":"Assets/Maps/Wet Cave 2.png","x":-1197,"y":1800,"width":400,"height":440},
 		{"id":"dbee631026f4d5c2","type":"text","text":"### Elven Ruin\n\nWhite marble structure\nPartially collapsed no roof\nHouse 70x40ft\nOvergrown\nWords on the whistling wind in elvish:\n> \"city of cities, open the way\"\n\nTwo rooms, main chamber and a side room on the West\nArchitecture is reminiscent of kathkachan tunnel warren\n\nStone Tablet\nEveryone's skin goes cold\nAllip\n\n> \"The last mandate, they must not reach the answer\"\n> \"They must not have it, please let them not reach it\"\n> \"I'm sorry, please\"\n> \"Liars and thieves\"\n> \"please leave\"\n\n\n\n\n\n","x":-420,"y":2460,"width":475,"height":600},
@@ -19,14 +18,14 @@
 		{"id":"9b4c0ddcddb040bb","type":"text","text":"### Arid Highland\nVery arid windblasted area\nBarren\nSteppe\nGoblin figure, armed\n\"Oh shit oh god\"\n\nGoblin and giant camp\n\nYou may call me Nek\n","x":457,"y":1760,"width":376,"height":340,"color":"1"},
 		{"id":"97423323147426c9","type":"text","text":"### Whistling Redoubt\n\nCrevasse passable by giants\nManned by goblins and hobgoblins\nLarge dogs with heavy collars\n","x":749,"y":2378,"width":351,"height":322,"color":"1"},
 		{"id":"ea6f45f65a994d96","type":"text","text":"### Humanoid Encampment\nEncampment for other humanoids\nDogs barking\nHumans orcs dwarves\n\nRemnants of dog prince\nRowan\nKana will be pleased to hear you are alive and doing well\nIf we can defeat the goblin warlord Rowan will join us ([[Hobgoblin Warlord Poekin]])\nWeapons left near pond\n\nDon't kill the defenceless unless they give a bloody good reason","x":720,"y":3298,"width":380,"height":482,"color":"5"},
-		{"id":"9c4f1886974a3a43","type":"text","text":"### Crossroads\nJust a basic path change","x":1020,"y":2920,"width":250,"height":100},
+		{"id":"9c4f1886974a3a43","type":"text","text":"### Crossroads\nJust a basic path change","x":925,"y":2920,"width":346,"height":100},
 		{"id":"03ce8daff917ea6e","type":"text","text":"### Fire Giant Castle\n\nCultists here","x":1729,"y":3780,"width":398,"height":282,"color":"1"},
 		{"id":"985670f5d240bdcd","type":"text","text":"### Gothan Ruin\nGoblins won't venture here","x":1729,"y":3136,"width":250,"height":162},
 		{"id":"56d2f1b5ee16f624","type":"text","text":"### Dry Mountain Passage","x":1475,"y":3489,"width":280,"height":101},
 		{"id":"c23fa60ba221a296","type":"text","text":"Spider nest","x":1315,"y":3780,"width":160,"height":60,"color":"1"},
 		{"id":"dad5cf32ace1f8cc","type":"text","text":"### Gloomy tunnel","x":1225,"y":3166,"width":250,"height":102},
-		{"id":"3112c2bbdde2d5e6","x":190,"y":2318,"width":250,"height":60,"type":"text","text":""},
-		{"id":"b403338e1077ce0e","type":"file","file":"Rowan's Encampment 2.png","x":720,"y":3810,"width":399,"height":400}
+		{"id":"b403338e1077ce0e","type":"file","file":"Rowan's Encampment 2.png","x":720,"y":3810,"width":380,"height":381},
+		{"id":"cf455a852330a9ce","type":"text","text":"### Hidden Crevase\n\nMoist and shaded area\nlimited light in canyon\nGain in elevation\nDrips of water and puddles off wall\n\nPuddles are moving\n\nSlithering trackers\nLighting storm\n\nBoulder falls upon caenis\nKaulinana tries to burn the crevasse as we pass\n\nFind a desiccated human skeleton that we rebury\nPotable water source? Maybe needs cleaning","x":-565,"y":1240,"width":400,"height":420,"color":"5"}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
@@ -49,6 +48,6 @@
 		{"id":"f732470571eed45d","fromNode":"56d2f1b5ee16f624","fromSide":"bottom","toNode":"03ce8daff917ea6e","toSide":"top","label":"SE"},
 		{"id":"caf3bc30b270acb0","fromNode":"56d2f1b5ee16f624","fromSide":"bottom","toNode":"c23fa60ba221a296","toSide":"top","label":"SW"},
 		{"id":"39aeabcced3ef423","fromNode":"56d2f1b5ee16f624","fromSide":"top","toNode":"985670f5d240bdcd","toSide":"bottom","label":"NE"},
-		{"id":"e1e21a4de0198c79","fromNode":"9c4f1886974a3a43","fromSide":"left","toNode":"3112c2bbdde2d5e6","toSide":"bottom","color":"3","label":"W via owl flight"}
+		{"id":"e1e21a4de0198c79","fromNode":"9c4f1886974a3a43","fromSide":"left","toNode":"cf455a852330a9ce","toSide":"right","color":"3","label":"W via owl flight"}
 	]
 }
