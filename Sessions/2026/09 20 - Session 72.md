@@ -37,7 +37,8 @@ Everyone went to bed
 Spoke to Calamsis
 Crimson (Red)
 Kevin knows...
-Calamsis had seen 
+Calamsis had seen Aru once before the soiree
+He was there when the last silver fell
 
 
 ### 12:00
