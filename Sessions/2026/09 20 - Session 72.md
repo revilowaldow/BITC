@@ -44,7 +44,7 @@ He was there when the last silver fell
 ### 12:00
 Everyone rested
 Identified Stone Sword of Crushing
-
+Sending message to Kevin about risk of fire giant and 
 
 
 
