@@ -8,6 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ed3fe576aaface8d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Silver Company/Party/Naoe Eazam.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Naoe Eazam"
+            }
+          },
+          {
             "id": "cd02a8414fa20b9c",
             "type": "leaf",
             "pinned": true,
@@ -48,30 +64,14 @@
               "state": {
                 "file": "Sessions/2026/Slopes of Prynlope.canvas",
                 "viewState": {
-                  "x": 1358.8534945085478,
-                  "y": 3336.1081993699704,
+                  "x": 915.9686010094201,
+                  "y": 2745.595008037799,
                   "zoom": -0.6666666666666667
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Slopes of Prynlope"
-            }
-          },
-          {
-            "id": "ed3fe576aaface8d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Silver Company/Party/Naoe Eazam.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Naoe Eazam"
             }
           },
           {
@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -313,14 +313,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef63b4d74fe4c394",
+  "active": "d458cc0e221abdcd",
   "lastOpenFiles": [
+    "Sessions/2026/08 23 - Session 71.md",
+    "Sessions/2026/08 09 - Session 70.md",
     "Sessions/2026/Slopes of Prynlope.canvas",
     "Sessions/2026/09 20 - Session 72.md",
     "Factions/Silver Company/Party/Naoe Eazam.md",
     "Setting Rules/Valid Wild Shapes.md",
-    "Sessions/2026/08 23 - Session 71.md",
-    "Sessions/2026/08 09 - Session 70.md",
     "Sessions/2026/07 26 - Session 69.md",
     "Pasted image 20260822131702.png",
     "Pasted image 20260520195610.png",
