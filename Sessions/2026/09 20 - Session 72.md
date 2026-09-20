@@ -6,4 +6,10 @@
 
 ### 03:15am
 Jailbreak occurs
+> Caenis is going to try and sneak out to the equipment
+> Aru is waiting for an opportunity to get to the equipment
+> Thodunn is speaking to Fred as a distraction
+> Vrindrilliax is flying up to the top of the map
+> Kaulinan as an owl flies up to the top of the map (60 ft)
+
 
