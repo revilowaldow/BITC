@@ -27,7 +27,7 @@
 		{"id":"839a8becea920803","type":"text","text":"### Crossroads","x":215,"y":338,"width":250,"height":99},
 		{"id":"29dbe298384c500d","type":"text","text":"Rocks, slopes","x":465,"y":652,"width":250,"height":168},
 		{"id":"44f1a17ac8fefccb","type":"file","file":"Berry Pool.png","x":265,"y":-200,"width":293,"height":288},
-		{"id":"6479e04ad819b4c2","type":"text","text":"### Berry Pool\nReplete with berries\nManticore\n","x":590,"y":-200,"width":250,"height":288,"color":"5"}
+		{"id":"6479e04ad819b4c2","type":"text","text":"### Berry Pool\nReplete with berries\nManticore\n\n1 extra day worth of resources\n","x":590,"y":-200,"width":250,"height":288,"color":"5"}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
