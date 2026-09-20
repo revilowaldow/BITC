@@ -52,7 +52,11 @@ Aru trains with Coale
 Long rest finishes
 We leave SE
 
+### 14:30 
+Crossroads, reconnects to odd stone
 
+### 15:00
+Bushes
 
 
 
