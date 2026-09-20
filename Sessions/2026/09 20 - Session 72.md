@@ -58,5 +58,9 @@ Crossroads, reconnects to odd stone
 ### 15:00
 Bushes
 
+### 15:30 
+Manticore Fight
 
+### 16:00
+Arrive at stony feature
 
