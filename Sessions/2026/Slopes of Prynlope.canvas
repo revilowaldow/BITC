@@ -21,21 +21,19 @@
 		{"id":"dad5cf32ace1f8cc","type":"text","text":"### Gloomy tunnel","x":1225,"y":3166,"width":250,"height":102},
 		{"id":"b403338e1077ce0e","type":"file","file":"Rowan's Encampment 2.png","x":720,"y":3810,"width":380,"height":381},
 		{"id":"cf455a852330a9ce","type":"text","text":"### Hidden Crevase\n\nMoist and shaded area\nlimited light in canyon\nGain in elevation\nDrips of water and puddles off wall\n\nPuddles are moving\n\nSlithering trackers\nLighting storm\n\nBoulder falls upon caenis\nKaulinana tries to burn the crevasse as we pass\n\nFind a desiccated human skeleton that we rebury\nPotable water source? Maybe needs cleaning","x":-565,"y":1240,"width":400,"height":420,"color":"5"},
-		{"id":"63cd0ae58566df10","type":"text","text":"","x":541,"y":-920,"width":250,"height":60},
-		{"id":"ffb36a843bdb24ac","type":"text","text":"","x":-129,"y":-890,"width":250,"height":60},
-		{"id":"436026d30e1a3758","type":"text","text":"Sheltered Divot\nMain Camp\n\n3 tents\n- Lion hold\n- Nobles\n- Unknown\n\nCovered tables, set up for eating and workspaces","x":141,"y":-690,"width":360,"height":360,"color":"4"},
-		{"id":"2a09d74bc732f13f","type":"text","text":"","x":191,"y":622,"width":250,"height":60},
-		{"id":"6479e04ad819b4c2","x":791,"y":-390,"width":250,"height":60,"type":"text","text":""},
-		{"id":"839a8becea920803","type":"text","text":"### Crossroads","x":501,"y":-80,"width":250,"height":99},
-		{"id":"7e00c7736aed3d3b","x":196,"y":234,"width":250,"height":60,"type":"text","text":""},
-		{"id":"29dbe298384c500d","x":751,"y":234,"width":250,"height":60,"type":"text","text":""}
+		{"id":"63cd0ae58566df10","type":"text","text":"","x":255,"y":-502,"width":250,"height":60},
+		{"id":"ffb36a843bdb24ac","type":"text","text":"","x":-415,"y":-472,"width":250,"height":60},
+		{"id":"436026d30e1a3758","type":"text","text":"Sheltered Divot\nMain Camp\n\n3 tents\n- Lion hold\n- Nobles\n- Unknown\n\nCovered tables, set up for eating and workspaces","x":-145,"y":-272,"width":360,"height":360,"color":"4"},
+		{"id":"6479e04ad819b4c2","x":505,"y":28,"width":250,"height":60,"type":"text","text":"Bushes"},
+		{"id":"839a8becea920803","type":"text","text":"### Crossroads","x":215,"y":338,"width":250,"height":99},
+		{"id":"29dbe298384c500d","x":465,"y":652,"width":250,"height":168,"type":"text","text":"Rocks, slopes"}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
 		{"id":"200e0ba7b4dc3594","fromNode":"436026d30e1a3758","fromSide":"left","toNode":"350019bae9ee8a98","toSide":"top","label":"SW"},
 		{"id":"64e7874d3103c47b","fromNode":"436026d30e1a3758","fromSide":"bottom","toNode":"839a8becea920803","toSide":"top","label":"SE"},
 		{"id":"a261be8105881be2","fromNode":"350019bae9ee8a98","fromSide":"bottom","toNode":"a9025b046107acfe","toSide":"left","label":"Passage between stones\nSE"},
-		{"id":"95502f1579bc5c8e","fromNode":"a9025b046107acfe","fromSide":"top","toNode":"2a09d74bc732f13f","toSide":"bottom","label":"NE winding path\nRustling leaves, camp activity"},
+		{"id":"95502f1579bc5c8e","fromNode":"a9025b046107acfe","fromSide":"top","toNode":"839a8becea920803","toSide":"bottom","label":"NE winding path\nRustling leaves, camp activity"},
 		{"id":"97f0fa44b307b005","fromNode":"a9025b046107acfe","fromSide":"bottom","toNode":"cf455a852330a9ce","toSide":"top","label":"Crevasse-y Path\nSW"},
 		{"id":"77071417a5252858","fromNode":"63cd0ae58566df10","fromSide":"bottom","toNode":"436026d30e1a3758","toSide":"top","label":"NE\narrived this way"},
 		{"id":"853f24c24034f977","fromNode":"cf455a852330a9ce","fromSide":"bottom","toNode":"c42edb4b2925f82c","toSide":"top","label":"SW"},
@@ -52,7 +50,6 @@
 		{"id":"caf3bc30b270acb0","fromNode":"56d2f1b5ee16f624","fromSide":"bottom","toNode":"c23fa60ba221a296","toSide":"top","label":"SW"},
 		{"id":"39aeabcced3ef423","fromNode":"56d2f1b5ee16f624","fromSide":"top","toNode":"985670f5d240bdcd","toSide":"bottom","label":"NE"},
 		{"id":"e1e21a4de0198c79","fromNode":"9c4f1886974a3a43","fromSide":"left","toNode":"cf455a852330a9ce","toSide":"right","color":"3","label":"W via owl flight"},
-		{"id":"ce0dcaed3664b0cb","fromNode":"839a8becea920803","fromSide":"bottom","toNode":"7e00c7736aed3d3b","toSide":"top","label":"SW"},
 		{"id":"91ce5b2fad1a016c","fromNode":"839a8becea920803","fromSide":"bottom","toNode":"29dbe298384c500d","toSide":"top","label":"SE"},
 		{"id":"7cb48e9924439324","fromNode":"839a8becea920803","fromSide":"top","toNode":"6479e04ad819b4c2","toSide":"bottom","label":"NE"}
 	]
