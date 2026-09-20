@@ -25,7 +25,8 @@
 		{"id":"56d2f1b5ee16f624","type":"text","text":"### Dry Mountain Passage","x":1475,"y":3489,"width":280,"height":101},
 		{"id":"c23fa60ba221a296","type":"text","text":"Spider nest","x":1315,"y":3780,"width":160,"height":60,"color":"1"},
 		{"id":"dad5cf32ace1f8cc","type":"text","text":"### Gloomy tunnel","x":1225,"y":3166,"width":250,"height":102},
-		{"id":"9b4ccf8d94785f47","type":"file","file":"Assets/Maps/Rowan's Encampment.png","x":720,"y":3840,"width":400,"height":204}
+		{"id":"9b4ccf8d94785f47","type":"file","file":"Assets/Maps/Rowan's Encampment.png","x":720,"y":3840,"width":400,"height":204},
+		{"id":"b403338e1077ce0e","x":710,"y":4100,"width":399,"height":400,"type":"file","file":"Rowan's Encampment 2.png"}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
