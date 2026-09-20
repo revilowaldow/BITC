@@ -20,5 +20,7 @@ Thodunn got pegged
 Arrive at crossroads
 
 
+Arrive via Fly to Hidden Crevase
+
 
 
