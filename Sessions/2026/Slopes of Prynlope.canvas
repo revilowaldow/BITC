@@ -50,6 +50,6 @@
 		{"id":"f732470571eed45d","fromNode":"56d2f1b5ee16f624","fromSide":"bottom","toNode":"03ce8daff917ea6e","toSide":"top","label":"SE"},
 		{"id":"caf3bc30b270acb0","fromNode":"56d2f1b5ee16f624","fromSide":"bottom","toNode":"c23fa60ba221a296","toSide":"top","label":"SW"},
 		{"id":"39aeabcced3ef423","fromNode":"56d2f1b5ee16f624","fromSide":"top","toNode":"985670f5d240bdcd","toSide":"bottom","label":"NE"},
-		{"id":"e1e21a4de0198c79","fromNode":"9c4f1886974a3a43","fromSide":"left","toNode":"3112c2bbdde2d5e6","toSide":"right","label":"W via owl flight"}
+		{"id":"e1e21a4de0198c79","fromNode":"9c4f1886974a3a43","fromSide":"left","toNode":"3112c2bbdde2d5e6","toSide":"right","color":"3","label":"W via owl flight"}
 	]
 }
