@@ -62,5 +62,6 @@ Bushes
 Manticore Fight
 
 ### 16:00
-Arrive at stony feature
+Arrive at stony statue facing north
+
 
