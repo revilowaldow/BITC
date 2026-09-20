@@ -42,9 +42,11 @@ He was there when the last silver fell
 
 
 ### 12:00
-Everyone rested
+Reconvene
 Identified Stone Sword of Crushing
 Sending message to Kevin about risk of fire giant and 
 
+### 14:00
+Long rest finishes
 
 
