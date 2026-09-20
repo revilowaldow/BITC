@@ -12,4 +12,5 @@ Jailbreak occurs
 > Vrindrilliax is flying up to the top of the map
 > Kaulinan as an owl flies up to the top of the map (60 ft)
 
+Thodunn got pegged
 
