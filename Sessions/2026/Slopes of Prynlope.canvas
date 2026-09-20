@@ -25,9 +25,9 @@
 		{"id":"ffb36a843bdb24ac","type":"text","text":"","x":-415,"y":-472,"width":250,"height":60},
 		{"id":"436026d30e1a3758","type":"text","text":"Sheltered Divot\nMain Camp\n\n3 tents\n- Lion hold\n- Nobles\n- Unknown\n\nCovered tables, set up for eating and workspaces","x":-145,"y":-272,"width":360,"height":360,"color":"4"},
 		{"id":"839a8becea920803","type":"text","text":"### Crossroads","x":215,"y":338,"width":250,"height":99},
-		{"id":"29dbe298384c500d","x":465,"y":652,"width":250,"height":168,"type":"text","text":"Rocks, slopes"},
-		{"id":"6479e04ad819b4c2","x":540,"y":0,"width":250,"height":112,"type":"text","text":"### Berry Pool\nReplete with berries\n\n"},
-		{"id":"44f1a17ac8fefccb","x":590,"y":259,"width":400,"height":393,"type":"file","file":"Pasted image 20260920202911.png"}
+		{"id":"29dbe298384c500d","type":"text","text":"Rocks, slopes","x":465,"y":652,"width":250,"height":168},
+		{"id":"44f1a17ac8fefccb","type":"file","file":"Berry Pool.png","x":265,"y":-200,"width":293,"height":288},
+		{"id":"6479e04ad819b4c2","type":"text","text":"### Berry Pool\nReplete with berries\nManticore\n","x":590,"y":-200,"width":250,"height":288,"color":"5"}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
