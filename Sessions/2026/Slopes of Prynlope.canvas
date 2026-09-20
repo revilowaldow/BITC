@@ -24,9 +24,9 @@
 		{"id":"63cd0ae58566df10","type":"text","text":"","x":255,"y":-502,"width":250,"height":60},
 		{"id":"ffb36a843bdb24ac","type":"text","text":"","x":-415,"y":-472,"width":250,"height":60},
 		{"id":"436026d30e1a3758","type":"text","text":"Sheltered Divot\nMain Camp\n\n3 tents\n- Lion hold\n- Nobles\n- Unknown\n\nCovered tables, set up for eating and workspaces","x":-145,"y":-272,"width":360,"height":360,"color":"4"},
-		{"id":"6479e04ad819b4c2","x":505,"y":28,"width":250,"height":60,"type":"text","text":"Bushes"},
 		{"id":"839a8becea920803","type":"text","text":"### Crossroads","x":215,"y":338,"width":250,"height":99},
-		{"id":"29dbe298384c500d","x":465,"y":652,"width":250,"height":168,"type":"text","text":"Rocks, slopes"}
+		{"id":"29dbe298384c500d","x":465,"y":652,"width":250,"height":168,"type":"text","text":"Rocks, slopes"},
+		{"id":"6479e04ad819b4c2","x":540,"y":0,"width":250,"height":112,"type":"text","text":"### Berry Pool\n\n"}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
