@@ -15,9 +15,6 @@ Jailbreak occurs
 > Kaulinan as an owl flies up to the top of the map (60 ft)
 
 Thodunn got pegged
-
-
-
 ### 04:00
 Arrive at crossroads
 
