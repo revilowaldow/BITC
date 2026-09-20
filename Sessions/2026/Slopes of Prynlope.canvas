@@ -12,8 +12,7 @@
 		{"id":"9c179376fc9e71e1","type":"file","file":"Assets/Maps/Elven Ruin.png","x":-978,"y":2460,"width":543,"height":600},
 		{"id":"3e736223ef314a88","type":"text","text":"### Manticore Lair\n\nPlateau\nSmell of blood\n\nDead body of a giant\nManticore with a mane feasting on the giant, roars like a lion\n\nRemains distributed in the nest are similar to those around the serpentine statue","x":-75,"y":3240,"width":515,"height":540,"color":"1"},
 		{"id":"e221ba45de0dde29","type":"file","file":"Assets/Maps/Manticore Lair.png","x":-640,"y":3240,"width":539,"height":540},
-		{"id":"2a09d74bc732f13f","type":"text","text":"","x":165,"y":540,"width":250,"height":60},
-		{"id":"839a8becea920803","type":"text","text":"","x":120,"y":341,"width":250,"height":60},
+		{"id":"839a8becea920803","type":"text","text":"","x":120,"y":341,"width":250,"height":99},
 		{"id":"391e719fe630b41d","type":"text","text":"","x":520,"y":1420,"width":250,"height":60},
 		{"id":"9b4c0ddcddb040bb","type":"text","text":"### Arid Highland\nVery arid windblasted area\nBarren\nSteppe\nGoblin figure, armed\n\"Oh shit oh god\"\n\nGoblin and giant camp\n\nYou may call me Nek\n","x":457,"y":1760,"width":376,"height":340,"color":"1"},
 		{"id":"97423323147426c9","type":"text","text":"### Whistling Redoubt\n\nCrevasse passable by giants\nManned by goblins and hobgoblins\nLarge dogs with heavy collars\n","x":749,"y":2378,"width":351,"height":322,"color":"1"},
@@ -25,7 +24,11 @@
 		{"id":"c23fa60ba221a296","type":"text","text":"Spider nest","x":1315,"y":3780,"width":160,"height":60,"color":"1"},
 		{"id":"dad5cf32ace1f8cc","type":"text","text":"### Gloomy tunnel","x":1225,"y":3166,"width":250,"height":102},
 		{"id":"b403338e1077ce0e","type":"file","file":"Rowan's Encampment 2.png","x":720,"y":3810,"width":380,"height":381},
-		{"id":"cf455a852330a9ce","type":"text","text":"### Hidden Crevase\n\nMoist and shaded area\nlimited light in canyon\nGain in elevation\nDrips of water and puddles off wall\n\nPuddles are moving\n\nSlithering trackers\nLighting storm\n\nBoulder falls upon caenis\nKaulinana tries to burn the crevasse as we pass\n\nFind a desiccated human skeleton that we rebury\nPotable water source? Maybe needs cleaning","x":-565,"y":1240,"width":400,"height":420,"color":"5"}
+		{"id":"cf455a852330a9ce","type":"text","text":"### Hidden Crevase\n\nMoist and shaded area\nlimited light in canyon\nGain in elevation\nDrips of water and puddles off wall\n\nPuddles are moving\n\nSlithering trackers\nLighting storm\n\nBoulder falls upon caenis\nKaulinana tries to burn the crevasse as we pass\n\nFind a desiccated human skeleton that we rebury\nPotable water source? Maybe needs cleaning","x":-565,"y":1240,"width":400,"height":420,"color":"5"},
+		{"id":"2a09d74bc732f13f","type":"text","text":"","x":180,"y":690,"width":250,"height":60},
+		{"id":"7e00c7736aed3d3b","x":-141,"y":565,"width":250,"height":60,"type":"text","text":""},
+		{"id":"29dbe298384c500d","x":342,"y":552,"width":250,"height":60,"type":"text","text":""},
+		{"id":"6479e04ad819b4c2","x":342,"y":110,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
@@ -48,6 +51,9 @@
 		{"id":"f732470571eed45d","fromNode":"56d2f1b5ee16f624","fromSide":"bottom","toNode":"03ce8daff917ea6e","toSide":"top","label":"SE"},
 		{"id":"caf3bc30b270acb0","fromNode":"56d2f1b5ee16f624","fromSide":"bottom","toNode":"c23fa60ba221a296","toSide":"top","label":"SW"},
 		{"id":"39aeabcced3ef423","fromNode":"56d2f1b5ee16f624","fromSide":"top","toNode":"985670f5d240bdcd","toSide":"bottom","label":"NE"},
-		{"id":"e1e21a4de0198c79","fromNode":"9c4f1886974a3a43","fromSide":"left","toNode":"cf455a852330a9ce","toSide":"right","color":"3","label":"W via owl flight"}
+		{"id":"e1e21a4de0198c79","fromNode":"9c4f1886974a3a43","fromSide":"left","toNode":"cf455a852330a9ce","toSide":"right","color":"3","label":"W via owl flight"},
+		{"id":"ce0dcaed3664b0cb","fromNode":"839a8becea920803","fromSide":"bottom","toNode":"7e00c7736aed3d3b","toSide":"top","label":"SW"},
+		{"id":"91ce5b2fad1a016c","fromNode":"839a8becea920803","fromSide":"bottom","toNode":"29dbe298384c500d","toSide":"top","label":"SE"},
+		{"id":"7cb48e9924439324","fromNode":"839a8becea920803","fromSide":"top","toNode":"6479e04ad819b4c2","toSide":"bottom","label":"NE"}
 	]
 }
