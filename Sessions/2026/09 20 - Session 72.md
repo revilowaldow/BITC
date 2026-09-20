@@ -50,6 +50,8 @@ Thodunn trains with calmsis
 Aru trains with Coale
 ### 14:00
 Long rest finishes
+We leave SE
+
 
 
 
