@@ -19,7 +19,7 @@
 		{"id":"56d2f1b5ee16f624","type":"text","text":"### Dry Mountain Passage","x":1475,"y":3489,"width":280,"height":101},
 		{"id":"c23fa60ba221a296","type":"text","text":"Spider nest","x":1315,"y":3780,"width":160,"height":60,"color":"1"},
 		{"id":"dad5cf32ace1f8cc","type":"text","text":"### Gloomy tunnel","x":1225,"y":3166,"width":250,"height":102},
-		{"id":"b403338e1077ce0e","type":"file","file":"Rowan's Encampment 2.png","x":720,"y":3810,"width":380,"height":381},
+		{"id":"b403338e1077ce0e","type":"file","file":"Assets/Maps/Rowan's Encampment 2.png","x":720,"y":3810,"width":380,"height":381},
 		{"id":"cf455a852330a9ce","type":"text","text":"### Hidden Crevase\n\nMoist and shaded area\nlimited light in canyon\nGain in elevation\nDrips of water and puddles off wall\n\nPuddles are moving\n\nSlithering trackers\nLighting storm\n\nBoulder falls upon caenis\nKaulinana tries to burn the crevasse as we pass\n\nFind a desiccated human skeleton that we rebury\nPotable water source? Maybe needs cleaning","x":-565,"y":1240,"width":400,"height":420,"color":"5"},
 		{"id":"ffb36a843bdb24ac","type":"text","text":"","x":-415,"y":-472,"width":250,"height":60},
 		{"id":"436026d30e1a3758","type":"text","text":"Sheltered Divot\nMain Camp\n\n3 tents\n- Lion hold\n- Nobles\n- Unknown\n\nCovered tables, set up for eating and workspaces","x":-145,"y":-272,"width":360,"height":360,"color":"4"},
