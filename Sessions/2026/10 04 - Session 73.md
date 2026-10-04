@@ -63,5 +63,9 @@ Picture of a door or mirror or painting frame
 Priests and clerics prostrate before the framed depiction
 Gothan iconography on their garbs
 
+Depiction of androgynous humanoid creature
+Fanged and distorted face anger and hate
+Many many arms
+Each arm holds a weapon, or mouith
 
 
