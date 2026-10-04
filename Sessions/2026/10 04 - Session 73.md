@@ -7,4 +7,4 @@ Arrive at stony statue facing north
 Fighting allips,
 hawk killed
 
-Parchment s
+Parchment says "city of cities"
