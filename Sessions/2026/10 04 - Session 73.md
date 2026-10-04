@@ -6,3 +6,5 @@ Arrive at stony statue facing north
 
 Fighting allips,
 hawk killed
+
+Parchment s
