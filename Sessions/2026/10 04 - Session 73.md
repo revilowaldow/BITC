@@ -23,8 +23,9 @@ Perhaps the view is important, should we find a better aspect?
 Party heads east, stealthily
 
 Triangular cave
-Smell of water and freshly fallen leaves
+Smell of water, but no visual moisture?, and freshly fallen leaves
 Weight to place
+No
 Thodunn feels a sense of duty?
 
-
+We proceed into the cave stealthily
