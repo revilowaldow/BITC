@@ -85,3 +85,4 @@ Very old, dying man, stars above, placing a sceptre within the mural.
 > "My watch shall begin soon, we are all bound by the same oath. I do not know what the future holds. But I will know that one who wears my artefacts is one of my own."
 
 Is wearing a Gothan circlet/crown.
+Sceptre looked like a bailiffs club. Stone head, embossed with silver, crenelated top.
