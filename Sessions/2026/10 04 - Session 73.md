@@ -59,7 +59,9 @@ Arrive at Ancient Rock Carving with sun and moon
 Kill two chimeras
 Definitely not a sphinx
 
-
+Picture of a door or mirror or painting frame
+Priests and clerics prostrate before the framed depiction
+Gothan iconography on their garbs
 
 
 
