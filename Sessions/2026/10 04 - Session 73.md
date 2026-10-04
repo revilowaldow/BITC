@@ -56,7 +56,10 @@ Aru is inspired by the valley and the idea of flight
 
 Arrive at Ancient Rock Carving with sun and moon
 
-Kill twochimeras
+Kill two chimeras
+Definitely not a sphinx
+
+
 
 
 
