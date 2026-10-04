@@ -22,8 +22,9 @@ Perhaps the view is important, should we find a better aspect?
 ### 16:30
 Party heads east, stealthily
 
-Triangular ca
+Triangular cave
 Smell of water and freshly fallen leaves
-Location for rest
 Weight to place
+Thodunn feels a sense of duty?
+
 
