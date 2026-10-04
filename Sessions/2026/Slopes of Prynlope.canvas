@@ -36,7 +36,7 @@
 		{"id":"b68039c560fc15f9","type":"text","text":"### Mini Peak\n\nIncredibly insipring view of valley","x":465,"y":-1060,"width":250,"height":180},
 		{"id":"e281c5eb850097e9","type":"text","text":"Probably crossroads","x":140,"y":-532,"width":250,"height":60},
 		{"id":"115637572b9e9ea8","type":"text","text":"### Ancient Rock Carving\n\nLarge wall with a mural\nOn the floor depiction of a crescent moon and a shining sun\n\n","x":590,"y":-1540,"width":433,"height":260},
-		{"id":"db3720b52c34bd12","type":"file","file":"Ancient Rock Carving.png","x":607,"y":-1980,"width":400,"height":400}
+		{"id":"db3720b52c34bd12","type":"file","file":"Assets/Maps/Ancient Rock Carving.png","x":607,"y":-1980,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
