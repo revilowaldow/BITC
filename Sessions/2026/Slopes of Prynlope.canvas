@@ -31,8 +31,8 @@
 		{"id":"341e0411d67b484d","type":"text","text":"","x":965,"y":308,"width":250,"height":60},
 		{"id":"6479e04ad819b4c2","type":"text","text":"### Berry Pool\nReplete with berries\nManticore\n\n1 extra day worth of resources\n","x":715,"y":-236,"width":250,"height":288,"color":"5"},
 		{"id":"420dac2afe3dd030","type":"text","text":"### Mossy Stone Statue\nDistant outline of an artificial stony feature\nMoss\n(Broken) Key and parchment in hands\n\nSmell of moss and ozone\n\nAllips appear, older civilisation","x":965,"y":-700,"width":395,"height":295},
-		{"id":"846e35d8c49deeab","type":"file","file":"Mossy Stone Statue.png","x":1075,"y":-1080,"width":280,"height":280},
-		{"id":"e05d452a364759b6","x":1600,"y":-612,"width":250,"height":60,"type":"text","text":""}
+		{"id":"e05d452a364759b6","x":1720,"y":-582,"width":250,"height":60,"type":"text","text":""},
+		{"id":"846e35d8c49deeab","type":"file","file":"Mossy Stone Statue.png","x":1023,"y":-1020,"width":280,"height":280}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
@@ -61,6 +61,6 @@
 		{"id":"47b4ecaafb0f2a53","fromNode":"6479e04ad819b4c2","fromSide":"top","toNode":"b4f66d2e155d3f36","toSide":"bottom","label":"NW"},
 		{"id":"66a208b5bb4c6ea7","fromNode":"6479e04ad819b4c2","fromSide":"top","toNode":"420dac2afe3dd030","toSide":"bottom","label":"NE"},
 		{"id":"29d3528235268238","fromNode":"6479e04ad819b4c2","fromSide":"bottom","toNode":"341e0411d67b484d","toSide":"top","label":"SE"},
-		{"id":"d3b4b0f636119709","fromNode":"420dac2afe3dd030","fromSide":"left","toNode":"e05d452a364759b6","toSide":"right","label":"Winding path, rocks\nE"}
+		{"id":"d3b4b0f636119709","fromNode":"420dac2afe3dd030","fromSide":"right","toNode":"e05d452a364759b6","toSide":"left","label":"Winding path, rocks\nE"}
 	]
 }
