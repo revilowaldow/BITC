@@ -71,6 +71,7 @@ Fanged and distorted face anger and hate
 Many many arms
 Each arm holds a weapon, or mouth, claw, blood etc
 Bound in chains, around torso and neck
+sparse aepoptosian markings carved in an unsteady hand 
 > "Within the vault of questions"
 
 Surrounding both depictions are symbols of the sun
