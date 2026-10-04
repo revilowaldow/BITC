@@ -17,3 +17,6 @@ Deepest lore, this was originally a shrine
 
 > "Hurdy Gudry Birdy Wordy" - "City of cities" in Elvish
 
+### 16:30
+Party heads east
+
