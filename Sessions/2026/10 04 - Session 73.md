@@ -35,4 +35,3 @@ Stone columns
 Perhaps a cave in, but the tunnel was protected
 
 
-We proceed into the cave stealthily
