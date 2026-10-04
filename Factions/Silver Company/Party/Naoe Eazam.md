@@ -51,7 +51,7 @@ Perhaps originally willing but may have changed after undergoing osteomorphesis
 |1|A rusted scrap of a once-beloved family heirloom|
 
 
-This is youer life
+This is your life
 
 Orc
 

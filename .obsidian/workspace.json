@@ -48,9 +48,9 @@
               "state": {
                 "file": "Sessions/2026/Slopes of Prynlope.canvas",
                 "viewState": {
-                  "x": 550.127148361032,
-                  "y": 1882.6792948145294,
-                  "zoom": -2.333333333333333
+                  "x": 550.1805532165852,
+                  "y": 3119.297551719164,
+                  "zoom": -1
                 }
               },
               "pinned": true,
@@ -106,7 +106,8 @@
               "title": "10 04 - Session 73"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -328,18 +329,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed3fe576aaface8d",
+  "active": "d458cc0e221abdcd",
   "lastOpenFiles": [
-    "Sessions/2026/08 09 - Session 70.md",
+    "Sessions/2026/08 23 - Session 71.md",
     "Sessions/2026/10 04 - Session 73.md",
+    "Factions/Silver Company/Party/Naoe Eazam.md",
+    "Sessions/2026/08 09 - Session 70.md",
     "Sessions/2026/09 20 - Session 72.md",
     "Sessions/2026/Slopes of Prynlope.canvas",
-    "Sessions/2026/08 23 - Session 71.md",
     "Sessions/2026/07 12 - Session 68.md",
     "Sessions/2026/07 26 - Session 69.md",
     "Mossy Stone Statue.png",
     "Berry Pool.png",
-    "Factions/Silver Company/Party/Naoe Eazam.md",
     "Rowan's Encampment 2.png",
     "Setting Rules/Valid Wild Shapes.md",
     "Pasted image 20260822131702.png",
