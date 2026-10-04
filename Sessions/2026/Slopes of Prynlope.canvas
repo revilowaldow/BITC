@@ -31,8 +31,8 @@
 		{"id":"420dac2afe3dd030","type":"text","text":"### Mossy Stone Statue\nDistant outline of an artificial stony feature\nMoss\n(Broken) Key and parchment in hands\n\nSmell of moss and ozone\n\nAllips appear, older civilisation","x":965,"y":-700,"width":395,"height":295},
 		{"id":"846e35d8c49deeab","type":"file","file":"Mossy Stone Statue.png","x":1023,"y":-1020,"width":280,"height":280},
 		{"id":"e05d452a364759b6","x":1700,"y":-740,"width":380,"height":355,"color":"5","type":"text","text":"## Secluded Cavern\nTriangular cave\nSmell of water, but no visual moisture?, and freshly fallen leaves\nWeight to place\nNo magical illusion apparent\nThodunn feels a sense of duty?\n\nNo tracks from animals heading inside\nSlopes uphill\nArtificially manufactured stones\nStone columns\nPerhaps a cave in, but the tunnel was protected"},
-		{"id":"b4f66d2e155d3f36","type":"text","text":"Crossroads?","x":287,"y":-567,"width":250,"height":95},
-		{"id":"b68039c560fc15f9","x":294,"y":-961,"width":250,"height":60,"type":"text","text":""}
+		{"id":"b68039c560fc15f9","x":287,"y":-910,"width":250,"height":90,"type":"text","text":""},
+		{"id":"b4f66d2e155d3f36","type":"text","text":"### Crossroads","x":287,"y":-593,"width":250,"height":81}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
@@ -62,6 +62,6 @@
 		{"id":"66a208b5bb4c6ea7","fromNode":"6479e04ad819b4c2","fromSide":"top","toNode":"420dac2afe3dd030","toSide":"bottom","label":"NE"},
 		{"id":"29d3528235268238","fromNode":"6479e04ad819b4c2","fromSide":"bottom","toNode":"341e0411d67b484d","toSide":"top","label":"SE"},
 		{"id":"d3b4b0f636119709","fromNode":"420dac2afe3dd030","fromSide":"right","toNode":"e05d452a364759b6","toSide":"left","label":"Winding path, rocks\nE"},
-		{"id":"e2922b5f9bbc8f98","fromNode":"b4f66d2e155d3f36","fromSide":"top","toNode":"b68039c560fc15f9","toSide":"bottom"}
+		{"id":"e2922b5f9bbc8f98","fromNode":"b4f66d2e155d3f36","fromSide":"top","toNode":"b68039c560fc15f9","toSide":"bottom","label":"N"}
 	]
 }
