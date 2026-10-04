@@ -80,4 +80,5 @@ Surrounding both depictions are symbols of the sun
 
 
 Deepest lore.
-Very old, dying man, placing within the mural
+Very old, dying man, stars above, placing a sceptre within the mural.
+"I shall guard it well Tytanophax"
