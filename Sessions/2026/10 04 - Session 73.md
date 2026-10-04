@@ -92,3 +92,9 @@ Sceptre looked like a bailiffs club. Stone head, embossed with silver, crenelate
 Start short rest
 Tiny hut adjacent to mural
 
+### 20:30
+Rest ends
+
+Moonlight and starlight illuminates the mural
+I am bound by oath as always to test and to trial
+You come seeking the scepter of tytanothax
