@@ -79,3 +79,5 @@ hands may represent action
 Surrounding both depictions are symbols of the sun
 
 
+Deepest lore.
+Very old, dying man, placing within the mural
