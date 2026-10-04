@@ -51,3 +51,4 @@ Head North towards cliff?
 ### 19:00
 
 Arrive at cliff with view of valley
+See a tower atop the mound
