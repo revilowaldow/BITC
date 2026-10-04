@@ -46,14 +46,15 @@ Party return to berry pool
 Party head NW to a crossroads
 
 ### 18:30
-Head North towards cliff?
-
-### 19:00
-
 Arrive at cliff with view of valley
 See a tower atop the mound in the valley 
 Unclear what it is, but it looks old
 
 Aru is inspired by the valley and the idea of flight
+
+### 19:00
+
+
+
 
 
