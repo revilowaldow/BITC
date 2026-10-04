@@ -28,7 +28,9 @@ Weight to place
 No magical illusion apparent
 Thodunn feels a sense of duty?
 
-We proceed into the cave stealthily
+No tracks from animals heading inside
 Slopes uphill
 Artificially manufactured stones
 Stone columns
+
+We proceed into the cave stealthily
