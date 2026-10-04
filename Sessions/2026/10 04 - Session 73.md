@@ -66,6 +66,7 @@ Gothan iconography on their garbs
 Depiction of androgynous humanoid creature
 Fanged and distorted face anger and hate
 Many many arms
-Each arm holds a weapon, or mouith
+Each arm holds a weapon, or mouth, claw, blood etc
+Bound in chains, around torso and neck
 
 
