@@ -54,6 +54,8 @@ Aru is inspired by the valley and the idea of flight
 
 ### 19:00
 
+Arrive at Ancient Rock Carving with sun and moon
+
 
 
 
