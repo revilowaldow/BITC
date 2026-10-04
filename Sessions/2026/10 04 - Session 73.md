@@ -73,3 +73,6 @@ Each arm holds a weapon, or mouth, claw, blood etc
 Bound in chains, around torso and neck
 > "Within the vault of questions"
 
+Surrounding both depictions are symbols of the sun
+
+
