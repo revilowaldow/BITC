@@ -10,5 +10,7 @@ hawk killed
 Parchment says "city of cities"
 Snapped key
 
-Caenis finds very elaborate end of the snapped key
+Caenis finds very elaborate end of the snapped non-functional key
 
+Deepest lore, this was originally a shrine
+"Do you think maybe it's a bit too obvious"
