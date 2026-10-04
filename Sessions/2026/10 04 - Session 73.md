@@ -90,4 +90,5 @@ Sceptre looked like a bailiffs club. Stone head, embossed with silver, crenelate
 ### 19:30
 
 Start short rest
+Tiny hut adjacent to mural
 
