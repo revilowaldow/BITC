@@ -86,3 +86,8 @@ Very old, dying man, stars above, placing a sceptre within the mural.
 
 Is wearing a Gothan circlet/crown.
 Sceptre looked like a bailiffs club. Stone head, embossed with silver, crenelated top.
+
+### 19:30
+
+Start short rest
+
