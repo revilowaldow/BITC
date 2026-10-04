@@ -97,6 +97,6 @@ Rest ends
 
 Moonlight and starlight illuminates the mural
 I am bound by oath as always to test and to trial
-You come seeking the Scepter of Tytanothax.
+You come seeking the Sceptre of Tytanophax.
 
 
