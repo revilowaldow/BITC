@@ -25,7 +25,7 @@ Party heads east, stealthily
 Triangular cave
 Smell of water, but no visual moisture?, and freshly fallen leaves
 Weight to place
-No
+No magical illusion apparent
 Thodunn feels a sense of duty?
 
 We proceed into the cave stealthily
