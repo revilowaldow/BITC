@@ -36,4 +36,8 @@ Perhaps a cave in, but the tunnel was protected
 
 ### 17:00
 
-Party return to 
+Party return to statue
+
+### 17:30
+Party return to berry pool
+
