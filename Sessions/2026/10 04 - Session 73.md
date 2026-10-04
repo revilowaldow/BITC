@@ -45,4 +45,5 @@ Party return to berry pool
 
 Party head NW to a crossroads
 
-### 
+### 18:30
+Head North towards cliff?

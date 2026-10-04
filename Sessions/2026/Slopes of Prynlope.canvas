@@ -62,6 +62,6 @@
 		{"id":"66a208b5bb4c6ea7","fromNode":"6479e04ad819b4c2","fromSide":"top","toNode":"420dac2afe3dd030","toSide":"bottom","label":"NE"},
 		{"id":"29d3528235268238","fromNode":"6479e04ad819b4c2","fromSide":"bottom","toNode":"341e0411d67b484d","toSide":"top","label":"SE"},
 		{"id":"d3b4b0f636119709","fromNode":"420dac2afe3dd030","fromSide":"right","toNode":"e05d452a364759b6","toSide":"left","label":"Winding path, rocks\nE"},
-		{"id":"e2922b5f9bbc8f98","fromNode":"b4f66d2e155d3f36","fromSide":"top","toNode":"b68039c560fc15f9","toSide":"bottom","label":"N"}
+		{"id":"e2922b5f9bbc8f98","fromNode":"b4f66d2e155d3f36","fromSide":"top","toNode":"b68039c560fc15f9","toSide":"bottom","label":"N\nflat elevation"}
 	]
 }
