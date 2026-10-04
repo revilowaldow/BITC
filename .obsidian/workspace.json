@@ -96,7 +96,7 @@
               "state": {
                 "file": "Sessions/2026/Slopes of Prynlope.canvas",
                 "viewState": {
-                  "x": 791.2730850870745,
+                  "x": 884.2730850870746,
                   "y": -1706.2082554501549,
                   "zoom": -1.1102230246251565e-16
                 }
@@ -121,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -344,8 +344,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b25759d70af65076",
+  "active": "d458cc0e221abdcd",
   "lastOpenFiles": [
+    "Sessions/2026/05 31 - Session 66.md",
     "Sessions/2026/10 04 - Session 73.md",
     "Sessions/2026/09 20 - Session 72.md",
     "Sessions/2026/Slopes of Prynlope.canvas",
@@ -377,7 +378,6 @@
     "Locations/Dog Prince Caves.canvas",
     "Locations/The Pit.canvas",
     "Locations/Abdos Woodland.canvas",
-    "Sessions/2026/05 31 - Session 66.md",
     "Flatek of the Flavours.md",
     "Sessions/2026/05 17 - Session 65.md",
     "Sessions/2023/04 23 - Session 0.5.md",
