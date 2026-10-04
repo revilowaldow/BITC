@@ -34,7 +34,7 @@
 		{"id":"b4f66d2e155d3f36","type":"text","text":"### Crossroads","x":465,"y":-598,"width":250,"height":81},
 		{"id":"e281c5eb850097e9","x":142,"y":-517,"width":250,"height":60,"type":"text","text":"Probably corssroads"},
 		{"id":"fb3319da7520d761","x":265,"y":-405,"width":250,"height":60,"type":"text","text":"Probably camp"},
-		{"id":"b68039c560fc15f9","type":"text","text":"### Mini Peak\n\nView of valley","x":265,"y":-1020,"width":250,"height":170}
+		{"id":"b68039c560fc15f9","type":"text","text":"### Mini Peak\n\nIncredible view of valley","x":265,"y":-1060,"width":250,"height":220}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
