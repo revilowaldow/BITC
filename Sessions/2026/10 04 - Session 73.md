@@ -59,14 +59,16 @@ Arrive at Ancient Rock Carving with sun and moon
 Kill two chimeras
 Definitely not a sphinx
 
+Aru and Caenis see:
 Picture of a door or mirror or painting frame
 Priests and clerics prostrate before the framed depiction
 Gothan iconography on their garbs
+> "The mosaic of seeing"
 
+Thodunn and Kaulinan see:
 Depiction of androgynous humanoid creature
 Fanged and distorted face anger and hate
 Many many arms
 Each arm holds a weapon, or mouth, claw, blood etc
 Bound in chains, around torso and neck
-
 
