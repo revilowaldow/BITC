@@ -47,3 +47,7 @@ Party head NW to a crossroads
 
 ### 18:30
 Head North towards cliff?
+
+### 19:00
+
+Arrive at cliff with view of valley
