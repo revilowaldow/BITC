@@ -43,4 +43,6 @@ Party return to berry pool
 
 ### 18:00
 
+Party head NW to a crossroads
 
+### 
