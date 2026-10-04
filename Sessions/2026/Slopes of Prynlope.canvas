@@ -30,9 +30,11 @@
 		{"id":"6479e04ad819b4c2","type":"text","text":"### Berry Pool\nReplete with berries\nManticore\n\n1 extra day worth of resources\n","x":715,"y":-236,"width":250,"height":288,"color":"5"},
 		{"id":"420dac2afe3dd030","type":"text","text":"### Mossy Stone Statue\nDistant outline of an artificial stony feature\nMoss\n(Broken) Key and parchment in hands\n\nSmell of moss and ozone\n\nAllips appear, older civilisation","x":965,"y":-700,"width":395,"height":295},
 		{"id":"846e35d8c49deeab","type":"file","file":"Mossy Stone Statue.png","x":1023,"y":-1020,"width":280,"height":280},
-		{"id":"e05d452a364759b6","x":1700,"y":-740,"width":380,"height":355,"color":"5","type":"text","text":"## Secluded Cavern\nTriangular cave\nSmell of water, but no visual moisture?, and freshly fallen leaves\nWeight to place\nNo magical illusion apparent\nThodunn feels a sense of duty?\n\nNo tracks from animals heading inside\nSlopes uphill\nArtificially manufactured stones\nStone columns\nPerhaps a cave in, but the tunnel was protected"},
-		{"id":"b68039c560fc15f9","x":287,"y":-910,"width":250,"height":90,"type":"text","text":""},
-		{"id":"b4f66d2e155d3f36","type":"text","text":"### Crossroads","x":287,"y":-593,"width":250,"height":81}
+		{"id":"e05d452a364759b6","type":"text","text":"## Secluded Cavern\nTriangular cave\nSmell of water, but no visual moisture?, and freshly fallen leaves\nWeight to place\nNo magical illusion apparent\nThodunn feels a sense of duty?\n\nNo tracks from animals heading inside\nSlopes uphill\nArtificially manufactured stones\nStone columns\nPerhaps a cave in, but the tunnel was protected","x":1700,"y":-740,"width":380,"height":355,"color":"5"},
+		{"id":"b4f66d2e155d3f36","type":"text","text":"### Crossroads","x":465,"y":-598,"width":250,"height":81},
+		{"id":"e281c5eb850097e9","x":142,"y":-517,"width":250,"height":60,"type":"text","text":"Probably corssroads"},
+		{"id":"fb3319da7520d761","x":265,"y":-405,"width":250,"height":60,"type":"text","text":"Probably camp"},
+		{"id":"b68039c560fc15f9","type":"text","text":"### Mini Peak\n\nView","x":265,"y":-1020,"width":250,"height":170}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW"},
@@ -41,7 +43,6 @@
 		{"id":"a261be8105881be2","fromNode":"350019bae9ee8a98","fromSide":"bottom","toNode":"a9025b046107acfe","toSide":"left","label":"Passage between stones\nSE"},
 		{"id":"95502f1579bc5c8e","fromNode":"a9025b046107acfe","fromSide":"top","toNode":"839a8becea920803","toSide":"bottom","label":"NE winding path\nRustling leaves, camp activity"},
 		{"id":"97f0fa44b307b005","fromNode":"a9025b046107acfe","fromSide":"bottom","toNode":"cf455a852330a9ce","toSide":"top","label":"Crevasse-y Path\nSW"},
-		{"id":"77071417a5252858","fromNode":"b4f66d2e155d3f36","fromSide":"bottom","toNode":"436026d30e1a3758","toSide":"top","label":"NE\narrived this way"},
 		{"id":"853f24c24034f977","fromNode":"cf455a852330a9ce","fromSide":"bottom","toNode":"c42edb4b2925f82c","toSide":"top","label":"SW"},
 		{"id":"d2b7b60b69f46378","fromNode":"c42edb4b2925f82c","fromSide":"bottom","toNode":"dbee631026f4d5c2","toSide":"top","label":"SE\nmany nooks and crannies in crags above\nStill increasing elevation"},
 		{"id":"0fc05c89a8a08fd4","fromNode":"dbee631026f4d5c2","fromSide":"bottom","toNode":"3e736223ef314a88","toSide":"top","label":"SE, winding clambering path"},
@@ -62,6 +63,8 @@
 		{"id":"66a208b5bb4c6ea7","fromNode":"6479e04ad819b4c2","fromSide":"top","toNode":"420dac2afe3dd030","toSide":"bottom","label":"NE"},
 		{"id":"29d3528235268238","fromNode":"6479e04ad819b4c2","fromSide":"bottom","toNode":"341e0411d67b484d","toSide":"top","label":"SE"},
 		{"id":"d3b4b0f636119709","fromNode":"420dac2afe3dd030","fromSide":"right","toNode":"e05d452a364759b6","toSide":"left","label":"Winding path, rocks\nE"},
-		{"id":"e2922b5f9bbc8f98","fromNode":"b4f66d2e155d3f36","fromSide":"top","toNode":"b68039c560fc15f9","toSide":"bottom","label":"N\nflat elevation"}
+		{"id":"e2922b5f9bbc8f98","fromNode":"b4f66d2e155d3f36","fromSide":"top","toNode":"b68039c560fc15f9","toSide":"bottom","label":"N\nflat elevation"},
+		{"id":"77071417a5252858","fromNode":"e281c5eb850097e9","fromSide":"bottom","toNode":"436026d30e1a3758","toSide":"top","label":"NE\narrived this way"},
+		{"id":"d92164deed8f95ec","fromNode":"b4f66d2e155d3f36","fromSide":"bottom","toNode":"fb3319da7520d761","toSide":"top","label":"SW"}
 	]
 }
