@@ -71,7 +71,7 @@ Fanged and distorted face anger and hate
 Many many arms
 Each arm holds a weapon, or mouth, claw, blood etc
 Bound in chains, around torso and neck
-sparse Aepoptosi markings carved in an unsteady hand 
+sparse Aepoptosian markings carved in an unsteady hand 
 Likely a depiction of the god Aepoptosis or the will of Aepoptosis
 hands may represent action
 > "Within the vault of questions"
