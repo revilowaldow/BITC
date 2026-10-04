@@ -82,4 +82,6 @@ Surrounding both depictions are symbols of the sun
 Deepest lore.
 Very old, dying man, stars above, placing a sceptre within the mural.
 > "I shall guard it well Tytanophax." 
-> "My watch shall begin soon, we are all bound by the same oath. I will know that one who wears "
+> "My watch shall begin soon, we are all bound by the same oath. I do not know what the future holds. But I will know that one who wears my artefacts is one of my own."
+
+Is wearing a Gothan circlet/crown.
