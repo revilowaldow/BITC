@@ -81,4 +81,5 @@ Surrounding both depictions are symbols of the sun
 
 Deepest lore.
 Very old, dying man, stars above, placing a sceptre within the mural.
-"I shall guard it well Tytanophax"
+> "I shall guard it well Tytanophax." 
+> "My watch shall begin soon, we are all bound by the same oath. I will know that one who wears "
