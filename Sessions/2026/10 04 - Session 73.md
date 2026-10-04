@@ -31,3 +31,4 @@ Thodunn feels a sense of duty?
 We proceed into the cave stealthily
 Slopes uphill
 Artificially manufactured stones
+Stone columns
