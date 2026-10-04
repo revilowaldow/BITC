@@ -17,7 +17,7 @@ Deepest lore, this was originally a shrine
 
 > "Hurdy Gudry Birdy Wordy" - "City of cities" in Elvish
 
-Perhaps the view is important, should we find a better aspect
+Perhaps the view is important, should we find a better aspect?
 
 ### 16:30
 Party heads east, stealthily
