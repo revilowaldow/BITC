@@ -53,6 +53,18 @@ NW out of camp
 
 ### 06:00
 
+Crossroads arrival
+North only
+
+### 06:30
+
+Two Chimera
+Attempt at stealth ambush 
+Killed by vrin and thodunn
+
+Plan to leave at 07:00
+
+
 
 
 

@@ -27,14 +27,17 @@
 		{"id":"341e0411d67b484d","type":"text","text":"Dryer, higher","x":965,"y":308,"width":250,"height":60},
 		{"id":"6479e04ad819b4c2","type":"text","text":"### Berry Pool\nReplete with berries\nManticore\n\n1 extra day worth of resources\n","x":715,"y":-236,"width":250,"height":288,"color":"5"},
 		{"id":"420dac2afe3dd030","type":"text","text":"### Mossy Stone Statue\nDistant outline of an artificial stony feature\nMoss\n(Broken) Key and parchment in hands\n\nSmell of moss and ozone\n\nAllips appear, older civilisation","x":965,"y":-700,"width":395,"height":295},
-		{"id":"846e35d8c49deeab","type":"file","file":"Mossy Stone Statue.png","x":1023,"y":-1020,"width":280,"height":280},
+		{"id":"846e35d8c49deeab","type":"file","file":"Assets/Maps/Mossy Stone Statue.png","x":1023,"y":-1020,"width":280,"height":280},
 		{"id":"e05d452a364759b6","type":"text","text":"## Secluded Cavern\nTriangular cave\nSmell of water, but no visual moisture?, and freshly fallen leaves\nWeight to place\nNo magical illusion apparent\nThodunn feels a sense of duty?\n\nNo tracks from animals heading inside\nSlopes uphill\nArtificially manufactured stones\nStone columns\nPerhaps a cave in, but the tunnel was protected","x":1700,"y":-740,"width":380,"height":380,"color":"5"},
 		{"id":"b68039c560fc15f9","type":"text","text":"### View Onto the North\n\nIncredibly insipring view of valley","x":465,"y":-1060,"width":250,"height":180},
 		{"id":"115637572b9e9ea8","type":"text","text":"### Ancient Rock Carving\n\nLarge wall with a mural\nOn the floor depiction of a crescent moon and a shining sun\nTwo chimeras\n","x":590,"y":-1540,"width":433,"height":260},
 		{"id":"db3720b52c34bd12","type":"file","file":"Assets/Maps/Ancient Rock Carving.png","x":607,"y":-1980,"width":400,"height":400},
 		{"id":"b4f66d2e155d3f36","type":"text","text":"### Crossroads","x":465,"y":-600,"width":250,"height":81},
 		{"id":"29dbe298384c500d","type":"text","text":"Rocks, slopes\n\nCalamxis killed Goblin here","x":465,"y":736,"width":250,"height":168},
-		{"id":"ffb36a843bdb24ac","type":"text","text":"","x":-450,"y":-660,"width":250,"height":200}
+		{"id":"ffb36a843bdb24ac","type":"text","text":"### Crossroads","x":-450,"y":-519,"width":250,"height":59},
+		{"id":"438bafee81bf4054","type":"text","text":"### Medicinal Tree Field\nTwo chimera\nBerries of medicinal significance","x":-450,"y":-940,"width":290,"height":200},
+		{"id":"ee13b7fcd259beac","x":-860,"y":-940,"width":250,"height":200,"type":"text","text":""},
+		{"id":"06161a51e1e0fa44","type":"file","file":"Assets/Maps/Medicinal Trees.png","x":-95,"y":-970,"width":260,"height":260}
 	],
 	"edges":[
 		{"id":"c3e00129e137af56","fromNode":"436026d30e1a3758","fromSide":"top","toNode":"ffb36a843bdb24ac","toSide":"bottom","label":"NW\ncliffs, uphill"},
@@ -65,6 +68,8 @@
 		{"id":"d3b4b0f636119709","fromNode":"420dac2afe3dd030","fromSide":"right","toNode":"e05d452a364759b6","toSide":"left","label":"Winding path, rocks\nE"},
 		{"id":"e2922b5f9bbc8f98","fromNode":"b4f66d2e155d3f36","fromSide":"top","toNode":"b68039c560fc15f9","toSide":"bottom","label":"N\nflat elevation"},
 		{"id":"77071417a5252858","fromNode":"b4f66d2e155d3f36","fromSide":"bottom","toNode":"436026d30e1a3758","toSide":"top","label":"NE\narrived this way"},
-		{"id":"c33001d9ad753840","fromNode":"b68039c560fc15f9","fromSide":"top","toNode":"115637572b9e9ea8","toSide":"bottom","label":"NE"}
+		{"id":"c33001d9ad753840","fromNode":"b68039c560fc15f9","fromSide":"top","toNode":"115637572b9e9ea8","toSide":"bottom","label":"NE"},
+		{"id":"e70a58386adbd596","fromNode":"ffb36a843bdb24ac","fromSide":"top","toNode":"438bafee81bf4054","toSide":"bottom","label":"N\nrocks and trees"},
+		{"id":"121125868447e0a9","fromNode":"438bafee81bf4054","fromSide":"left","toNode":"ee13b7fcd259beac","toSide":"right","label":"W"}
 	]
 }
