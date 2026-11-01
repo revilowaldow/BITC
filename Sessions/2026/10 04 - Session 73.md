@@ -51,7 +51,7 @@ See a tower atop the mound in the valley
 Unclear what it is, but it looks old
 
 Aru is inspired by the valley and the idea of flight
-Thodunn- fight for, stuff to defend
+Thodunn- fight for, stuff to defend and protect
 ### 19:00
 
 Arrive at Ancient Rock Carving with sun and moon
