@@ -73,26 +73,9 @@
               "icon": "lucide-layout-dashboard",
               "title": "Slopes of Prynlope"
             }
-          },
-          {
-            "id": "bb3524fe762c3c1b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Sessions/2026/Slopes of Prynlope.canvas",
-                "viewState": {
-                  "x": 465,
-                  "y": 1105.5,
-                  "zoom": -2.4034866479063424
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Slopes of Prynlope"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,36 +238,6 @@
             }
           },
           {
-            "id": "5ba05176e1275f7b",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "001185b1861120a8",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "aeb287fc7fde27ea",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dice-roller-icon",
-              "title": "Dice Roller"
-            }
-          },
-          {
             "id": "f08062255744ab4e",
             "type": "leaf",
             "state": {
@@ -292,6 +245,16 @@
               "state": {},
               "icon": "checkmark",
               "title": "Todo List"
+            }
+          },
+          {
+            "id": "7f6e8b9eeb8f6be4",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
@@ -311,13 +274,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-checklist-plugin:Open Checklist": false
     }
   },
-  "active": "d458cc0e221abdcd",
+  "active": "01c3c7c8a84ff3ec",
   "lastOpenFiles": [
-    "Sessions/2026/11 01 - Session 74.md",
     "Sessions/2026/Slopes of Prynlope.canvas",
+    "Sessions/2026/11 01 - Session 74.md",
     "Sessions/2026/10 04 - Session 73.md",
     "Sessions/2026/09 20 - Session 72.md",
     "Sessions/2026/08 23 - Session 71.md",
