@@ -98,14 +98,7 @@
               "icon": "lucide-file",
               "title": "11 01 - Session 74"
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "9a5d544f0ab44925",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "d458cc0e221abdcd",
             "type": "leaf",
@@ -125,7 +118,8 @@
               "title": "Slopes of Prynlope"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -347,10 +341,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4694be64252357ae",
+  "active": "d458cc0e221abdcd",
   "lastOpenFiles": [
-    "Sessions/2026/Slopes of Prynlope.canvas",
     "Sessions/2026/10 04 - Session 73.md",
+    "Sessions/2026/Slopes of Prynlope.canvas",
     "Sessions/2026/11 01 - Session 74.md",
     "Sessions/2026/08 09 - Session 70.md",
     "Sessions/2026/08 23 - Session 71.md",
