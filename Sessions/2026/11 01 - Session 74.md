@@ -3,4 +3,6 @@ Daryl Recapping
 ![[Slopes of Prynlope.canvas]]
 
 
-Tytano
+Tytanophax was the high cleric of gotha in this region
+
+
