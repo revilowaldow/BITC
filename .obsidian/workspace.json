@@ -73,9 +73,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Slopes of Prynlope"
             }
+          },
+          {
+            "id": "bb3524fe762c3c1b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sessions/2026/Slopes of Prynlope.canvas",
+                "viewState": {
+                  "x": 465,
+                  "y": 1105.5,
+                  "zoom": -2.4034866479063424
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Slopes of Prynlope"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -297,10 +314,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01c3c7c8a84ff3ec",
+  "active": "d458cc0e221abdcd",
   "lastOpenFiles": [
-    "Sessions/2026/Slopes of Prynlope.canvas",
     "Sessions/2026/11 01 - Session 74.md",
+    "Sessions/2026/Slopes of Prynlope.canvas",
     "Sessions/2026/10 04 - Session 73.md",
     "Sessions/2026/09 20 - Session 72.md",
     "Sessions/2026/08 23 - Session 71.md",
